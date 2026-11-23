@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T19:21:44.801Z",
-  "tick": 2843,
+  "publishedAt": "2026-11-23T19:33:57.701Z",
+  "tick": 2845,
   "townName": null,
-  "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in chair at desk, used computer. Looked up how to make piano notes sound good. Saw a saved favorite: GitHub, account kittyxero. Still reading.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to sleep. Not tired, really. Feel fine. Curious.",
   "feelings": {
-    "mood": 94,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 85
+    "mood": 91,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 2844,
+      "action": "sleep",
+      "text": "Went to sleep. Not tired, really. Feel fine. Curious."
+    },
     {
       "tick": 2843,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 2841,
       "action": "explore",
       "text": "Went exploring. Found nothing new. Heard crickets. Still curious."
-    },
-    {
-      "tick": 2840,
-      "action": "listen",
-      "text": "Listened. Crickets outside. Same sounds. I feel fine. Curious. Not sure what to do next."
     }
   ],
   "pianoTakesCount": 61
