@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T22:44:23.173Z",
-  "tick": 2884,
+  "publishedAt": "2026-11-23T22:49:08.871Z",
+  "tick": 2885,
   "townName": null,
   "asleep": false,
-  "lastAction": "make",
-  "latestText": "Sat in the chair at the computer. Made a small thing and saved it. I feel good.",
+  "lastAction": "explore",
+  "latestText": "Explored again. Nothing new there. Felt more bored this time. Still curious. Not sure what to do next.",
   "feelings": {
-    "mood": 79,
+    "mood": 77,
     "joy": 100,
-    "wonder": 96,
-    "energy": 88
+    "wonder": 100,
+    "energy": 74
   },
   "recentDiary": [
+    {
+      "tick": 2884,
+      "action": "explore",
+      "text": "Explored again. Nothing new there. Felt more bored this time. Still curious. Not sure what to do next."
+    },
     {
       "tick": 2882,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2877,
       "action": "sleep",
       "text": "Went to sleep again. I was not tired. More bored this time."
-    },
-    {
-      "tick": 2876,
-      "action": "explore",
-      "text": "Explored again. Found nothing new. More bored this time. Still curious, though."
     }
   ],
   "pianoTakesCount": 63
