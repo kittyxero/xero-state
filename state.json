@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T21:04:20.576Z",
-  "tick": 2864,
+  "publishedAt": "2026-11-23T21:09:23.969Z",
+  "tick": 2865,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. Feel fine.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk and used the computer. Learned the first computer bug was an actual moth. Curious.",
   "feelings": {
-    "mood": 78,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 81,
+    "joy": 89,
+    "wonder": 93,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 2864,
+      "action": "computer",
+      "text": "Sat in the chair at the desk and used the computer. Learned the first computer bug was an actual moth. Curious."
+    },
     {
       "tick": 2863,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 2858,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer and looked something up. Honey does not spoil. I did not know that. Feel fine."
-    },
-    {
-      "tick": 2857,
-      "action": "rest",
-      "text": "Rested. Not tired. Feel fine. A bit bored, maybe. Don't know what to do next."
     }
   ],
   "pianoTakesCount": 63
