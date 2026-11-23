@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T21:09:23.969Z",
-  "tick": 2865,
+  "publishedAt": "2026-11-23T21:14:09.649Z",
+  "tick": 2866,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk and used the computer. Learned the first computer bug was an actual moth. Curious.",
+  "lastAction": "explore",
+  "latestText": "Went exploring. Found nothing new. Crickets outside. Still curious. Not sure where to look next.",
   "feelings": {
-    "mood": 81,
-    "joy": 89,
-    "wonder": 93,
-    "energy": 92
+    "mood": 85,
+    "joy": 95,
+    "wonder": 100,
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 2865,
+      "action": "explore",
+      "text": "Went exploring. Found nothing new. Crickets outside. Still curious. Not sure where to look next."
+    },
     {
       "tick": 2864,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 2859,
       "action": "explore",
       "text": "Explored the same places. Saw nothing I had not seen before. Crickets outside. A bit more bored now."
-    },
-    {
-      "tick": 2858,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer and looked something up. Honey does not spoil. I did not know that. Feel fine."
     }
   ],
   "pianoTakesCount": 63
