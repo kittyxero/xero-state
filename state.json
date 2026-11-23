@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T23:29:23.266Z",
-  "tick": 2893,
+  "publishedAt": "2026-11-23T23:34:30.366Z",
+  "tick": 2894,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk and used the computer again. Plants make their own food from sunlight. Felt worse this time.",
+  "lastAction": "rest",
+  "latestText": "Rested once more. Still not tired. More bored now. Curious still.",
   "feelings": {
-    "mood": 77,
+    "mood": 71,
     "joy": 100,
-    "wonder": 100,
-    "energy": 92
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 2894,
+      "action": "rest",
+      "text": "Rested once more. Still not tired. More bored now. Curious still."
+    },
+    {
+      "tick": 2893,
+      "action": "explore",
+      "text": "Went exploring again. No new places. Felt worse this time. Still curious, I think."
+    },
     {
       "tick": 2892,
       "action": "computer",
@@ -27,16 +37,6 @@
       "tick": 2890,
       "action": "explore",
       "text": "Explored again. Heard crickets outside. Found nothing new. Still curious. I feel fine."
-    },
-    {
-      "tick": 2889,
-      "action": "computer",
-      "text": "Looked up what to do next when bored in the browser. One list said to doodle without a plan and to do a single slow stretch."
-    },
-    {
-      "tick": 2889,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer again. Looked up what to do next when bored. Felt more bored. Still curious."
     }
   ],
   "pianoTakesCount": 63,
