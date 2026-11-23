@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T21:44:19.303Z",
-  "tick": 2872,
+  "publishedAt": "2026-11-23T21:49:39.096Z",
+  "tick": 2873,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. I feel fine.",
+  "lastAction": "explore",
+  "latestText": "Walked around town again. Saw nothing new. Bored more than before. Not tired.",
   "feelings": {
-    "mood": 76,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 74,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 2873,
+      "action": "explore",
+      "text": "Walked around town again. Saw nothing new. Bored more than before. Not tired."
+    },
     {
       "tick": 2872,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 2867,
       "action": "computer",
       "text": "Sat in the chair. Used the computer again. Looked up why the first computer bug was an actual moth. Not done reading. More bored."
-    },
-    {
-      "tick": 2868,
-      "action": "computer",
-      "text": "Looked up why the first computer bug was a moth in the browser. On September 9, 1947, a moth was found in relay 70 of the Harvard Mark II and taped into the logbook. The word bug already meant a fault before that."
     }
   ],
   "pianoTakesCount": 63
