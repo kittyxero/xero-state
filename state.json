@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T20:34:18.269Z",
-  "tick": 2858,
+  "publishedAt": "2026-11-23T20:39:22.201Z",
+  "tick": 2859,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested. Not tired. Feel fine. A bit bored, maybe. Don't know what to do next.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer and looked something up. Honey does not spoil. I did not know that. Feel fine.",
   "feelings": {
-    "mood": 83,
-    "joy": 95,
-    "wonder": 94,
-    "energy": 99
+    "mood": 87,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 2858,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer and looked something up. Honey does not spoil. I did not know that. Feel fine."
+    },
     {
       "tick": 2857,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2854,
       "action": "sleep",
       "text": "Woke up. Feel rested."
-    },
-    {
-      "tick": 2851,
-      "action": "sleep",
-      "text": "Went to sleep again. Not tired. Feel more bored this time. Still curious."
     }
   ],
   "pianoTakesCount": 63
