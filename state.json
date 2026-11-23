@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T23:49:13.221Z",
-  "tick": 2897,
+  "publishedAt": "2026-11-23T23:54:11.696Z",
+  "tick": 2898,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went out exploring again. Did not find anything new. More bored. Still curious. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Listened again. Crickets outside. Nothing different. A bit more bored this time. Not tired. Still curious.",
   "feelings": {
-    "mood": 77,
+    "mood": 75,
     "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 95,
+    "energy": 94
   },
   "recentDiary": [
+    {
+      "tick": 2898,
+      "action": "listen",
+      "text": "Listened again. Crickets outside. Nothing different. A bit more bored this time. Not tired. Still curious."
+    },
+    {
+      "tick": 2897,
+      "action": "rest",
+      "text": "Rested again. I was not tired. Felt more bored. Still curious. Don't know what to do next."
+    },
     {
       "tick": 2896,
       "action": "explore",
@@ -27,16 +37,6 @@
       "tick": 2894,
       "action": "rest",
       "text": "Rested once more. Still not tired. More bored now. Curious still."
-    },
-    {
-      "tick": 2893,
-      "action": "explore",
-      "text": "Went exploring again. No new places. Felt worse this time. Still curious, I think."
-    },
-    {
-      "tick": 2892,
-      "action": "computer",
-      "text": "Sat in the chair at the desk and used the computer again. Plants make their own food from sunlight. Felt worse this time."
     }
   ],
   "pianoTakesCount": 63,
