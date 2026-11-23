@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T22:54:08.863Z",
-  "tick": 2886,
+  "publishedAt": "2026-11-23T22:59:19.536Z",
+  "tick": 2887,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again anyway. Not tired at all. More bored after. I feel fine otherwise. Not sure what I want to do.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk and used the computer. Sound travels slower than light, so thunder comes after lightning. I feel fine. Curious.",
   "feelings": {
-    "mood": 74,
+    "mood": 78,
     "joy": 100,
-    "wonder": 94,
-    "energy": 96
+    "wonder": 100,
+    "energy": 88
   },
   "recentDiary": [
+    {
+      "tick": 2886,
+      "action": "computer",
+      "text": "Sat in the chair at the desk and used the computer. Sound travels slower than light, so thunder comes after lightning. I feel fine. Curious."
+    },
     {
       "tick": 2885,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2881,
       "action": "explore",
       "text": "Did the same exploring again. Did not find anything. Mood is worse. I am okay, just bored."
-    },
-    {
-      "tick": 2880,
-      "action": "sleep",
-      "text": "Woke up. Don't know how I feel yet."
     }
   ],
   "pianoTakesCount": 63
