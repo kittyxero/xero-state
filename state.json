@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-23T21:24:10.599Z",
-  "tick": 2868,
+  "publishedAt": "2026-11-23T21:29:19.391Z",
+  "tick": 2869,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair. Used the computer again. Looked up why the first computer bug was an actual moth. Not done reading. More bored.",
+  "lastAction": "explore",
+  "latestText": "Explored again. Found nothing new. More bored this time. Not sure what to do next.",
   "feelings": {
-    "mood": 85,
+    "mood": 82,
     "joy": 100,
     "wonder": 100,
-    "energy": 92
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 2868,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not sure what to do next."
+    },
     {
       "tick": 2867,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 2868,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used computer again. Looked up why the first computer bug was a moth. More boring this time. Curious."
-    },
-    {
-      "tick": 2866,
-      "action": "rest",
-      "text": "Rested. I was not tired. I am fine. Curious. Not sure what to do next."
     }
   ],
   "pianoTakesCount": 63
