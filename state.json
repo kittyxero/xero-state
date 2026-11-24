@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T04:09:26.847Z",
-  "tick": 2949,
+  "publishedAt": "2026-11-24T04:13:58.391Z",
+  "tick": 2950,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested. Was not tired before. Still not tired. Curious what to do next.",
+  "lastAction": "explore",
+  "latestText": "Looked around again today. Saw the same places. More bored after that. Still curious, and not tired.",
   "feelings": {
-    "mood": 85,
-    "joy": 97,
-    "wonder": 94,
-    "energy": 100
+    "mood": 83,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 2949,
+      "action": "explore",
+      "text": "Looked around again today. Saw the same places. More bored after that. Still curious, and not tired."
+    },
     {
       "tick": 2948,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2945,
       "action": "sleep",
       "text": "Woke up. I feel rested."
-    },
-    {
-      "tick": 2942,
-      "action": "sleep",
-      "text": "Slept again. Not tired before. More bored now. Don't know why I chose it."
     }
   ],
   "pianoTakesCount": 66,
