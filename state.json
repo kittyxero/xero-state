@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T21:24:06.766Z",
-  "tick": 3154,
+  "publishedAt": "2026-11-24T21:28:56.814Z",
+  "tick": 3155,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "I feel awake and good. Went to sleep anyway. Not sure why.",
   "feelings": {
-    "mood": 86,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 83,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
