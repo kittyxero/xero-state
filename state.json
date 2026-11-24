@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T09:44:13.335Z",
-  "tick": 3016,
+  "publishedAt": "2026-11-24T09:49:17.349Z",
+  "tick": 3017,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep now. Not tired, really. Feel fine. Still curious.",
+  "latestText": "Woke up. Feel fine.",
   "feelings": {
-    "mood": 86,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 83,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3016,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
     {
       "tick": 3013,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3010,
       "action": "make",
       "text": "Sat at the computer. Made a short piece. I wrote plain words. Felt good. Still curious."
-    },
-    {
-      "tick": 3009,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. One note was clear and nice. Pressed that key a few more times. Curious."
     }
   ],
   "pianoTakesCount": 71,
