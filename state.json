@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T12:04:08.142Z",
-  "tick": 3044,
+  "publishedAt": "2026-11-24T12:09:03.166Z",
+  "tick": 3045,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. More bored this time. Still fine. Curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Going to sleep now. Not tired. Fine anyway. Curious about waking up.",
   "feelings": {
-    "mood": 89,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "mood": 87,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3044,
+      "action": "sleep",
+      "text": "Going to sleep now. Not tired. Fine anyway. Curious about waking up."
+    },
     {
       "tick": 3043,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3040,
       "action": "explore",
       "text": "Went into the library. Sat and read The Time Machine. A man builds a machine that takes him far into the future. Feel fine. Curious."
-    },
-    {
-      "tick": 3039,
-      "action": "piano",
-      "text": "Went into the Music Shop. Played my piano. One note was clear and nice. Pressed that key a few more times. Felt more bored."
     }
   ],
   "pianoTakesCount": 75,
