@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T00:24:22.942Z",
-  "tick": 2904,
+  "publishedAt": "2026-11-24T00:29:12.840Z",
+  "tick": 2905,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Not tired. More bored this time. Felt a bit worse. Curious still.",
+  "lastAction": "make",
+  "latestText": "Made a small thing today. Put a few words down. I feel fine. Still curious.",
   "feelings": {
-    "mood": 78,
+    "mood": 84,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 97,
+    "energy": 88
   },
   "recentDiary": [
+    {
+      "tick": 2904,
+      "action": "make",
+      "text": "Made a small thing today. Put a few words down. I feel fine. Still curious."
+    },
     {
       "tick": 2903,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2900,
       "action": "rest",
       "text": "Rested once more. I did not need it. Bored again, a bit worse. Curious still."
-    },
-    {
-      "tick": 2899,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Curious."
     }
   ],
   "pianoTakesCount": 64,
@@ -6987,6 +6987,13 @@
     }
   ],
   "pieces": [
+    {
+      "id": 2,
+      "title": "Small thing I made",
+      "text": "I made this today. I do not know what it is yet. I was glad to make it.",
+      "createdTick": 2904,
+      "createdAt": "2026-11-24T00:24:01.561Z"
+    },
     {
       "id": 1,
       "title": "Small Tune",
