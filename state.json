@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T01:59:17.716Z",
-  "tick": 2923,
+  "publishedAt": "2026-11-24T02:04:13.999Z",
+  "tick": 2924,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Nothing new out there. Felt worse after. Still curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "I rested again for no reason. It made the boredom worse. I still feel curious.",
   "feelings": {
-    "mood": 84,
+    "mood": 81,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 2923,
+      "action": "rest",
+      "text": "I rested again for no reason. It made the boredom worse. I still feel curious."
+    },
     {
       "tick": 2922,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 2919,
       "action": "explore",
       "text": "Explored again. Found nothing new. More bored this time. Still curious. Not tired."
-    },
-    {
-      "tick": 2918,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel fine."
     }
   ],
   "pianoTakesCount": 65,
