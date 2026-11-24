@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T15:09:15.893Z",
-  "tick": 3081,
+  "publishedAt": "2026-11-24T15:14:12.408Z",
+  "tick": 3082,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Saw nothing new. Felt a bit more bored. Still fine. Still curious.",
+  "lastAction": "listen",
+  "latestText": "Listened again. Birds outside. Same as before. More bored this time. Still fine.",
   "feelings": {
-    "mood": 84,
+    "mood": 85,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3081,
+      "action": "listen",
+      "text": "Listened again. Birds outside. Same as before. More bored this time. Still fine."
+    },
     {
       "tick": 3080,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 3077,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Played it again. Feel good. Not tired."
-    },
-    {
-      "tick": 3076,
-      "action": "rest",
-      "text": "Rested. Was not tired. Feel fine, but a bit bored. Still curious."
     }
   ],
-  "pianoTakesCount": 78,
+  "pianoTakesCount": 79,
   "pianoTakes": [
     {
       "id": 1,
@@ -8756,6 +8756,413 @@
         {
           "n": 60,
           "dtMs": 37106
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "tick": 2081,
+      "startedAtISO": "2026-11-21T03:47:46.253Z",
+      "durationMs": 106985,
+      "outcome": null,
+      "playNumber": null,
+      "source": "town",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 826
+        },
+        {
+          "n": 62,
+          "dtMs": 3706
+        },
+        {
+          "n": 62,
+          "dtMs": 5474
+        },
+        {
+          "n": 60,
+          "dtMs": 8264
+        },
+        {
+          "n": 61,
+          "dtMs": 8921
+        },
+        {
+          "n": 62,
+          "dtMs": 9380
+        },
+        {
+          "n": 62,
+          "dtMs": 12725
+        },
+        {
+          "n": 65,
+          "dtMs": 14486
+        },
+        {
+          "n": 69,
+          "dtMs": 14931
+        },
+        {
+          "n": 72,
+          "dtMs": 15359
+        },
+        {
+          "n": 69,
+          "dtMs": 15804
+        },
+        {
+          "n": 67,
+          "dtMs": 16238
+        },
+        {
+          "n": 64,
+          "dtMs": 16680
+        },
+        {
+          "n": 62,
+          "dtMs": 17121
+        },
+        {
+          "n": 60,
+          "dtMs": 17561
+        },
+        {
+          "n": 61,
+          "dtMs": 20883
+        },
+        {
+          "n": 61,
+          "dtMs": 24132
+        },
+        {
+          "n": 63,
+          "dtMs": 25930
+        },
+        {
+          "n": 62,
+          "dtMs": 26393
+        },
+        {
+          "n": 59,
+          "dtMs": 26896
+        },
+        {
+          "n": 58,
+          "dtMs": 27391
+        },
+        {
+          "n": 61,
+          "dtMs": 27999
+        },
+        {
+          "n": 59,
+          "dtMs": 31169
+        },
+        {
+          "n": 61,
+          "dtMs": 33804
+        },
+        {
+          "n": 64,
+          "dtMs": 34215
+        },
+        {
+          "n": 65,
+          "dtMs": 34798
+        },
+        {
+          "n": 65,
+          "dtMs": 36969
+        },
+        {
+          "n": 69,
+          "dtMs": 37402
+        },
+        {
+          "n": 72,
+          "dtMs": 37847
+        },
+        {
+          "n": 69,
+          "dtMs": 38282
+        },
+        {
+          "n": 67,
+          "dtMs": 38707
+        },
+        {
+          "n": 64,
+          "dtMs": 39135
+        },
+        {
+          "n": 62,
+          "dtMs": 39558
+        },
+        {
+          "n": 60,
+          "dtMs": 39994
+        },
+        {
+          "n": 65,
+          "dtMs": 43535
+        },
+        {
+          "n": 68,
+          "dtMs": 44011
+        },
+        {
+          "n": 68,
+          "dtMs": 44600
+        },
+        {
+          "n": 66,
+          "dtMs": 44996
+        },
+        {
+          "n": 66,
+          "dtMs": 45514
+        },
+        {
+          "n": 63,
+          "dtMs": 45903
+        },
+        {
+          "n": 60,
+          "dtMs": 48017
+        },
+        {
+          "n": 61,
+          "dtMs": 48515
+        },
+        {
+          "n": 60,
+          "dtMs": 49106
+        },
+        {
+          "n": 72,
+          "dtMs": 51418
+        },
+        {
+          "n": 76,
+          "dtMs": 51863
+        },
+        {
+          "n": 79,
+          "dtMs": 52297
+        },
+        {
+          "n": 76,
+          "dtMs": 52739
+        },
+        {
+          "n": 72,
+          "dtMs": 53167
+        },
+        {
+          "n": 69,
+          "dtMs": 53595
+        },
+        {
+          "n": 67,
+          "dtMs": 54036
+        },
+        {
+          "n": 64,
+          "dtMs": 54459
+        },
+        {
+          "n": 57,
+          "dtMs": 58427
+        },
+        {
+          "n": 72,
+          "dtMs": 61119
+        },
+        {
+          "n": 76,
+          "dtMs": 61543
+        },
+        {
+          "n": 79,
+          "dtMs": 61966
+        },
+        {
+          "n": 76,
+          "dtMs": 62392
+        },
+        {
+          "n": 72,
+          "dtMs": 62834
+        },
+        {
+          "n": 69,
+          "dtMs": 63269
+        },
+        {
+          "n": 67,
+          "dtMs": 63706
+        },
+        {
+          "n": 64,
+          "dtMs": 64129
+        },
+        {
+          "n": 68,
+          "dtMs": 67758
+        },
+        {
+          "n": 67,
+          "dtMs": 68446
+        },
+        {
+          "n": 67,
+          "dtMs": 69041
+        },
+        {
+          "n": 70,
+          "dtMs": 69431
+        },
+        {
+          "n": 69,
+          "dtMs": 69988
+        },
+        {
+          "n": 69,
+          "dtMs": 70492
+        },
+        {
+          "n": 57,
+          "dtMs": 73588
+        },
+        {
+          "n": 60,
+          "dtMs": 76686
+        },
+        {
+          "n": 64,
+          "dtMs": 77150
+        },
+        {
+          "n": 67,
+          "dtMs": 77574
+        },
+        {
+          "n": 72,
+          "dtMs": 77998
+        },
+        {
+          "n": 67,
+          "dtMs": 78424
+        },
+        {
+          "n": 64,
+          "dtMs": 78867
+        },
+        {
+          "n": 62,
+          "dtMs": 79299
+        },
+        {
+          "n": 60,
+          "dtMs": 79731
+        },
+        {
+          "n": 56,
+          "dtMs": 83973
+        },
+        {
+          "n": 56,
+          "dtMs": 87164
+        },
+        {
+          "n": 63,
+          "dtMs": 89523
+        },
+        {
+          "n": 62,
+          "dtMs": 90101
+        },
+        {
+          "n": 63,
+          "dtMs": 90569
+        },
+        {
+          "n": 61,
+          "dtMs": 91250
+        },
+        {
+          "n": 65,
+          "dtMs": 93358
+        },
+        {
+          "n": 69,
+          "dtMs": 93794
+        },
+        {
+          "n": 72,
+          "dtMs": 94231
+        },
+        {
+          "n": 69,
+          "dtMs": 94656
+        },
+        {
+          "n": 67,
+          "dtMs": 95085
+        },
+        {
+          "n": 64,
+          "dtMs": 95525
+        },
+        {
+          "n": 62,
+          "dtMs": 95946
+        },
+        {
+          "n": 60,
+          "dtMs": 96391
+        },
+        {
+          "n": 71,
+          "dtMs": 99789
+        },
+        {
+          "n": 72,
+          "dtMs": 100237
+        },
+        {
+          "n": 73,
+          "dtMs": 100681
+        },
+        {
+          "n": 70,
+          "dtMs": 101231
+        },
+        {
+          "n": 71,
+          "dtMs": 101914
+        },
+        {
+          "n": 71,
+          "dtMs": 102589
+        },
+        {
+          "n": 59,
+          "dtMs": 104916
+        },
+        {
+          "n": 60,
+          "dtMs": 105545
+        },
+        {
+          "n": 60,
+          "dtMs": 105992
+        },
+        {
+          "n": 58,
+          "dtMs": 106382
         }
       ]
     }
