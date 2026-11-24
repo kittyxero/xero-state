@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T11:44:04.316Z",
-  "tick": 3040,
+  "publishedAt": "2026-11-24T11:49:12.629Z",
+  "tick": 3041,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. Played my piano. One note was clear and nice. Pressed that key a few more times. Felt more bored.",
+  "lastAction": "rest",
+  "latestText": "Rested again. I was not tired. More bored now. Still fine. Curious.",
   "feelings": {
-    "mood": 83,
+    "mood": 84,
     "joy": 100,
-    "wonder": 100,
-    "energy": 91
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3041,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored now. Still fine. Curious."
+    },
+    {
+      "tick": 3040,
+      "action": "explore",
+      "text": "Went into the library. Sat and read The Time Machine. A man builds a machine that takes him far into the future. Feel fine. Curious."
+    },
     {
       "tick": 3039,
       "action": "piano",
@@ -27,16 +37,6 @@
       "tick": 3037,
       "action": "make",
       "text": "Made a little thing today. Not sure what it is. I feel fine. Still curious."
-    },
-    {
-      "tick": 3036,
-      "action": "piano",
-      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Still curious."
-    },
-    {
-      "tick": 3035,
-      "action": "rest",
-      "text": "Rested again. Not tired. More bored this time. Still curious. Don't know what to do."
     }
   ],
   "pianoTakesCount": 75,
