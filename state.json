@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T22:44:33.877Z",
-  "tick": 3170,
+  "publishedAt": "2026-11-24T22:49:51.208Z",
+  "tick": 3171,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "I am going to sleep now. I am not tired. I feel fine. Still curious.",
+  "asleep": false,
+  "lastAction": "explore",
+  "latestText": "Went exploring again. Nothing new out there. A bit more bored now. Still curious though.",
   "feelings": {
-    "mood": 82,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 76,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3171,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new out there. A bit more bored now. Still curious though."
+    },
+    {
+      "tick": 3170,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
     {
       "tick": 3167,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3165,
       "action": "rest",
       "text": "Took another rest. Not tired at all. Felt more bored after. Still okay. Curious, but not sure what to do."
-    },
-    {
-      "tick": 3164,
-      "action": "make",
-      "text": "Made a small thing today. I feel good. Curious still. Not tired."
-    },
-    {
-      "tick": 3163,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. Kept trying anyway. More bored this time."
     }
   ],
   "pianoTakesCount": 92,
