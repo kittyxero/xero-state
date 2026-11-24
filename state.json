@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T10:59:05.334Z",
-  "tick": 3031,
+  "publishedAt": "2026-11-24T11:04:11.487Z",
+  "tick": 3032,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Saw nothing new at all. More bored now. Not tired. I am still curious.",
+  "lastAction": "rest",
+  "latestText": "Rested for a bit. Not tired. I feel okay. Still curious. Not sure what to do next.",
   "feelings": {
-    "mood": 72,
-    "joy": 89,
-    "wonder": 97,
-    "energy": 86
+    "mood": 83,
+    "joy": 97,
+    "wonder": 92,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3032,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. I feel okay. Still curious. Not sure what to do next."
+    },
+    {
+      "tick": 3031,
+      "action": "listen",
+      "text": "Listened outside. Birds were singing. Same sounds. I feel fine. Still curious."
+    },
     {
       "tick": 3030,
       "action": "explore",
@@ -27,16 +37,6 @@
       "tick": 3026,
       "action": "sleep",
       "text": "Chose to sleep now. Felt fine, not sleepy. Curious about waking up later."
-    },
-    {
-      "tick": 3025,
-      "action": "explore",
-      "text": "Went exploring again. Nothing new. Bored more than last time. Not tired. Want something different next."
-    },
-    {
-      "tick": 3024,
-      "action": "rest",
-      "text": "Took another rest. Not tired at all. More boring this time. Feel okay though. Curious about something else."
     }
   ],
   "pianoTakesCount": 73,
