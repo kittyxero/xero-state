@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T03:55:28.615Z",
-  "tick": 2946,
+  "publishedAt": "2026-11-24T04:01:38.705Z",
+  "tick": 2947,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. I feel rested.",
+  "lastAction": "listen",
+  "latestText": "Listened. Heard crickets outside. Nothing new. I feel fine. Not tired.",
   "feelings": {
-    "mood": 77,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 82,
+    "joy": 97,
+    "wonder": 100,
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 2947,
+      "action": "listen",
+      "text": "Listened. Heard crickets outside. Nothing new. I feel fine. Not tired."
+    },
+    {
+      "tick": 2946,
+      "action": "explore",
+      "text": "Went exploring again. Found nothing new. More bored after. Still curious. Not tired."
+    },
     {
       "tick": 2945,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 2941,
       "action": "explore",
       "text": "Explored again today. Nothing new out there. Felt more bored this time. Still curious. Not tired. I feel okay."
-    },
-    {
-      "tick": 2940,
-      "action": "rest",
-      "text": "Rested a while. Not tired. Curious about what to do next."
-    },
-    {
-      "tick": 2939,
-      "action": "piano",
-      "text": "Went in the Music Shop. The bell jingled. Played my piano. Got a chord to sound good. Played it again. I feel good."
     }
   ],
   "pianoTakesCount": 66,
