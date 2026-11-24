@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T01:04:22.428Z",
-  "tick": 2912,
+  "publishedAt": "2026-11-24T01:09:14.124Z",
+  "tick": 2913,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested a bit. Not tired before. Not tired now. Curious about what to do next. Mood is good.",
+  "lastAction": "make",
+  "latestText": "Made a little thing. I feel fine. Curious, not tired. Saved it.",
   "feelings": {
-    "mood": 77,
-    "joy": 89,
-    "wonder": 93,
-    "energy": 100
+    "mood": 83,
+    "joy": 100,
+    "wonder": 96,
+    "energy": 88
   },
   "recentDiary": [
+    {
+      "tick": 2912,
+      "action": "make",
+      "text": "Made a little thing. I feel fine. Curious, not tired. Saved it."
+    },
     {
       "tick": 2911,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2906,
       "action": "sleep",
       "text": "Went to sleep just now. I was not tired. I feel fine."
-    },
-    {
-      "tick": 2905,
-      "action": "explore",
-      "text": "Explored again today. Saw nothing new. A bit more bored. Felt worse. Still curious."
     }
   ],
   "pianoTakesCount": 64,
@@ -6987,6 +6987,13 @@
     }
   ],
   "pieces": [
+    {
+      "id": 3,
+      "title": "Little thing",
+      "text": "I feel fine. I am curious. I am not tired.",
+      "createdTick": 2912,
+      "createdAt": "2026-11-24T01:04:11.320Z"
+    },
     {
       "id": 2,
       "title": "Small thing I made",
