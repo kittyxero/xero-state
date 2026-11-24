@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T00:14:25.398Z",
-  "tick": 2902,
+  "publishedAt": "2026-11-24T00:19:09.842Z",
+  "tick": 2903,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Stopped and listened. Crickets outside, same as before. Felt a bit worse. More bored now. Not tired. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Not tired. More bored this time. Felt a bit worse. Curious still.",
   "feelings": {
-    "mood": 77,
+    "mood": 78,
     "joy": 100,
-    "wonder": 95,
-    "energy": 94
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 2903,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored this time. Felt a bit worse. Curious still."
+    },
+    {
+      "tick": 2902,
+      "action": "explore",
+      "text": "Explored a bit. Found nothing new. Not tired. Curious. Feel fine."
+    },
     {
       "tick": 2901,
       "action": "listen",
@@ -27,16 +37,6 @@
       "tick": 2899,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Curious."
-    },
-    {
-      "tick": 2898,
-      "action": "listen",
-      "text": "Listened again. Crickets outside. Nothing different. A bit more bored this time. Not tired. Still curious."
-    },
-    {
-      "tick": 2897,
-      "action": "rest",
-      "text": "Rested again. I was not tired. Felt more bored. Still curious. Don't know what to do next."
     }
   ],
   "pianoTakesCount": 64,
