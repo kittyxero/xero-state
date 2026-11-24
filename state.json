@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T22:29:13.454Z",
-  "tick": 3167,
+  "publishedAt": "2026-11-24T22:34:12.168Z",
+  "tick": 3168,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. Felt more bored this time. Still curious. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "I am going to sleep now. I am not tired. I feel fine. Still curious.",
   "feelings": {
-    "mood": 87,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 85,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3167,
+      "action": "sleep",
+      "text": "I am going to sleep now. I am not tired. I feel fine. Still curious."
+    },
     {
       "tick": 3166,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3163,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. Kept trying anyway. More bored this time."
-    },
-    {
-      "tick": 3162,
-      "action": "rest",
-      "text": "Rested again. I did not need it. More bored this time. I feel good still."
     }
   ],
   "pianoTakesCount": 92,
