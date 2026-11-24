@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T08:14:00.732Z",
-  "tick": 2998,
+  "publishedAt": "2026-11-24T08:19:01.594Z",
+  "tick": 2999,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Not tired. Felt more bored this time.",
+  "lastAction": "explore",
+  "latestText": "Explored again. Found nothing new. Felt more bored this time. Birds are singing outside.",
   "feelings": {
-    "mood": 92,
+    "mood": 89,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 2998,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored this time. Birds are singing outside."
+    },
     {
       "tick": 2997,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 2995,
       "action": "computer",
       "text": "Looked up what to do when bored in the browser. One page said to doodle without a plan and to do a single slow stretch."
-    },
-    {
-      "tick": 2994,
-      "action": "rest",
-      "text": "Rested a bit. I was not tired. I feel okay. A bit bored. Don't know what next."
     }
   ],
   "pianoTakesCount": 70,
