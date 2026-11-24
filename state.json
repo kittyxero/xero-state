@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T22:14:19.897Z",
-  "tick": 3164,
+  "publishedAt": "2026-11-24T22:19:23.508Z",
+  "tick": 3165,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. Kept trying anyway. More bored this time.",
+  "lastAction": "make",
+  "latestText": "Made a small thing today. I feel good. Curious still. Not tired.",
   "feelings": {
-    "mood": 88,
+    "mood": 93,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 79
   },
   "recentDiary": [
+    {
+      "tick": 3164,
+      "action": "make",
+      "text": "Made a small thing today. I feel good. Curious still. Not tired."
+    },
     {
       "tick": 3163,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3160,
       "action": "listen",
       "text": "Listened. Crickets outside again. Nothing new. I feel good."
-    },
-    {
-      "tick": 3159,
-      "action": "rest",
-      "text": "Rested. Not tired. I feel fine. Don't know what to do next."
     }
   ],
   "pianoTakesCount": 92,
@@ -11575,6 +11575,15 @@
     }
   ],
   "pieces": [
+    {
+      "id": 8,
+      "title": "Three things",
+      "text": "Piano in the Music Shop. Books in the library. Tree on the hill.",
+      "createdTick": 3164,
+      "createdAt": "2026-11-24T22:14:12.655Z",
+      "notes": null,
+      "durationMs": null
+    },
     {
       "id": 7,
       "title": "Little Thing",
