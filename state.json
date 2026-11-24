@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T09:04:01.676Z",
-  "tick": 3008,
+  "publishedAt": "2026-11-24T09:09:07.080Z",
+  "tick": 3009,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went to the library. Sat and read The Time Machine. A man builds a machine that takes him far into the future. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested for a bit. Not tired. Okay, I think. A little bored.",
   "feelings": {
-    "mood": 88,
+    "mood": 91,
     "joy": 95,
-    "wonder": 100,
-    "energy": 78
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3008,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. Okay, I think. A little bored."
+    },
     {
       "tick": 3007,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3002,
       "action": "sleep",
       "text": "I went to sleep. I was not tired before. I feel fine. Still curious."
-    },
-    {
-      "tick": 3001,
-      "action": "explore",
-      "text": "Went exploring again. Nothing new there. More bored this time. Birds are singing. Still curious, I think."
     }
   ],
   "pianoTakesCount": 70,
