@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T14:34:15.195Z",
-  "tick": 3074,
+  "publishedAt": "2026-11-24T14:38:59.284Z",
+  "tick": 3075,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Slept again. I was not tired. It felt more boring this time. Still okay.",
+  "latestText": "I woke up. I feel fine.",
   "feelings": {
-    "mood": 69,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 68,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3074,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
     {
       "tick": 3071,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3068,
       "action": "sleep",
       "text": "I woke up. I feel fine."
-    },
-    {
-      "tick": 3065,
-      "action": "sleep",
-      "text": "Went to sleep again. I was not tired. It felt more boring this time. Still feel good, I think."
     }
   ],
   "pianoTakesCount": 77,
