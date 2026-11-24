@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T13:24:16.203Z",
-  "tick": 3060,
+  "publishedAt": "2026-11-24T13:29:07.986Z",
+  "tick": 3061,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Slept again. Was not tired. Feel fine, but worse than last time. Still curious.",
   "feelings": {
-    "mood": 80,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 77,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
