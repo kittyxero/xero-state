@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-24T11:28:57.367Z",
-  "tick": 3037,
+  "publishedAt": "2026-11-24T11:34:20.212Z",
+  "tick": 3038,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Still curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Was not tired. Felt more bored. Still fine. Still curious.",
   "feelings": {
-    "mood": 86,
+    "mood": 87,
     "joy": 100,
-    "wonder": 100,
-    "energy": 91
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3038,
+      "action": "rest",
+      "text": "Rested again. Was not tired. Felt more bored. Still fine. Still curious."
+    },
+    {
+      "tick": 3037,
+      "action": "make",
+      "text": "Made a little thing today. Not sure what it is. I feel fine. Still curious."
+    },
     {
       "tick": 3036,
       "action": "piano",
@@ -27,16 +37,6 @@
       "tick": 3034,
       "action": "explore",
       "text": "Explored again. Found nothing new. I feel more bored this time. Still curious."
-    },
-    {
-      "tick": 3033,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. It has a browser for the internet. I can look up anything I wonder about. Fine."
-    },
-    {
-      "tick": 3032,
-      "action": "rest",
-      "text": "Rested for a bit. Not tired. I feel okay. Still curious. Not sure what to do next."
     }
   ],
   "pianoTakesCount": 74,
@@ -8201,6 +8201,13 @@
     }
   ],
   "pieces": [
+    {
+      "id": 7,
+      "title": "Little Thing",
+      "text": "I made this today. Three short lines. That is all.",
+      "createdTick": 3037,
+      "createdAt": "2026-11-24T11:28:53.586Z"
+    },
     {
       "id": 6,
       "title": "Today",
