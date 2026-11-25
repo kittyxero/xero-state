@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T23:14:16.430Z",
-  "tick": 3463,
+  "publishedAt": "2026-11-25T23:19:22.048Z",
+  "tick": 3464,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. I played my piano. The notes sounded wrong and clumsy. I did not stop. I feel good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested once more. Not tired at all. Bored a bit more now. Feel good. Curious still.",
   "feelings": {
-    "mood": 91,
+    "mood": 87,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3463,
+      "action": "rest",
+      "text": "Rested once more. Not tired at all. Bored a bit more now. Feel good. Curious still."
+    },
     {
       "tick": 3462,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3459,
       "action": "listen",
       "text": "Listened for a bit. Crickets outside. Heard them again. A bit bored now. Feel good. Curious."
-    },
-    {
-      "tick": 3458,
-      "action": "explore",
-      "text": "Went into the art studio. Used the computer on the small table. Learned a fact. Mice sing to each other in sounds too high for people to hear. Feel good. Very curious."
     }
   ],
   "pianoTakesCount": 135,
