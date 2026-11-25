@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T15:49:07.653Z",
-  "tick": 3374,
+  "publishedAt": "2026-11-25T15:54:15.051Z",
+  "tick": 3375,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested for a bit. I was not tired. Feel fine, a little bored.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Played it again. Feel good.",
   "feelings": {
-    "mood": 88,
-    "joy": 89,
-    "wonder": 91,
-    "energy": 100
+    "mood": 94,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3374,
+      "action": "piano",
+      "text": "Went into the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Played it again. Feel good."
+    },
     {
       "tick": 3373,
       "action": "rest",
@@ -32,14 +37,9 @@
       "tick": 3368,
       "action": "sleep",
       "text": "Went to bed and slept. I am not tired now. Feel fine."
-    },
-    {
-      "tick": 3367,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. One note was clear and nice. Pressed it again a few times. Feel good. Curious."
     }
   ],
-  "pianoTakesCount": 122,
+  "pianoTakesCount": 123,
   "pianoTakes": [
     {
       "id": 1,
@@ -14748,6 +14748,157 @@
         {
           "n": 64,
           "dtMs": 26768
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "tick": 3374,
+      "startedAtISO": "2026-11-25T15:48:58.214Z",
+      "durationMs": 36680,
+      "outcome": "chord",
+      "playNumber": 295,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 60,
+          "dtMs": 994
+        },
+        {
+          "n": 62,
+          "dtMs": 2588
+        },
+        {
+          "n": 62,
+          "dtMs": 3882
+        },
+        {
+          "n": 61,
+          "dtMs": 5464
+        },
+        {
+          "n": 59,
+          "dtMs": 6958
+        },
+        {
+          "n": 58,
+          "dtMs": 8540
+        },
+        {
+          "n": 63,
+          "dtMs": 9814
+        },
+        {
+          "n": 64,
+          "dtMs": 11226
+        },
+        {
+          "n": 64,
+          "dtMs": 12510
+        },
+        {
+          "n": 57,
+          "dtMs": 13852
+        },
+        {
+          "n": 61,
+          "dtMs": 13852
+        },
+        {
+          "n": 64,
+          "dtMs": 13852
+        },
+        {
+          "n": 57,
+          "dtMs": 15956
+        },
+        {
+          "n": 61,
+          "dtMs": 15956
+        },
+        {
+          "n": 64,
+          "dtMs": 15956
+        },
+        {
+          "n": 61,
+          "dtMs": 17538
+        },
+        {
+          "n": 63,
+          "dtMs": 19100
+        },
+        {
+          "n": 62,
+          "dtMs": 20534
+        },
+        {
+          "n": 61,
+          "dtMs": 22112
+        },
+        {
+          "n": 61,
+          "dtMs": 23216
+        },
+        {
+          "n": 60,
+          "dtMs": 24694
+        },
+        {
+          "n": 64,
+          "dtMs": 25534
+        },
+        {
+          "n": 67,
+          "dtMs": 26374
+        },
+        {
+          "n": 72,
+          "dtMs": 27214
+        },
+        {
+          "n": 67,
+          "dtMs": 28054
+        },
+        {
+          "n": 64,
+          "dtMs": 28894
+        },
+        {
+          "n": 62,
+          "dtMs": 29734
+        },
+        {
+          "n": 60,
+          "dtMs": 30574
+        },
+        {
+          "n": 57,
+          "dtMs": 32774
+        },
+        {
+          "n": 61,
+          "dtMs": 32774
+        },
+        {
+          "n": 64,
+          "dtMs": 32774
+        },
+        {
+          "n": 57,
+          "dtMs": 35080
+        },
+        {
+          "n": 61,
+          "dtMs": 35080
+        },
+        {
+          "n": 64,
+          "dtMs": 35080
         }
       ]
     }
