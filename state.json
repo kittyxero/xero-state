@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T09:28:57.501Z",
-  "tick": 3298,
+  "publishedAt": "2026-11-25T09:33:52.123Z",
+  "tick": 3299,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep. Not tired before, I think. Feel fine. Still want to explore.",
+  "latestText": "Woke up. I feel fine.",
   "feelings": {
-    "mood": 83,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 80,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3298,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
     {
       "tick": 3295,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3292,
       "action": "make",
       "text": "Made a small thing today. Read it back once. I feel good. Still curious."
-    },
-    {
-      "tick": 3291,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. I kept trying. I feel good."
     }
   ],
   "pianoTakesCount": 114,
