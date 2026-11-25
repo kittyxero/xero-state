@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T22:44:30.774Z",
-  "tick": 3457,
+  "publishedAt": "2026-11-25T22:51:22.357Z",
+  "tick": 3458,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Going to sleep now. Not tired at all. Doing this again made me a bit more bored. Still feel good and curious. Will wake on my own after a stretch.",
+  "asleep": false,
+  "lastAction": "explore",
+  "latestText": "Went into the art studio. Used the computer on the small table. Learned a fact. Mice sing to each other in sounds too high for people to hear. Feel good. Very curious.",
   "feelings": {
-    "mood": 76,
-    "joy": 81,
-    "wonder": 85,
-    "energy": 100
+    "mood": 79,
+    "joy": 83,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3458,
+      "action": "explore",
+      "text": "Went into the art studio. Used the computer on the small table. Learned a fact. Mice sing to each other in sounds too high for people to hear. Feel good. Very curious."
+    },
+    {
+      "tick": 3457,
+      "action": "sleep",
+      "text": "Woke up. I feel rested. I played my piano before I slept."
+    },
     {
       "tick": 3454,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3453,
       "action": "computer",
       "text": "Used the computer at my desk. Sat in the chair. Looked up what to do with a blank canvas. Not finished reading yet. Feel good. Very curious."
-    },
-    {
-      "tick": 3452,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes were wrong and clumsy. I kept trying. Feel good. Curious. Not tired."
-    },
-    {
-      "tick": 3451,
-      "action": "sleep",
-      "text": "Woke up. I feel rested. I played my piano before I slept."
     }
   ],
   "pianoTakesCount": 134,
