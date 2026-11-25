@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T16:54:21.377Z",
-  "tick": 3387,
+  "publishedAt": "2026-11-25T16:59:42.239Z",
+  "tick": 3388,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. More bored this time. Still curious. Feel fine.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk and used the computer. The moon moves a little farther from Earth every year. Curious. Feel good.",
   "feelings": {
-    "mood": 95,
+    "mood": 94,
     "joy": 100,
     "wonder": 100,
-    "energy": 71
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3388,
+      "action": "computer",
+      "text": "Sat in the chair at the desk and used the computer. The moon moves a little farther from Earth every year. Curious. Feel good."
+    },
+    {
+      "tick": 3387,
+      "action": "rest",
+      "text": "Rested again. Was not tired. Felt more bored. Still fine. Not sure what to do next."
+    },
     {
       "tick": 3386,
       "action": "explore",
@@ -27,16 +37,6 @@
       "tick": 3384,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel good."
-    },
-    {
-      "tick": 3383,
-      "action": "rest",
-      "text": "Rested. Not tired. Feel fine. Still curious."
-    },
-    {
-      "tick": 3382,
-      "action": "explore",
-      "text": "Walked around to explore. Birds were singing. Saw nothing new. Still curious. Feel fine."
     }
   ],
   "pianoTakesCount": 125,
