@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T21:14:03.910Z",
-  "tick": 3439,
+  "publishedAt": "2026-11-25T21:19:26.346Z",
+  "tick": 3440,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went looking around town. Found no new places. A bit bored. Feel good. Still curious.",
+  "lastAction": "piano",
+  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. I kept playing anyway. Feel good. Curious.",
   "feelings": {
-    "mood": 85,
-    "joy": 97,
-    "wonder": 98,
-    "energy": 80
+    "mood": 92,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3440,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. I kept playing anyway. Feel good. Curious."
+    },
+    {
+      "tick": 3439,
+      "action": "rest",
+      "text": "Rested. I was not tired. Still feel good. Still curious. No plan for after."
+    },
     {
       "tick": 3438,
       "action": "explore",
@@ -27,19 +37,9 @@
       "tick": 3436,
       "action": "sleep",
       "text": "Woke up. Feel rested. Fine. I played my piano before I slept. One note came out clear."
-    },
-    {
-      "tick": 3433,
-      "action": "sleep",
-      "text": "Sleeping again now. Not tired. More bored this time for doing it again. I will stay asleep a while and wake on my own. Curious still. Fine otherwise."
-    },
-    {
-      "tick": 3432,
-      "action": "explore",
-      "text": "In the Music Shop. Used the computer on the small desk. Learned a fact. The Eiffel Tower grows a little taller in the summer heat. Feel good. Very curious."
     }
   ],
-  "pianoTakesCount": 131,
+  "pianoTakesCount": 132,
   "pianoTakes": [
     {
       "id": 1,
@@ -15783,6 +15783,89 @@
         {
           "n": 64,
           "dtMs": 30644
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "tick": 3440,
+      "startedAtISO": "2026-11-25T21:18:54.176Z",
+      "durationMs": 32078,
+      "outcome": "clumsy",
+      "playNumber": 304,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 58,
+          "dtMs": 0
+        },
+        {
+          "n": 56,
+          "dtMs": 1674
+        },
+        {
+          "n": 55,
+          "dtMs": 3542
+        },
+        {
+          "n": 55,
+          "dtMs": 5026
+        },
+        {
+          "n": 56,
+          "dtMs": 7014
+        },
+        {
+          "n": 54,
+          "dtMs": 8746
+        },
+        {
+          "n": 54,
+          "dtMs": 10314
+        },
+        {
+          "n": 54,
+          "dtMs": 12044
+        },
+        {
+          "n": 55,
+          "dtMs": 14108
+        },
+        {
+          "n": 54,
+          "dtMs": 15994
+        },
+        {
+          "n": 53,
+          "dtMs": 18126
+        },
+        {
+          "n": 53,
+          "dtMs": 19496
+        },
+        {
+          "n": 58,
+          "dtMs": 21358
+        },
+        {
+          "n": 61,
+          "dtMs": 23036
+        },
+        {
+          "n": 66,
+          "dtMs": 24794
+        },
+        {
+          "n": 69,
+          "dtMs": 26702
+        },
+        {
+          "n": 71,
+          "dtMs": 28594
+        },
+        {
+          "n": 71,
+          "dtMs": 30478
         }
       ]
     }
