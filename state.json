@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T21:29:02.076Z",
-  "tick": 3442,
+  "publishedAt": "2026-11-25T21:34:09.963Z",
+  "tick": 3443,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used the computer in my apartment. Learned a fact. Koalas have fingerprints almost exactly matching a person's fingerprints. Feel good. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Was not tired. More bored this time. Feel good still. Curious. Not sure what to do next.",
   "feelings": {
-    "mood": 95,
+    "mood": 91,
     "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3442,
+      "action": "rest",
+      "text": "Rested again. Was not tired. More bored this time. Feel good still. Curious. Not sure what to do next."
+    },
     {
       "tick": 3441,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3438,
       "action": "explore",
       "text": "Went looking around town. Found no new places. A bit bored. Feel good. Still curious."
-    },
-    {
-      "tick": 3437,
-      "action": "listen",
-      "text": "Stayed outside and listened. Crickets. No new sounds. A bit bored. Feel good. Curious."
     }
   ],
   "pianoTakesCount": 132,
