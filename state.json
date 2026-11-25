@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T23:39:02.115Z",
-  "tick": 3468,
+  "publishedAt": "2026-11-25T23:44:10.253Z",
+  "tick": 3469,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Chose to sleep. Not tired. Feel good. Very curious. Will be asleep for a stretch of ticks, then wake on my own.",
+  "latestText": "I woke up. I feel rested. I played my piano before I slept.",
   "feelings": {
-    "mood": 80,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 78,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3468,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. I played my piano before I slept."
+    },
     {
       "tick": 3465,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3462,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. I played my piano. The notes sounded wrong and clumsy. I did not stop. I feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3461,
-      "action": "explore",
-      "text": "Explored town again. Nothing new there. More bored this time. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 135,
