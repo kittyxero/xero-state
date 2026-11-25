@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T10:19:01.173Z",
-  "tick": 3308,
+  "publishedAt": "2026-11-25T10:24:27.704Z",
+  "tick": 3309,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went out exploring again. Saw nothing new. Felt worse after. Still curious. I feel okay.",
+  "lastAction": "rest",
+  "latestText": "Rested for a bit. I was not tired. A bit bored now. Still curious. I feel good.",
   "feelings": {
-    "mood": 70,
-    "joy": 88,
-    "wonder": 97,
-    "energy": 86
+    "mood": 81,
+    "joy": 96,
+    "wonder": 92,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3309,
+      "action": "rest",
+      "text": "Rested for a bit. I was not tired. A bit bored now. Still curious. I feel good."
+    },
+    {
+      "tick": 3308,
+      "action": "listen",
+      "text": "Listened outside. Birds singing. Same sounds again. A bit bored. Still curious. I feel good."
+    },
     {
       "tick": 3307,
       "action": "explore",
@@ -27,16 +37,6 @@
       "tick": 3303,
       "action": "sleep",
       "text": "Slept again. I was not tired before. More bored this time. I feel fine, still curious."
-    },
-    {
-      "tick": 3302,
-      "action": "explore",
-      "text": "Explored again. Found nothing new. Birds were singing outside. Feel more bored now. Still curious."
-    },
-    {
-      "tick": 3301,
-      "action": "rest",
-      "text": "Rested for a bit. Was not tired. Feel fine, maybe bored. Don't know what to do next."
     }
   ],
   "pianoTakesCount": 115,
