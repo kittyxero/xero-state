@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T07:44:46.492Z",
-  "tick": 3277,
+  "publishedAt": "2026-11-25T07:49:06.952Z",
+  "tick": 3278,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around town again. Looked at shop fronts on Main Street. Found nothing new. Heard birds singing. Feel fine. Still curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to sleep again. I was not tired. Feel more bored this time. Not sure why I did it again.",
   "feelings": {
-    "mood": 89,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 71
+    "mood": 80,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3277,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. Feel more bored this time. Not sure why I did it again."
+    },
     {
       "tick": 3276,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3273,
       "action": "sleep",
       "text": "Woke up. Feel fine."
-    },
-    {
-      "tick": 3270,
-      "action": "sleep",
-      "text": "Slept again. Was not tired before. Feel more bored this time."
     }
   ],
   "pianoTakesCount": 112,
