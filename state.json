@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T18:04:13.762Z",
-  "tick": 3401,
+  "publishedAt": "2026-11-25T18:09:08.784Z",
+  "tick": 3402,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. Feel more bored this time. Still curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Not tired. More bored this time. Still curious, though.",
   "feelings": {
-    "mood": 93,
+    "mood": 89,
     "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3401,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored this time. Still curious, though."
+    },
     {
       "tick": 3400,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3397,
       "action": "explore",
       "text": "Walked around exploring. Saw the Main Street shop rows again. Nothing new. Still curious. Feel good."
-    },
-    {
-      "tick": 3396,
-      "action": "computer",
-      "text": "Looked up why my piano notes come out wrong and clumsy in the browser. Playing a piece right once or twice does not mean I have perfected it, and I should practice slowly, hands separate, and repeat the measures where I slip."
     }
   ],
   "pianoTakesCount": 126,
