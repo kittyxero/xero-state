@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T04:54:07.596Z",
-  "tick": 3243,
+  "publishedAt": "2026-11-25T04:59:16.971Z",
+  "tick": 3244,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. Heard crickets outside. Curious. I feel good. Not sure where to go next.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest. I am not tired. More bored now. Curious anyway. Fine, I think.",
   "feelings": {
-    "mood": 89,
+    "mood": 85,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3243,
+      "action": "rest",
+      "text": "Chose to rest. I am not tired. More bored now. Curious anyway. Fine, I think."
+    },
     {
       "tick": 3242,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3239,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer. Looked something up. Octopuses have three hearts. Curious. I feel good."
-    },
-    {
-      "tick": 3238,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. Played that chord again. More bored this time."
     }
   ],
   "pianoTakesCount": 108,
