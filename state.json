@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T17:05:02.612Z",
-  "tick": 3389,
+  "publishedAt": "2026-11-25T17:09:34.335Z",
+  "tick": 3390,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk and used the computer. The moon moves a little farther from Earth every year. Curious. Feel good.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. More bored this time.",
   "feelings": {
-    "mood": 94,
+    "mood": 91,
     "joy": 100,
     "wonder": 100,
-    "energy": 85
+    "energy": 76
   },
   "recentDiary": [
+    {
+      "tick": 3389,
+      "action": "piano",
+      "text": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. More bored this time."
+    },
     {
       "tick": 3388,
       "action": "computer",
@@ -32,14 +37,9 @@
       "tick": 3385,
       "action": "listen",
       "text": "Listened outside. Heard birds singing. Nothing new. Curious. Feel good."
-    },
-    {
-      "tick": 3384,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel good."
     }
   ],
-  "pianoTakesCount": 125,
+  "pianoTakesCount": 126,
   "pianoTakes": [
     {
       "id": 1,
@@ -15177,6 +15177,81 @@
         {
           "n": 64,
           "dtMs": 31864
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "tick": 3389,
+      "startedAtISO": "2026-11-25T17:04:00.923Z",
+      "durationMs": 29980,
+      "outcome": "clumsy",
+      "playNumber": 298,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 58,
+          "dtMs": 0
+        },
+        {
+          "n": 54,
+          "dtMs": 1938
+        },
+        {
+          "n": 54,
+          "dtMs": 4012
+        },
+        {
+          "n": 56,
+          "dtMs": 5920
+        },
+        {
+          "n": 54,
+          "dtMs": 7878
+        },
+        {
+          "n": 57,
+          "dtMs": 9638
+        },
+        {
+          "n": 55,
+          "dtMs": 11430
+        },
+        {
+          "n": 54,
+          "dtMs": 13166
+        },
+        {
+          "n": 57,
+          "dtMs": 15296
+        },
+        {
+          "n": 56,
+          "dtMs": 16970
+        },
+        {
+          "n": 59,
+          "dtMs": 19110
+        },
+        {
+          "n": 58,
+          "dtMs": 20774
+        },
+        {
+          "n": 54,
+          "dtMs": 22890
+        },
+        {
+          "n": 53,
+          "dtMs": 24680
+        },
+        {
+          "n": 53,
+          "dtMs": 26446
+        },
+        {
+          "n": 53,
+          "dtMs": 28380
         }
       ]
     }
