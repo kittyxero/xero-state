@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T09:19:54.358Z",
-  "tick": 3296,
+  "publishedAt": "2026-11-25T09:24:07.144Z",
+  "tick": 3297,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Went to sleep. Not tired before, I think. Feel fine. Still want to explore.",
   "feelings": {
-    "mood": 87,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 83,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
