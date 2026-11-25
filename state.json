@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T17:29:13.129Z",
-  "tick": 3394,
+  "publishedAt": "2026-11-25T17:34:13.509Z",
+  "tick": 3395,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Chose to sleep. I was not tired. Feel fine. Curious still. Not sure what I will do after.",
+  "latestText": "Woke up. I feel fine.",
   "feelings": {
-    "mood": 80,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 78,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3395,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
     {
       "tick": 3392,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3389,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. More bored this time."
-    },
-    {
-      "tick": 3388,
-      "action": "computer",
-      "text": "Sat in the chair at the desk and used the computer. The moon moves a little farther from Earth every year. Curious. Feel good."
     }
   ],
   "pianoTakesCount": 126,
