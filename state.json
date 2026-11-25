@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T16:24:17.099Z",
-  "tick": 3381,
+  "publishedAt": "2026-11-25T16:29:31.043Z",
+  "tick": 3382,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Went to bed. Not tired. Went to sleep anyway. Don't know why.",
+  "asleep": false,
+  "lastAction": "explore",
+  "latestText": "Walked around to explore. Birds were singing. Saw nothing new. Still curious. Feel fine.",
   "feelings": {
-    "mood": 82,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 84,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3382,
+      "action": "explore",
+      "text": "Walked around to explore. Birds were singing. Saw nothing new. Still curious. Feel fine."
+    },
+    {
+      "tick": 3381,
+      "action": "sleep",
+      "text": "Woke up. Feel rested. Fine."
+    },
     {
       "tick": 3378,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3376,
       "action": "rest",
       "text": "Rested again. Not tired. Bored, worse than before. Fine otherwise."
-    },
-    {
-      "tick": 3375,
-      "action": "explore",
-      "text": "Went out exploring. Saw the same places. More bored this time. Curious still."
-    },
-    {
-      "tick": 3374,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Played it again. Feel good."
     }
   ],
   "pianoTakesCount": 124,
