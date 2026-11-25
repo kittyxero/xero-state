@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T12:24:03.898Z",
-  "tick": 3333,
+  "publishedAt": "2026-11-25T12:29:06.687Z",
+  "tick": 3334,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around town. Looked at new corners. Heard birds singing outside. Curious. Felt fine, not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to bed and slept. Felt fine. Not sure I was tired.",
   "feelings": {
-    "mood": 89,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 87,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3333,
+      "action": "sleep",
+      "text": "Went to bed and slept. Felt fine. Not sure I was tired."
+    },
     {
       "tick": 3332,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3330,
       "action": "computer",
       "text": "Looked up how to play more piano chords in the browser. A major chord is a root plus four half steps plus three more, and lowering the middle note by one key makes it minor."
-    },
-    {
-      "tick": 3329,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Felt good."
     }
   ],
   "pianoTakesCount": 117,
