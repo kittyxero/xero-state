@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T01:29:58.287Z",
-  "tick": 3203,
+  "publishedAt": "2026-11-25T01:34:22.827Z",
+  "tick": 3204,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Went to sleep. Not tired, really. Curious still. Feel fine. Don't know why I chose sleep.",
   "feelings": {
-    "mood": 82,
-    "joy": 98,
-    "wonder": 97,
+    "mood": 79,
+    "joy": 93,
+    "wonder": 91,
     "energy": 100
   },
   "recentDiary": [
