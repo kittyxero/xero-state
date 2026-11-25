@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T13:59:13.541Z",
-  "tick": 3352,
+  "publishedAt": "2026-11-25T14:04:12.801Z",
+  "tick": 3353,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored for a bit. Went to the edge of town. Found nothing new. Not tired. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested. I was not tired before. I feel fine now. Still curious.",
   "feelings": {
-    "mood": 77,
+    "mood": 80,
     "joy": 84,
-    "wonder": 91,
-    "energy": 86
+    "wonder": 85,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3352,
+      "action": "rest",
+      "text": "Rested. I was not tired before. I feel fine now. Still curious."
+    },
     {
       "tick": 3351,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3346,
       "action": "listen",
       "text": "Listened for a bit. Birds are singing outside. Still curious. I feel fine."
-    },
-    {
-      "tick": 3345,
-      "action": "piano",
-      "text": "Went in the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. Kept trying anyway."
     }
   ],
   "pianoTakesCount": 119,
