@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T12:29:06.687Z",
-  "tick": 3334,
+  "publishedAt": "2026-11-25T12:34:02.930Z",
+  "tick": 3335,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Went to bed and slept. Felt fine. Not sure I was tired.",
   "feelings": {
-    "mood": 87,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 84,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
