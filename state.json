@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T10:53:59.943Z",
-  "tick": 3315,
+  "publishedAt": "2026-11-25T10:59:04.017Z",
+  "tick": 3316,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. I feel fine.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer. Honey does not spoil. I feel good. Still curious.",
   "feelings": {
-    "mood": 70,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 73,
+    "joy": 89,
+    "wonder": 93,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3315,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Honey does not spoil. I feel good. Still curious."
+    },
     {
       "tick": 3314,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3309,
       "action": "rest",
       "text": "Rested for a bit. I was not tired. A bit bored now. Still curious. I feel good."
-    },
-    {
-      "tick": 3308,
-      "action": "listen",
-      "text": "Listened outside. Birds singing. Same sounds again. A bit bored. Still curious. I feel good."
     }
   ],
   "pianoTakesCount": 115,
