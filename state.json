@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T00:54:15.403Z",
-  "tick": 3196,
+  "publishedAt": "2026-11-25T00:59:15.948Z",
+  "tick": 3197,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. Feel fine.",
+  "lastAction": "piano",
+  "latestText": "Went back to the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying. Felt worse this time.",
   "feelings": {
-    "mood": 73,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 70,
+    "joy": 86,
+    "wonder": 88,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3196,
+      "action": "piano",
+      "text": "Went back to the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying. Felt worse this time."
+    },
     {
       "tick": 3195,
       "action": "sleep",
@@ -32,14 +37,9 @@
       "tick": 3190,
       "action": "computer",
       "text": "Looked up how to play more piano notes in the browser. The white keys go C, D, E, F, G, A, B, then C again one octave higher."
-    },
-    {
-      "tick": 3190,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked up how to play more piano notes. Saw a favorite saved: GitHub, kittyxero."
     }
   ],
-  "pianoTakesCount": 96,
+  "pianoTakesCount": 97,
   "pianoTakes": [
     {
       "id": 1,
@@ -12058,6 +12058,81 @@
         {
           "n": 67,
           "dtMs": 33726
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "tick": 3196,
+      "startedAtISO": "2026-11-25T00:54:02.067Z",
+      "durationMs": 29472,
+      "outcome": "clumsy",
+      "playNumber": 269,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1330
+        },
+        {
+          "n": 60,
+          "dtMs": 2992
+        },
+        {
+          "n": 59,
+          "dtMs": 5008
+        },
+        {
+          "n": 58,
+          "dtMs": 7036
+        },
+        {
+          "n": 58,
+          "dtMs": 8786
+        },
+        {
+          "n": 61,
+          "dtMs": 10778
+        },
+        {
+          "n": 66,
+          "dtMs": 12808
+        },
+        {
+          "n": 62,
+          "dtMs": 14744
+        },
+        {
+          "n": 63,
+          "dtMs": 16454
+        },
+        {
+          "n": 61,
+          "dtMs": 18528
+        },
+        {
+          "n": 61,
+          "dtMs": 20130
+        },
+        {
+          "n": 64,
+          "dtMs": 22102
+        },
+        {
+          "n": 69,
+          "dtMs": 24202
+        },
+        {
+          "n": 70,
+          "dtMs": 25930
+        },
+        {
+          "n": 66,
+          "dtMs": 27872
         }
       ]
     }
