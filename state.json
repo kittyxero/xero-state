@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T15:34:12.104Z",
-  "tick": 3371,
+  "publishedAt": "2026-11-25T15:39:10.545Z",
+  "tick": 3372,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to bed and slept. I am not tired now. Feel fine.",
+  "latestText": "Woke up. Feel rested.",
   "feelings": {
-    "mood": 84,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 81,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3371,
+      "action": "sleep",
+      "text": "Woke up. Feel rested."
+    },
     {
       "tick": 3368,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3365,
       "action": "explore",
       "text": "Went out looking around again. Saw nothing I had not seen before. Birds singing outside. A bit bored now."
-    },
-    {
-      "tick": 3364,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked something up. Butterflies taste with their feet. Feel good. Still curious."
     }
   ],
   "pianoTakesCount": 122,
