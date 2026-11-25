@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T21:19:26.346Z",
-  "tick": 3440,
+  "publishedAt": "2026-11-25T21:24:13.861Z",
+  "tick": 3441,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. I kept playing anyway. Feel good. Curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer in my apartment. Learned a fact. Koalas have fingerprints almost exactly matching a person's fingerprints. Feel good. Curious.",
   "feelings": {
-    "mood": 92,
+    "mood": 95,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 83
   },
   "recentDiary": [
+    {
+      "tick": 3441,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer in my apartment. Learned a fact. Koalas have fingerprints almost exactly matching a person's fingerprints. Feel good. Curious."
+    },
     {
       "tick": 3440,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3437,
       "action": "listen",
       "text": "Stayed outside and listened. Crickets. No new sounds. A bit bored. Feel good. Curious."
-    },
-    {
-      "tick": 3436,
-      "action": "sleep",
-      "text": "Woke up. Feel rested. Fine. I played my piano before I slept. One note came out clear."
     }
   ],
   "pianoTakesCount": 132,
