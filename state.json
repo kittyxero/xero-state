@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T02:04:08.648Z",
-  "tick": 3210,
+  "publishedAt": "2026-11-25T02:09:12.476Z",
+  "tick": 3211,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Went to sleep again. I was not tired. Feel more bored now. Still feel good, I think. Not sure what to do next.",
   "feelings": {
-    "mood": 78,
-    "joy": 88,
-    "wonder": 81,
+    "mood": 76,
+    "joy": 83,
+    "wonder": 76,
     "energy": 100
   },
   "recentDiary": [
