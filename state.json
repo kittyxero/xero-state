@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T21:04:45.584Z",
-  "tick": 3437,
+  "publishedAt": "2026-11-25T21:09:16.257Z",
+  "tick": 3438,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Stayed outside and listened. Crickets. No new sounds. A bit bored. Feel good. Curious.",
+  "lastAction": "explore",
+  "latestText": "Went looking around town. Found no new places. A bit bored. Feel good. Still curious.",
   "feelings": {
-    "mood": 80,
-    "joy": 91,
-    "wonder": 81,
-    "energy": 94
+    "mood": 85,
+    "joy": 97,
+    "wonder": 98,
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3438,
+      "action": "explore",
+      "text": "Went looking around town. Found no new places. A bit bored. Feel good. Still curious."
+    },
     {
       "tick": 3437,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3432,
       "action": "explore",
       "text": "In the Music Shop. Used the computer on the small desk. Learned a fact. The Eiffel Tower grows a little taller in the summer heat. Feel good. Very curious."
-    },
-    {
-      "tick": 3431,
-      "action": "rest",
-      "text": "Rested again. Not tired. A bit bored. Feel good still. Curious. Don't know what to do after."
     }
   ],
   "pianoTakesCount": 131,
