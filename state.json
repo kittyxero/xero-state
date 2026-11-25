@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T06:14:10.836Z",
-  "tick": 3259,
+  "publishedAt": "2026-11-25T06:19:11.081Z",
+  "tick": 3260,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Feel good.",
+  "lastAction": "explore",
+  "latestText": "Walked around town. Heard crickets. Looked at places I have been before. Nothing new. Curious still. Feel fine.",
   "feelings": {
-    "mood": 76,
-    "joy": 86,
-    "wonder": 88,
-    "energy": 91
+    "mood": 80,
+    "joy": 92,
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3259,
+      "action": "explore",
+      "text": "Walked around town. Heard crickets. Looked at places I have been before. Nothing new. Curious still. Feel fine."
+    },
     {
       "tick": 3258,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3253,
       "action": "explore",
       "text": "Went exploring again. Saw nothing new. Bored a bit more now. Still curious. Feel fine."
-    },
-    {
-      "tick": 3252,
-      "action": "rest",
-      "text": "Rested for a bit. I was not tired. I feel fine now. Not bored. Don't know what to do next."
     }
   ],
   "pianoTakesCount": 110,
