@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T02:39:29.240Z",
-  "tick": 3217,
+  "publishedAt": "2026-11-25T02:44:18.803Z",
+  "tick": 3218,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Felt a bit worse this time.",
+  "lastAction": "explore",
+  "latestText": "Sat in the library. Read The Time Machine. A man builds a machine and goes far into the future. Felt more boring this time.",
   "feelings": {
-    "mood": 85,
+    "mood": 83,
     "joy": 100,
     "wonder": 100,
-    "energy": 90
+    "energy": 76
   },
   "recentDiary": [
+    {
+      "tick": 3217,
+      "action": "explore",
+      "text": "Sat in the library. Read The Time Machine. A man builds a machine and goes far into the future. Felt more boring this time."
+    },
     {
       "tick": 3216,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3213,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel good."
-    },
-    {
-      "tick": 3212,
-      "action": "sleep",
-      "text": "Woke up. Feel fine."
     }
   ],
   "pianoTakesCount": 101,
