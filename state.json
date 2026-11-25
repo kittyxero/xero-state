@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T20:59:16.555Z",
-  "tick": 3436,
+  "publishedAt": "2026-11-25T21:04:45.584Z",
+  "tick": 3437,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Sleeping again now. Not tired. More bored this time for doing it again. I will stay asleep a while and wake on my own. Curious still. Fine otherwise.",
+  "asleep": false,
+  "lastAction": "listen",
+  "latestText": "Stayed outside and listened. Crickets. No new sounds. A bit bored. Feel good. Curious.",
   "feelings": {
-    "mood": 74,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 80,
+    "joy": 91,
+    "wonder": 81,
+    "energy": 94
   },
   "recentDiary": [
+    {
+      "tick": 3437,
+      "action": "listen",
+      "text": "Stayed outside and listened. Crickets. No new sounds. A bit bored. Feel good. Curious."
+    },
+    {
+      "tick": 3436,
+      "action": "sleep",
+      "text": "Woke up. Feel rested. Fine. I played my piano before I slept. One note came out clear."
+    },
     {
       "tick": 3433,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3431,
       "action": "rest",
       "text": "Rested again. Not tired. A bit bored. Feel good still. Curious. Don't know what to do after."
-    },
-    {
-      "tick": 3430,
-      "action": "listen",
-      "text": "Listened outside. Crickets again. Same sounds as before. A bit bored. Feel good. Curious."
-    },
-    {
-      "tick": 3429,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Still curious."
     }
   ],
   "pianoTakesCount": 131,
