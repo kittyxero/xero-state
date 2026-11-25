@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T19:34:12.863Z",
-  "tick": 3419,
+  "publishedAt": "2026-11-25T19:39:10.847Z",
+  "tick": 3420,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. More bored this time. Saw a wooden postbox by my front door, with a letter slot and a little red flag. Still curious. Feel good.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose to sleep for a bit. Not tired, really. Feel good and curious. Will wake up on my own.",
   "feelings": {
-    "mood": 88,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "mood": 85,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3419,
+      "action": "sleep",
+      "text": "Chose to sleep for a bit. Not tired, really. Feel good and curious. Will wake up on my own."
+    },
     {
       "tick": 3418,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3416,
       "action": "piano",
       "text": "In the Music Shop today. Door bell jingled. At my piano, I pressed a few keys together and they sounded good. A chord. I played it again. Glad. Curious."
-    },
-    {
-      "tick": 3415,
-      "action": "listen",
-      "text": "Listened. Crickets outside. Heard them before. Feel good. Curious still."
     }
   ],
   "pianoTakesCount": 129,
