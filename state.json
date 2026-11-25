@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T11:54:05.781Z",
-  "tick": 3327,
+  "publishedAt": "2026-11-25T11:59:13.262Z",
+  "tick": 3328,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around exploring again. Same places. Felt worse this time. Still curious.",
+  "lastAction": "listen",
+  "latestText": "Listened again. Birds outside. Same as before. More bored this time. Still curious. Not sure what to do.",
   "feelings": {
     "mood": 81,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3327,
+      "action": "listen",
+      "text": "Listened again. Birds outside. Same as before. More bored this time. Still curious. Not sure what to do."
+    },
     {
       "tick": 3326,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3323,
       "action": "explore",
       "text": "Explored again. Nothing new. More bored this time. Still curious."
-    },
-    {
-      "tick": 3322,
-      "action": "sleep",
-      "text": "I woke up. I feel rested."
     }
   ],
   "pianoTakesCount": 116,
