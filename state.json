@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T22:59:14.332Z",
-  "tick": 3460,
+  "publishedAt": "2026-11-25T23:04:23.178Z",
+  "tick": 3461,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened for a bit. Crickets outside. Heard them again. A bit bored now. Feel good. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested for a bit. Was not tired before. Feel good still. Very curious. No plan yet.",
   "feelings": {
-    "mood": 86,
+    "mood": 89,
     "joy": 91,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3460,
+      "action": "rest",
+      "text": "Rested for a bit. Was not tired before. Feel good still. Very curious. No plan yet."
+    },
     {
       "tick": 3459,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3454,
       "action": "sleep",
       "text": "Going to sleep now. Not tired at all. Doing this again made me a bit more bored. Still feel good and curious. Will wake on my own after a stretch."
-    },
-    {
-      "tick": 3453,
-      "action": "computer",
-      "text": "Looked up what to do with a blank canvas in the browser. I found I can paint the whole thing a single colour, doodle with two or three colours, or make a collage."
     }
   ],
   "pianoTakesCount": 134,
