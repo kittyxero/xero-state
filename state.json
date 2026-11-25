@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T20:44:11.764Z",
-  "tick": 3433,
+  "publishedAt": "2026-11-25T20:49:13.655Z",
+  "tick": 3434,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "In the Music Shop. Used the computer on the small desk. Learned a fact. The Eiffel Tower grows a little taller in the summer heat. Feel good. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Sleeping again now. Not tired. More bored this time for doing it again. I will stay asleep a while and wake on my own. Curious still. Fine otherwise.",
   "feelings": {
-    "mood": 84,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 76,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3433,
+      "action": "sleep",
+      "text": "Sleeping again now. Not tired. More bored this time for doing it again. I will stay asleep a while and wake on my own. Curious still. Fine otherwise."
+    },
     {
       "tick": 3432,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3429,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Still curious."
-    },
-    {
-      "tick": 3425,
-      "action": "sleep",
-      "text": "Chose sleep again. I am not tired. Bored a bit more for it. I will wake by myself later. Curious still."
     }
   ],
   "pianoTakesCount": 131,
