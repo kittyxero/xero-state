@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T13:54:07.117Z",
-  "tick": 3351,
+  "publishedAt": "2026-11-25T13:59:13.541Z",
+  "tick": 3352,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. I don't know how I feel.",
+  "lastAction": "explore",
+  "latestText": "Explored for a bit. Went to the edge of town. Found nothing new. Not tired. Curious.",
   "feelings": {
-    "mood": 72,
-    "joy": 78,
-    "wonder": 72,
-    "energy": 100
+    "mood": 77,
+    "joy": 84,
+    "wonder": 91,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3351,
+      "action": "explore",
+      "text": "Explored for a bit. Went to the edge of town. Found nothing new. Not tired. Curious."
+    },
     {
       "tick": 3350,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3345,
       "action": "piano",
       "text": "Went in the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. Kept trying anyway."
-    },
-    {
-      "tick": 3344,
-      "action": "sleep",
-      "text": "Woke up. I don't know how I feel."
     }
   ],
   "pianoTakesCount": 119,
