@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T17:49:06.271Z",
-  "tick": 3398,
+  "publishedAt": "2026-11-25T17:54:04.795Z",
+  "tick": 3399,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around exploring. Saw the Main Street shop rows again. Nothing new. Still curious. Feel good.",
+  "lastAction": "listen",
+  "latestText": "Listened for a bit. Birds are singing outside. Same sounds. Feel good. Still curious.",
   "feelings": {
-    "mood": 85,
-    "joy": 95,
-    "wonder": 100,
-    "energy": 78
+    "mood": 96,
+    "joy": 100,
+    "wonder": 95,
+    "energy": 94
   },
   "recentDiary": [
+    {
+      "tick": 3399,
+      "action": "listen",
+      "text": "Listened for a bit. Birds are singing outside. Same sounds. Feel good. Still curious."
+    },
+    {
+      "tick": 3398,
+      "action": "rest",
+      "text": "Rested for a bit. I was not tired. Feel good. Not sure what to do next."
+    },
     {
       "tick": 3397,
       "action": "explore",
@@ -27,16 +37,6 @@
       "tick": 3396,
       "action": "computer",
       "text": "Sat in the chair and used the computer. Looked up wrong and clumsy piano notes. Saw a favorite: GitHub, my account kittyxero. Feel good. Curious."
-    },
-    {
-      "tick": 3395,
-      "action": "sleep",
-      "text": "Woke up. I feel fine."
-    },
-    {
-      "tick": 3392,
-      "action": "sleep",
-      "text": "Chose to sleep. I was not tired. Feel fine. Curious still. Not sure what I will do after."
     }
   ],
   "pianoTakesCount": 126,
