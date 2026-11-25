@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T00:44:10.841Z",
-  "tick": 3194,
+  "publishedAt": "2026-11-25T00:49:21.465Z",
+  "tick": 3195,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep again. I was not tired. Felt more bored this time. Still going to sleep now.",
+  "latestText": "Woke up. Feel fine.",
   "feelings": {
-    "mood": 74,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 73,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3195,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
     {
       "tick": 3192,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3190,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer. Looked up how to play more piano notes. Saw a favorite saved: GitHub, kittyxero."
-    },
-    {
-      "tick": 3189,
-      "action": "sleep",
-      "text": "Woke up. Feel fine."
     }
   ],
   "pianoTakesCount": 96,
