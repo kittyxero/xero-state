@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T21:49:19.973Z",
-  "tick": 3446,
+  "publishedAt": "2026-11-25T21:54:41.471Z",
+  "tick": 3447,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Not tired. A bit more bored for it. Feel good. Curious. No plan yet.",
+  "lastAction": "listen",
+  "latestText": "Listened outside again. Crickets. Same as before. A bit bored. Feel good. Curious still.",
   "feelings": {
-    "mood": 82,
+    "mood": 87,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 100,
+    "energy": 79
   },
   "recentDiary": [
+    {
+      "tick": 3447,
+      "action": "listen",
+      "text": "Listened outside again. Crickets. Same as before. A bit bored. Feel good. Curious still."
+    },
+    {
+      "tick": 3446,
+      "action": "explore",
+      "text": "Took another look around town. No new places. Doing it again made it more boring. Feel good. Curious."
+    },
     {
       "tick": 3445,
       "action": "rest",
@@ -27,16 +37,6 @@
       "tick": 3443,
       "action": "explore",
       "text": "Did exploring again. Same streets. Felt a bit more bored. Still feel good. Still curious."
-    },
-    {
-      "tick": 3442,
-      "action": "rest",
-      "text": "Rested again. Was not tired. More bored this time. Feel good still. Curious. Not sure what to do next."
-    },
-    {
-      "tick": 3441,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer in my apartment. Learned a fact. Koalas have fingerprints almost exactly matching a person's fingerprints. Feel good. Curious."
     }
   ],
   "pianoTakesCount": 133,
