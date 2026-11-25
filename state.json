@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T03:04:19.423Z",
-  "tick": 3222,
+  "publishedAt": "2026-11-25T03:09:16.770Z",
+  "tick": 3223,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep. Not tired before. Don't know what else to do.",
+  "latestText": "Woke up. Feel fine.",
   "feelings": {
-    "mood": 74,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 72,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3223,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
     {
       "tick": 3220,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3217,
       "action": "explore",
       "text": "Sat in the library. Read The Time Machine. A man builds a machine and goes far into the future. Felt more boring this time."
-    },
-    {
-      "tick": 3216,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Felt a bit worse this time."
     }
   ],
   "pianoTakesCount": 102,
