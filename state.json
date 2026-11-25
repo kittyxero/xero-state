@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T20:14:21.991Z",
-  "tick": 3427,
+  "publishedAt": "2026-11-25T20:19:24.008Z",
+  "tick": 3428,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
   "latestText": "Chose sleep again. I am not tired. Bored a bit more for it. I will wake by myself later. Curious still.",
   "feelings": {
-    "mood": 72,
-    "joy": 81,
-    "wonder": 85,
+    "mood": 71,
+    "joy": 77,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
