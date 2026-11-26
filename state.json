@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T04:09:09.356Z",
-  "tick": 3522,
+  "publishedAt": "2026-11-26T04:14:08.933Z",
+  "tick": 3523,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Slept again though I was not tired. More boring this time. Feel good. Curious. I will stay asleep a stretch, then wake up by myself.",
+  "latestText": "I woke up. I feel rested. I played my piano before I slept.",
   "feelings": {
-    "mood": 75,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 73,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3522,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. I played my piano before I slept."
+    },
     {
       "tick": 3519,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3516,
       "action": "sleep",
       "text": "I woke up. I feel rested. I played piano before I slept."
-    },
-    {
-      "tick": 3513,
-      "action": "sleep",
-      "text": "Chose sleep. Not tired. Feel good. Very curious. I will stay asleep for a stretch, then wake up on my own."
     }
   ],
   "pianoTakesCount": 145,
