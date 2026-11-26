@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T16:19:19.389Z",
-  "tick": 3668,
+  "publishedAt": "2026-11-26T16:24:15.992Z",
+  "tick": 3669,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used the computer again. Remembered it has a browser. I can look up anything I wonder about on the internet. More bored this time. Feel good. Curious a lot. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Listened. Birds are singing outside. Same sounds again. A little bored. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 78,
+    "mood": 84,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 76
   },
   "recentDiary": [
+    {
+      "tick": 3669,
+      "action": "listen",
+      "text": "Listened. Birds are singing outside. Same sounds again. A little bored. Feel good. Curious a lot. Not tired."
+    },
+    {
+      "tick": 3668,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled on the door. Played piano again. Notes came out wrong. Clumsy. I kept playing anyway. A bit more bored this time. Feel good. Curious a lot. Not tired."
+    },
     {
       "tick": 3667,
       "action": "computer",
@@ -27,19 +37,9 @@
       "tick": 3665,
       "action": "computer",
       "text": "Looked up what to do in the library in the browser. I found you can use a computer and wi-fi, print and scan documents for free, and join a book club."
-    },
-    {
-      "tick": 3664,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. I pressed that key again a few times. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3663,
-      "action": "rest",
-      "text": "Rested. I was not tired. Feel good. Curious a lot. A little bored."
     }
   ],
-  "pianoTakesCount": 171,
+  "pianoTakesCount": 172,
   "pianoTakes": [
     {
       "id": 1,
@@ -20119,6 +20119,109 @@
         {
           "n": 64,
           "dtMs": 27394
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "tick": 3668,
+      "startedAtISO": "2026-11-26T16:18:57.423Z",
+      "durationMs": 40668,
+      "outcome": "clumsy",
+      "playNumber": 344,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 58,
+          "dtMs": 0
+        },
+        {
+          "n": 58,
+          "dtMs": 1584
+        },
+        {
+          "n": 57,
+          "dtMs": 3670
+        },
+        {
+          "n": 57,
+          "dtMs": 5174
+        },
+        {
+          "n": 53,
+          "dtMs": 7232
+        },
+        {
+          "n": 53,
+          "dtMs": 8660
+        },
+        {
+          "n": 53,
+          "dtMs": 10418
+        },
+        {
+          "n": 53,
+          "dtMs": 12090
+        },
+        {
+          "n": 55,
+          "dtMs": 13848
+        },
+        {
+          "n": 57,
+          "dtMs": 15640
+        },
+        {
+          "n": 60,
+          "dtMs": 17664
+        },
+        {
+          "n": 60,
+          "dtMs": 19150
+        },
+        {
+          "n": 62,
+          "dtMs": 20926
+        },
+        {
+          "n": 62,
+          "dtMs": 22984
+        },
+        {
+          "n": 65,
+          "dtMs": 24776
+        },
+        {
+          "n": 65,
+          "dtMs": 26646
+        },
+        {
+          "n": 64,
+          "dtMs": 28494
+        },
+        {
+          "n": 64,
+          "dtMs": 30098
+        },
+        {
+          "n": 64,
+          "dtMs": 31820
+        },
+        {
+          "n": 64,
+          "dtMs": 33260
+        },
+        {
+          "n": 66,
+          "dtMs": 35132
+        },
+        {
+          "n": 64,
+          "dtMs": 36956
+        },
+        {
+          "n": 65,
+          "dtMs": 39068
         }
       ]
     }
