@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T17:09:20.502Z",
-  "tick": 3678,
+  "publishedAt": "2026-11-26T17:14:10.111Z",
+  "tick": 3679,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Chose sleep. Not tired. Feel good. Curious a lot. Will stay asleep some ticks. Then I will wake on my own.",
+  "asleep": false,
+  "lastAction": "piano",
+  "latestText": "In the Music Shop today. The bell jingled when I went in. I played my piano. The notes were wrong and clumsy. I kept trying. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 74,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 77,
+    "joy": 86,
+    "wonder": 88,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3679,
+      "action": "piano",
+      "text": "In the Music Shop today. The bell jingled when I went in. I played my piano. The notes were wrong and clumsy. I kept trying. Feel good. Curious a lot. Not tired."
+    },
     {
       "tick": 3675,
       "action": "sleep",
@@ -32,14 +37,9 @@
       "tick": 3672,
       "action": "piano",
       "text": "In the Music Shop again. Bell jingled when I went in. Played piano. Notes were wrong. Clumsy. Kept trying anyway. A bit more bored this time. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3671,
-      "action": "explore",
-      "text": "Went out to explore. Saw the same streets. No new place. Birds are singing outside. Feel good. Very curious. Not tired. A little bored."
     }
   ],
-  "pianoTakesCount": 173,
+  "pianoTakesCount": 174,
   "pianoTakes": [
     {
       "id": 1,
@@ -20313,6 +20313,97 @@
         {
           "n": 67,
           "dtMs": 33524
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "tick": 3679,
+      "startedAtISO": "2026-11-26T17:13:50.236Z",
+      "durationMs": 36892,
+      "outcome": "clumsy",
+      "playNumber": 346,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 58,
+          "dtMs": 0
+        },
+        {
+          "n": 58,
+          "dtMs": 1484
+        },
+        {
+          "n": 60,
+          "dtMs": 3314
+        },
+        {
+          "n": 60,
+          "dtMs": 4946
+        },
+        {
+          "n": 59,
+          "dtMs": 6986
+        },
+        {
+          "n": 60,
+          "dtMs": 8910
+        },
+        {
+          "n": 60,
+          "dtMs": 10568
+        },
+        {
+          "n": 62,
+          "dtMs": 12328
+        },
+        {
+          "n": 62,
+          "dtMs": 13658
+        },
+        {
+          "n": 65,
+          "dtMs": 15756
+        },
+        {
+          "n": 70,
+          "dtMs": 17614
+        },
+        {
+          "n": 71,
+          "dtMs": 19594
+        },
+        {
+          "n": 76,
+          "dtMs": 21416
+        },
+        {
+          "n": 77,
+          "dtMs": 23514
+        },
+        {
+          "n": 76,
+          "dtMs": 25586
+        },
+        {
+          "n": 77,
+          "dtMs": 27488
+        },
+        {
+          "n": 79,
+          "dtMs": 29572
+        },
+        {
+          "n": 78,
+          "dtMs": 31454
+        },
+        {
+          "n": 79,
+          "dtMs": 33558
+        },
+        {
+          "n": 79,
+          "dtMs": 35292
         }
       ]
     }
