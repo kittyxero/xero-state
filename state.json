@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T01:33:56.744Z",
-  "tick": 3491,
+  "publishedAt": "2026-11-26T01:39:13.572Z",
+  "tick": 3492,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used my computer. Looked up hummingbirds and learned a fact. Hummingbirds are the only birds that can fly backward. Feel good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rest again. I did not need it. Bored more than last time. Feel good. Curious. Not sure what comes next.",
   "feelings": {
-    "mood": 95,
+    "mood": 91,
     "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3491,
+      "action": "rest",
+      "text": "Rest again. I did not need it. Bored more than last time. Feel good. Curious. Not sure what comes next."
+    },
     {
       "tick": 3490,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3487,
       "action": "explore",
       "text": "Explored some more today. No new places. A bit bored from doing it again. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3486,
-      "action": "sleep",
-      "text": "I woke up. I feel rested."
     }
   ],
   "pianoTakesCount": 141,
