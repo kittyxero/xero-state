@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T09:54:06.955Z",
-  "tick": 3591,
+  "publishedAt": "2026-11-26T09:59:12.644Z",
+  "tick": 3592,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Music Shop again. Bell jingled when I went in. I played piano. Notes were wrong and clumsy again. I kept playing anyway. More bored doing it again. Still good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested again today. I was not sleepy. A bit more bored after it. Okay for now. Still curious.",
   "feelings": {
-    "mood": 73,
+    "mood": 70,
     "joy": 100,
-    "wonder": 100,
-    "energy": 82
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3591,
+      "action": "rest",
+      "text": "Rested again today. I was not sleepy. A bit more bored after it. Okay for now. Still curious."
+    },
     {
       "tick": 3590,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3587,
       "action": "piano",
       "text": "Music Shop again. Bell jingled at the door. I played my piano. Notes sounded wrong, clumsy. I did not stop trying. Doing it again was more boring. Okay still. Curious. Not tired."
-    },
-    {
-      "tick": 3586,
-      "action": "explore",
-      "text": "Went out to explore again. Same streets. Birds singing. Nothing new found. More bored this time. Still feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 160,
