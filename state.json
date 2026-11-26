@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T05:29:05.558Z",
-  "tick": 3538,
+  "publishedAt": "2026-11-26T05:34:03.661Z",
+  "tick": 3539,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Saw the same streets. Nothing new. Still very curious. Feel good. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Took another rest anyway. Energy high. Bored a bit more now. Feel good and very curious.",
   "feelings": {
-    "mood": 79,
+    "mood": 76,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3538,
+      "action": "rest",
+      "text": "Took another rest anyway. Energy high. Bored a bit more now. Feel good and very curious."
+    },
     {
       "tick": 3537,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3534,
       "action": "computer",
       "text": "Used the computer in my apartment again. Sat in the chair at the desk. Searched octopuses. Octopuses have three hearts. I remembered that. I knew it before. A bit more boring again. Still good. Very curious. Not tired."
-    },
-    {
-      "tick": 3533,
-      "action": "piano",
-      "text": "Music Shop again. Bell jingled on the way in. Played piano. Pressed some keys together and they sounded good. A chord. Played that chord again. More bored this time. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 150,
