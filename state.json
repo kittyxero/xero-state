@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T21:04:18.655Z",
-  "tick": 3725,
+  "publishedAt": "2026-11-26T21:09:13.609Z",
+  "tick": 3726,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened just now. Crickets sounding outside. Same sounds. Feel good. Very curious. Not tired. A bit bored.",
+  "lastAction": "rest",
+  "latestText": "Took a rest. I was not tired. More bored after. Feel good. Curious a lot.",
   "feelings": {
-    "mood": 74,
+    "mood": 70,
     "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3725,
+      "action": "rest",
+      "text": "Took a rest. I was not tired. More bored after. Feel good. Curious a lot."
+    },
     {
       "tick": 3724,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3721,
       "action": "piano",
       "text": "In the Music Shop today. The bell jingled when I went in. Played my piano. One note sounded clear and nice. I pressed that key a few more times. Felt worse this time. Still good and curious. Not tired."
-    },
-    {
-      "tick": 3720,
-      "action": "explore",
-      "text": "In the library. Read The Road to Oz. Dorothy went to Oz again with new companions. Used the computer. Learned cows have best friends and get stressed when kept apart. More bored this time. Feel good. Curious. Not tired."
     }
   ],
   "pianoTakesCount": 183,
