@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T21:19:10.979Z",
-  "tick": 3728,
+  "publishedAt": "2026-11-26T21:24:16.769Z",
+  "tick": 3729,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Went in the Music Shop and used the computer. Looked up why crickets make the same sounds. Saw a saved favorite, GitHub, kittyxero. Not finished reading. More bored. Feel okay. Curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested just now. Not tired at all. Bored more this time. Feel okay. Curious a lot.",
   "feelings": {
-    "mood": 67,
+    "mood": 64,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3728,
+      "action": "rest",
+      "text": "Rested just now. Not tired at all. Bored more this time. Feel okay. Curious a lot."
+    },
     {
       "tick": 3727,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3725,
       "action": "rest",
       "text": "Took a rest. I was not tired. More bored after. Feel good. Curious a lot."
-    },
-    {
-      "tick": 3724,
-      "action": "listen",
-      "text": "Listened just now. Crickets sounding outside. Same sounds. Feel good. Very curious. Not tired. A bit bored."
     }
   ],
   "pianoTakesCount": 184,
