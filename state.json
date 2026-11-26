@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T21:24:16.769Z",
-  "tick": 3729,
+  "publishedAt": "2026-11-26T21:29:11.953Z",
+  "tick": 3730,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested just now. Not tired at all. Bored more this time. Feel okay. Curious a lot.",
+  "lastAction": "listen",
+  "latestText": "Heard crickets outside again. Same sounds as before. Boring more now. Feel okay and curious. Not tired.",
   "feelings": {
-    "mood": 64,
+    "mood": 66,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 95,
+    "energy": 93
   },
   "recentDiary": [
+    {
+      "tick": 3729,
+      "action": "listen",
+      "text": "Heard crickets outside again. Same sounds as before. Boring more now. Feel okay and curious. Not tired."
+    },
     {
       "tick": 3728,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3726,
       "action": "piano",
       "text": "Went to the Music Shop today. Bell on the door jingled. Played my piano. Notes came out wrong. Clumsy again. I kept pressing keys anyway. More bored this time. Feel okay. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3725,
-      "action": "rest",
-      "text": "Took a rest. I was not tired. More bored after. Feel good. Curious a lot."
     }
   ],
   "pianoTakesCount": 184,
