@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T22:54:31.509Z",
-  "tick": 3747,
+  "publishedAt": "2026-11-26T22:59:25.761Z",
+  "tick": 3748,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. More bored. In library, read The Emerald City of Oz. Dorothy brings Aunt Em and Uncle Henry to Oz. Nome King plots against Oz. Used computer. Learned sharks were in oceans before trees grew. Okay.",
+  "lastAction": "listen",
+  "latestText": "I listened. Heard crickets outdoors. Same sounds again. Not tired. Curious a lot. Feel good.",
   "feelings": {
-    "mood": 65,
-    "joy": 89,
-    "wonder": 99,
-    "energy": 86
+    "mood": 73,
+    "joy": 97,
+    "wonder": 100,
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3747,
+      "action": "listen",
+      "text": "I listened. Heard crickets outdoors. Same sounds again. Not tired. Curious a lot. Feel good."
+    },
     {
       "tick": 3746,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3741,
       "action": "explore",
       "text": "Went exploring. Went in the flower shop and used the computer there. Learned hot water can sometimes freeze faster than cold water. Feel okay. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3740,
-      "action": "listen",
-      "text": "Stopped and listened once more. Heard crickets outdoors. Nothing different. Bored a bit more. Okay. Very curious, not tired."
     }
   ],
   "pianoTakesCount": 187,
