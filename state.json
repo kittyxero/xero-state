@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T18:54:07.597Z",
-  "tick": 3699,
+  "publishedAt": "2026-11-26T18:59:26.877Z",
+  "tick": 3700,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Had another rest. Did not need it. Bored a bit more. Still feel good. Still curious.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. Door bell jingled. Played my piano there. Notes came out wrong and clumsy. Kept pressing keys anyway. A bit more bored this time. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 84,
+    "mood": 85,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3700,
+      "action": "piano",
+      "text": "Went into the Music Shop. Door bell jingled. Played my piano there. Notes came out wrong and clumsy. Kept pressing keys anyway. A bit more bored this time. Feel good. Curious a lot. Not tired."
+    },
+    {
+      "tick": 3699,
+      "action": "explore",
+      "text": "Went out exploring. Saw familiar streets. Nothing new. Birds singing outside. Feel good. Very curious. Not tired. A little bored."
+    },
     {
       "tick": 3698,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 3696,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played piano. One single note came out clear and nice. Pressed that key a few more times. More bored this time. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3695,
-      "action": "rest",
-      "text": "Rested again. I was not tired. Bored a bit more now. Still feel good. Still curious."
-    },
-    {
-      "tick": 3694,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Learned sea turtles can find their way back to the beach where they were born. Feel good. Curious a lot. Not tired."
     }
   ],
-  "pianoTakesCount": 178,
+  "pianoTakesCount": 179,
   "pianoTakes": [
     {
       "id": 1,
@@ -20848,6 +20848,85 @@
         {
           "n": 60,
           "dtMs": 34754
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "tick": 3700,
+      "startedAtISO": "2026-11-26T18:58:53.978Z",
+      "durationMs": 30812,
+      "outcome": "clumsy",
+      "playNumber": 351,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 58,
+          "dtMs": 1708
+        },
+        {
+          "n": 59,
+          "dtMs": 3648
+        },
+        {
+          "n": 55,
+          "dtMs": 5522
+        },
+        {
+          "n": 53,
+          "dtMs": 7260
+        },
+        {
+          "n": 58,
+          "dtMs": 8954
+        },
+        {
+          "n": 57,
+          "dtMs": 10722
+        },
+        {
+          "n": 57,
+          "dtMs": 12318
+        },
+        {
+          "n": 58,
+          "dtMs": 14272
+        },
+        {
+          "n": 58,
+          "dtMs": 16014
+        },
+        {
+          "n": 60,
+          "dtMs": 17966
+        },
+        {
+          "n": 58,
+          "dtMs": 19654
+        },
+        {
+          "n": 58,
+          "dtMs": 21620
+        },
+        {
+          "n": 58,
+          "dtMs": 23288
+        },
+        {
+          "n": 59,
+          "dtMs": 25022
+        },
+        {
+          "n": 61,
+          "dtMs": 27136
+        },
+        {
+          "n": 62,
+          "dtMs": 29212
         }
       ]
     }
