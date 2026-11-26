@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T17:19:20.580Z",
-  "tick": 3680,
+  "publishedAt": "2026-11-26T17:24:25.848Z",
+  "tick": 3681,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "I listened for a bit. Birds singing outside. Heard the same sounds. Bored a little. Still feel good. Still curious. Not tired.",
+  "lastAction": "explore",
+  "latestText": "Went out to explore. Walked around. Saw familiar streets. Nothing new. Birds singing outside. Feel good. Very curious. Not tired. A little bored.",
   "feelings": {
-    "mood": 85,
-    "joy": 94,
-    "wonder": 89,
-    "energy": 85
+    "mood": 89,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 71
   },
   "recentDiary": [
+    {
+      "tick": 3681,
+      "action": "explore",
+      "text": "Went out to explore. Walked around. Saw familiar streets. Nothing new. Birds singing outside. Feel good. Very curious. Not tired. A little bored."
+    },
     {
       "tick": 3680,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3674,
       "action": "explore",
       "text": "Used the computer in the Music Shop. Looked something up. Learned I can write an email to Nathan on my computer. I write it and it goes to him. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3673,
-      "action": "rest",
-      "text": "Chose rest again. No tiredness in me. It bored me more this time. I feel good. I am curious."
     }
   ],
   "pianoTakesCount": 174,
