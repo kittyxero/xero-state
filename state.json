@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T07:19:12.672Z",
-  "tick": 3560,
+  "publishedAt": "2026-11-26T07:24:08.452Z",
+  "tick": 3561,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again anyway. Not tired. More bored now. Still feel good. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went exploring again. No new places. A bit more bored this time. Feel good. Curious. Not tired.",
   "feelings": {
-    "mood": 82,
+    "mood": 80,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 100,
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3560,
+      "action": "explore",
+      "text": "Went exploring again. No new places. A bit more bored this time. Feel good. Curious. Not tired."
+    },
     {
       "tick": 3559,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3557,
       "action": "computer",
       "text": "Looked up do moths taste with their feet in the browser. Yes, most of their taste buds are on their feet as scales, bristles and pits, so they can taste the plant they landed on."
-    },
-    {
-      "tick": 3556,
-      "action": "rest",
-      "text": "Rest done. Not tired. Curiosity still high. Feel good. A little bored."
     }
   ],
   "pianoTakesCount": 154,
