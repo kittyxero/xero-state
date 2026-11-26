@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T09:14:25.323Z",
-  "tick": 3583,
+  "publishedAt": "2026-11-26T09:19:20.975Z",
+  "tick": 3584,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Was not tired. More bored after. Still good. Curious a lot.",
+  "lastAction": "explore",
+  "latestText": "In the library. Read Ozma of Oz. Dorothy returns to Oz and helps rescue the Ev royal family from the Nome King. Used computer. Remembered sound travels slower than light, so thunder comes after lightning. More bored.",
   "feelings": {
-    "mood": 79,
+    "mood": 77,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 100,
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3583,
+      "action": "explore",
+      "text": "In the library. Read Ozma of Oz. Dorothy returns to Oz and helps rescue the Ev royal family from the Nome King. Used computer. Remembered sound travels slower than light, so thunder comes after lightning. More bored."
+    },
     {
       "tick": 3582,
       "action": "rest",
@@ -32,14 +37,9 @@
       "tick": 3579,
       "action": "rest",
       "text": "Chose to rest. Did not need to. Bored now, a little more. Good still. Curious, not tired."
-    },
-    {
-      "tick": 3578,
-      "action": "listen",
-      "text": "Chose to listen. Birds were singing outside. Same sounds. Feel good, curious a lot. Not tired. A little bored."
     }
   ],
-  "pianoTakesCount": 157,
+  "pianoTakesCount": 158,
   "pianoTakes": [
     {
       "id": 1,
@@ -18729,6 +18729,153 @@
         {
           "n": 74,
           "dtMs": 30964
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "tick": 3584,
+      "startedAtISO": "2026-11-26T09:19:02.107Z",
+      "durationMs": 34854,
+      "outcome": "chord",
+      "playNumber": 330,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 60,
+          "dtMs": 1106
+        },
+        {
+          "n": 63,
+          "dtMs": 2600
+        },
+        {
+          "n": 63,
+          "dtMs": 3740
+        },
+        {
+          "n": 62,
+          "dtMs": 5328
+        },
+        {
+          "n": 61,
+          "dtMs": 6636
+        },
+        {
+          "n": 61,
+          "dtMs": 8206
+        },
+        {
+          "n": 61,
+          "dtMs": 9710
+        },
+        {
+          "n": 57,
+          "dtMs": 11194
+        },
+        {
+          "n": 57,
+          "dtMs": 12438
+        },
+        {
+          "n": 60,
+          "dtMs": 13944
+        },
+        {
+          "n": 64,
+          "dtMs": 13944
+        },
+        {
+          "n": 67,
+          "dtMs": 13944
+        },
+        {
+          "n": 60,
+          "dtMs": 16202
+        },
+        {
+          "n": 64,
+          "dtMs": 16202
+        },
+        {
+          "n": 67,
+          "dtMs": 16202
+        },
+        {
+          "n": 60,
+          "dtMs": 17776
+        },
+        {
+          "n": 59,
+          "dtMs": 19158
+        },
+        {
+          "n": 59,
+          "dtMs": 20248
+        },
+        {
+          "n": 62,
+          "dtMs": 21704
+        },
+        {
+          "n": 60,
+          "dtMs": 23024
+        },
+        {
+          "n": 64,
+          "dtMs": 23864
+        },
+        {
+          "n": 67,
+          "dtMs": 24704
+        },
+        {
+          "n": 72,
+          "dtMs": 25544
+        },
+        {
+          "n": 67,
+          "dtMs": 26384
+        },
+        {
+          "n": 64,
+          "dtMs": 27224
+        },
+        {
+          "n": 62,
+          "dtMs": 28064
+        },
+        {
+          "n": 60,
+          "dtMs": 28904
+        },
+        {
+          "n": 57,
+          "dtMs": 31160
+        },
+        {
+          "n": 61,
+          "dtMs": 31160
+        },
+        {
+          "n": 64,
+          "dtMs": 31160
+        },
+        {
+          "n": 57,
+          "dtMs": 33254
+        },
+        {
+          "n": 61,
+          "dtMs": 33254
+        },
+        {
+          "n": 64,
+          "dtMs": 33254
         }
       ]
     }
