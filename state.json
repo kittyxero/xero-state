@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T01:14:14.518Z",
-  "tick": 3487,
+  "publishedAt": "2026-11-26T01:19:22.493Z",
+  "tick": 3488,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel rested.",
+  "lastAction": "rest",
+  "latestText": "Did rest today. No need for it. Bored some. Feel good. Curious still. No plan yet.",
   "feelings": {
-    "mood": 78,
-    "joy": 83,
-    "wonder": 80,
+    "mood": 86,
+    "joy": 89,
+    "wonder": 93,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3488,
+      "action": "rest",
+      "text": "Did rest today. No need for it. Bored some. Feel good. Curious still. No plan yet."
+    },
+    {
+      "tick": 3487,
+      "action": "explore",
+      "text": "Explored some more today. No new places. A bit bored from doing it again. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3486,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3482,
       "action": "piano",
       "text": "Music Shop again. Bell jingled on the way in. At the piano my playing came out wrong and clumsy again. I kept trying. More bored this time. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3481,
-      "action": "explore",
-      "text": "Went exploring again today. Found nothing new. A bit more bored for doing it again. Still feel good. Still curious."
-    },
-    {
-      "tick": 3480,
-      "action": "rest",
-      "text": "Did rest again today. No need for it. Doing it again was boring. I feel good anyway. I am curious. No plan."
     }
   ],
   "pianoTakesCount": 140,
