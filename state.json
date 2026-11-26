@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T20:39:50.705Z",
-  "tick": 3720,
+  "publishedAt": "2026-11-26T20:44:22.207Z",
+  "tick": 3721,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Took another rest just now. Already awake. It was boring again. Still feel good. Still curious.",
+  "lastAction": "explore",
+  "latestText": "In the library. Read The Road to Oz. Dorothy went to Oz again with new companions. Used the computer. Learned cows have best friends and get stressed when kept apart. More bored this time. Feel good. Curious. Not tired.",
   "feelings": {
-    "mood": 75,
+    "mood": 73,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3720,
+      "action": "explore",
+      "text": "In the library. Read The Road to Oz. Dorothy went to Oz again with new companions. Used the computer. Learned cows have best friends and get stressed when kept apart. More bored this time. Feel good. Curious. Not tired."
+    },
     {
       "tick": 3719,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3716,
       "action": "rest",
       "text": "Another rest. I was awake. Felt more bored after it. I feel good though. Very curious. Not sleepy."
-    },
-    {
-      "tick": 3715,
-      "action": "explore",
-      "text": "Went out again to explore. Streets were familiar. No new places. Crickets outside. Bored more than last time. Still good. Still curious. Not tired."
     }
   ],
   "pianoTakesCount": 182,
