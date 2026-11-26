@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T15:44:12.870Z",
-  "tick": 3661,
+  "publishedAt": "2026-11-26T15:49:22.431Z",
+  "tick": 3662,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel fine. Before sleep I walked out and saw only familiar streets.",
+  "lastAction": "explore",
+  "latestText": "Explored again today. Walked the streets I know. Found nothing new. Birds singing outside. Feel good. Not tired. Curious still. Bored a little.",
   "feelings": {
-    "mood": 72,
-    "joy": 83,
-    "wonder": 77,
-    "energy": 100
+    "mood": 77,
+    "joy": 89,
+    "wonder": 96,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3661,
+      "action": "explore",
+      "text": "Explored again today. Walked the streets I know. Found nothing new. Birds singing outside. Feel good. Not tired. Curious still. Bored a little."
+    },
     {
       "tick": 3660,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3655,
       "action": "rest",
       "text": "Chose a rest. No need for it. Still feel good. Still very curious. Bored a bit more."
-    },
-    {
-      "tick": 3654,
-      "action": "explore",
-      "text": "Walked out to explore again. Saw only familiar streets. Nothing different. Birds were singing. A little more bored now. Feel good. Very curious."
     }
   ],
   "pianoTakesCount": 170,
