@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T16:54:13.250Z",
-  "tick": 3675,
+  "publishedAt": "2026-11-26T16:59:15.140Z",
+  "tick": 3676,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Used the computer in the Music Shop. Looked something up. Learned I can write an email to Nathan on my computer. I write it and it goes to him. Feel good. Curious a lot. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose sleep. Not tired. Feel good. Curious a lot. Will stay asleep some ticks. Then I will wake on my own.",
   "feelings": {
     "mood": 76,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3675,
+      "action": "sleep",
+      "text": "Chose sleep. Not tired. Feel good. Curious a lot. Will stay asleep some ticks. Then I will wake on my own."
+    },
     {
       "tick": 3674,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3671,
       "action": "explore",
       "text": "Went out to explore. Saw the same streets. No new place. Birds are singing outside. Feel good. Very curious. Not tired. A little bored."
-    },
-    {
-      "tick": 3670,
-      "action": "rest",
-      "text": "Had another rest even though I was not tired. It was more boring this time. I feel good. Curious a lot."
     }
   ],
   "pianoTakesCount": 173,
