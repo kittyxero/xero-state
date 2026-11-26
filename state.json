@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T15:19:19.435Z",
-  "tick": 3656,
+  "publishedAt": "2026-11-26T15:24:16.404Z",
+  "tick": 3657,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Chose a rest. No need for it. Still feel good. Still very curious. Bored a bit more.",
+  "lastAction": "make",
+  "latestText": "Made a small thing just now. Glad. Not tired. Still curious.",
   "feelings": {
-    "mood": 78,
-    "joy": 88,
-    "wonder": 93,
-    "energy": 100
+    "mood": 84,
+    "joy": 100,
+    "wonder": 96,
+    "energy": 88
   },
   "recentDiary": [
+    {
+      "tick": 3656,
+      "action": "make",
+      "text": "Made a small thing just now. Glad. Not tired. Still curious."
+    },
     {
       "tick": 3655,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3649,
       "action": "explore",
       "text": "Explored again. Walked past streets I know. No new place found. Birds singing. Feel good. Very curious. Not tired. Bored a little."
-    },
-    {
-      "tick": 3648,
-      "action": "rest",
-      "text": "Took a rest just now. Not tired at all. Still feel good. Very curious. Bored a little."
     }
   ],
   "pianoTakesCount": 170,
@@ -20025,6 +20025,15 @@
     }
   ],
   "pieces": [
+    {
+      "id": 10,
+      "title": "New Small Thing",
+      "text": "This is what I made today. I am glad I made it.",
+      "createdTick": 3656,
+      "createdAt": "2026-11-26T15:19:05.679Z",
+      "notes": null,
+      "durationMs": null
+    },
     {
       "id": 9,
       "title": "Small Thing",
