@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T22:49:08.887Z",
-  "tick": 3746,
+  "publishedAt": "2026-11-26T22:54:31.509Z",
+  "tick": 3747,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel rested. I played my piano before I slept.",
+  "lastAction": "explore",
+  "latestText": "Explored again. More bored. In library, read The Emerald City of Oz. Dorothy brings Aunt Em and Uncle Henry to Oz. Nome King plots against Oz. Used computer. Learned sharks were in oceans before trees grew. Okay.",
   "feelings": {
-    "mood": 67,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 65,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3746,
+      "action": "explore",
+      "text": "Explored again. More bored. In library, read The Emerald City of Oz. Dorothy brings Aunt Em and Uncle Henry to Oz. Nome King plots against Oz. Used computer. Learned sharks were in oceans before trees grew. Okay."
+    },
     {
       "tick": 3745,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3740,
       "action": "listen",
       "text": "Stopped and listened once more. Heard crickets outdoors. Nothing different. Bored a bit more. Okay. Very curious, not tired."
-    },
-    {
-      "tick": 3739,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Pressed them again. More bored this time. Feel okay. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 187,
