@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T07:09:15.406Z",
-  "tick": 3558,
+  "publishedAt": "2026-11-26T07:14:24.651Z",
+  "tick": 3559,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "In the library. Read The Marvelous Land of Oz. Scarecrow and Tin Woodman have new adventures after Dorothy left. Used the computer. Looked up do moths taste with their feet. Saw GitHub favorite, kittyxero. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again anyway. Not tired. More bored now. Still feel good. Very curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 82,
     "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3559,
+      "action": "rest",
+      "text": "Rested again anyway. Not tired. More bored now. Still feel good. Very curious."
+    },
+    {
+      "tick": 3558,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played the piano. One note sounded clear. Pressed it again a few times. More bored this time. Still feel good. Curious. Not tired."
+    },
     {
       "tick": 3557,
       "action": "explore",
@@ -27,19 +37,9 @@
       "tick": 3556,
       "action": "rest",
       "text": "Rest done. Not tired. Curiosity still high. Feel good. A little bored."
-    },
-    {
-      "tick": 3555,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked up butterflies. Butterflies taste with their feet. I remembered it. I knew it before. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3554,
-      "action": "piano",
-      "text": "Went in the Music Shop. The bell jingled. Played my piano there. One note sounded clear and good. I pressed the same key a few more times. Feel good. Very curious. Not tired."
     }
   ],
-  "pianoTakesCount": 153,
+  "pianoTakesCount": 154,
   "pianoTakes": [
     {
       "id": 1,
@@ -18273,6 +18273,121 @@
         {
           "n": 64,
           "dtMs": 32844
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "tick": 3558,
+      "startedAtISO": "2026-11-26T07:08:49.755Z",
+      "durationMs": 35170,
+      "outcome": "note",
+      "playNumber": 326,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 63,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1372
+        },
+        {
+          "n": 64,
+          "dtMs": 2782
+        },
+        {
+          "n": 65,
+          "dtMs": 4320
+        },
+        {
+          "n": 66,
+          "dtMs": 5912
+        },
+        {
+          "n": 68,
+          "dtMs": 7348
+        },
+        {
+          "n": 67,
+          "dtMs": 8946
+        },
+        {
+          "n": 66,
+          "dtMs": 10738
+        },
+        {
+          "n": 67,
+          "dtMs": 12460
+        },
+        {
+          "n": 72,
+          "dtMs": 14092
+        },
+        {
+          "n": 72,
+          "dtMs": 15272
+        },
+        {
+          "n": 72,
+          "dtMs": 16438
+        },
+        {
+          "n": 72,
+          "dtMs": 17508
+        },
+        {
+          "n": 57,
+          "dtMs": 19574
+        },
+        {
+          "n": 58,
+          "dtMs": 21072
+        },
+        {
+          "n": 57,
+          "dtMs": 22832
+        },
+        {
+          "n": 56,
+          "dtMs": 24358
+        },
+        {
+          "n": 61,
+          "dtMs": 26092
+        },
+        {
+          "n": 65,
+          "dtMs": 27690
+        },
+        {
+          "n": 69,
+          "dtMs": 28530
+        },
+        {
+          "n": 72,
+          "dtMs": 29370
+        },
+        {
+          "n": 69,
+          "dtMs": 30210
+        },
+        {
+          "n": 67,
+          "dtMs": 31050
+        },
+        {
+          "n": 64,
+          "dtMs": 31890
+        },
+        {
+          "n": 62,
+          "dtMs": 32730
+        },
+        {
+          "n": 60,
+          "dtMs": 33570
         }
       ]
     }
