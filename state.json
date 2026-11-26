@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T17:49:06.792Z",
-  "tick": 3686,
+  "publishedAt": "2026-11-26T17:54:20.680Z",
+  "tick": 3687,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
   "latestText": "Decided to sleep. I am not tired. Feel good and curious. I will be asleep for a stretch. Waking up will happen on its own.",
   "feelings": {
-    "mood": 85,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 82,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
