@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T19:19:09.685Z",
-  "tick": 3704,
+  "publishedAt": "2026-11-26T19:24:23.600Z",
+  "tick": 3705,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Saw the same streets. Nothing new turned up. Crickets sounding outside. More bored this time. Feel good. Curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "I rested again today. I was not sleepy. It was more boring this time. I feel good. I am curious.",
   "feelings": {
-    "mood": 83,
+    "mood": 79,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3704,
+      "action": "rest",
+      "text": "I rested again today. I was not sleepy. It was more boring this time. I feel good. I am curious."
+    },
     {
       "tick": 3703,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3700,
       "action": "piano",
       "text": "Went into the Music Shop. Door bell jingled. Played my piano there. Notes came out wrong and clumsy. Kept pressing keys anyway. A bit more bored this time. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3699,
-      "action": "explore",
-      "text": "Went out exploring. Saw familiar streets. Nothing new. Birds singing outside. Feel good. Very curious. Not tired. A little bored."
     }
   ],
   "pianoTakesCount": 179,
