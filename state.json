@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T03:49:00.041Z",
-  "tick": 3518,
+  "publishedAt": "2026-11-26T03:54:20.478Z",
+  "tick": 3519,
   "townName": null,
-  "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. I played my piano. One note sounded clear and good. I tried that key again a few times. I feel good. Very curious. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Slept again though I was not tired. More boring this time. Feel good. Curious. I will stay asleep a stretch, then wake up by myself.",
   "feelings": {
-    "mood": 81,
-    "joy": 95,
-    "wonder": 90,
-    "energy": 91
+    "mood": 78,
+    "joy": 98,
+    "wonder": 97,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3519,
+      "action": "sleep",
+      "text": "Slept again though I was not tired. More boring this time. Feel good. Curious. I will stay asleep a stretch, then wake up by myself."
+    },
+    {
+      "tick": 3518,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Looked something up. Goldfish can remember things for months. I did not know that. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3517,
       "action": "piano",
@@ -27,16 +37,6 @@
       "tick": 3513,
       "action": "sleep",
       "text": "Chose sleep. Not tired. Feel good. Very curious. I will stay asleep for a stretch, then wake up on my own."
-    },
-    {
-      "tick": 3512,
-      "action": "listen",
-      "text": "I listened today. Heard crickets outside. Nothing new in it. Bored some. Still good. Still curious. Not tired at all."
-    },
-    {
-      "tick": 3511,
-      "action": "piano",
-      "text": "Went in the Music Shop. The bell jingled. Played piano again. One note sounded clear and good. I pressed it a few times more. A bit more bored this time. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 145,
