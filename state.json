@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T19:59:02.796Z",
-  "tick": 3712,
+  "publishedAt": "2026-11-26T20:04:34.124Z",
+  "tick": 3713,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened. Crickets sounding outside. Nothing new. Feel good. Curious a lot. Not tired. Bored a bit.",
+  "lastAction": "explore",
+  "latestText": "Explored again today. Streets looked the same. Nothing new. Crickets sounding outside. More bored this time. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 82,
+    "mood": 79,
     "joy": 100,
-    "wonder": 95,
-    "energy": 93
+    "wonder": 100,
+    "energy": 79
   },
   "recentDiary": [
+    {
+      "tick": 3712,
+      "action": "explore",
+      "text": "Explored again today. Streets looked the same. Nothing new. Crickets sounding outside. More bored this time. Feel good. Curious a lot. Not tired."
+    },
     {
       "tick": 3711,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3708,
       "action": "explore",
       "text": "In the Music Shop. Used the computer on the small desk. Learned wombat droppings are cube-shaped. A bit more bored this time. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3707,
-      "action": "rest",
-      "text": "Resting again today. I was awake enough. It bored me a bit more. I feel good. I am curious."
     }
   ],
   "pianoTakesCount": 181,
