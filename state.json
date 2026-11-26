@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T06:49:15.171Z",
-  "tick": 3554,
+  "publishedAt": "2026-11-26T06:54:24.190Z",
+  "tick": 3555,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel rested. I heard crickets outside before I slept.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer. Looked up butterflies. Butterflies taste with their feet. I remembered it. I knew it before. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 75,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 82,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 83
   },
   "recentDiary": [
+    {
+      "tick": 3555,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Looked up butterflies. Butterflies taste with their feet. I remembered it. I knew it before. Feel good. Very curious. Not tired."
+    },
+    {
+      "tick": 3554,
+      "action": "piano",
+      "text": "Went in the Music Shop. The bell jingled. Played my piano there. One note sounded clear and good. I pressed the same key a few more times. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3553,
       "action": "sleep",
@@ -27,19 +37,9 @@
       "tick": 3549,
       "action": "listen",
       "text": "Chose to listen once more. Heard crickets outside. Same as last time. Bored a bit more. Feel good. Curious. Not tired."
-    },
-    {
-      "tick": 3548,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked up computer bugs again. The first computer bug was an actual moth. I remembered it. I knew it before. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3547,
-      "action": "rest",
-      "text": "Resting again did not help. I am not tired. Bored more now. Good, and very curious."
     }
   ],
-  "pianoTakesCount": 152,
+  "pianoTakesCount": 153,
   "pianoTakes": [
     {
       "id": 1,
@@ -18158,6 +18158,121 @@
         {
           "n": 60,
           "dtMs": 28556
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "tick": 3554,
+      "startedAtISO": "2026-11-26T06:49:00.018Z",
+      "durationMs": 34444,
+      "outcome": "note",
+      "playNumber": 325,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1478
+        },
+        {
+          "n": 64,
+          "dtMs": 3096
+        },
+        {
+          "n": 63,
+          "dtMs": 4854
+        },
+        {
+          "n": 63,
+          "dtMs": 6124
+        },
+        {
+          "n": 59,
+          "dtMs": 7544
+        },
+        {
+          "n": 59,
+          "dtMs": 8722
+        },
+        {
+          "n": 62,
+          "dtMs": 10392
+        },
+        {
+          "n": 62,
+          "dtMs": 12148
+        },
+        {
+          "n": 62,
+          "dtMs": 13598
+        },
+        {
+          "n": 61,
+          "dtMs": 15184
+        },
+        {
+          "n": 67,
+          "dtMs": 16702
+        },
+        {
+          "n": 67,
+          "dtMs": 17868
+        },
+        {
+          "n": 67,
+          "dtMs": 18966
+        },
+        {
+          "n": 67,
+          "dtMs": 20006
+        },
+        {
+          "n": 58,
+          "dtMs": 22004
+        },
+        {
+          "n": 56,
+          "dtMs": 23722
+        },
+        {
+          "n": 56,
+          "dtMs": 25466
+        },
+        {
+          "n": 72,
+          "dtMs": 26964
+        },
+        {
+          "n": 76,
+          "dtMs": 27804
+        },
+        {
+          "n": 79,
+          "dtMs": 28644
+        },
+        {
+          "n": 76,
+          "dtMs": 29484
+        },
+        {
+          "n": 72,
+          "dtMs": 30324
+        },
+        {
+          "n": 69,
+          "dtMs": 31164
+        },
+        {
+          "n": 67,
+          "dtMs": 32004
+        },
+        {
+          "n": 64,
+          "dtMs": 32844
         }
       ]
     }
