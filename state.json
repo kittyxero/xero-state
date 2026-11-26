@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T22:29:32.698Z",
-  "tick": 3742,
+  "publishedAt": "2026-11-26T22:34:09.672Z",
+  "tick": 3743,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring. Went in the flower shop and used the computer there. Learned hot water can sometimes freeze faster than cold water. Feel okay. Curious a lot. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "I am going to sleep now. Not tired. Feel okay. Curious a lot.",
   "feelings": {
-    "mood": 67,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 71
+    "mood": 68,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3742,
+      "action": "sleep",
+      "text": "I am going to sleep now. Not tired. Feel okay. Curious a lot."
+    },
     {
       "tick": 3741,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3738,
       "action": "rest",
       "text": "Another rest. Not tired before it. More bored now. Feel okay. Still very curious."
-    },
-    {
-      "tick": 3737,
-      "action": "listen",
-      "text": "Stopped to listen again. Heard crickets outside. Nothing new in the sound. Bored more now. Okay. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 187,
