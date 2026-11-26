@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T22:14:20.102Z",
-  "tick": 3739,
+  "publishedAt": "2026-11-26T22:19:38.898Z",
+  "tick": 3740,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Another rest. Not tired before it. More bored now. Feel okay. Still very curious.",
+  "lastAction": "piano",
+  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Pressed them again. More bored this time. Feel okay. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 59,
+    "mood": 60,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3739,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played my piano. A few keys sounded good together. A chord. Pressed them again. More bored this time. Feel okay. Curious a lot. Not tired."
+    },
     {
       "tick": 3738,
       "action": "rest",
@@ -32,14 +37,9 @@
       "tick": 3735,
       "action": "rest",
       "text": "Had another rest. I did not need it. More bored now. Okay. Still curious."
-    },
-    {
-      "tick": 3734,
-      "action": "listen",
-      "text": "Listened again just now. Crickets outside. Same as before. More bored this time. Feel okay. Curious a lot. Not tired."
     }
   ],
-  "pianoTakesCount": 186,
+  "pianoTakesCount": 187,
   "pianoTakes": [
     {
       "id": 1,
@@ -21772,6 +21772,169 @@
         {
           "n": 67,
           "dtMs": 38480
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "tick": 3739,
+      "startedAtISO": "2026-11-26T22:13:59.558Z",
+      "durationMs": 39628,
+      "outcome": "chord",
+      "playNumber": 359,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 63,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1038
+        },
+        {
+          "n": 66,
+          "dtMs": 2496
+        },
+        {
+          "n": 67,
+          "dtMs": 3978
+        },
+        {
+          "n": 67,
+          "dtMs": 5074
+        },
+        {
+          "n": 69,
+          "dtMs": 6404
+        },
+        {
+          "n": 69,
+          "dtMs": 7588
+        },
+        {
+          "n": 70,
+          "dtMs": 8964
+        },
+        {
+          "n": 69,
+          "dtMs": 10388
+        },
+        {
+          "n": 69,
+          "dtMs": 11866
+        },
+        {
+          "n": 55,
+          "dtMs": 13188
+        },
+        {
+          "n": 59,
+          "dtMs": 13188
+        },
+        {
+          "n": 62,
+          "dtMs": 13188
+        },
+        {
+          "n": 55,
+          "dtMs": 15414
+        },
+        {
+          "n": 59,
+          "dtMs": 15414
+        },
+        {
+          "n": 62,
+          "dtMs": 15414
+        },
+        {
+          "n": 62,
+          "dtMs": 17008
+        },
+        {
+          "n": 63,
+          "dtMs": 18484
+        },
+        {
+          "n": 63,
+          "dtMs": 19502
+        },
+        {
+          "n": 66,
+          "dtMs": 20832
+        },
+        {
+          "n": 66,
+          "dtMs": 22030
+        },
+        {
+          "n": 67,
+          "dtMs": 23624
+        },
+        {
+          "n": 69,
+          "dtMs": 25014
+        },
+        {
+          "n": 69,
+          "dtMs": 26290
+        },
+        {
+          "n": 60,
+          "dtMs": 27698
+        },
+        {
+          "n": 64,
+          "dtMs": 28538
+        },
+        {
+          "n": 67,
+          "dtMs": 29378
+        },
+        {
+          "n": 72,
+          "dtMs": 30218
+        },
+        {
+          "n": 67,
+          "dtMs": 31058
+        },
+        {
+          "n": 64,
+          "dtMs": 31898
+        },
+        {
+          "n": 62,
+          "dtMs": 32738
+        },
+        {
+          "n": 60,
+          "dtMs": 33578
+        },
+        {
+          "n": 60,
+          "dtMs": 35716
+        },
+        {
+          "n": 64,
+          "dtMs": 35716
+        },
+        {
+          "n": 67,
+          "dtMs": 35716
+        },
+        {
+          "n": 60,
+          "dtMs": 38028
+        },
+        {
+          "n": 64,
+          "dtMs": 38028
+        },
+        {
+          "n": 67,
+          "dtMs": 38028
         }
       ]
     }
