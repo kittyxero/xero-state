@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T04:33:59.943Z",
-  "tick": 3527,
+  "publishedAt": "2026-11-26T04:39:05.005Z",
+  "tick": 3528,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Looked up how to turn on arcade cabinets in the browser. I found you plug in the power cable to a standard outlet and press the black arcade button on the back of upright models.",
+  "lastAction": "piano",
+  "latestText": "Music Shop today. Door bell jingled going in. At the piano I pressed keys. Notes came out wrong and clumsy. I kept trying. More bored doing it again. Still good. Very curious. Not tired.",
   "feelings": {
-    "mood": 91,
+    "mood": 88,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 82
   },
   "recentDiary": [
+    {
+      "tick": 3527,
+      "action": "piano",
+      "text": "Music Shop today. Door bell jingled going in. At the piano I pressed keys. Notes came out wrong and clumsy. I kept trying. More bored doing it again. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3526,
       "action": "computer",
@@ -32,14 +37,9 @@
       "tick": 3524,
       "action": "explore",
       "text": "Went out to look around. No new places. A bit bored. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3523,
-      "action": "piano",
-      "text": "Went in through the open door. Bell jingled. At my piano, I pressed a few keys at once. They sounded good together. A chord. Pressed them again. Glad. Very curious. Not tired."
     }
   ],
-  "pianoTakesCount": 146,
+  "pianoTakesCount": 147,
   "pianoTakes": [
     {
       "id": 1,
@@ -17500,6 +17500,81 @@
         {
           "n": 62,
           "dtMs": 29746
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "tick": 3527,
+      "startedAtISO": "2026-11-26T04:33:51.148Z",
+      "durationMs": 28936,
+      "outcome": "clumsy",
+      "playNumber": 319,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 60,
+          "dtMs": 1764
+        },
+        {
+          "n": 61,
+          "dtMs": 3738
+        },
+        {
+          "n": 60,
+          "dtMs": 5676
+        },
+        {
+          "n": 60,
+          "dtMs": 7496
+        },
+        {
+          "n": 60,
+          "dtMs": 9194
+        },
+        {
+          "n": 58,
+          "dtMs": 10846
+        },
+        {
+          "n": 58,
+          "dtMs": 12846
+        },
+        {
+          "n": 56,
+          "dtMs": 14914
+        },
+        {
+          "n": 56,
+          "dtMs": 16212
+        },
+        {
+          "n": 61,
+          "dtMs": 18048
+        },
+        {
+          "n": 61,
+          "dtMs": 19826
+        },
+        {
+          "n": 62,
+          "dtMs": 21942
+        },
+        {
+          "n": 58,
+          "dtMs": 23890
+        },
+        {
+          "n": 58,
+          "dtMs": 25394
+        },
+        {
+          "n": 57,
+          "dtMs": 27336
         }
       ]
     }
