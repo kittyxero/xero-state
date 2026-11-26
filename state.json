@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T17:39:06.456Z",
-  "tick": 3684,
+  "publishedAt": "2026-11-26T17:44:00.771Z",
+  "tick": 3685,
   "townName": null,
-  "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop. Bell jingled. Played piano. Pressed a few keys together and they sounded good. That is a chord. Played it again. A bit more bored this time. Feel good. Curious a lot. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Decided to sleep. I am not tired. Feel good and curious. I will be asleep for a stretch. Waking up will happen on its own.",
   "feelings": {
-    "mood": 91,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 84
+    "mood": 88,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3684,
+      "action": "sleep",
+      "text": "Decided to sleep. I am not tired. Feel good and curious. I will be asleep for a stretch. Waking up will happen on its own."
+    },
     {
       "tick": 3683,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3680,
       "action": "listen",
       "text": "I listened for a bit. Birds singing outside. Heard the same sounds. Bored a little. Still feel good. Still curious. Not tired."
-    },
-    {
-      "tick": 3679,
-      "action": "piano",
-      "text": "In the Music Shop today. The bell jingled when I went in. I played my piano. The notes were wrong and clumsy. I kept trying. Feel good. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 175,
