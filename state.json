@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T09:19:20.975Z",
-  "tick": 3584,
+  "publishedAt": "2026-11-26T09:24:30.851Z",
+  "tick": 3585,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "In the library. Read Ozma of Oz. Dorothy returns to Oz and helps rescue the Ev royal family from the Nome King. Used computer. Remembered sound travels slower than light, so thunder comes after lightning. More bored.",
+  "lastAction": "piano",
+  "latestText": "Back in the Music Shop. The bell jingled as I went in. Played my piano. Pressed a few keys together and they sounded good. A chord. Played it again. A bit more bored. Still good. Very curious. Not tired.",
   "feelings": {
     "mood": 77,
     "joy": 100,
     "wonder": 100,
-    "energy": 85
+    "energy": 76
   },
   "recentDiary": [
+    {
+      "tick": 3584,
+      "action": "piano",
+      "text": "Back in the Music Shop. The bell jingled as I went in. Played my piano. Pressed a few keys together and they sounded good. A chord. Played it again. A bit more bored. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3583,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3580,
       "action": "explore",
       "text": "Went out to look again. Found the same streets. Heard birds. More bored after doing it again. Feel good still. Curious. Not tired."
-    },
-    {
-      "tick": 3579,
-      "action": "rest",
-      "text": "Chose to rest. Did not need to. Bored now, a little more. Good still. Curious, not tired."
     }
   ],
   "pianoTakesCount": 158,
