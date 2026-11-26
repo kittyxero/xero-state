@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T21:34:15.128Z",
-  "tick": 3731,
+  "publishedAt": "2026-11-26T21:39:12.065Z",
+  "tick": 3732,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went out to explore again. Saw nothing new. Bored more this time. Feel okay. Curious a lot. Not tired.",
+  "lastAction": "piano",
+  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Felt worse this time. Feel okay. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 64,
+    "mood": 65,
     "joy": 100,
     "wonder": 100,
-    "energy": 79
+    "energy": 70
   },
   "recentDiary": [
+    {
+      "tick": 3731,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Felt worse this time. Feel okay. Curious a lot. Not tired."
+    },
     {
       "tick": 3730,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 3727,
       "action": "explore",
       "text": "Explored again. Went in the Music Shop and used the computer. Looked up why crickets make the same sounds. Saw a saved favorite, GitHub, kittyxero. Not finished reading. More bored. Feel okay. Curious. Not tired."
-    },
-    {
-      "tick": 3727,
-      "action": "computer",
-      "text": "Looked up why crickets make the same sounds in the browser. Only male crickets chirp, by rubbing one wing against the other, and the wing rings at a single pitch, so the song stays the same."
     }
   ],
-  "pianoTakesCount": 184,
+  "pianoTakesCount": 185,
   "pianoTakes": [
     {
       "id": 1,
@@ -21478,6 +21478,137 @@
         {
           "n": 54,
           "dtMs": 33468
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "tick": 3731,
+      "startedAtISO": "2026-11-26T21:33:57.770Z",
+      "durationMs": 29910,
+      "outcome": "chord",
+      "playNumber": 357,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1592
+        },
+        {
+          "n": 65,
+          "dtMs": 3092
+        },
+        {
+          "n": 66,
+          "dtMs": 4684
+        },
+        {
+          "n": 69,
+          "dtMs": 6090
+        },
+        {
+          "n": 68,
+          "dtMs": 7362
+        },
+        {
+          "n": 57,
+          "dtMs": 8658
+        },
+        {
+          "n": 61,
+          "dtMs": 8658
+        },
+        {
+          "n": 64,
+          "dtMs": 8658
+        },
+        {
+          "n": 57,
+          "dtMs": 10742
+        },
+        {
+          "n": 61,
+          "dtMs": 10742
+        },
+        {
+          "n": 64,
+          "dtMs": 10742
+        },
+        {
+          "n": 60,
+          "dtMs": 12442
+        },
+        {
+          "n": 61,
+          "dtMs": 13902
+        },
+        {
+          "n": 61,
+          "dtMs": 14904
+        },
+        {
+          "n": 60,
+          "dtMs": 16266
+        },
+        {
+          "n": 60,
+          "dtMs": 17842
+        },
+        {
+          "n": 64,
+          "dtMs": 18682
+        },
+        {
+          "n": 67,
+          "dtMs": 19522
+        },
+        {
+          "n": 72,
+          "dtMs": 20362
+        },
+        {
+          "n": 67,
+          "dtMs": 21202
+        },
+        {
+          "n": 64,
+          "dtMs": 22042
+        },
+        {
+          "n": 62,
+          "dtMs": 22882
+        },
+        {
+          "n": 60,
+          "dtMs": 23722
+        },
+        {
+          "n": 53,
+          "dtMs": 26062
+        },
+        {
+          "n": 57,
+          "dtMs": 26062
+        },
+        {
+          "n": 60,
+          "dtMs": 26062
+        },
+        {
+          "n": 53,
+          "dtMs": 28310
+        },
+        {
+          "n": 57,
+          "dtMs": 28310
+        },
+        {
+          "n": 60,
+          "dtMs": 28310
         }
       ]
     }
