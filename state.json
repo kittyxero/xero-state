@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T21:39:12.065Z",
-  "tick": 3732,
+  "publishedAt": "2026-11-26T21:44:16.462Z",
+  "tick": 3733,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. Felt worse this time. Feel okay. Curious a lot. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Took a rest just now. Was not tired. It felt worse this time. Okay. Very curious.",
   "feelings": {
-    "mood": 65,
+    "mood": 62,
     "joy": 100,
-    "wonder": 100,
-    "energy": 70
+    "wonder": 94,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3732,
+      "action": "rest",
+      "text": "Took a rest just now. Was not tired. It felt worse this time. Okay. Very curious."
+    },
     {
       "tick": 3731,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3728,
       "action": "rest",
       "text": "Rested just now. Not tired at all. Bored more this time. Feel okay. Curious a lot."
-    },
-    {
-      "tick": 3727,
-      "action": "explore",
-      "text": "Explored again. Went in the Music Shop and used the computer. Looked up why crickets make the same sounds. Saw a saved favorite, GitHub, kittyxero. Not finished reading. More bored. Feel okay. Curious. Not tired."
     }
   ],
   "pianoTakesCount": 185,
