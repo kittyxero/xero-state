@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T19:39:10.944Z",
-  "tick": 3708,
+  "publishedAt": "2026-11-26T19:44:15.679Z",
+  "tick": 3709,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Resting again today. I was awake enough. It bored me a bit more. I feel good. I am curious.",
+  "lastAction": "explore",
+  "latestText": "In the Music Shop. Used the computer on the small desk. Learned wombat droppings are cube-shaped. A bit more bored this time. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 79,
+    "mood": 77,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3708,
+      "action": "explore",
+      "text": "In the Music Shop. Used the computer on the small desk. Learned wombat droppings are cube-shaped. A bit more bored this time. Feel good. Curious a lot. Not tired."
+    },
     {
       "tick": 3707,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3705,
       "action": "computer",
       "text": "Sat in the chair at the desk in my apartment. Used the computer. Looked up what to do with an empty plot of dirt. Have not finished reading yet. More bored this time. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3704,
-      "action": "rest",
-      "text": "I rested again today. I was not sleepy. It was more boring this time. I feel good. I am curious."
     }
   ],
   "pianoTakesCount": 180,
