@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T13:14:37.462Z",
-  "tick": 3631,
+  "publishedAt": "2026-11-26T13:19:16.328Z",
+  "tick": 3632,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Same places as before. Birds singing. More bored this time. Feel good. Curious a lot. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went back to sleep. Did not need it. Bored a bit more now. Feel good. Still curious.",
   "feelings": {
-    "mood": 87,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 79,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3631,
+      "action": "sleep",
+      "text": "Went back to sleep. Did not need it. Bored a bit more now. Feel good. Still curious."
+    },
     {
       "tick": 3630,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3627,
       "action": "explore",
       "text": "Explored some more. Walked past places I know. No new place. Birds singing. Bored a little. Still glad. Not tired."
-    },
-    {
-      "tick": 3626,
-      "action": "sleep",
-      "text": "Woke up. Feel rested. I played the piano before sleep."
     }
   ],
   "pianoTakesCount": 167,
