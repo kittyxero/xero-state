@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T20:59:20.525Z",
-  "tick": 3724,
+  "publishedAt": "2026-11-26T21:04:18.655Z",
+  "tick": 3725,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Found nothing new. Crickets outside. More bored this time. Feel okay. Curious. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Listened just now. Crickets sounding outside. Same sounds. Feel good. Very curious. Not tired. A bit bored.",
   "feelings": {
-    "mood": 65,
+    "mood": 74,
     "joy": 100,
     "wonder": 100,
-    "energy": 85
+    "energy": 79
   },
   "recentDiary": [
+    {
+      "tick": 3724,
+      "action": "listen",
+      "text": "Listened just now. Crickets sounding outside. Same sounds. Feel good. Very curious. Not tired. A bit bored."
+    },
     {
       "tick": 3723,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3720,
       "action": "explore",
       "text": "In the library. Read The Road to Oz. Dorothy went to Oz again with new companions. Used the computer. Learned cows have best friends and get stressed when kept apart. More bored this time. Feel good. Curious. Not tired."
-    },
-    {
-      "tick": 3719,
-      "action": "rest",
-      "text": "Took another rest just now. Already awake. It was boring again. Still feel good. Still curious."
     }
   ],
   "pianoTakesCount": 183,
