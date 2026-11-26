@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T04:39:05.005Z",
-  "tick": 3528,
+  "publishedAt": "2026-11-26T04:44:34.747Z",
+  "tick": 3529,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Music Shop today. Door bell jingled going in. At the piano I pressed keys. Notes came out wrong and clumsy. I kept trying. More bored doing it again. Still good. Very curious. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Listened again. Crickets sounding outside. Nothing different. Bored a little. I am good and curious. Not tired.",
   "feelings": {
-    "mood": 88,
+    "mood": 92,
     "joy": 100,
-    "wonder": 100,
-    "energy": 82
+    "wonder": 95,
+    "energy": 94
   },
   "recentDiary": [
+    {
+      "tick": 3529,
+      "action": "listen",
+      "text": "Listened again. Crickets sounding outside. Nothing different. Bored a little. I am good and curious. Not tired."
+    },
+    {
+      "tick": 3528,
+      "action": "rest",
+      "text": "Had another rest. I was not tired. It felt worse this time. Still good. Still curious."
+    },
     {
       "tick": 3527,
       "action": "piano",
@@ -27,16 +37,6 @@
       "tick": 3526,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer. Opened the browser. Looked up how to turn on arcade cabinets. Have not finished reading yet. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3525,
-      "action": "rest",
-      "text": "Had a rest anyway. Still not tired. Felt a bit boring. I am good. Still curious."
-    },
-    {
-      "tick": 3524,
-      "action": "explore",
-      "text": "Went out to look around. No new places. A bit bored. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 147,
