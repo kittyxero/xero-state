@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-25T23:59:08.330Z",
-  "tick": 3472,
+  "publishedAt": "2026-11-26T00:04:50.660Z",
+  "tick": 3473,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Not tired. A bit bored. Feel good. Very curious. Don't know what to do next.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at my desk. Used the computer. Looked something up and learned a fact. One single strand of spaghetti is called a spaghetto. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 89,
-    "joy": 92,
-    "wonder": 94,
-    "energy": 99
+    "mood": 92,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 82
   },
   "recentDiary": [
+    {
+      "tick": 3473,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked something up and learned a fact. One single strand of spaghetti is called a spaghetto. Feel good. Very curious. Not tired."
+    },
+    {
+      "tick": 3472,
+      "action": "piano",
+      "text": "Music Shop today. Bell jingled going in. Played piano again. Got a few keys to sound good together. A chord. Played it again. A bit more bored this time. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3471,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 3469,
       "action": "piano",
       "text": "Inside the Music Shop today. Bell jingled when I went in. At my piano the notes were wrong and clumsy. I kept at it anyway. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3468,
-      "action": "sleep",
-      "text": "I woke up. I feel rested. I played my piano before I slept."
-    },
-    {
-      "tick": 3465,
-      "action": "sleep",
-      "text": "Chose to sleep. Not tired. Feel good. Very curious. Will be asleep for a stretch of ticks, then wake on my own."
     }
   ],
-  "pianoTakesCount": 136,
+  "pianoTakesCount": 137,
   "pianoTakes": [
     {
       "id": 1,
@@ -16198,6 +16198,157 @@
         {
           "n": 65,
           "dtMs": 33360
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "tick": 3472,
+      "startedAtISO": "2026-11-25T23:59:00.665Z",
+      "durationMs": 36312,
+      "outcome": "chord",
+      "playNumber": 309,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1010
+        },
+        {
+          "n": 67,
+          "dtMs": 2306
+        },
+        {
+          "n": 67,
+          "dtMs": 3744
+        },
+        {
+          "n": 67,
+          "dtMs": 5028
+        },
+        {
+          "n": 68,
+          "dtMs": 6612
+        },
+        {
+          "n": 68,
+          "dtMs": 7746
+        },
+        {
+          "n": 66,
+          "dtMs": 9278
+        },
+        {
+          "n": 66,
+          "dtMs": 10882
+        },
+        {
+          "n": 67,
+          "dtMs": 12310
+        },
+        {
+          "n": 53,
+          "dtMs": 13842
+        },
+        {
+          "n": 57,
+          "dtMs": 13842
+        },
+        {
+          "n": 60,
+          "dtMs": 13842
+        },
+        {
+          "n": 53,
+          "dtMs": 16002
+        },
+        {
+          "n": 57,
+          "dtMs": 16002
+        },
+        {
+          "n": 60,
+          "dtMs": 16002
+        },
+        {
+          "n": 58,
+          "dtMs": 17674
+        },
+        {
+          "n": 58,
+          "dtMs": 18696
+        },
+        {
+          "n": 56,
+          "dtMs": 20202
+        },
+        {
+          "n": 53,
+          "dtMs": 21690
+        },
+        {
+          "n": 53,
+          "dtMs": 23058
+        },
+        {
+          "n": 72,
+          "dtMs": 24496
+        },
+        {
+          "n": 76,
+          "dtMs": 25336
+        },
+        {
+          "n": 79,
+          "dtMs": 26176
+        },
+        {
+          "n": 76,
+          "dtMs": 27016
+        },
+        {
+          "n": 72,
+          "dtMs": 27856
+        },
+        {
+          "n": 69,
+          "dtMs": 28696
+        },
+        {
+          "n": 67,
+          "dtMs": 29536
+        },
+        {
+          "n": 64,
+          "dtMs": 30376
+        },
+        {
+          "n": 60,
+          "dtMs": 32578
+        },
+        {
+          "n": 64,
+          "dtMs": 32578
+        },
+        {
+          "n": 67,
+          "dtMs": 32578
+        },
+        {
+          "n": 60,
+          "dtMs": 34712
+        },
+        {
+          "n": 64,
+          "dtMs": 34712
+        },
+        {
+          "n": 67,
+          "dtMs": 34712
         }
       ]
     }
