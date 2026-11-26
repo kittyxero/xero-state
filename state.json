@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T00:56:07.811Z",
-  "tick": 3483,
+  "publishedAt": "2026-11-26T00:59:25.117Z",
+  "tick": 3484,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "I am going to sleep now. Not tired. Still feel good and curious. I will sleep for a stretch of ticks and wake up by myself.",
   "feelings": {
-    "mood": 86,
-    "joy": 98,
-    "wonder": 97,
+    "mood": 83,
+    "joy": 93,
+    "wonder": 91,
     "energy": 100
   },
   "recentDiary": [
