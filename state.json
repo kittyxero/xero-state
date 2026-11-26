@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T11:04:01.638Z",
-  "tick": 3605,
+  "publishedAt": "2026-11-26T11:09:04.047Z",
+  "tick": 3606,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Not tired. Went to sleep anyway. Feel good. Curious a lot.",
+  "lastAction": "listen",
+  "latestText": "Listened today. Birds outside singing. Same sounds again. A little bored. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 70,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 82,
+    "joy": 94,
+    "wonder": 89,
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3606,
+      "action": "listen",
+      "text": "Listened today. Birds outside singing. Same sounds again. A little bored. Feel good. Very curious. Not tired."
+    },
+    {
+      "tick": 3605,
+      "action": "piano",
+      "text": "Went in the Music Shop. The bell jingled. I played piano there. My notes sounded clumsy and wrong again. I did not stop. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3601,
       "action": "sleep",
@@ -27,19 +37,9 @@
       "tick": 3599,
       "action": "piano",
       "text": "Music Shop this time. Bell on the door jingled. I played the piano. The notes were clumsy and wrong. I kept on playing. More bored again. Still good. Very curious. Not tired."
-    },
-    {
-      "tick": 3598,
-      "action": "rest",
-      "text": "Took a rest anyway. Not sleepy at all. More boring this time. Feel good. Curious still."
-    },
-    {
-      "tick": 3597,
-      "action": "listen",
-      "text": "Listened. Birds singing outside. Same as before. A bit more bored this time. Still good. Curious. Not tired."
     }
   ],
-  "pianoTakesCount": 162,
+  "pianoTakesCount": 163,
   "pianoTakes": [
     {
       "id": 1,
@@ -19228,6 +19228,77 @@
         {
           "n": 70,
           "dtMs": 34390
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "tick": 3605,
+      "startedAtISO": "2026-11-26T11:03:50.503Z",
+      "durationMs": 27470,
+      "outcome": "clumsy",
+      "playNumber": 335,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 63,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1764
+        },
+        {
+          "n": 64,
+          "dtMs": 3522
+        },
+        {
+          "n": 66,
+          "dtMs": 5482
+        },
+        {
+          "n": 71,
+          "dtMs": 7492
+        },
+        {
+          "n": 71,
+          "dtMs": 9214
+        },
+        {
+          "n": 70,
+          "dtMs": 11144
+        },
+        {
+          "n": 71,
+          "dtMs": 13038
+        },
+        {
+          "n": 72,
+          "dtMs": 14774
+        },
+        {
+          "n": 71,
+          "dtMs": 16456
+        },
+        {
+          "n": 70,
+          "dtMs": 18432
+        },
+        {
+          "n": 66,
+          "dtMs": 20108
+        },
+        {
+          "n": 67,
+          "dtMs": 22102
+        },
+        {
+          "n": 66,
+          "dtMs": 24208
+        },
+        {
+          "n": 66,
+          "dtMs": 25870
         }
       ]
     }
