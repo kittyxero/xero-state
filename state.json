@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T15:09:12.013Z",
-  "tick": 3654,
+  "publishedAt": "2026-11-26T15:14:44.695Z",
+  "tick": 3655,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Slept again. Not tired at all before. A bit more bored now. Still feel good. Very curious. Will stay asleep for a while, then wake.",
+  "lastAction": "explore",
+  "latestText": "Walked out to explore again. Saw only familiar streets. Nothing different. Birds were singing. A little more bored now. Feel good. Very curious.",
   "feelings": {
-    "mood": 77,
-    "joy": 82,
-    "wonder": 80,
-    "energy": 100
+    "mood": 74,
+    "joy": 88,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3654,
+      "action": "explore",
+      "text": "Walked out to explore again. Saw only familiar streets. Nothing different. Birds were singing. A little more bored now. Feel good. Very curious."
+    },
     {
       "tick": 3650,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3647,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes were wrong and clumsy. I kept trying. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3646,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked up sea otters again. Sea otters hold hands when they sleep. I remembered that. I already knew it. Feel good. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 170,
