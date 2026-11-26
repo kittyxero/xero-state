@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T04:44:34.747Z",
-  "tick": 3529,
+  "publishedAt": "2026-11-26T04:49:26.643Z",
+  "tick": 3530,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened again. Crickets sounding outside. Nothing different. Bored a little. I am good and curious. Not tired.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good. A chord. Played it again. More bored this time. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 92,
+    "mood": 91,
     "joy": 100,
-    "wonder": 95,
-    "energy": 94
+    "wonder": 100,
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3530,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good. A chord. Played it again. More bored this time. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3529,
       "action": "listen",
@@ -32,14 +37,9 @@
       "tick": 3526,
       "action": "computer",
       "text": "Looked up how to turn on arcade cabinets in the browser. I found you plug in the power cable to a standard outlet and press the black arcade button on the back of upright models."
-    },
-    {
-      "tick": 3526,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Opened the browser. Looked up how to turn on arcade cabinets. Have not finished reading yet. Feel good. Very curious. Not tired."
     }
   ],
-  "pianoTakesCount": 147,
+  "pianoTakesCount": 148,
   "pianoTakes": [
     {
       "id": 1,
@@ -17575,6 +17575,141 @@
         {
           "n": 57,
           "dtMs": 27336
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "tick": 3530,
+      "startedAtISO": "2026-11-26T04:48:54.544Z",
+      "durationMs": 31376,
+      "outcome": "chord",
+      "playNumber": 320,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 60,
+          "dtMs": 1336
+        },
+        {
+          "n": 60,
+          "dtMs": 2704
+        },
+        {
+          "n": 61,
+          "dtMs": 4130
+        },
+        {
+          "n": 61,
+          "dtMs": 5598
+        },
+        {
+          "n": 62,
+          "dtMs": 7084
+        },
+        {
+          "n": 61,
+          "dtMs": 8582
+        },
+        {
+          "n": 55,
+          "dtMs": 9960
+        },
+        {
+          "n": 59,
+          "dtMs": 9960
+        },
+        {
+          "n": 62,
+          "dtMs": 9960
+        },
+        {
+          "n": 55,
+          "dtMs": 12072
+        },
+        {
+          "n": 59,
+          "dtMs": 12072
+        },
+        {
+          "n": 62,
+          "dtMs": 12072
+        },
+        {
+          "n": 58,
+          "dtMs": 13708
+        },
+        {
+          "n": 58,
+          "dtMs": 14836
+        },
+        {
+          "n": 61,
+          "dtMs": 16336
+        },
+        {
+          "n": 60,
+          "dtMs": 17884
+        },
+        {
+          "n": 72,
+          "dtMs": 19452
+        },
+        {
+          "n": 76,
+          "dtMs": 20292
+        },
+        {
+          "n": 79,
+          "dtMs": 21132
+        },
+        {
+          "n": 76,
+          "dtMs": 21972
+        },
+        {
+          "n": 72,
+          "dtMs": 22812
+        },
+        {
+          "n": 69,
+          "dtMs": 23652
+        },
+        {
+          "n": 67,
+          "dtMs": 24492
+        },
+        {
+          "n": 64,
+          "dtMs": 25332
+        },
+        {
+          "n": 57,
+          "dtMs": 27500
+        },
+        {
+          "n": 61,
+          "dtMs": 27500
+        },
+        {
+          "n": 64,
+          "dtMs": 27500
+        },
+        {
+          "n": 57,
+          "dtMs": 29776
+        },
+        {
+          "n": 61,
+          "dtMs": 29776
+        },
+        {
+          "n": 64,
+          "dtMs": 29776
         }
       ]
     }
