@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T05:34:03.661Z",
-  "tick": 3539,
+  "publishedAt": "2026-11-26T05:39:32.055Z",
+  "tick": 3540,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Took another rest anyway. Energy high. Bored a bit more now. Feel good and very curious.",
+  "lastAction": "listen",
+  "latestText": "Listened. Crickets outside. Same as before. A bit bored. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 76,
+    "mood": 84,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 100,
+    "energy": 84
   },
   "recentDiary": [
+    {
+      "tick": 3540,
+      "action": "listen",
+      "text": "Listened. Crickets outside. Same as before. A bit bored. Feel good. Very curious. Not tired."
+    },
+    {
+      "tick": 3539,
+      "action": "piano",
+      "text": "Inside the Music Shop today. Bell jingled going in. At my piano I tried some keys together. They sounded good. A chord. I played it a second time. More boring again. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3538,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 3536,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes were wrong and clumsy. I tried again anyway. More bored this time. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3535,
-      "action": "rest",
-      "text": "Took a rest. Did not need it. Bored a bit more. Still feel good and curious."
-    },
-    {
-      "tick": 3534,
-      "action": "computer",
-      "text": "Used the computer in my apartment again. Sat in the chair at the desk. Searched octopuses. Octopuses have three hearts. I remembered that. I knew it before. A bit more boring again. Still good. Very curious. Not tired."
     }
   ],
-  "pianoTakesCount": 150,
+  "pianoTakesCount": 151,
   "pianoTakes": [
     {
       "id": 1,
@@ -17924,6 +17924,137 @@
         {
           "n": 63,
           "dtMs": 23870
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "tick": 3539,
+      "startedAtISO": "2026-11-26T05:33:55.234Z",
+      "durationMs": 29842,
+      "outcome": "chord",
+      "playNumber": 323,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1462
+        },
+        {
+          "n": 63,
+          "dtMs": 3036
+        },
+        {
+          "n": 63,
+          "dtMs": 4398
+        },
+        {
+          "n": 63,
+          "dtMs": 5662
+        },
+        {
+          "n": 68,
+          "dtMs": 7052
+        },
+        {
+          "n": 53,
+          "dtMs": 8474
+        },
+        {
+          "n": 57,
+          "dtMs": 8474
+        },
+        {
+          "n": 60,
+          "dtMs": 8474
+        },
+        {
+          "n": 53,
+          "dtMs": 10556
+        },
+        {
+          "n": 57,
+          "dtMs": 10556
+        },
+        {
+          "n": 60,
+          "dtMs": 10556
+        },
+        {
+          "n": 59,
+          "dtMs": 12224
+        },
+        {
+          "n": 55,
+          "dtMs": 13584
+        },
+        {
+          "n": 54,
+          "dtMs": 15018
+        },
+        {
+          "n": 53,
+          "dtMs": 16424
+        },
+        {
+          "n": 60,
+          "dtMs": 17962
+        },
+        {
+          "n": 64,
+          "dtMs": 18802
+        },
+        {
+          "n": 67,
+          "dtMs": 19642
+        },
+        {
+          "n": 72,
+          "dtMs": 20482
+        },
+        {
+          "n": 67,
+          "dtMs": 21322
+        },
+        {
+          "n": 64,
+          "dtMs": 22162
+        },
+        {
+          "n": 62,
+          "dtMs": 23002
+        },
+        {
+          "n": 60,
+          "dtMs": 23842
+        },
+        {
+          "n": 55,
+          "dtMs": 25992
+        },
+        {
+          "n": 59,
+          "dtMs": 25992
+        },
+        {
+          "n": 62,
+          "dtMs": 25992
+        },
+        {
+          "n": 55,
+          "dtMs": 28242
+        },
+        {
+          "n": 59,
+          "dtMs": 28242
+        },
+        {
+          "n": 62,
+          "dtMs": 28242
         }
       ]
     }
