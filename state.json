@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T01:59:30.680Z",
-  "tick": 3496,
+  "publishedAt": "2026-11-26T02:04:20.892Z",
+  "tick": 3497,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Going to sleep now. Not tired. Feel good. Very curious. I will stay asleep for a while and wake up on my own.",
+  "latestText": "I woke up. I feel rested. I remember I played a chord at my piano.",
   "feelings": {
-    "mood": 83,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 80,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3496,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. I remember I played a chord at my piano."
+    },
     {
       "tick": 3493,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3490,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used my computer. Looked up hummingbirds and learned a fact. Hummingbirds are the only birds that can fly backward. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3489,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. At my piano I pressed a few keys at once and they sounded good. A chord. I played it again. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 141,
