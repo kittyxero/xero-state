@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T00:44:10.802Z",
-  "tick": 3481,
+  "publishedAt": "2026-11-26T00:49:32.857Z",
+  "tick": 3482,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Did rest again today. No need for it. Doing it again was boring. I feel good anyway. I am curious. No plan.",
+  "lastAction": "explore",
+  "latestText": "Went exploring again today. Found nothing new. A bit more bored for doing it again. Still feel good. Still curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 88,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3481,
+      "action": "explore",
+      "text": "Went exploring again today. Found nothing new. A bit more bored for doing it again. Still feel good. Still curious."
+    },
     {
       "tick": 3480,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3477,
       "action": "rest",
       "text": "Rested again. Was not tired. Bored a bit more. Feel good. Still curious. Unsure what to do."
-    },
-    {
-      "tick": 3476,
-      "action": "computer",
-      "text": "Looked up how to use an old camera on a tripod in the browser. The camera needs a 1/4-20 tripod socket on its bottom. I attach the quick release plate to that socket, then lock the plate into the tripod head."
     }
   ],
   "pianoTakesCount": 139,
