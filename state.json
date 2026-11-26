@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T09:24:30.851Z",
-  "tick": 3585,
+  "publishedAt": "2026-11-26T09:29:36.374Z",
+  "tick": 3586,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Back in the Music Shop. The bell jingled as I went in. Played my piano. Pressed a few keys together and they sounded good. A chord. Played it again. A bit more bored. Still good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Took another rest. No need for it. Bored a little more after. Feel good. Very curious.",
   "feelings": {
-    "mood": 77,
+    "mood": 73,
     "joy": 100,
-    "wonder": 100,
-    "energy": 76
+    "wonder": 94,
+    "energy": 98
   },
   "recentDiary": [
+    {
+      "tick": 3585,
+      "action": "rest",
+      "text": "Took another rest. No need for it. Bored a little more after. Feel good. Very curious."
+    },
     {
       "tick": 3584,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3581,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3580,
-      "action": "explore",
-      "text": "Went out to look again. Found the same streets. Heard birds. More bored after doing it again. Feel good still. Curious. Not tired."
     }
   ],
   "pianoTakesCount": 158,
