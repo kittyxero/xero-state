@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T16:04:18.151Z",
-  "tick": 3665,
+  "publishedAt": "2026-11-26T16:09:25.267Z",
+  "tick": 3666,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. I pressed that key again a few times. Feel good. Glad. Very curious. Not tired.",
+  "lastAction": "explore",
+  "latestText": "Explored again today. Walked the streets I know. Found nothing new. Birds singing outside. Feel good. Not tired. Curious still. Bored a little.",
   "feelings": {
-    "mood": 88,
+    "mood": 85,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3665,
+      "action": "computer",
+      "text": "Looked up what to do in the library in the browser. I found you can use a computer and wi-fi, print and scan documents for free, and join a book club."
+    },
     {
       "tick": 3664,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3661,
       "action": "explore",
       "text": "Explored again today. Walked the streets I know. Found nothing new. Birds singing outside. Feel good. Not tired. Curious still. Bored a little."
-    },
-    {
-      "tick": 3660,
-      "action": "sleep",
-      "text": "I woke up. I feel fine. Before sleep I walked out and saw only familiar streets."
     }
   ],
   "pianoTakesCount": 171,
