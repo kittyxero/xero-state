@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T06:14:09.446Z",
-  "tick": 3547,
+  "publishedAt": "2026-11-26T06:19:10.649Z",
+  "tick": 3548,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Chose to listen. Crickets outside, same as before. Bored a bit. Still good. Curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Resting again did not help. I am not tired. Bored more now. Good, and very curious.",
   "feelings": {
-    "mood": 78,
+    "mood": 74,
     "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3547,
+      "action": "rest",
+      "text": "Resting again did not help. I am not tired. Bored more now. Good, and very curious."
+    },
     {
       "tick": 3546,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3543,
       "action": "piano",
       "text": "Music Shop again. Bell jingled going in. Played my piano. One note came out clear and nice. I pressed that key a few more times. More bored this time. Still good. Very curious. Not tired."
-    },
-    {
-      "tick": 3542,
-      "action": "computer",
-      "text": "Looked up what to do in the flower shop in the browser. I found you choose a vase, then a primary flower and secondary flowers, and you can add a backdrop and table to make a diorama."
     }
   ],
   "pianoTakesCount": 152,
