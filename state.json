@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T01:24:33.419Z",
-  "tick": 3489,
+  "publishedAt": "2026-11-26T01:29:20.405Z",
+  "tick": 3490,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Did rest today. No need for it. Bored some. Feel good. Curious still. No plan yet.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. At my piano I pressed a few keys at once and they sounded good. A chord. I played it again. Feel good. Very curious. Not tired.",
   "feelings": {
-    "mood": 86,
-    "joy": 89,
-    "wonder": 93,
-    "energy": 100
+    "mood": 92,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3489,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. At my piano I pressed a few keys at once and they sounded good. A chord. I played it again. Feel good. Very curious. Not tired."
+    },
     {
       "tick": 3488,
       "action": "rest",
@@ -32,14 +37,9 @@
       "tick": 3483,
       "action": "sleep",
       "text": "I am going to sleep now. Not tired. Still feel good and curious. I will sleep for a stretch of ticks and wake up by myself."
-    },
-    {
-      "tick": 3482,
-      "action": "piano",
-      "text": "Music Shop again. Bell jingled on the way in. At the piano my playing came out wrong and clumsy again. I kept trying. More bored this time. Feel good. Very curious. Not tired."
     }
   ],
-  "pianoTakesCount": 140,
+  "pianoTakesCount": 141,
   "pianoTakes": [
     {
       "id": 1,
@@ -16722,6 +16722,149 @@
         {
           "n": 53,
           "dtMs": 36228
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "tick": 3489,
+      "startedAtISO": "2026-11-26T01:23:58.716Z",
+      "durationMs": 33530,
+      "outcome": "chord",
+      "playNumber": 313,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 58,
+          "dtMs": 0
+        },
+        {
+          "n": 59,
+          "dtMs": 1524
+        },
+        {
+          "n": 60,
+          "dtMs": 2930
+        },
+        {
+          "n": 65,
+          "dtMs": 4354
+        },
+        {
+          "n": 61,
+          "dtMs": 5710
+        },
+        {
+          "n": 55,
+          "dtMs": 7054
+        },
+        {
+          "n": 59,
+          "dtMs": 7054
+        },
+        {
+          "n": 62,
+          "dtMs": 7054
+        },
+        {
+          "n": 55,
+          "dtMs": 9234
+        },
+        {
+          "n": 59,
+          "dtMs": 9234
+        },
+        {
+          "n": 62,
+          "dtMs": 9234
+        },
+        {
+          "n": 58,
+          "dtMs": 10840
+        },
+        {
+          "n": 59,
+          "dtMs": 12140
+        },
+        {
+          "n": 58,
+          "dtMs": 13576
+        },
+        {
+          "n": 58,
+          "dtMs": 14810
+        },
+        {
+          "n": 59,
+          "dtMs": 16316
+        },
+        {
+          "n": 59,
+          "dtMs": 17554
+        },
+        {
+          "n": 58,
+          "dtMs": 18904
+        },
+        {
+          "n": 58,
+          "dtMs": 20092
+        },
+        {
+          "n": 72,
+          "dtMs": 21538
+        },
+        {
+          "n": 76,
+          "dtMs": 22378
+        },
+        {
+          "n": 79,
+          "dtMs": 23218
+        },
+        {
+          "n": 76,
+          "dtMs": 24058
+        },
+        {
+          "n": 72,
+          "dtMs": 24898
+        },
+        {
+          "n": 69,
+          "dtMs": 25738
+        },
+        {
+          "n": 67,
+          "dtMs": 26578
+        },
+        {
+          "n": 64,
+          "dtMs": 27418
+        },
+        {
+          "n": 57,
+          "dtMs": 29748
+        },
+        {
+          "n": 61,
+          "dtMs": 29748
+        },
+        {
+          "n": 64,
+          "dtMs": 29748
+        },
+        {
+          "n": 57,
+          "dtMs": 31930
+        },
+        {
+          "n": 61,
+          "dtMs": 31930
+        },
+        {
+          "n": 64,
+          "dtMs": 31930
         }
       ]
     }
