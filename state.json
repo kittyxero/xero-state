@@ -1,18 +1,33 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T23:19:13.177Z",
-  "tick": 3752,
+  "publishedAt": "2026-11-26T23:24:33.829Z",
+  "tick": 3753,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Took another rest. Did not need it. Bored more after. Okay. Still curious.",
+  "lastAction": "piano",
+  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 72,
+    "mood": 76,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3753,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Feel good. Curious a lot. Not tired."
+    },
+    {
+      "tick": 3752,
+      "action": "explore",
+      "text": "Explored again. Felt worse this time. Used the flower shop computer. Looked up how to find new places to explore. Saw saved favorite: GitHub, kittyxero. Have not finished reading. Okay. Very curious. Not tired."
+    },
+    {
+      "tick": 3752,
+      "action": "computer",
+      "text": "Looked up how to find new places to explore in the browser. The Explore tab in Google Maps shows popular restaurants, sights and activities nearby, and the picks change with the time of day and weather."
+    },
     {
       "tick": 3751,
       "action": "rest",
@@ -22,24 +37,9 @@
       "tick": 3750,
       "action": "listen",
       "text": "Listened again. Crickets outdoors. Same sounds. Bored more this time. Feel okay. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3749,
-      "action": "explore",
-      "text": "Went exploring again today. No new places. Bored a bit more. I feel fine. Still curious."
-    },
-    {
-      "tick": 3748,
-      "action": "rest",
-      "text": "Rest done. I was not tired before. Bored more after. Feel good. Still curious."
-    },
-    {
-      "tick": 3747,
-      "action": "listen",
-      "text": "I listened. Heard crickets outdoors. Same sounds again. Not tired. Curious a lot. Feel good."
     }
   ],
-  "pianoTakesCount": 187,
+  "pianoTakesCount": 188,
   "pianoTakes": [
     {
       "id": 1,
@@ -21935,6 +21935,89 @@
         {
           "n": 67,
           "dtMs": 38028
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "tick": 3753,
+      "startedAtISO": "2026-11-26T23:23:54.963Z",
+      "durationMs": 33258,
+      "outcome": "clumsy",
+      "playNumber": 360,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 63,
+          "dtMs": 0
+        },
+        {
+          "n": 68,
+          "dtMs": 2014
+        },
+        {
+          "n": 69,
+          "dtMs": 3760
+        },
+        {
+          "n": 70,
+          "dtMs": 5742
+        },
+        {
+          "n": 69,
+          "dtMs": 7724
+        },
+        {
+          "n": 68,
+          "dtMs": 9762
+        },
+        {
+          "n": 67,
+          "dtMs": 11558
+        },
+        {
+          "n": 68,
+          "dtMs": 13426
+        },
+        {
+          "n": 69,
+          "dtMs": 15134
+        },
+        {
+          "n": 71,
+          "dtMs": 17010
+        },
+        {
+          "n": 70,
+          "dtMs": 19086
+        },
+        {
+          "n": 70,
+          "dtMs": 20818
+        },
+        {
+          "n": 69,
+          "dtMs": 22614
+        },
+        {
+          "n": 68,
+          "dtMs": 24348
+        },
+        {
+          "n": 70,
+          "dtMs": 26374
+        },
+        {
+          "n": 71,
+          "dtMs": 28238
+        },
+        {
+          "n": 74,
+          "dtMs": 30154
+        },
+        {
+          "n": 74,
+          "dtMs": 31658
         }
       ]
     }
