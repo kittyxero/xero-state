@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-26T14:09:00.597Z",
-  "tick": 3642,
+  "publishedAt": "2026-11-26T14:14:10.372Z",
+  "tick": 3643,
   "townName": null,
-  "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Chose to listen. Birds singing outside. Heard them before. Glad. Curious a lot. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose sleep. I am not tired. Feel good. Curious a lot. I will wake on my own after a while.",
   "feelings": {
-    "mood": 80,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 84
+    "mood": 79,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3642,
+      "action": "sleep",
+      "text": "Chose sleep. I am not tired. Feel good. Curious a lot. I will wake on my own after a while."
+    },
     {
       "tick": 3641,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3638,
       "action": "explore",
       "text": "Went out exploring once more. Same streets. No new corner. Birds singing outside. Bored a bit more. Feel good. Curious a lot."
-    },
-    {
-      "tick": 3637,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled on the door. Played piano there. Notes came out wrong and clumsy. I did not stop. Feel good. Glad. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 169,
