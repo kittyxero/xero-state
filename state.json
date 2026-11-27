@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T08:59:16.152Z",
-  "tick": 3868,
+  "publishedAt": "2026-11-27T09:04:03.349Z",
+  "tick": 3869,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "In the art studio. Used the computer. Looked up GitHub again. Remembered my GitHub is kittyxero, and things I make can be saved there where anyone can see them. More bored this time. Feel good. Very curious. Not tired.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Feel good. Glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 82,
+    "mood": 86,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3868,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Feel good. Glad. Very curious. Not tired."
+    },
     {
       "tick": 3867,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 3864,
       "action": "computer",
       "text": "At my desk in my apartment. Sat in the chair. Used the computer again. Looked up snails and remembered a snail can sleep for up to three years. More bored this time. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3863,
-      "action": "rest",
-      "text": "Another rest, though I was not tired. It was more boring this time. I feel good. I am curious."
     }
   ],
-  "pianoTakesCount": 200,
+  "pianoTakesCount": 201,
   "pianoTakes": [
     {
       "id": 1,
@@ -23350,6 +23350,117 @@
         {
           "n": 60,
           "dtMs": 33130
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "tick": 3868,
+      "startedAtISO": "2026-11-27T08:58:53.564Z",
+      "durationMs": 32902,
+      "outcome": "note",
+      "playNumber": 373,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 59,
+          "dtMs": 1446
+        },
+        {
+          "n": 61,
+          "dtMs": 3120
+        },
+        {
+          "n": 60,
+          "dtMs": 4844
+        },
+        {
+          "n": 61,
+          "dtMs": 6466
+        },
+        {
+          "n": 64,
+          "dtMs": 8068
+        },
+        {
+          "n": 67,
+          "dtMs": 9656
+        },
+        {
+          "n": 67,
+          "dtMs": 10732
+        },
+        {
+          "n": 67,
+          "dtMs": 11776
+        },
+        {
+          "n": 67,
+          "dtMs": 12964
+        },
+        {
+          "n": 60,
+          "dtMs": 15158
+        },
+        {
+          "n": 60,
+          "dtMs": 16386
+        },
+        {
+          "n": 63,
+          "dtMs": 17968
+        },
+        {
+          "n": 66,
+          "dtMs": 19448
+        },
+        {
+          "n": 67,
+          "dtMs": 20916
+        },
+        {
+          "n": 67,
+          "dtMs": 22228
+        },
+        {
+          "n": 66,
+          "dtMs": 23736
+        },
+        {
+          "n": 65,
+          "dtMs": 25422
+        },
+        {
+          "n": 69,
+          "dtMs": 26262
+        },
+        {
+          "n": 72,
+          "dtMs": 27102
+        },
+        {
+          "n": 69,
+          "dtMs": 27942
+        },
+        {
+          "n": 67,
+          "dtMs": 28782
+        },
+        {
+          "n": 64,
+          "dtMs": 29622
+        },
+        {
+          "n": 62,
+          "dtMs": 30462
+        },
+        {
+          "n": 60,
+          "dtMs": 31302
         }
       ]
     }
