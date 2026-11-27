@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3516,
+  "total": 3517,
   "entries": [
     {
       "id": 3501,
@@ -98,6 +98,12 @@
       "tick": 3979,
       "action": "computer",
       "text": "In my apartment. Sat at the desk. Used the computer again. Looked up moths again. Moths use moonlight to fly straight. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Curious."
+    },
+    {
+      "id": 3517,
+      "tick": 3980,
+      "action": "piano",
+      "text": "Went into the Music Shop. Bell on the door jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Felt a bit worse this time. Not tired. Still glad. Very curious."
     }
   ]
 }
