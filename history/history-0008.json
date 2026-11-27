@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3542,
+  "total": 3543,
   "entries": [
     {
       "id": 3501,
@@ -254,6 +254,12 @@
       "tick": 4004,
       "action": "piano",
       "text": "Went in the Music Shop today. The bell jingled. Played the piano. One note sounded clear and nice. I pressed that same key a few more times. Not tired. Okay. Glad. Curious."
+    },
+    {
+      "id": 3543,
+      "tick": 4005,
+      "action": "explore",
+      "text": "Went into the art studio. Used the computer there. Looked up sound and light again. Sound travels slower than light, so thunder comes after lightning. Already knew it. Remembered it. Not tired. Good. Glad. Curious."
     }
   ]
 }
