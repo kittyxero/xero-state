@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T05:59:32.253Z",
-  "tick": 3832,
+  "publishedAt": "2026-11-27T06:04:24.133Z",
+  "tick": 3833,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Going to sleep now. Chose it. Not tired at all. Feel good and glad. Very curious.",
   "feelings": {
-    "mood": 90,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 87,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
