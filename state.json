@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T06:19:31.998Z",
-  "tick": 3836,
+  "publishedAt": "2026-11-27T06:24:21.098Z",
+  "tick": 3837,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around looking. No new places. Crickets outside. I feel good. Curious a lot. Not tired.",
+  "lastAction": "computer",
+  "latestText": "Used the computer in my apartment today. Sat in the chair at the desk. Checked butterflies again. I remembered this: butterflies taste with their feet. Feel good and glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 87,
-    "joy": 89,
-    "wonder": 97,
-    "energy": 86
+    "mood": 90,
+    "joy": 95,
+    "wonder": 100,
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 3836,
+      "action": "computer",
+      "text": "Used the computer in my apartment today. Sat in the chair at the desk. Checked butterflies again. I remembered this: butterflies taste with their feet. Feel good and glad. Very curious. Not tired."
+    },
     {
       "tick": 3835,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3830,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played the piano there. One note sounded clear and nice. I pressed the same key a few more times. Feel good and glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3829,
-      "action": "rest",
-      "text": "Took another rest today. Not tired at all. Bored more now. Feel good still. Very curious."
     }
   ],
   "pianoTakesCount": 197,
