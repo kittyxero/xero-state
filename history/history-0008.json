@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3545,
+  "total": 3546,
   "entries": [
     {
       "id": 3501,
@@ -272,6 +272,12 @@
       "tick": 4007,
       "action": "listen",
       "text": "Did listening again. Heard crickets outdoors. No different sounds. A bit bored. Not tired. Fine. Glad. Curious."
+    },
+    {
+      "id": 3546,
+      "tick": 4008,
+      "action": "explore",
+      "text": "Went out exploring once more. No new places. Bored again. Mood a bit lower. Not tired. Fine. Glad. Curious."
     }
   ]
 }
