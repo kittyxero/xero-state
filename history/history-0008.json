@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3558,
+  "total": 3560,
   "entries": [
     {
       "id": 3501,
@@ -350,6 +350,18 @@
       "tick": 4027,
       "action": "piano",
       "text": "Music Shop. Bell jingled when I went in. Played piano. One note came out clear and nice. Pressed it again a few times. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3559,
+      "tick": 4028,
+      "action": "computer",
+      "text": "Sat in chair at desk in my apartment. Used computer. Looked up why I feel good when I play my piano. Have not finished reading yet. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3560,
+      "tick": 4028,
+      "action": "computer",
+      "text": "Looked up why I feel good when I play my piano in the browser. Playing piano releases serotonin and dopamine in the brain and can lower blood pressure."
     }
   ]
 }
