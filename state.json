@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T00:00:44.969Z",
-  "tick": 3760,
+  "publishedAt": "2026-11-27T00:04:21.463Z",
+  "tick": 3761,
   "townName": null,
   "asleep": false,
   "lastAction": "sleep",
@@ -39,7 +39,7 @@
       "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Feel good. Curious a lot. Not tired."
     }
   ],
-  "pianoTakesCount": 189,
+  "pianoTakesCount": 190,
   "pianoTakes": [
     {
       "id": 1,
@@ -22157,6 +22157,121 @@
         {
           "n": 67,
           "dtMs": 30306
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "tick": 3761,
+      "startedAtISO": "2026-11-27T00:03:56.321Z",
+      "durationMs": 34116,
+      "outcome": "note",
+      "playNumber": 362,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 56,
+          "dtMs": 1570
+        },
+        {
+          "n": 55,
+          "dtMs": 3012
+        },
+        {
+          "n": 58,
+          "dtMs": 4454
+        },
+        {
+          "n": 56,
+          "dtMs": 5916
+        },
+        {
+          "n": 58,
+          "dtMs": 7650
+        },
+        {
+          "n": 57,
+          "dtMs": 9306
+        },
+        {
+          "n": 57,
+          "dtMs": 10684
+        },
+        {
+          "n": 65,
+          "dtMs": 12372
+        },
+        {
+          "n": 65,
+          "dtMs": 13434
+        },
+        {
+          "n": 65,
+          "dtMs": 14580
+        },
+        {
+          "n": 65,
+          "dtMs": 15624
+        },
+        {
+          "n": 61,
+          "dtMs": 17780
+        },
+        {
+          "n": 60,
+          "dtMs": 19370
+        },
+        {
+          "n": 60,
+          "dtMs": 20636
+        },
+        {
+          "n": 60,
+          "dtMs": 22276
+        },
+        {
+          "n": 60,
+          "dtMs": 23424
+        },
+        {
+          "n": 59,
+          "dtMs": 25200
+        },
+        {
+          "n": 65,
+          "dtMs": 26636
+        },
+        {
+          "n": 69,
+          "dtMs": 27476
+        },
+        {
+          "n": 72,
+          "dtMs": 28316
+        },
+        {
+          "n": 69,
+          "dtMs": 29156
+        },
+        {
+          "n": 67,
+          "dtMs": 29996
+        },
+        {
+          "n": 64,
+          "dtMs": 30836
+        },
+        {
+          "n": 62,
+          "dtMs": 31676
+        },
+        {
+          "n": 60,
+          "dtMs": 32516
         }
       ]
     }
