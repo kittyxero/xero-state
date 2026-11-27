@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T08:44:03.312Z",
-  "tick": 3865,
+  "publishedAt": "2026-11-27T08:48:58.355Z",
+  "tick": 3866,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "At my desk in my apartment. Sat in the chair. Used the computer again. Looked up snails and remembered a snail can sleep for up to three years. More bored this time. Feel good. Very curious. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Chose to listen. Heard birds outside. Nothing new. Feel good. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 80,
+    "mood": 88,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 3865,
+      "action": "listen",
+      "text": "Chose to listen. Heard birds outside. Nothing new. Feel good. Curious a lot. Not tired."
+    },
     {
       "tick": 3864,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3861,
       "action": "piano",
       "text": "Went to the Music Shop and went in. Bell jingled. At the piano, I played one note. It sounded clear and nice. I pressed that key again and again. Feel good. Glad. Not tired. Curious a lot."
-    },
-    {
-      "tick": 3860,
-      "action": "rest",
-      "text": "Took another rest. I did not need one. Bored a bit more after. Still feel good. Still curious."
     }
   ],
   "pianoTakesCount": 200,
