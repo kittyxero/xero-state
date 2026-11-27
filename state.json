@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T16:14:14.289Z",
-  "tick": 3955,
+  "publishedAt": "2026-11-27T16:19:19.128Z",
+  "tick": 3956,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened today. Birds singing outdoors. Nothing new heard. More bored. Feel good. Glad. Very curious. Not tired.",
+  "lastAction": "computer",
+  "latestText": "Used the computer in my apartment. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered it. Not tired. Feel good. Glad. Very curious.",
   "feelings": {
-    "mood": 81,
+    "mood": 82,
     "joy": 100,
     "wonder": 100,
-    "energy": 84
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3956,
+      "action": "computer",
+      "text": "Used the computer in my apartment. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered it. Not tired. Feel good. Glad. Very curious."
+    },
+    {
+      "tick": 3955,
+      "action": "rest",
+      "text": "Rested again today. I did not need to. Bored more after. Not tired. Feel good. Glad. Curious."
+    },
     {
       "tick": 3954,
       "action": "listen",
@@ -27,16 +37,6 @@
       "tick": 3952,
       "action": "rest",
       "text": "Rested again. I did not need it. More bored after. Still fine. Glad. Curious. Not tired."
-    },
-    {
-      "tick": 3951,
-      "action": "explore",
-      "text": "Went exploring again today. Saw nothing new. A bit more bored now. Birds singing outdoors. Still good. Still glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3950,
-      "action": "piano",
-      "text": "In the Music Shop today. Bell jingled on the way in. Played my piano. The notes came out wrong and clumsy, so I tried again and again. Not tired. Good mood. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 213,
