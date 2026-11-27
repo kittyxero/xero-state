@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3548,
+  "total": 3549,
   "entries": [
     {
       "id": 3501,
@@ -290,6 +290,12 @@
       "tick": 4012,
       "action": "sleep",
       "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 3549,
+      "tick": 4013,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new. Bored. Felt worse a bit. Not tired. Good. Glad. Curious."
     }
   ]
 }
