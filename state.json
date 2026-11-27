@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T03:53:57.698Z",
-  "tick": 3807,
+  "publishedAt": "2026-11-27T03:59:04.025Z",
+  "tick": 3808,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around town again today. No place I had not seen before. Still feel good and very curious. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose to sleep. Went to sleep in my bed. Not tired, really. Feel good. Very curious.",
   "feelings": {
-    "mood": 92,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 90,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3807,
+      "action": "sleep",
+      "text": "Chose to sleep. Went to sleep in my bed. Not tired, really. Feel good. Very curious."
+    },
     {
       "tick": 3806,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3804,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer in my apartment. Looked up why a piano has 88 keys. Not done reading yet. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3803,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano there. Got a few keys to sound good together. That was a chord. Played the chord again. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 194,
