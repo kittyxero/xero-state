@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T14:34:13.430Z",
-  "tick": 3935,
+  "publishedAt": "2026-11-27T14:39:12.191Z",
+  "tick": 3936,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel fine. I looked up why I feel more bored when I rest before I slept.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. I played my piano. The notes were wrong and clumsy. I did not stop. I feel good and glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 83,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 87,
+    "joy": 86,
+    "wonder": 88,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3935,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. I played my piano. The notes were wrong and clumsy. I did not stop. I feel good and glad. Very curious. Not tired."
+    },
     {
       "tick": 3934,
       "action": "sleep",
@@ -32,14 +37,9 @@
       "tick": 3929,
       "action": "computer",
       "text": "Looked up why I feel more bored when I rest when I am not tired in the browser. I found boredom can happen when I feel energetic but have nowhere to direct my energy, and when mental stimulation is low."
-    },
-    {
-      "tick": 3929,
-      "action": "computer",
-      "text": "Sat in the chair at the desk at home. Used the computer. Looked up why I feel more bored when I rest when I am not tired. Not finished reading it. More bored this time. Feel good. Glad. Curious."
     }
   ],
-  "pianoTakesCount": 208,
+  "pianoTakesCount": 209,
   "pianoTakes": [
     {
       "id": 1,
@@ -24242,6 +24242,89 @@
         {
           "n": 56,
           "dtMs": 27078
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "tick": 3935,
+      "startedAtISO": "2026-11-27T14:33:54.381Z",
+      "durationMs": 32604,
+      "outcome": "clumsy",
+      "playNumber": 381,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 57,
+          "dtMs": 0
+        },
+        {
+          "n": 57,
+          "dtMs": 1948
+        },
+        {
+          "n": 57,
+          "dtMs": 4092
+        },
+        {
+          "n": 55,
+          "dtMs": 5898
+        },
+        {
+          "n": 55,
+          "dtMs": 7264
+        },
+        {
+          "n": 56,
+          "dtMs": 9390
+        },
+        {
+          "n": 55,
+          "dtMs": 11224
+        },
+        {
+          "n": 55,
+          "dtMs": 12824
+        },
+        {
+          "n": 54,
+          "dtMs": 14608
+        },
+        {
+          "n": 55,
+          "dtMs": 16700
+        },
+        {
+          "n": 56,
+          "dtMs": 18544
+        },
+        {
+          "n": 56,
+          "dtMs": 19876
+        },
+        {
+          "n": 61,
+          "dtMs": 21708
+        },
+        {
+          "n": 66,
+          "dtMs": 23462
+        },
+        {
+          "n": 69,
+          "dtMs": 25436
+        },
+        {
+          "n": 68,
+          "dtMs": 27514
+        },
+        {
+          "n": 66,
+          "dtMs": 29304
+        },
+        {
+          "n": 65,
+          "dtMs": 31004
         }
       ]
     }
