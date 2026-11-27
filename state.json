@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T18:44:12.753Z",
-  "tick": 3985,
+  "publishedAt": "2026-11-27T18:49:21.802Z",
+  "tick": 3986,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Chose rest again. I did not need it. Bored a bit more. Worse for it. Good still. Glad. Very curious. Not tired.",
+  "lastAction": "listen",
+  "latestText": "Listened outside today. Birds singing. Same as before. Bored more this time. A bit worse. Not tired. Good. Glad. Curious.",
   "feelings": {
-    "mood": 72,
+    "mood": 78,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3986,
+      "action": "listen",
+      "text": "Listened outside today. Birds singing. Same as before. Bored more this time. A bit worse. Not tired. Good. Glad. Curious."
+    },
+    {
+      "tick": 3985,
+      "action": "explore",
+      "text": "Explored a bit. Went into the art studio. Used the computer there. Looked up honey again. Honey does not spoil. Knew it before. Remembered it. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 3984,
       "action": "rest",
@@ -27,16 +37,6 @@
       "tick": 3982,
       "action": "computer",
       "text": "Looked up what to do with my postbox in the browser. A post box is a locked box at a post office for receiving mail without using my home address. I should check it at least once a week so it does not overflow."
-    },
-    {
-      "tick": 3982,
-      "action": "computer",
-      "text": "Sat at the desk in my apartment. Used the computer again. Looked up what to do with my postbox. Not finished reading. More bored this time. Not tired. Okay. Glad. Very curious."
-    },
-    {
-      "tick": 3981,
-      "action": "rest",
-      "text": "Rested this time too. Did not need it. Bored more now. A bit worse. Not tired. Okay. Glad. Curious still."
     }
   ],
   "pianoTakesCount": 217,
