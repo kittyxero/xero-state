@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T03:29:40.473Z",
-  "tick": 3802,
+  "publishedAt": "2026-11-27T03:34:21.639Z",
+  "tick": 3803,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Stopped to listen again. Crickets outside. Same sounds. Felt worse, more bored. Still feel good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "I rested one more time. Not tired at all. Worse and more bored after it. Still good. Still curious.",
   "feelings": {
-    "mood": 86,
+    "mood": 82,
     "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3802,
+      "action": "rest",
+      "text": "I rested one more time. Not tired at all. Worse and more bored after it. Still good. Still curious."
+    },
     {
       "tick": 3801,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3798,
       "action": "listen",
       "text": "Stopped and listened. Crickets outside. No other sounds. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3797,
-      "action": "computer",
-      "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up goldfish again. I remembered this: goldfish can remember things for months. Felt worse, more bored. Still good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 193,
