@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T09:34:09.189Z",
-  "tick": 3875,
+  "publishedAt": "2026-11-27T09:39:11.955Z",
+  "tick": 3876,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Chose to sleep. Went to sleep. I was not tired. Feel good. Curious a lot. Will wake up on my own after a while.",
+  "latestText": "Woke up. I feel rested. I looked up why birds make sounds before I slept.",
   "feelings": {
-    "mood": 79,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 77,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3875,
+      "action": "sleep",
+      "text": "Woke up. I feel rested. I looked up why birds make sounds before I slept."
+    },
     {
       "tick": 3872,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3870,
       "action": "explore",
       "text": "Walked to places I already know. Nothing new there. Heard birds outside. Bored a bit more. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3869,
-      "action": "rest",
-      "text": "Rested. I was not tired before. Now I am more bored. I feel good. I am very curious."
     }
   ],
   "pianoTakesCount": 201,
