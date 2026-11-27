@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3526,
+  "total": 3527,
   "entries": [
     {
       "id": 3501,
@@ -158,6 +158,12 @@
       "tick": 3988,
       "action": "explore",
       "text": "Went into the Music Shop. Used the computer there. Looked up the first computer bug again. It was an actual moth. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3527,
+      "tick": 3989,
+      "action": "listen",
+      "text": "Listened again. Crickets outside. Nothing new. More bored this time, a bit worse. Not tired. Good. Glad. Very curious."
     }
   ]
 }
