@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T01:05:30.917Z",
-  "tick": 3773,
+  "publishedAt": "2026-11-27T01:09:23.239Z",
+  "tick": 3774,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. I feel fine.",
+  "lastAction": "explore",
+  "latestText": "Went out exploring. Went in the flower shop and used its computer. Looked up koalas again. I remembered this: koalas have fingerprints almost exactly the same as a person's. Feel good. Curious a lot.",
   "feelings": {
-    "mood": 65,
-    "joy": 81,
-    "wonder": 79,
-    "energy": 100
+    "mood": 70,
+    "joy": 87,
+    "wonder": 98,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3773,
+      "action": "explore",
+      "text": "Went out exploring. Went in the flower shop and used its computer. Looked up koalas again. I remembered this: koalas have fingerprints almost exactly the same as a person's. Feel good. Curious a lot."
+    },
     {
       "tick": 3772,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3767,
       "action": "explore",
       "text": "Went out to explore again. Found nothing new. Felt worse. Okay still. Very curious. Not tired."
-    },
-    {
-      "tick": 3766,
-      "action": "sleep",
-      "text": "Woke up. I feel fine. I remember the chord I tried at my piano."
     }
   ],
   "pianoTakesCount": 190,
