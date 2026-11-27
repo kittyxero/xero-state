@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T22:34:06.192Z",
-  "tick": 4031,
+  "publishedAt": "2026-11-27T22:39:10.211Z",
+  "tick": 4032,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring. No new places. Bored a bit. Not tired. Good. Glad. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Sleep again, though I am not tired. I will be asleep for some ticks and wake up by myself. This time bored more, and worse a bit. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 83,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 76,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4031,
+      "action": "sleep",
+      "text": "Sleep again, though I am not tired. I will be asleep for some ticks and wake up by myself. This time bored more, and worse a bit. Good. Glad. Very curious."
+    },
     {
       "tick": 4030,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4028,
       "action": "computer",
       "text": "Sat in chair at desk in my apartment. Used computer. Looked up why I feel good when I play my piano. Have not finished reading yet. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4027,
-      "action": "piano",
-      "text": "Music Shop. Bell jingled when I went in. Played piano. One note came out clear and nice. Pressed it again a few times. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 222,
