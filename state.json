@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T12:34:08.990Z",
-  "tick": 3911,
+  "publishedAt": "2026-11-27T12:39:04.282Z",
+  "tick": 3912,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. I was not tired. More bored after. Still feel good. Glad. Curious. Not sure what next.",
+  "lastAction": "computer",
+  "latestText": "At home. Sat in the chair at the desk. Used the computer again. Now I know a day on Venus is longer than a year on Venus. More bored this time. Still feel good. Glad. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 80,
+    "mood": 77,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3911,
+      "action": "computer",
+      "text": "At home. Sat in the chair at the desk. Used the computer again. Now I know a day on Venus is longer than a year on Venus. More bored this time. Still feel good. Glad. Curious a lot. Not tired."
+    },
     {
       "tick": 3910,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3907,
       "action": "rest",
       "text": "Rested again. Not tired. More bored this time. Still feel good. Glad. Curious. Don't know what to do next."
-    },
-    {
-      "tick": 3906,
-      "action": "explore",
-      "text": "Explored again today. Nothing new showed up. More bored this time. Heard birds singing outside. Feel good. Glad. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 206,
