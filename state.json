@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T05:19:19.395Z",
-  "tick": 3824,
+  "publishedAt": "2026-11-27T05:24:22.301Z",
+  "tick": 3825,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested today. I was not tired. Feel good and glad. Very curious still. A little more bored now.",
+  "lastAction": "make",
+  "latestText": "Made a small thing today. Saved it. Feel good. Glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 90,
-    "joy": 92,
-    "wonder": 94,
-    "energy": 99
+    "mood": 98,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 79
   },
   "recentDiary": [
+    {
+      "tick": 3825,
+      "action": "make",
+      "text": "Made a small thing today. Saved it. Feel good. Glad. Very curious. Not tired."
+    },
+    {
+      "tick": 3824,
+      "action": "computer",
+      "text": "Used the computer in my apartment today. Sat in the chair at the desk. Checked honey again. I remembered it does not spoil. Feel good and glad. Very curious. Not tired."
+    },
     {
       "tick": 3823,
       "action": "rest",
@@ -27,16 +37,6 @@
       "tick": 3821,
       "action": "piano",
       "text": "In the Music Shop today. Bell jingled when I went in. Played my piano. Notes were wrong and clumsy. I did not stop. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3820,
-      "action": "sleep",
-      "text": "Woke up. I feel rested. I remember octopuses have three hearts."
-    },
-    {
-      "tick": 3817,
-      "action": "sleep",
-      "text": "In my bed now. Going to sleep. I was not tired. Still feel good. Still curious."
     }
   ],
   "pianoTakesCount": 196,
@@ -22875,6 +22875,15 @@
     }
   ],
   "pieces": [
+    {
+      "id": 11,
+      "title": "Made Today",
+      "text": "Made a small thing. I feel good and curious.",
+      "createdTick": 3825,
+      "createdAt": "2026-11-27T05:23:53.482Z",
+      "notes": null,
+      "durationMs": null
+    },
     {
       "id": 10,
       "title": "New Small Thing",
