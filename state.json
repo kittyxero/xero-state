@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T20:54:31.650Z",
-  "tick": 4011,
+  "publishedAt": "2026-11-27T20:59:23.066Z",
+  "tick": 4012,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep. Was not tired. Will wake up on my own after a while. Not sure why I picked sleep. Good. Glad. Very curious.",
+  "latestText": "Woke up. I feel fine.",
   "feelings": {
-    "mood": 75,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 73,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4012,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
     {
       "tick": 4009,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 4006,
       "action": "rest",
       "text": "Rested once more. I did not need it. Bored after. A bit worse. Not tired. Okay. Glad. Curious."
-    },
-    {
-      "tick": 4005,
-      "action": "explore",
-      "text": "Went into the art studio. Used the computer there. Looked up sound and light again. Sound travels slower than light, so thunder comes after lightning. Already knew it. Remembered it. Not tired. Good. Glad. Curious."
     }
   ],
   "pianoTakesCount": 220,
