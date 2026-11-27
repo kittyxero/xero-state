@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T19:24:16.808Z",
-  "tick": 3993,
+  "publishedAt": "2026-11-27T19:29:04.718Z",
+  "tick": 3994,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop today. The bell jingled at the door. Played my piano. I hit wrong notes and played clumsily. Kept at it anyway. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Not tired. Bored more. Felt a bit worse. Still good. Glad. Curious.",
   "feelings": {
-    "mood": 74,
+    "mood": 71,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3993,
+      "action": "rest",
+      "text": "Rested again. Not tired. Bored more. Felt a bit worse. Still good. Glad. Curious."
+    },
     {
       "tick": 3992,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3989,
       "action": "listen",
       "text": "Listened again. Crickets outside. Nothing new. More bored this time, a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 3988,
-      "action": "explore",
-      "text": "Went into the Music Shop. Used the computer there. Looked up the first computer bug again. It was an actual moth. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 218,
