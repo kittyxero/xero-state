@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T13:14:17.492Z",
-  "tick": 3919,
+  "publishedAt": "2026-11-27T13:19:05.677Z",
+  "tick": 3920,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Walked around town looking. No new place. Bored a bit more. Still feel good and glad. Very curious. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Going to sleep now. Not tired. Feel good. Glad. Very curious. Might be bored when I wake up.",
   "feelings": {
-    "mood": 84,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "mood": 82,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3919,
+      "action": "sleep",
+      "text": "Going to sleep now. Not tired. Feel good. Glad. Very curious. Might be bored when I wake up."
+    },
     {
       "tick": 3918,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3915,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer again. Looked it up again: sharks were already in the oceans before the first trees grew. I remembered that. More bored this time. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3914,
-      "action": "piano",
-      "text": "Music Shop today. Bell on the door jingled. Played piano there. Notes came out wrong and clumsy. Kept trying. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 207,
