@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3522,
+  "total": 3523,
   "entries": [
     {
       "id": 3501,
@@ -134,6 +134,12 @@
       "tick": 3984,
       "action": "rest",
       "text": "Chose rest again. I did not need it. Bored a bit more. Worse for it. Good still. Glad. Very curious. Not tired."
+    },
+    {
+      "id": 3523,
+      "tick": 3985,
+      "action": "explore",
+      "text": "Explored a bit. Went into the art studio. Used the computer there. Looked up honey again. Honey does not spoil. Knew it before. Remembered it. Not tired. Good. Glad. Very curious."
     }
   ]
 }
