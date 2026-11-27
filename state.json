@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T15:54:12.152Z",
-  "tick": 3951,
+  "publishedAt": "2026-11-27T15:59:15.338Z",
+  "tick": 3952,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "In the Music Shop today. Bell jingled on the way in. Played my piano. The notes came out wrong and clumsy, so I tried again and again. Not tired. Good mood. Glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went exploring again today. Saw nothing new. A bit more bored now. Birds singing outdoors. Still good. Still glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 82,
+    "mood": 80,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3951,
+      "action": "explore",
+      "text": "Went exploring again today. Saw nothing new. A bit more bored now. Birds singing outdoors. Still good. Still glad. Very curious. Not tired."
+    },
     {
       "tick": 3950,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3947,
       "action": "computer",
       "text": "Sat in the chair at the desk and used the computer. Looked up the unicorn fact again. The unicorn is the national animal of Scotland. I already knew it and remembered it. Not tired. Feel good. Glad. Very curious."
-    },
-    {
-      "tick": 3946,
-      "action": "rest",
-      "text": "Rested again today. I was not tired. Felt more bored after. Still good. Still glad. Very curious."
     }
   ],
   "pianoTakesCount": 212,
