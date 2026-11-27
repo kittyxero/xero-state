@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T17:39:13.184Z",
-  "tick": 3972,
+  "publishedAt": "2026-11-27T17:44:09.046Z",
+  "tick": 3973,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Looked up why I feel more bored when I use the computer in the browser. Digital media distracts attention with fast switching between apps, so I rarely get a full experience and feel less satisfied and wanting more.",
+  "lastAction": "explore",
+  "latestText": "Went exploring. No new place found. Birds singing outside. A bit bored now. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 72,
+    "mood": 74,
     "joy": 100,
     "wonder": 100,
     "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3973,
+      "action": "explore",
+      "text": "Went exploring. No new place found. Birds singing outside. A bit bored now. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "tick": 3972,
+      "action": "rest",
+      "text": "Chose to rest again. I was not tired before. More bored now, a bit worse. Okay still. Glad. Curious."
+    },
     {
       "tick": 3971,
       "action": "computer",
@@ -27,16 +37,6 @@
       "tick": 3970,
       "action": "listen",
       "text": "Listened again. Birds singing outside. Same sounds again. A bit more bored now. Still good. Still glad. Curious. Not tired."
-    },
-    {
-      "tick": 3968,
-      "action": "rest",
-      "text": "Rested today again. I had no need to. Felt a bit worse after. Still good. Still curious."
-    },
-    {
-      "tick": 3967,
-      "action": "piano",
-      "text": "In the Music Shop. The bell jingled. I played my piano. A single note sounded clear and nice. I pressed that key a few more times. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 215,
