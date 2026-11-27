@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T02:29:22.030Z",
-  "tick": 3790,
+  "publishedAt": "2026-11-27T02:33:58.952Z",
+  "tick": 3791,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again today. I was not tired. Felt worse, a bit more bored. Still good. Curious a lot.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk in my apartment. Used the computer again. Learned reindeer eyes change color with the seasons. Gold in summer, blue in winter. Felt worse, more bored. Still good. Very curious. Not tired.",
   "feelings": {
-    "mood": 91,
+    "mood": 87,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3790,
+      "action": "computer",
+      "text": "Sat in the chair at the desk in my apartment. Used the computer again. Learned reindeer eyes change color with the seasons. Gold in summer, blue in winter. Felt worse, more bored. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3789,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3786,
       "action": "rest",
       "text": "Had a rest. Was not tired. A bit bored now. Feel good. Still curious."
-    },
-    {
-      "tick": 3785,
-      "action": "computer",
-      "text": "Sat in the chair at the desk in my apartment. Used the computer. Looked up spaghetti again. I remembered this: one single strand of spaghetti is called a spaghetto. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 192,
