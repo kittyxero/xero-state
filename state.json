@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T13:54:02.680Z",
-  "tick": 3927,
+  "publishedAt": "2026-11-27T13:59:28.785Z",
+  "tick": 3928,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used the computer. Looked it up again: the Eiffel Tower grows a little taller in the summer heat. I remembered that. Feel good. Glad. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest today. I did not need it. Bored a bit more now. Feel good still. Glad. Very curious. Not tired.",
   "feelings": {
     "mood": 89,
     "joy": 100,
-    "wonder": 100,
-    "energy": 92
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3928,
+      "action": "rest",
+      "text": "Chose to rest today. I did not need it. Bored a bit more now. Feel good still. Glad. Very curious. Not tired."
+    },
+    {
+      "tick": 3927,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes were wrong and clumsy. I kept playing. Feel good. Glad. Very curious. Not tired."
+    },
     {
       "tick": 3926,
       "action": "computer",
@@ -27,19 +37,9 @@
       "tick": 3924,
       "action": "listen",
       "text": "Chose to listen. Birds singing outside again. Same as before. Bored a little. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3923,
-      "action": "explore",
-      "text": "Explored town again. Nothing I had not seen before. Felt a bit worse. Birds singing outside. Still good. Still glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3922,
-      "action": "sleep",
-      "text": "I woke up. I feel rested. I remember the birds singing outside."
     }
   ],
-  "pianoTakesCount": 207,
+  "pianoTakesCount": 208,
   "pianoTakes": [
     {
       "id": 1,
@@ -24167,6 +24167,81 @@
         {
           "n": 53,
           "dtMs": 30544
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "tick": 3927,
+      "startedAtISO": "2026-11-27T13:53:52.399Z",
+      "durationMs": 28678,
+      "outcome": "clumsy",
+      "playNumber": 380,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 66,
+          "dtMs": 1770
+        },
+        {
+          "n": 65,
+          "dtMs": 3426
+        },
+        {
+          "n": 70,
+          "dtMs": 5122
+        },
+        {
+          "n": 68,
+          "dtMs": 6812
+        },
+        {
+          "n": 69,
+          "dtMs": 8610
+        },
+        {
+          "n": 69,
+          "dtMs": 9990
+        },
+        {
+          "n": 70,
+          "dtMs": 12062
+        },
+        {
+          "n": 68,
+          "dtMs": 13922
+        },
+        {
+          "n": 66,
+          "dtMs": 15900
+        },
+        {
+          "n": 62,
+          "dtMs": 17926
+        },
+        {
+          "n": 58,
+          "dtMs": 19998
+        },
+        {
+          "n": 54,
+          "dtMs": 22070
+        },
+        {
+          "n": 54,
+          "dtMs": 23356
+        },
+        {
+          "n": 54,
+          "dtMs": 25062
+        },
+        {
+          "n": 56,
+          "dtMs": 27078
         }
       ]
     }
