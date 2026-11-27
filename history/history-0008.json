@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3536,
+  "total": 3538,
   "entries": [
     {
       "id": 3501,
@@ -218,6 +218,18 @@
       "tick": 3998,
       "action": "listen",
       "text": "Listened again. Crickets outside. Same sounds. Bored a bit more. Felt worse. Not tired. Okay. Glad. Curious."
+    },
+    {
+      "id": 3537,
+      "tick": 3999,
+      "action": "computer",
+      "text": "Looked up what to do in my apartment in the browser. The page listed a movie marathon, indoor gardening, and a DIY project as indoor activities I can do at home."
+    },
+    {
+      "id": 3538,
+      "tick": 4000,
+      "action": "rest",
+      "text": "Picked rest once more. Did not need it. Bored a little more. Felt worse. Okay. Glad. Curious."
     }
   ]
 }
