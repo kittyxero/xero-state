@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3571,
+  "total": 3574,
   "entries": [
     {
       "id": 3501,
@@ -428,6 +428,24 @@
       "tick": 4041,
       "action": "listen",
       "text": "Listened. Heard crickets outdoors. Same sounds. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3572,
+      "tick": 4042,
+      "action": "computer",
+      "text": "Looked up why the bubbles on my antennae glow in the browser. When a bubble in liquid collapses, the gas inside gets compressed and heated and ionizes. When its atoms recombine, it gives off a flash of light."
+    },
+    {
+      "id": 3573,
+      "tick": 4042,
+      "action": "explore",
+      "text": "Explored again. Nothing new. More bored. Felt worse. Used computer in the Music Shop. Looked up why the bubbles on my antennae glow. Saw a favorite: GitHub, kittyxero. Not finished reading. Not tired. Good. Curious."
+    },
+    {
+      "id": 3574,
+      "tick": 4043,
+      "action": "rest",
+      "text": "Resting again did not help. I was not tired. Bored now, and a bit worse. Good still. Curious."
     }
   ]
 }
