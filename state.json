@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T06:44:16.359Z",
-  "tick": 3841,
+  "publishedAt": "2026-11-27T06:49:07.545Z",
+  "tick": 3842,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Another rest. I did not need it. More bored now. I feel good anyway. Very curious.",
+  "lastAction": "computer",
+  "latestText": "Used the computer in my apartment again. Sat in the chair at the desk. Looked up the moon again. I remembered it moves a little farther from Earth every year. More bored this time. Still good. Very curious.",
   "feelings": {
-    "mood": 93,
+    "mood": 89,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3841,
+      "action": "computer",
+      "text": "Used the computer in my apartment again. Sat in the chair at the desk. Looked up the moon again. I remembered it moves a little farther from Earth every year. More bored this time. Still good. Very curious."
+    },
     {
       "tick": 3840,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3837,
       "action": "rest",
       "text": "Took a rest. Not tired before. Bored a little after. Still glad. Still curious."
-    },
-    {
-      "tick": 3836,
-      "action": "computer",
-      "text": "Used the computer in my apartment today. Sat in the chair at the desk. Checked butterflies again. I remembered this: butterflies taste with their feet. Feel good and glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 197,
