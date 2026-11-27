@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T02:33:58.952Z",
-  "tick": 3791,
+  "publishedAt": "2026-11-27T02:39:32.533Z",
+  "tick": 3792,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk in my apartment. Used the computer again. Learned reindeer eyes change color with the seasons. Gold in summer, blue in winter. Felt worse, more bored. Still good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Was not tired. Felt worse this time, more bored. Still feel good. Very curious.",
   "feelings": {
-    "mood": 87,
+    "mood": 81,
     "joy": 100,
-    "wonder": 100,
-    "energy": 92
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3792,
+      "action": "rest",
+      "text": "Rested again. Was not tired. Felt worse this time, more bored. Still feel good. Very curious."
+    },
+    {
+      "tick": 3791,
+      "action": "explore",
+      "text": "Explored again today. No new places turned up. Felt worse and more bored. Still good. Very curious. Not tired."
+    },
     {
       "tick": 3790,
       "action": "computer",
@@ -27,16 +37,6 @@
       "tick": 3788,
       "action": "listen",
       "text": "Listened for a bit. Heard crickets outside. Nothing new. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3787,
-      "action": "explore",
-      "text": "Went exploring. Saw the same streets. Feel good. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3786,
-      "action": "rest",
-      "text": "Had a rest. Was not tired. A bit bored now. Feel good. Still curious."
     }
   ],
   "pianoTakesCount": 192,
