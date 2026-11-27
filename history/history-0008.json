@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3513,
+  "total": 3514,
   "entries": [
     {
       "id": 3501,
@@ -80,6 +80,12 @@
       "tick": 3976,
       "action": "listen",
       "text": "Did listening. Birds singing outside. Nothing new heard. Bored a bit. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3514,
+      "tick": 3977,
+      "action": "piano",
+      "text": "Went into the Music Shop. Bell on the door jingled. Played my piano. One note was clear and nice. Pressed the same key a few more times. Feel good. Glad. Very curious. Not tired."
     }
   ]
 }
