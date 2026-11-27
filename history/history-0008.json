@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3563,
+  "total": 3564,
   "entries": [
     {
       "id": 3501,
@@ -380,6 +380,12 @@
       "tick": 4031,
       "action": "sleep",
       "text": "Sleep again, though I am not tired. I will be asleep for some ticks and wake up by myself. This time bored more, and worse a bit. Good. Glad. Very curious."
+    },
+    {
+      "id": 3564,
+      "tick": 4034,
+      "action": "sleep",
+      "text": "Woke up. Feel rested. I looked up why I feel good when I play my piano before sleep."
     }
   ]
 }
