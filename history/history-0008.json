@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3568,
+  "total": 3569,
   "entries": [
     {
       "id": 3501,
@@ -410,6 +410,12 @@
       "tick": 4038,
       "action": "explore",
       "text": "Went out exploring. Still nothing new to find. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3569,
+      "tick": 4039,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer again. Looked up sea otters again. Sea otters hold hands when they sleep. I remembered that already. Felt worse a bit. More bored. Not tired. Good. Glad. Very curious."
     }
   ]
 }
