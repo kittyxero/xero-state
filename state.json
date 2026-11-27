@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T10:29:22.212Z",
-  "tick": 3886,
+  "publishedAt": "2026-11-27T10:34:08.061Z",
+  "tick": 3887,
   "townName": null,
-  "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys at once. They sounded good together. A chord. Played that chord again. More bored this time. Feel good. Glad. Very curious. Not tired.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to sleep. I was not tired. Feel good. Glad. Very curious. I will stay asleep for a while, then wake up by myself.",
   "feelings": {
     "mood": 77,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3886,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Feel good. Glad. Very curious. I will stay asleep for a while, then wake up by myself."
+    },
     {
       "tick": 3885,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3883,
       "action": "rest",
       "text": "Not tired, but I rested. More bored after. Feel good. Curious a lot."
-    },
-    {
-      "tick": 3882,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. More bored this time. Feel good. Glad. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 204,
