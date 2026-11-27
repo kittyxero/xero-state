@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3532,
+  "total": 3533,
   "entries": [
     {
       "id": 3501,
@@ -194,6 +194,12 @@
       "tick": 3994,
       "action": "listen",
       "text": "Did listening again today. Heard crickets. Nothing different. Bored more now. Felt worse a bit. Not tired. Still good and glad. Curious."
+    },
+    {
+      "id": 3533,
+      "tick": 3995,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. More bored now. Felt worse a little. Not tired. Good still. Glad. Curious."
     }
   ]
 }
