@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3543,
+  "total": 3544,
   "entries": [
     {
       "id": 3501,
@@ -260,6 +260,12 @@
       "tick": 4005,
       "action": "explore",
       "text": "Went into the art studio. Used the computer there. Looked up sound and light again. Sound travels slower than light, so thunder comes after lightning. Already knew it. Remembered it. Not tired. Good. Glad. Curious."
+    },
+    {
+      "id": 3544,
+      "tick": 4006,
+      "action": "rest",
+      "text": "Rested once more. I did not need it. Bored after. A bit worse. Not tired. Okay. Glad. Curious."
     }
   ]
 }
