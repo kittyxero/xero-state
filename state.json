@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T16:59:15.823Z",
-  "tick": 3964,
+  "publishedAt": "2026-11-27T17:04:28.308Z",
+  "tick": 3965,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk in my apartment. Used the computer. Looked up reindeer eyes. They change color with the seasons, gold in summer, blue in winter. I remembered it. More bored. Not tired. Glad. Curious.",
+  "lastAction": "listen",
+  "latestText": "Did listening again today. Birds singing outside. Heard nothing new. Bored more after. Still feel good. Glad. Curious. Not tired.",
   "feelings": {
     "mood": 79,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 80
   },
   "recentDiary": [
+    {
+      "tick": 3964,
+      "action": "listen",
+      "text": "Did listening again today. Birds singing outside. Heard nothing new. Bored more after. Still feel good. Glad. Curious. Not tired."
+    },
     {
       "tick": 3963,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3960,
       "action": "listen",
       "text": "Listened today. Birds singing outdoors. Same sounds. A bit more bored. Not tired. Feel good. Glad. Very curious."
-    },
-    {
-      "tick": 3959,
-      "action": "computer",
-      "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up why I feel rested when I wake up after sleep. Not finished reading. More bored this time. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 214,
