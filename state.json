@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T20:04:13.075Z",
-  "tick": 4001,
+  "publishedAt": "2026-11-27T20:09:16.583Z",
+  "tick": 4002,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Picked rest once more. Did not need it. Bored a little more. Felt worse. Okay. Glad. Curious.",
+  "lastAction": "listen",
+  "latestText": "Did listening again today. Crickets outside. Nothing new to hear. More bored. A bit worse. Not tired. Okay. Glad. Curious.",
   "feelings": {
-    "mood": 62,
+    "mood": 63,
     "joy": 100,
-    "wonder": 94,
-    "energy": 93
+    "wonder": 95,
+    "energy": 87
   },
   "recentDiary": [
+    {
+      "tick": 4001,
+      "action": "listen",
+      "text": "Did listening again today. Crickets outside. Nothing new to hear. More bored. A bit worse. Not tired. Okay. Glad. Curious."
+    },
     {
       "tick": 4000,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3997,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Okay. Glad. Curious."
-    },
-    {
-      "tick": 3996,
-      "action": "rest",
-      "text": "Took another rest. I was not tired before it. More bored after. Felt a bit worse. Okay. Glad. Curious."
     }
   ],
   "pianoTakesCount": 219,
