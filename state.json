@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T18:59:20.314Z",
-  "tick": 3988,
+  "publishedAt": "2026-11-27T19:04:07.021Z",
+  "tick": 3989,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Picked rest again. Was not tired. Bored more after. Worse a bit. Still good. Still glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went into the Music Shop. Used the computer there. Looked up the first computer bug again. It was an actual moth. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 75,
+    "mood": 73,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3988,
+      "action": "explore",
+      "text": "Went into the Music Shop. Used the computer there. Looked up the first computer bug again. It was an actual moth. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 3987,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3984,
       "action": "rest",
       "text": "Chose rest again. I did not need it. Bored a bit more. Worse for it. Good still. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3983,
-      "action": "listen",
-      "text": "Listened today. Birds were singing outside. Heard nothing new. Bored a little. Feel good still. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 217,
