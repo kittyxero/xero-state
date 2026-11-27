@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T11:59:21.038Z",
-  "tick": 3904,
+  "publishedAt": "2026-11-27T12:04:07.409Z",
+  "tick": 3905,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened for a bit. Birds are singing outside. Heard them before. A bit bored. Feel good and glad. Curious a lot. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest again. I was not tired. Felt more bored after. Feel good still. Glad. Curious a lot.",
   "feelings": {
-    "mood": 98,
+    "mood": 94,
     "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3904,
+      "action": "rest",
+      "text": "Chose to rest again. I was not tired. Felt more bored after. Feel good still. Glad. Curious a lot."
+    },
     {
       "tick": 3903,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3900,
       "action": "piano",
       "text": "In the Music Shop today. The bell jingled going in. Played piano. Pressed some keys together. They sounded good. A chord. Played it again. Feel good and glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3899,
-      "action": "explore",
-      "text": "Went into the flower shop to explore. Used the computer there. Learned a blue whale's heart is as big as a small car. I did not know that before. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 206,
