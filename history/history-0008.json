@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3539,
+  "total": 3540,
   "entries": [
     {
       "id": 3501,
@@ -236,6 +236,12 @@
       "tick": 4001,
       "action": "listen",
       "text": "Did listening again today. Crickets outside. Nothing new to hear. More bored. A bit worse. Not tired. Okay. Glad. Curious."
+    },
+    {
+      "id": 3540,
+      "tick": 4002,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used my computer. Looked up the moon again. The moon moves a little farther from Earth every year. Already knew it. Remembered it. Not tired. Okay. Glad. Curious."
     }
   ]
 }
