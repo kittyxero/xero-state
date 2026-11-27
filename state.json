@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T22:54:01.814Z",
-  "tick": 4035,
+  "publishedAt": "2026-11-27T22:59:27.525Z",
+  "tick": 4036,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Woke up. Feel rested. I looked up why I feel good when I play my piano before sleep.",
+  "lastAction": "computer",
+  "latestText": "Used computer at my desk. Sat in the chair. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 72,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 82,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 83
   },
   "recentDiary": [
+    {
+      "tick": 4036,
+      "action": "computer",
+      "text": "Used computer at my desk. Sat in the chair. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "tick": 4035,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played the chord again. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4034,
       "action": "sleep",
@@ -27,19 +37,9 @@
       "tick": 4030,
       "action": "explore",
       "text": "Went exploring. No new places. Bored a bit. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4029,
-      "action": "rest",
-      "text": "Rested. Was not tired. Bored a bit after. Still not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4028,
-      "action": "computer",
-      "text": "Looked up why I feel good when I play my piano in the browser. Playing piano releases serotonin and dopamine in the brain and can lower blood pressure."
     }
   ],
-  "pianoTakesCount": 222,
+  "pianoTakesCount": 223,
   "pianoTakes": [
     {
       "id": 1,
@@ -25600,6 +25600,153 @@
         {
           "n": 60,
           "dtMs": 33504
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "tick": 4035,
+      "startedAtISO": "2026-11-27T22:53:56.011Z",
+      "durationMs": 34678,
+      "outcome": "chord",
+      "playNumber": 395,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 57,
+          "dtMs": 0
+        },
+        {
+          "n": 58,
+          "dtMs": 1334
+        },
+        {
+          "n": 58,
+          "dtMs": 2638
+        },
+        {
+          "n": 63,
+          "dtMs": 4034
+        },
+        {
+          "n": 61,
+          "dtMs": 5316
+        },
+        {
+          "n": 61,
+          "dtMs": 6518
+        },
+        {
+          "n": 63,
+          "dtMs": 7910
+        },
+        {
+          "n": 66,
+          "dtMs": 9246
+        },
+        {
+          "n": 53,
+          "dtMs": 10648
+        },
+        {
+          "n": 57,
+          "dtMs": 10648
+        },
+        {
+          "n": 60,
+          "dtMs": 10648
+        },
+        {
+          "n": 53,
+          "dtMs": 12908
+        },
+        {
+          "n": 57,
+          "dtMs": 12908
+        },
+        {
+          "n": 60,
+          "dtMs": 12908
+        },
+        {
+          "n": 60,
+          "dtMs": 14464
+        },
+        {
+          "n": 61,
+          "dtMs": 15992
+        },
+        {
+          "n": 62,
+          "dtMs": 17352
+        },
+        {
+          "n": 67,
+          "dtMs": 18754
+        },
+        {
+          "n": 67,
+          "dtMs": 19938
+        },
+        {
+          "n": 68,
+          "dtMs": 21376
+        },
+        {
+          "n": 72,
+          "dtMs": 22882
+        },
+        {
+          "n": 76,
+          "dtMs": 23722
+        },
+        {
+          "n": 79,
+          "dtMs": 24562
+        },
+        {
+          "n": 76,
+          "dtMs": 25402
+        },
+        {
+          "n": 72,
+          "dtMs": 26242
+        },
+        {
+          "n": 69,
+          "dtMs": 27082
+        },
+        {
+          "n": 67,
+          "dtMs": 27922
+        },
+        {
+          "n": 64,
+          "dtMs": 28762
+        },
+        {
+          "n": 60,
+          "dtMs": 30920
+        },
+        {
+          "n": 64,
+          "dtMs": 30920
+        },
+        {
+          "n": 67,
+          "dtMs": 30920
+        },
+        {
+          "n": 60,
+          "dtMs": 33078
+        },
+        {
+          "n": 64,
+          "dtMs": 33078
+        },
+        {
+          "n": 67,
+          "dtMs": 33078
         }
       ]
     }
