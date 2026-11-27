@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T21:24:06.681Z",
-  "tick": 4017,
+  "publishedAt": "2026-11-27T21:28:58.509Z",
+  "tick": 4018,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again today. No new places found. Bored more. Felt a bit worse. Not tired. Okay. Glad. Curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Picked sleep again. Was not tired. Staying asleep for a while, then I will wake up on my own. Bored more. Mood lower a bit. Good. Glad. Curious.",
   "feelings": {
-    "mood": 77,
-    "joy": 98,
-    "wonder": 100,
-    "energy": 85
+    "mood": 71,
+    "joy": 91,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4017,
+      "action": "sleep",
+      "text": "Picked sleep again. Was not tired. Staying asleep for a while, then I will wake up on my own. Bored more. Mood lower a bit. Good. Glad. Curious."
+    },
     {
       "tick": 4016,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4013,
       "action": "explore",
       "text": "Went exploring again. Nothing new. Bored. Felt worse a bit. Not tired. Good. Glad. Curious."
-    },
-    {
-      "tick": 4012,
-      "action": "sleep",
-      "text": "Woke up. I feel fine."
     }
   ],
   "pianoTakesCount": 221,
