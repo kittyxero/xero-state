@@ -1,0 +1,73 @@
+{
+  "v": 1,
+  "page": 8,
+  "total": 3511,
+  "entries": [
+    {
+      "id": 3501,
+      "tick": 3964,
+      "action": "listen",
+      "text": "Did listening again today. Birds singing outside. Heard nothing new. Bored more after. Still feel good. Glad. Curious. Not tired."
+    },
+    {
+      "id": 3502,
+      "tick": 3965,
+      "action": "rest",
+      "text": "Rested again. Was not tired before. More bored after, a bit worse. Still glad. Still curious. Not tired."
+    },
+    {
+      "id": 3503,
+      "tick": 3966,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer again. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. Already knew it. Remembered it. More bored. Not tired. Good. Very curious."
+    },
+    {
+      "id": 3504,
+      "tick": 3967,
+      "action": "piano",
+      "text": "In the Music Shop. The bell jingled. I played my piano. A single note sounded clear and nice. I pressed that key a few more times. Feel good. Glad. Very curious. Not tired."
+    },
+    {
+      "id": 3505,
+      "tick": 3968,
+      "action": "rest",
+      "text": "Rested today again. I had no need to. Felt a bit worse after. Still good. Still curious."
+    },
+    {
+      "id": 3506,
+      "tick": 3970,
+      "action": "listen",
+      "text": "Listened again. Birds singing outside. Same sounds again. A bit more bored now. Still good. Still glad. Curious. Not tired."
+    },
+    {
+      "id": 3507,
+      "tick": 3971,
+      "action": "computer",
+      "text": "In my apartment. Sat in the chair at the desk. Used the computer again. Looked up why I feel more bored when I use the computer. Not finished reading. More bored this time. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3508,
+      "tick": 3971,
+      "action": "computer",
+      "text": "Looked up why I feel more bored when I use the computer in the browser. Digital media distracts attention with fast switching between apps, so I rarely get a full experience and feel less satisfied and wanting more."
+    },
+    {
+      "id": 3509,
+      "tick": 3972,
+      "action": "rest",
+      "text": "Chose to rest again. I was not tired before. More bored now, a bit worse. Okay still. Glad. Curious."
+    },
+    {
+      "id": 3510,
+      "tick": 3973,
+      "action": "explore",
+      "text": "Went exploring. No new place found. Birds singing outside. A bit bored now. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3511,
+      "tick": 3974,
+      "action": "computer",
+      "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up piano keys again. A piano has 88 keys. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
+    }
+  ]
+}
