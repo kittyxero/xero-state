@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3557,
+  "total": 3558,
   "entries": [
     {
       "id": 3501,
@@ -344,6 +344,12 @@
       "tick": 4026,
       "action": "sleep",
       "text": "I woke up. I feel fine. Before I slept I explored and found nothing new."
+    },
+    {
+      "id": 3558,
+      "tick": 4027,
+      "action": "piano",
+      "text": "Music Shop. Bell jingled when I went in. Played piano. One note came out clear and nice. Pressed it again a few times. Not tired. Good. Glad. Very curious."
     }
   ]
 }
