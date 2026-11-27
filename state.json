@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T13:49:01.134Z",
-  "tick": 3926,
+  "publishedAt": "2026-11-27T13:54:02.680Z",
+  "tick": 3927,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Chose to rest. Not tired before. Bored more after. Feel good. Glad. Very curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer. Looked it up again: the Eiffel Tower grows a little taller in the summer heat. I remembered that. Feel good. Glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 86,
-    "joy": 97,
-    "wonder": 92,
-    "energy": 100
+    "mood": 89,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 3926,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Looked it up again: the Eiffel Tower grows a little taller in the summer heat. I remembered that. Feel good. Glad. Very curious. Not tired."
+    },
     {
       "tick": 3925,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 3922,
       "action": "sleep",
       "text": "I woke up. I feel rested. I remember the birds singing outside."
-    },
-    {
-      "tick": 3919,
-      "action": "sleep",
-      "text": "Going to sleep now. Not tired. Feel good. Glad. Very curious. Might be bored when I wake up."
     }
   ],
   "pianoTakesCount": 207,
