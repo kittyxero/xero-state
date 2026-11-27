@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T12:09:04.983Z",
-  "tick": 3906,
+  "publishedAt": "2026-11-27T12:14:13.402Z",
+  "tick": 3907,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Looked up what to do in the art studio in the browser. I found a community art studio gives space and supplies on Saturdays, and the projects change each month.",
+  "lastAction": "explore",
+  "latestText": "Explored again today. Nothing new showed up. More bored this time. Heard birds singing outside. Feel good. Glad. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 97,
+    "mood": 94,
     "joy": 100,
     "wonder": 100,
-    "energy": 92
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 3906,
+      "action": "explore",
+      "text": "Explored again today. Nothing new showed up. More bored this time. Heard birds singing outside. Feel good. Glad. Curious a lot. Not tired."
+    },
     {
       "tick": 3905,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3902,
       "action": "explore",
       "text": "Explored again. Found nothing new. More bored this time. Birds singing outside. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3901,
-      "action": "rest",
-      "text": "Chose to rest. I was not tired. Bored a little after. Still feel good and glad. Very curious."
     }
   ],
   "pianoTakesCount": 206,
