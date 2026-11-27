@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T15:59:15.338Z",
-  "tick": 3952,
+  "publishedAt": "2026-11-27T16:04:20.398Z",
+  "tick": 3953,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again today. Saw nothing new. A bit more bored now. Birds singing outdoors. Still good. Still glad. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested again. I did not need it. More bored after. Still fine. Glad. Curious. Not tired.",
   "feelings": {
-    "mood": 80,
+    "mood": 76,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3952,
+      "action": "rest",
+      "text": "Rested again. I did not need it. More bored after. Still fine. Glad. Curious. Not tired."
+    },
     {
       "tick": 3951,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3948,
       "action": "explore",
       "text": "Explored again. No new places. Felt more bored after. Birds singing outside. Feel good still. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3947,
-      "action": "computer",
-      "text": "Sat in the chair at the desk and used the computer. Looked up the unicorn fact again. The unicorn is the national animal of Scotland. I already knew it and remembered it. Not tired. Feel good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 212,
