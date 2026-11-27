@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T11:44:03.746Z",
-  "tick": 3901,
+  "publishedAt": "2026-11-27T11:48:56.638Z",
+  "tick": 3902,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "In the Music Shop today. The bell jingled going in. Played piano. Pressed some keys together. They sounded good. A chord. Played it again. Feel good and glad. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest. I was not tired. Bored a little after. Still feel good and glad. Very curious.",
   "feelings": {
-    "mood": 91,
+    "mood": 94,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3901,
+      "action": "rest",
+      "text": "Chose to rest. I was not tired. Bored a little after. Still feel good and glad. Very curious."
+    },
     {
       "tick": 3900,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3894,
       "action": "piano",
       "text": "In the Music Shop. The bell jingled when I went in. Played my piano there. One single note sounded clear and nice. I pressed that same key a few more times. Feel good and glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3893,
-      "action": "explore",
-      "text": "In the Music Shop. Used the computer there. Looked it up again. Bananas are berries, but strawberries are not. I remembered that. Explored again. More bored this time. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 206,
