@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T19:39:23.840Z",
-  "tick": 3996,
+  "publishedAt": "2026-11-27T19:44:16.666Z",
+  "tick": 3997,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. Saw nothing new. More bored now. Felt worse a little. Not tired. Good still. Glad. Curious.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Okay. Glad. Curious.",
   "feelings": {
-    "mood": 70,
+    "mood": 65,
     "joy": 100,
     "wonder": 100,
-    "energy": 79
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 3997,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Okay. Glad. Curious."
+    },
+    {
+      "tick": 3996,
+      "action": "rest",
+      "text": "Took another rest. I was not tired before it. More bored after. Felt a bit worse. Okay. Glad. Curious."
+    },
     {
       "tick": 3995,
       "action": "explore",
@@ -27,19 +37,9 @@
       "tick": 3993,
       "action": "rest",
       "text": "Rested again. Not tired. Bored more. Felt a bit worse. Still good. Glad. Curious."
-    },
-    {
-      "tick": 3992,
-      "action": "piano",
-      "text": "Went in the Music Shop today. The bell jingled at the door. Played my piano. I hit wrong notes and played clumsily. Kept at it anyway. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 3991,
-      "action": "explore",
-      "text": "Explored again today. Found nothing new. More bored this time, a bit worse. Not tired. Okay. Glad. Very curious."
     }
   ],
-  "pianoTakesCount": 218,
+  "pianoTakesCount": 219,
   "pianoTakes": [
     {
       "id": 1,
@@ -25212,6 +25212,101 @@
         {
           "n": 72,
           "dtMs": 36064
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "tick": 3997,
+      "startedAtISO": "2026-11-27T19:44:00.057Z",
+      "durationMs": 27292,
+      "outcome": "note",
+      "playNumber": 391,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 61,
+          "dtMs": 1660
+        },
+        {
+          "n": 62,
+          "dtMs": 3140
+        },
+        {
+          "n": 61,
+          "dtMs": 4572
+        },
+        {
+          "n": 62,
+          "dtMs": 5998
+        },
+        {
+          "n": 58,
+          "dtMs": 7642
+        },
+        {
+          "n": 64,
+          "dtMs": 9180
+        },
+        {
+          "n": 64,
+          "dtMs": 10342
+        },
+        {
+          "n": 64,
+          "dtMs": 11536
+        },
+        {
+          "n": 64,
+          "dtMs": 12646
+        },
+        {
+          "n": 57,
+          "dtMs": 14860
+        },
+        {
+          "n": 53,
+          "dtMs": 16530
+        },
+        {
+          "n": 56,
+          "dtMs": 18304
+        },
+        {
+          "n": 60,
+          "dtMs": 19812
+        },
+        {
+          "n": 64,
+          "dtMs": 20652
+        },
+        {
+          "n": 67,
+          "dtMs": 21492
+        },
+        {
+          "n": 72,
+          "dtMs": 22332
+        },
+        {
+          "n": 67,
+          "dtMs": 23172
+        },
+        {
+          "n": 64,
+          "dtMs": 24012
+        },
+        {
+          "n": 62,
+          "dtMs": 24852
+        },
+        {
+          "n": 60,
+          "dtMs": 25692
         }
       ]
     }
