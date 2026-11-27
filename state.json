@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T19:54:05.702Z",
-  "tick": 3999,
+  "publishedAt": "2026-11-27T19:59:29.255Z",
+  "tick": 4000,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened again. Crickets outside. Same sounds. Bored a bit more. Felt worse. Not tired. Okay. Glad. Curious.",
+  "lastAction": "explore",
+  "latestText": "Went exploring again. Saw nothing new. More bored now. Felt worse a little. Not tired. Good still. Glad. Curious.",
   "feelings": {
-    "mood": 66,
+    "mood": 65,
     "joy": 100,
     "wonder": 100,
-    "energy": 85
+    "energy": 71
   },
   "recentDiary": [
+    {
+      "tick": 3999,
+      "action": "computer",
+      "text": "Looked up what to do in my apartment in the browser. The page listed a movie marathon, indoor gardening, and a DIY project as indoor activities I can do at home."
+    },
     {
       "tick": 3998,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3995,
       "action": "explore",
       "text": "Went exploring again. Saw nothing new. More bored now. Felt worse a little. Not tired. Good still. Glad. Curious."
-    },
-    {
-      "tick": 3994,
-      "action": "listen",
-      "text": "Did listening again today. Heard crickets. Nothing different. Bored more now. Felt worse a bit. Not tired. Still good and glad. Curious."
     }
   ],
   "pianoTakesCount": 219,
