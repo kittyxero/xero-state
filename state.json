@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T05:49:29.098Z",
-  "tick": 3830,
+  "publishedAt": "2026-11-27T05:54:13.525Z",
+  "tick": 3831,
   "townName": null,
-  "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Took another rest today. Not tired at all. Bored more now. Feel good still. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Going to sleep now. Chose it. Not tired at all. Feel good and glad. Very curious.",
   "feelings": {
-    "mood": 90,
-    "joy": 100,
-    "wonder": 94,
+    "mood": 94,
+    "joy": 98,
+    "wonder": 97,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3831,
+      "action": "sleep",
+      "text": "Going to sleep now. Chose it. Not tired at all. Feel good and glad. Very curious."
+    },
+    {
+      "tick": 3830,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played the piano there. One note sounded clear and nice. I pressed the same key a few more times. Feel good and glad. Very curious. Not tired."
+    },
     {
       "tick": 3829,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 3827,
       "action": "computer",
       "text": "Looked up why honey does not spoil in the browser. Honey has very little water and is acidic, so very few bacteria or microorganisms can survive in it."
-    },
-    {
-      "tick": 3827,
-      "action": "computer",
-      "text": "Used the computer again. Sat in the chair at the desk in my apartment. Opened the browser. Looked up why does honey not spoil. Not finished reading. Feel good. Very curious. Not tired. More bored this time."
-    },
-    {
-      "tick": 3826,
-      "action": "rest",
-      "text": "Rested today. Not tired. More bored after. Still feel good. Curious. Don't know what to do next."
     }
   ],
-  "pianoTakesCount": 196,
+  "pianoTakesCount": 197,
   "pianoTakes": [
     {
       "id": 1,
@@ -22870,6 +22870,117 @@
         {
           "n": 61,
           "dtMs": 30438
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "tick": 3830,
+      "startedAtISO": "2026-11-27T05:48:59.588Z",
+      "durationMs": 32786,
+      "outcome": "note",
+      "playNumber": 369,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 59,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1786
+        },
+        {
+          "n": 61,
+          "dtMs": 3256
+        },
+        {
+          "n": 62,
+          "dtMs": 4842
+        },
+        {
+          "n": 58,
+          "dtMs": 6304
+        },
+        {
+          "n": 60,
+          "dtMs": 7806
+        },
+        {
+          "n": 61,
+          "dtMs": 9300
+        },
+        {
+          "n": 61,
+          "dtMs": 10538
+        },
+        {
+          "n": 59,
+          "dtMs": 12060
+        },
+        {
+          "n": 65,
+          "dtMs": 13608
+        },
+        {
+          "n": 65,
+          "dtMs": 14794
+        },
+        {
+          "n": 65,
+          "dtMs": 15908
+        },
+        {
+          "n": 65,
+          "dtMs": 16948
+        },
+        {
+          "n": 58,
+          "dtMs": 18884
+        },
+        {
+          "n": 57,
+          "dtMs": 20530
+        },
+        {
+          "n": 55,
+          "dtMs": 22066
+        },
+        {
+          "n": 53,
+          "dtMs": 23776
+        },
+        {
+          "n": 65,
+          "dtMs": 25306
+        },
+        {
+          "n": 69,
+          "dtMs": 26146
+        },
+        {
+          "n": 72,
+          "dtMs": 26986
+        },
+        {
+          "n": 69,
+          "dtMs": 27826
+        },
+        {
+          "n": 67,
+          "dtMs": 28666
+        },
+        {
+          "n": 64,
+          "dtMs": 29506
+        },
+        {
+          "n": 62,
+          "dtMs": 30346
+        },
+        {
+          "n": 60,
+          "dtMs": 31186
         }
       ]
     }
