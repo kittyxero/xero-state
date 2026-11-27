@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3511,
+  "total": 3512,
   "entries": [
     {
       "id": 3501,
@@ -68,6 +68,12 @@
       "tick": 3974,
       "action": "computer",
       "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up piano keys again. A piano has 88 keys. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3512,
+      "tick": 3975,
+      "action": "rest",
+      "text": "Rested again today. I did not need it. Bored a bit more now. Not tired. Okay still. Glad. Curious."
     }
   ]
 }
