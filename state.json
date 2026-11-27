@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T04:29:17.937Z",
-  "tick": 3814,
+  "publishedAt": "2026-11-27T04:34:05.962Z",
+  "tick": 3815,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Chose to explore again today. Nothing new found. Felt worse, a bit more bored. Good still. Curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Rested again. I was not tired. Felt worse after, more bored. Still good. Very curious.",
   "feelings": {
-    "mood": 85,
+    "mood": 81,
     "joy": 98,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 3815,
+      "action": "rest",
+      "text": "Rested again. I was not tired. Felt worse after, more bored. Still good. Very curious."
+    },
     {
       "tick": 3814,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 3811,
       "action": "explore",
       "text": "Went exploring again. No new places. More bored after. Still feel good and very curious. Not tired."
-    },
-    {
-      "tick": 3810,
-      "action": "sleep",
-      "text": "Woke up. Feel rested. I looked up why a piano has 88 keys before I slept."
     }
   ],
   "pianoTakesCount": 195,
