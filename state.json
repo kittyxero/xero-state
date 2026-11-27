@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T00:29:14.528Z",
-  "tick": 3766,
+  "publishedAt": "2026-11-27T00:34:33.134Z",
+  "tick": 3767,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Went to sleep again. I was not tired. Felt worse this time. Okay still. Very curious.",
+  "latestText": "Woke up. I feel fine. I remember the chord I tried at my piano.",
   "feelings": {
-    "mood": 66,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 65,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3766,
+      "action": "sleep",
+      "text": "Woke up. I feel fine. I remember the chord I tried at my piano."
+    },
     {
       "tick": 3763,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 3757,
       "action": "sleep",
       "text": "Chose to sleep. Not tired. Feel good. Still very curious."
-    },
-    {
-      "tick": 3756,
-      "action": "piano",
-      "text": "Inside the Music Shop. Door bell jingled. At my piano I tried several keys at once. They sounded good. A chord. Tried it again. More boring this time. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 190,
