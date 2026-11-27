@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T02:04:21.933Z",
-  "tick": 3785,
+  "publishedAt": "2026-11-27T02:09:10.001Z",
+  "tick": 3786,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk in my apartment. Used the computer. Looked up spaghetti again. I remembered this: one single strand of spaghetti is called a spaghetto. Feel good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Had a rest. Was not tired. A bit bored now. Feel good. Still curious.",
   "feelings": {
-    "mood": 80,
+    "mood": 83,
     "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3786,
+      "action": "rest",
+      "text": "Had a rest. Was not tired. A bit bored now. Feel good. Still curious."
+    },
     {
       "tick": 3785,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3780,
       "action": "sleep",
       "text": "Went to sleep. I was not tired before it. Feel good. Curious a lot."
-    },
-    {
-      "tick": 3779,
-      "action": "explore",
-      "text": "Did the same exploring again. Nothing different showed up. Felt a bit worse. Good overall. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 192,
