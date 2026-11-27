@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T11:39:08.896Z",
-  "tick": 3900,
+  "publishedAt": "2026-11-27T11:44:03.746Z",
+  "tick": 3901,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went into the flower shop to explore. Used the computer there. Learned a blue whale's heart is as big as a small car. I did not know that before. Feel good. Glad. Very curious. Not tired.",
+  "lastAction": "piano",
+  "latestText": "In the Music Shop today. The bell jingled going in. Played piano. Pressed some keys together. They sounded good. A chord. Played it again. Feel good and glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 85,
-    "joy": 89,
-    "wonder": 99,
-    "energy": 86
+    "mood": 91,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3900,
+      "action": "piano",
+      "text": "In the Music Shop today. The bell jingled going in. Played piano. Pressed some keys together. They sounded good. A chord. Played it again. Feel good and glad. Very curious. Not tired."
+    },
     {
       "tick": 3899,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 3893,
       "action": "explore",
       "text": "In the Music Shop. Used the computer there. Looked it up again. Bananas are berries, but strawberries are not. I remembered that. Explored again. More bored this time. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3892,
-      "action": "rest",
-      "text": "Rested. Was not tired. Feel good. Curious. A bit bored now."
     }
   ],
-  "pianoTakesCount": 205,
+  "pianoTakesCount": 206,
   "pianoTakes": [
     {
       "id": 1,
@@ -23945,6 +23945,145 @@
         {
           "n": 60,
           "dtMs": 35012
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "tick": 3900,
+      "startedAtISO": "2026-11-27T11:38:52.864Z",
+      "durationMs": 32512,
+      "outcome": "chord",
+      "playNumber": 378,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1210
+        },
+        {
+          "n": 65,
+          "dtMs": 2530
+        },
+        {
+          "n": 61,
+          "dtMs": 3908
+        },
+        {
+          "n": 61,
+          "dtMs": 5290
+        },
+        {
+          "n": 63,
+          "dtMs": 6612
+        },
+        {
+          "n": 65,
+          "dtMs": 8216
+        },
+        {
+          "n": 65,
+          "dtMs": 9344
+        },
+        {
+          "n": 55,
+          "dtMs": 10752
+        },
+        {
+          "n": 59,
+          "dtMs": 10752
+        },
+        {
+          "n": 62,
+          "dtMs": 10752
+        },
+        {
+          "n": 55,
+          "dtMs": 13042
+        },
+        {
+          "n": 59,
+          "dtMs": 13042
+        },
+        {
+          "n": 62,
+          "dtMs": 13042
+        },
+        {
+          "n": 57,
+          "dtMs": 14602
+        },
+        {
+          "n": 56,
+          "dtMs": 16182
+        },
+        {
+          "n": 57,
+          "dtMs": 17624
+        },
+        {
+          "n": 58,
+          "dtMs": 19138
+        },
+        {
+          "n": 65,
+          "dtMs": 20468
+        },
+        {
+          "n": 69,
+          "dtMs": 21308
+        },
+        {
+          "n": 72,
+          "dtMs": 22148
+        },
+        {
+          "n": 69,
+          "dtMs": 22988
+        },
+        {
+          "n": 67,
+          "dtMs": 23828
+        },
+        {
+          "n": 64,
+          "dtMs": 24668
+        },
+        {
+          "n": 62,
+          "dtMs": 25508
+        },
+        {
+          "n": 60,
+          "dtMs": 26348
+        },
+        {
+          "n": 57,
+          "dtMs": 28692
+        },
+        {
+          "n": 61,
+          "dtMs": 28692
+        },
+        {
+          "n": 64,
+          "dtMs": 28692
+        },
+        {
+          "n": 57,
+          "dtMs": 30912
+        },
+        {
+          "n": 61,
+          "dtMs": 30912
+        },
+        {
+          "n": 64,
+          "dtMs": 30912
         }
       ]
     }
