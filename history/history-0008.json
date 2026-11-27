@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3546,
+  "total": 3547,
   "entries": [
     {
       "id": 3501,
@@ -278,6 +278,12 @@
       "tick": 4008,
       "action": "explore",
       "text": "Went out exploring once more. No new places. Bored again. Mood a bit lower. Not tired. Fine. Glad. Curious."
+    },
+    {
+      "id": 3547,
+      "tick": 4009,
+      "action": "sleep",
+      "text": "Went to sleep. Was not tired. Will wake up on my own after a while. Not sure why I picked sleep. Good. Glad. Very curious."
     }
   ]
 }
