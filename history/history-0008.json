@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3556,
+  "total": 3557,
   "entries": [
     {
       "id": 3501,
@@ -338,6 +338,12 @@
       "tick": 4023,
       "action": "sleep",
       "text": "Picked sleep again. Not tired. Will stay asleep for a while, then wake up on my own. More bored this time. Felt worse a little. Okay. Glad. Curious."
+    },
+    {
+      "id": 3557,
+      "tick": 4026,
+      "action": "sleep",
+      "text": "I woke up. I feel fine. Before I slept I explored and found nothing new."
     }
   ]
 }
