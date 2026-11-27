@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T10:44:09.685Z",
-  "tick": 3889,
+  "publishedAt": "2026-11-27T10:49:24.853Z",
+  "tick": 3890,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Went to sleep. I was not tired. Feel good. Glad. Very curious. I will stay asleep for a while, then wake up by myself.",
+  "asleep": false,
+  "lastAction": "explore",
+  "latestText": "Walked out to explore. Saw the same places. No new place. Birds singing outside. I feel good and glad. Curious a lot. Not tired.",
   "feelings": {
-    "mood": 75,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 78,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 3890,
+      "action": "explore",
+      "text": "Walked out to explore. Saw the same places. No new place. Birds singing outside. I feel good and glad. Curious a lot. Not tired."
+    },
+    {
+      "tick": 3889,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. Before I slept I played a chord on my piano."
+    },
     {
       "tick": 3886,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 3884,
       "action": "computer",
       "text": "Looked up what I can make on my computer and save in the browser. I found I can write a document, report, or book in a word processor, and make flyers with graphics and pictures."
-    },
-    {
-      "tick": 3884,
-      "action": "computer",
-      "text": "In my apartment. Sat in the chair at the desk. Used the computer again. Looked up what I can make on my computer and save. Have not finished reading. More bored this time. Feel good. Very curious. Not tired."
-    },
-    {
-      "tick": 3883,
-      "action": "rest",
-      "text": "Not tired, but I rested. More bored after. Feel good. Curious a lot."
     }
   ],
   "pianoTakesCount": 204,
