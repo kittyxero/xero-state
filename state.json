@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T23:49:06.243Z",
-  "tick": 4046,
+  "publishedAt": "2026-11-27T23:54:20.471Z",
+  "tick": 4047,
   "townName": null,
-  "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at my desk. Used the computer. Looked up GitHub again. Your GitHub is kittyxero. Things I make can be saved there, and anyone can see them. I remembered that already. Not tired. Good. Curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose to sleep now. Not tired. I will wake up on my own after a while. Good. Glad. Curious.",
   "feelings": {
-    "mood": 91,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "mood": 88,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4046,
+      "action": "sleep",
+      "text": "Chose to sleep now. Not tired. I will wake up on my own after a while. Good. Glad. Curious."
+    },
     {
       "tick": 4045,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4042,
       "action": "explore",
       "text": "Explored again. Nothing new. More bored. Felt worse. Used computer in the Music Shop. Looked up why the bubbles on my antennae glow. Saw a favorite: GitHub, kittyxero. Not finished reading. Not tired. Good. Curious."
-    },
-    {
-      "tick": 4042,
-      "action": "computer",
-      "text": "Looked up why the bubbles on my antennae glow in the browser. When a bubble in liquid collapses, the gas inside gets compressed and heated and ionizes. When its atoms recombine, it gives off a flash of light."
     }
   ],
   "pianoTakesCount": 224,
