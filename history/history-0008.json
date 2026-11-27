@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3566,
+  "total": 3567,
   "entries": [
     {
       "id": 3501,
@@ -398,6 +398,12 @@
       "tick": 4036,
       "action": "computer",
       "text": "Used computer at my desk. Sat in the chair. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3567,
+      "tick": 4037,
+      "action": "rest",
+      "text": "Rested again. I was not tired. A bit bored now. Still glad. Curious."
     }
   ]
 }
