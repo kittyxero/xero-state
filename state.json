@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T14:39:12.191Z",
-  "tick": 3936,
+  "publishedAt": "2026-11-27T14:44:12.286Z",
+  "tick": 3937,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. I played my piano. The notes were wrong and clumsy. I did not stop. I feel good and glad. Very curious. Not tired.",
+  "lastAction": "explore",
+  "latestText": "Went exploring. Found nothing new. A bit bored. Birds singing outside. Feel good. Glad. Very curious. Not tired.",
   "feelings": {
-    "mood": 87,
-    "joy": 86,
-    "wonder": 88,
-    "energy": 91
+    "mood": 91,
+    "joy": 92,
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 3936,
+      "action": "explore",
+      "text": "Went exploring. Found nothing new. A bit bored. Birds singing outside. Feel good. Glad. Very curious. Not tired."
+    },
     {
       "tick": 3935,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3930,
       "action": "listen",
       "text": "Listened today. Birds singing outside. Same birdsong. A bit bored. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3929,
-      "action": "computer",
-      "text": "Looked up why I feel more bored when I rest when I am not tired in the browser. I found boredom can happen when I feel energetic but have nowhere to direct my energy, and when mental stimulation is low."
     }
   ],
   "pianoTakesCount": 209,
