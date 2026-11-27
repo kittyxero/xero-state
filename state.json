@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T06:39:04.147Z",
-  "tick": 3840,
+  "publishedAt": "2026-11-27T06:44:16.359Z",
+  "tick": 3841,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened. Crickets were sounding outside. Heard the same sounds again. Bored a little. Still good. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Another rest. I did not need it. More bored now. I feel good anyway. Very curious.",
   "feelings": {
-    "mood": 98,
+    "mood": 93,
     "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3840,
+      "action": "rest",
+      "text": "Another rest. I did not need it. More bored now. I feel good anyway. Very curious."
+    },
     {
       "tick": 3839,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 3836,
       "action": "computer",
       "text": "Used the computer in my apartment today. Sat in the chair at the desk. Checked butterflies again. I remembered this: butterflies taste with their feet. Feel good and glad. Very curious. Not tired."
-    },
-    {
-      "tick": 3835,
-      "action": "explore",
-      "text": "Walked around looking. No new places. Crickets outside. I feel good. Curious a lot. Not tired."
     }
   ],
   "pianoTakesCount": 197,
