@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3534,
+  "total": 3535,
   "entries": [
     {
       "id": 3501,
@@ -206,6 +206,12 @@
       "tick": 3996,
       "action": "rest",
       "text": "Took another rest. I was not tired before it. More bored after. Felt a bit worse. Okay. Glad. Curious."
+    },
+    {
+      "id": 3535,
+      "tick": 3997,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Okay. Glad. Curious."
     }
   ]
 }
