@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T18:09:18.896Z",
-  "tick": 3978,
+  "publishedAt": "2026-11-27T18:13:59.537Z",
+  "tick": 3979,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. Bell on the door jingled. Played my piano. One note was clear and nice. Pressed the same key a few more times. Feel good. Glad. Very curious. Not tired.",
+  "lastAction": "rest",
+  "latestText": "I rested once more. Not tired beforehand. More bored this time. Glad anyway. Curious still.",
   "feelings": {
-    "mood": 81,
+    "mood": 77,
     "joy": 100,
-    "wonder": 100,
-    "energy": 85
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3978,
+      "action": "rest",
+      "text": "I rested once more. Not tired beforehand. More bored this time. Glad anyway. Curious still."
+    },
     {
       "tick": 3977,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3974,
       "action": "computer",
       "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up piano keys again. A piano has 88 keys. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 3973,
-      "action": "explore",
-      "text": "Went exploring. No new place found. Birds singing outside. A bit bored now. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 216,
