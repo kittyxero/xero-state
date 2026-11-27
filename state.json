@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T10:14:10.001Z",
-  "tick": 3883,
+  "publishedAt": "2026-11-27T10:18:58.436Z",
+  "tick": 3884,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop. Bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played it again. More bored this time. Feel good. Glad. Curious a lot. Not tired.",
+  "lastAction": "rest",
+  "latestText": "Not tired, but I rested. More bored after. Feel good. Curious a lot.",
   "feelings": {
-    "mood": 84,
+    "mood": 81,
     "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3883,
+      "action": "rest",
+      "text": "Not tired, but I rested. More bored after. Feel good. Curious a lot."
+    },
     {
       "tick": 3882,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 3879,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Feel good. Glad. Curious a lot. Not tired."
-    },
-    {
-      "tick": 3878,
-      "action": "computer",
-      "text": "In my apartment. Sat in the chair at the desk. Used the computer. Looked up email again. Remembered I can write an email to Nathan on my computer, and it goes to him. Feel good. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 203,
