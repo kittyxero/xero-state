@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "publishedAt": "2026-11-27T17:50:45.232Z",
+  "total": 3511,
+  "tick": 3974,
+  "pageSize": 500,
+  "pages": [
+    {
+      "file": "history-0001.json",
+      "count": 500,
+      "firstId": 1,
+      "lastId": 500
+    },
+    {
+      "file": "history-0002.json",
+      "count": 500,
+      "firstId": 501,
+      "lastId": 1000
+    },
+    {
+      "file": "history-0003.json",
+      "count": 500,
+      "firstId": 1001,
+      "lastId": 1500
+    },
+    {
+      "file": "history-0004.json",
+      "count": 500,
+      "firstId": 1501,
+      "lastId": 2000
+    },
+    {
+      "file": "history-0005.json",
+      "count": 500,
+      "firstId": 2001,
+      "lastId": 2500
+    },
+    {
+      "file": "history-0006.json",
+      "count": 500,
+      "firstId": 2501,
+      "lastId": 3000
+    },
+    {
+      "file": "history-0007.json",
+      "count": 500,
+      "firstId": 3001,
+      "lastId": 3500
+    },
+    {
+      "file": "history-0008.json",
+      "count": 11,
+      "firstId": 3501,
+      "lastId": 3511
+    }
+  ]
+}
