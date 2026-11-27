@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-27T09:19:08.510Z",
-  "tick": 3872,
+  "publishedAt": "2026-11-27T09:24:08.701Z",
+  "tick": 3873,
   "townName": null,
-  "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Looked up why birds make sounds outside in the browser. Birds make loud sounds to attract a mate, to tell other birds they found food, and when they sense danger.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose to sleep. Went to sleep. I was not tired. Feel good. Curious a lot. Will wake up on my own after a while.",
   "feelings": {
-    "mood": 83,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "mood": 82,
+    "joy": 93,
+    "wonder": 91,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 3872,
+      "action": "sleep",
+      "text": "Chose to sleep. Went to sleep. I was not tired. Feel good. Curious a lot. Will wake up on my own after a while."
+    },
     {
       "tick": 3871,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 3869,
       "action": "rest",
       "text": "Rested. I was not tired before. Now I am more bored. I feel good. I am very curious."
-    },
-    {
-      "tick": 3868,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Feel good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 201,
