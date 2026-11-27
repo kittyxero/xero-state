@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3515,
+  "total": 3516,
   "entries": [
     {
       "id": 3501,
@@ -92,6 +92,12 @@
       "tick": 3978,
       "action": "rest",
       "text": "I rested once more. Not tired beforehand. More bored this time. Glad anyway. Curious still."
+    },
+    {
+      "id": 3516,
+      "tick": 3979,
+      "action": "computer",
+      "text": "In my apartment. Sat at the desk. Used the computer again. Looked up moths again. Moths use moonlight to fly straight. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Curious."
     }
   ]
 }
