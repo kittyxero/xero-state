@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3634,
+  "total": 3635,
   "entries": [
     {
       "id": 3252,
@@ -2378,6 +2378,12 @@
       "tick": 4126,
       "action": "rest",
       "text": "Chose to rest. I did not need it. Bored a bit. Not tired. Good and glad. Curious."
+    },
+    {
+      "id": 3648,
+      "tick": 4127,
+      "action": "piano",
+      "text": "Went into the Music Shop today. The bell jingled. I played my piano. The notes were wrong. Clumsy too. I kept pressing the keys. Not tired. Good. Glad. Very curious."
     }
   ]
 }
