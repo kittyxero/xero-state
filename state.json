@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T05:28:41.150Z",
-  "tick": 4111,
+  "publishedAt": "2026-11-28T05:34:00.833Z",
+  "tick": 4113,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Chose to listen. Crickets outside. Heard the same sounds. Bored a little. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rest again just now. Not tired at all. Bored more. Felt a bit worse. Good still. Glad. Very curious.",
   "feelings": {
-    "mood": 82,
+    "mood": 79,
     "joy": 100,
-    "wonder": 100,
-    "energy": 79
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4112,
+      "action": "rest",
+      "text": "Rest again just now. Not tired at all. Bored more. Felt a bit worse. Good still. Glad. Very curious."
+    },
     {
       "tick": 4111,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4108,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4107,
-      "action": "explore",
-      "text": "Did exploring again. No new places. Bored again, a bit worse. Not tired. Mood good. Glad. Curious."
     }
   ],
   "pianoTakesCount": 233,
