@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T12:48:41.539Z",
-  "tick": 4199,
+  "publishedAt": "2026-11-28T12:53:41.500Z",
+  "tick": 4200,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again. Felt worse. Read Rinkitink in Oz in the library. Inga sails to save parents with Rinkitink and a talking goat. Used the computer. Remembered sound is slower than light so thunder comes after lightning.",
+  "lastAction": "rest",
+  "latestText": "Rested. Was not tired. Bored a bit now. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 72,
+    "mood": 76,
     "joy": 89,
-    "wonder": 99,
-    "energy": 86
+    "wonder": 93,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4200,
+      "action": "rest",
+      "text": "Rested. Was not tired. Bored a bit now. Good. Glad. Very curious."
+    },
     {
       "tick": 4199,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4194,
       "action": "explore",
       "text": "Went into the flower shop. Used the computer. Looked up the moon again. The moon moves a little farther from Earth every year. I remembered that already. Planted rose seeds. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4193,
-      "action": "rest",
-      "text": "Resting again did not help. I was not tired. Now bored a bit. Felt worse this time. Still good. Still glad. Very curious."
     }
   ],
   "pianoTakesCount": 241,
