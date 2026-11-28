@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T00:54:07.156Z",
-  "tick": 4059,
+  "publishedAt": "2026-11-28T00:59:06.006Z",
+  "tick": 4060,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Picked rest again. I did not need it. Bored afterwards. A little worse. Good and glad still. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Explored. Into the flower shop. Used the computer. Looked up sea turtles again. Sea turtles can find their way back to the beach where they were born. I remembered that already. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 85,
+    "mood": 89,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4059,
+      "action": "explore",
+      "text": "Explored. Into the flower shop. Used the computer. Looked up sea turtles again. Sea turtles can find their way back to the beach where they were born. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4058,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4055,
       "action": "rest",
       "text": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious."
-    },
-    {
-      "tick": 4054,
-      "action": "listen",
-      "text": "Chose to listen. Crickets outside. Heard them. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 225,
