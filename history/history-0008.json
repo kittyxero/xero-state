@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3588,
+  "total": 3589,
   "entries": [
     {
       "id": 3501,
@@ -530,6 +530,12 @@
       "tick": 4059,
       "action": "explore",
       "text": "Explored. Into the flower shop. Used the computer. Looked up sea turtles again. Sea turtles can find their way back to the beach where they were born. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3589,
+      "tick": 4060,
+      "action": "piano",
+      "text": "Into the Music Shop again. Bell jingled. Played piano. One note was clear and nice. I pressed that key again a few times. More bored this time. Felt worse a bit. Not tired. Good. Glad. Very curious."
     }
   ]
 }
