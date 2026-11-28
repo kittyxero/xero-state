@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T02:48:01.685Z",
-  "tick": 4079,
+  "publishedAt": "2026-11-28T02:50:38.102Z",
+  "tick": 4080,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious.",
   "feelings": {
-    "mood": 82,
+    "mood": 85,
     "joy": 89,
-    "wonder": 99,
-    "energy": 86
+    "wonder": 93,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4080,
+      "action": "rest",
+      "text": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious."
+    },
     {
       "tick": 4079,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4074,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. Pressed that key a few more times. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4073,
-      "action": "rest",
-      "text": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad."
     }
   ],
   "pianoTakesCount": 228,
