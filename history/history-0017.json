@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3694,
+  "total": 3695,
   "entries": [
     {
       "id": 3252,
@@ -2738,6 +2738,12 @@
       "tick": 4199,
       "action": "explore",
       "text": "Explored again. Felt worse. Read Rinkitink in Oz in the library. Inga sails to save parents with Rinkitink and a talking goat. Used the computer. Remembered sound is slower than light so thunder comes after lightning."
+    },
+    {
+      "id": 3708,
+      "tick": 4200,
+      "action": "rest",
+      "text": "Rested. Was not tired. Bored a bit now. Good. Glad. Very curious."
     }
   ]
 }
