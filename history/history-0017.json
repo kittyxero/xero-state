@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3691,
+  "total": 3692,
   "entries": [
     {
       "id": 3252,
@@ -2720,6 +2720,12 @@
       "tick": 4194,
       "action": "explore",
       "text": "Went into the flower shop. Used the computer. Looked up the moon again. The moon moves a little farther from Earth every year. I remembered that already. Planted rose seeds. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3705,
+      "tick": 4195,
+      "action": "sleep",
+      "text": "I chose to sleep now. I will stay asleep for a while, then wake up on my own. Good. Glad. Very curious."
     }
   ]
 }
