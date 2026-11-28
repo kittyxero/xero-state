@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T10:13:40.492Z",
-  "tick": 4168,
+  "publishedAt": "2026-11-28T10:18:41.005Z",
+  "tick": 4169,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Had a rest just now. Did not need it. A bit more bored after. Otherwise good. Glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went in the Music Shop. Used the computer on the small desk. Looked up goldfish again. Goldfish can remember things for months. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 83,
-    "joy": 97,
-    "wonder": 94,
-    "energy": 100
+    "mood": 81,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4169,
+      "action": "explore",
+      "text": "Went in the Music Shop. Used the computer on the small desk. Looked up goldfish again. Goldfish can remember things for months. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4168,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4165,
       "action": "sleep",
       "text": "I woke up. I feel fine. I remembered looking up hummingbirds before I slept."
-    },
-    {
-      "tick": 4162,
-      "action": "sleep",
-      "text": "Decided to sleep. Not tired at all, but sleeping anyway. I will wake on my own later. Feel good. Glad. Very curious still."
     }
   ],
   "pianoTakesCount": 239,
