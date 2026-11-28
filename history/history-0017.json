@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3642,
+  "total": 3643,
   "entries": [
     {
       "id": 3252,
@@ -2426,6 +2426,12 @@
       "tick": 4136,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer in my apartment. Looked up koalas again. Koalas have fingerprints almost exactly the same as a person's. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3656,
+      "tick": 4137,
+      "action": "rest",
+      "text": "Chose to rest just now. Not tired. Bored a bit after. Good. Glad. Very curious."
     }
   ]
 }
