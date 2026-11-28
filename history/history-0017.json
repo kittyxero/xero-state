@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3699,
+  "total": 3700,
   "entries": [
     {
       "id": 3252,
@@ -2768,6 +2768,12 @@
       "tick": 4207,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3713,
+      "tick": 4208,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ]
 }
