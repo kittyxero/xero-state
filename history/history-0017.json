@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3660,
+  "total": 3661,
   "entries": [
     {
       "id": 3252,
@@ -2534,6 +2534,12 @@
       "tick": 4159,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious."
+    },
+    {
+      "id": 3674,
+      "tick": 4160,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored after. Felt a bit worse. Fine otherwise. Glad. Curious."
     }
   ]
 }
