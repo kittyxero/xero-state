@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3589,
+  "total": 3590,
   "entries": [
     {
       "id": 3501,
@@ -536,6 +536,12 @@
       "tick": 4060,
       "action": "piano",
       "text": "Into the Music Shop again. Bell jingled. Played piano. One note was clear and nice. I pressed that key again a few times. More bored this time. Felt worse a bit. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3590,
+      "tick": 4061,
+      "action": "rest",
+      "text": "Rested once more. Did not need to. Bored after. A little worse this time. Not tired. Good. Glad. Very curious."
     }
   ]
 }
