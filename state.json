@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T13:48:40.593Z",
-  "tick": 4211,
+  "publishedAt": "2026-11-28T13:53:41.202Z",
+  "tick": 4212,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Felt worse for doing it again. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Took another rest. Not tired before it. A bit bored now. Felt worse. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 86,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 4212,
+      "action": "rest",
+      "text": "Took another rest. Not tired before it. A bit bored now. Felt worse. Good. Glad. Very curious."
+    },
     {
       "tick": 4211,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 4208,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4207,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 243,
