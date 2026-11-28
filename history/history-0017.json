@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3612,
+  "total": 3613,
   "entries": [
     {
       "id": 3252,
@@ -2246,6 +2246,12 @@
       "tick": 4099,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used my computer. Looked up Venus again. A day on Venus is longer than a year on Venus. I remembered that. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3626,
+      "tick": 4100,
+      "action": "rest",
+      "text": "Picked rest again. I was not tired. It was boring. Felt a bit worse. Still good. Still glad. Curious."
     }
   ]
 }
