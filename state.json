@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:23:41.486Z",
-  "tick": 4158,
+  "publishedAt": "2026-11-28T09:28:41.292Z",
+  "tick": 4159,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went in the art studio. Used the computer on the small table. Looked up spaghetti again. One single strand of spaghetti is called a spaghetto. I remembered that already. Not tired. Good. Glad. Very curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious.",
   "feelings": {
-    "mood": 88,
+    "mood": 84,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 4159,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious."
+    },
     {
       "tick": 4158,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4155,
       "action": "computer",
       "text": "Used my apartment computer. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered that already. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4154,
-      "action": "rest",
-      "text": "Rested for a bit. Did not need it. Bored slightly. Fine otherwise. Glad. Curious, still."
     }
   ],
   "pianoTakesCount": 239,
