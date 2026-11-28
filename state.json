@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:28:41.458Z",
-  "tick": 4183,
+  "publishedAt": "2026-11-28T11:33:41.403Z",
+  "tick": 4184,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested once more. Not tired at all. A little more bored. Felt a bit worse for repeating it. Good. Glad. Curious still.",
+  "lastAction": "computer",
+  "latestText": "At my desk, sat in the chair. Used the computer. Looked up the first computer bug again. It was an actual moth. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 79,
+    "mood": 76,
     "joy": 100,
-    "wonder": 94,
-    "energy": 99
+    "wonder": 100,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 4184,
+      "action": "computer",
+      "text": "At my desk, sat in the chair. Used the computer. Looked up the first computer bug again. It was an actual moth. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4183,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4180,
       "action": "rest",
       "text": "Rested again just now. Not tired. More bored after. Felt a bit worse. Good otherwise. Glad. Very curious."
-    },
-    {
-      "tick": 4179,
-      "action": "explore",
-      "text": "Went in the flower shop. Used the computer. Looked up octopuses again. Octopuses have three hearts. I remembered that already. Planted lupine seeds. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 240,
