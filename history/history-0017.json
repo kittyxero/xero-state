@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3696,
+  "total": 3697,
   "entries": [
     {
       "id": 3252,
@@ -2750,6 +2750,12 @@
       "tick": 4201,
       "action": "listen",
       "text": "Chose to listen. Birds outside, still singing. Nothing changed in the sound. Bored a bit. Not tired. I feel good. Glad. Very curious."
+    },
+    {
+      "id": 3710,
+      "tick": 4202,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked up cats again. Cats sleep most of the day. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ]
 }
