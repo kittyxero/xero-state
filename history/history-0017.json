@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3627,
+  "total": 3628,
   "entries": [
     {
       "id": 3252,
@@ -2336,6 +2336,12 @@
       "tick": 4114,
       "action": "sleep",
       "text": "Chose sleep now. I will be asleep for a while, then wake up on my own. I am not tired. I feel fine. Curious still."
+    },
+    {
+      "id": 3641,
+      "tick": 4117,
+      "action": "sleep",
+      "text": "I woke up. I feel fine. Before sleep I explored and found nothing new."
     }
   ]
 }
