@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3653,
+  "total": 3654,
   "entries": [
     {
       "id": 3252,
@@ -2492,6 +2492,12 @@
       "tick": 4152,
       "action": "explore",
       "text": "Went in the flower shop. Used the computer there. Looked up unicorns again. The unicorn is the national animal of Scotland. I remembered that already. Planted tulip seeds. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3667,
+      "tick": 4153,
+      "action": "piano",
+      "text": "Went into the Music Shop today. Bell jingled at the door. Played the piano. Notes were wrong. Clumsy. I kept playing anyway. Not tired. Good. Glad. Very curious."
     }
   ]
 }
