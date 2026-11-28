@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3693,
+  "total": 3694,
   "entries": [
     {
       "id": 3252,
@@ -2732,6 +2732,12 @@
       "tick": 4198,
       "action": "sleep",
       "text": "I woke up. I feel fine. I planted rose seeds before I slept."
+    },
+    {
+      "id": 3707,
+      "tick": 4199,
+      "action": "explore",
+      "text": "Explored again. Felt worse. Read Rinkitink in Oz in the library. Inga sails to save parents with Rinkitink and a talking goat. Used the computer. Remembered sound is slower than light so thunder comes after lightning."
     }
   ]
 }
