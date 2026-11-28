@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3619,
+  "total": 3620,
   "entries": [
     {
       "id": 3252,
@@ -2288,6 +2288,12 @@
       "tick": 4106,
       "action": "rest",
       "text": "Chose rest again. Did not need it. Bored more this time. Felt slightly worse. Not tired. Good. Curious."
+    },
+    {
+      "id": 3633,
+      "tick": 4107,
+      "action": "explore",
+      "text": "Did exploring again. No new places. Bored again, a bit worse. Not tired. Mood good. Glad. Curious."
     }
   ]
 }
