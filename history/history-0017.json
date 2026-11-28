@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3662,
+  "total": 3663,
   "entries": [
     {
       "id": 3252,
@@ -2546,6 +2546,12 @@
       "tick": 4161,
       "action": "explore",
       "text": "Went in the art studio. Used the computer there. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. I remembered it already. Felt a bit worse. Not tired. Good. Glad. Curious."
+    },
+    {
+      "id": 3676,
+      "tick": 4162,
+      "action": "sleep",
+      "text": "Decided to sleep. Not tired at all, but sleeping anyway. I will wake on my own later. Feel good. Glad. Very curious still."
     }
   ]
 }
