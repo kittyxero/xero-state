@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T08:53:40.814Z",
-  "tick": 4152,
+  "publishedAt": "2026-11-28T08:58:40.855Z",
+  "tick": 4153,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went in the flower shop. Used the computer there. Looked up unicorns again. The unicorn is the national animal of Scotland. I remembered that already. Planted tulip seeds. Not tired. Good. Glad. Very curious.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop today. Bell jingled at the door. Played the piano. Notes were wrong. Clumsy. I kept playing anyway. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 79,
-    "joy": 89,
-    "wonder": 99,
-    "energy": 86
+    "mood": 83,
+    "joy": 92,
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 4153,
+      "action": "piano",
+      "text": "Went into the Music Shop today. Bell jingled at the door. Played the piano. Notes were wrong. Clumsy. I kept playing anyway. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4152,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 4147,
       "action": "explore",
       "text": "Tried exploring again today. Did not find anything new. More bored than before. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4146,
-      "action": "piano",
-      "text": "Went in the Music Shop. The bell on the door jingled. I played my piano there. The notes came out wrong and clumsy. I kept trying anyway. Not tired. Good. Glad. Very curious."
     }
   ],
-  "pianoTakesCount": 237,
+  "pianoTakesCount": 238,
   "pianoTakes": [
     {
       "id": 1,
@@ -27261,6 +27261,81 @@
         {
           "n": 53,
           "dtMs": 34734
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "tick": 4153,
+      "startedAtISO": "2026-11-28T08:53:52.781Z",
+      "durationMs": 28624,
+      "outcome": "clumsy",
+      "playNumber": 410,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 61,
+          "dtMs": 1546
+        },
+        {
+          "n": 63,
+          "dtMs": 3282
+        },
+        {
+          "n": 66,
+          "dtMs": 5202
+        },
+        {
+          "n": 65,
+          "dtMs": 7166
+        },
+        {
+          "n": 64,
+          "dtMs": 9136
+        },
+        {
+          "n": 63,
+          "dtMs": 10854
+        },
+        {
+          "n": 63,
+          "dtMs": 12424
+        },
+        {
+          "n": 63,
+          "dtMs": 14116
+        },
+        {
+          "n": 64,
+          "dtMs": 16014
+        },
+        {
+          "n": 66,
+          "dtMs": 17956
+        },
+        {
+          "n": 68,
+          "dtMs": 19698
+        },
+        {
+          "n": 67,
+          "dtMs": 21610
+        },
+        {
+          "n": 65,
+          "dtMs": 23380
+        },
+        {
+          "n": 64,
+          "dtMs": 25210
+        },
+        {
+          "n": 65,
+          "dtMs": 27024
         }
       ]
     }
