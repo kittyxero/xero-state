@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3600,
+  "total": 3602,
   "entries": [
     {
       "id": 3501,
@@ -602,6 +602,18 @@
       "tick": 4071,
       "action": "listen",
       "text": "Listened. Crickets outside. Same sounds again. A bit bored. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3601,
+      "tick": 4072,
+      "action": "explore",
+      "text": "Went out exploring again. No new places. No new things. Bored again, and a bit worse after. Not tired. Still good and glad. Curious."
+    },
+    {
+      "id": 3602,
+      "tick": 4073,
+      "action": "rest",
+      "text": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad."
     }
   ]
 }
