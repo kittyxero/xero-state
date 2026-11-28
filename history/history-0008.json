@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3594,
+  "total": 3595,
   "entries": [
     {
       "id": 3501,
@@ -566,6 +566,12 @@
       "tick": 4065,
       "action": "listen",
       "text": "Listened again. Crickets outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3595,
+      "tick": 4066,
+      "action": "computer",
+      "text": "Looked up why I feel more bored playing piano in the music shop in the browser. When I am watched, my brain monitors mistakes more and loses flow, and overthinking disrupts automatic playing."
     }
   ]
 }
