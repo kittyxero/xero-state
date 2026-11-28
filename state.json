@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T00:29:22.238Z",
-  "tick": 4054,
+  "publishedAt": "2026-11-28T00:34:22.375Z",
+  "tick": 4055,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Chose to listen. Crickets outside. Heard them. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 86,
     "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4055,
+      "action": "rest",
+      "text": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious."
+    },
     {
       "tick": 4054,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4052,
       "action": "rest",
       "text": "Took a rest. I was not tired. Bored a little after. Good still. Glad. Very curious."
-    },
-    {
-      "tick": 4051,
-      "action": "explore",
-      "text": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious."
     }
   ],
   "pianoTakesCount": 224,
