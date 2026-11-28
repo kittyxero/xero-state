@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T05:48:41.607Z",
-  "tick": 4115,
+  "publishedAt": "2026-11-28T05:53:41.118Z",
+  "tick": 4116,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Chose sleep now. I will be asleep for a while, then wake up on my own. I am not tired. I feel fine. Curious still.",
   "feelings": {
-    "mood": 76,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 75,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
