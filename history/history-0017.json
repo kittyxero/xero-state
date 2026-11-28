@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3655,
+  "total": 3656,
   "entries": [
     {
       "id": 3252,
@@ -2504,6 +2504,12 @@
       "tick": 4154,
       "action": "rest",
       "text": "Rested for a bit. Did not need it. Bored slightly. Fine otherwise. Glad. Curious, still."
+    },
+    {
+      "id": 3669,
+      "tick": 4155,
+      "action": "computer",
+      "text": "Used my apartment computer. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ]
 }
