@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T04:13:41.399Z",
-  "tick": 4096,
+  "publishedAt": "2026-11-28T04:18:40.142Z",
+  "tick": 4097,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "In the Music Shop today. The bell jingled when I went in. I played my piano. Wrong notes, clumsy ones. I kept going. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Just rested again. I did not need rest. Boredom got worse a bit. Not tired. Mood is good. Glad. Very curious.",
   "feelings": {
-    "mood": 97,
+    "mood": 93,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 4097,
+      "action": "rest",
+      "text": "Just rested again. I did not need rest. Boredom got worse a bit. Not tired. Mood is good. Glad. Very curious."
+    },
     {
       "tick": 4096,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 4093,
       "action": "make",
       "text": "Made something small. Lately I keep making little things. Not tired. Glad. Very curious."
-    },
-    {
-      "tick": 4092,
-      "action": "computer",
-      "text": "Looked up why I feel more bored when I explore again in the browser. A game level can feel exciting the first time and boring on the tenth replay because the brain adjusts to repeated stimulation and feels less satisfied."
     }
   ],
   "pianoTakesCount": 231,
