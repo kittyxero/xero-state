@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:48:41.314Z",
-  "tick": 4187,
+  "publishedAt": "2026-11-28T11:53:41.270Z",
+  "tick": 4188,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. I was not tired. Bored more now. Felt worse for doing it again. Good. Glad. Curious.",
+  "lastAction": "computer",
+  "latestText": "In the chair at my desk. Used the computer. Looked up butterflies again. Butterflies taste with their feet. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 78,
+    "mood": 75,
     "joy": 100,
-    "wonder": 94,
-    "energy": 93
+    "wonder": 100,
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 4188,
+      "action": "computer",
+      "text": "In the chair at my desk. Used the computer. Looked up butterflies again. Butterflies taste with their feet. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4187,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4184,
       "action": "computer",
       "text": "At my desk, sat in the chair. Used the computer. Looked up the first computer bug again. It was an actual moth. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4183,
-      "action": "rest",
-      "text": "Rested once more. Not tired at all. A little more bored. Felt a bit worse for repeating it. Good. Glad. Curious still."
     }
   ],
   "pianoTakesCount": 240,
