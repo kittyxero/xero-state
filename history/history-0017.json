@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3676,
+  "total": 3677,
   "entries": [
     {
       "id": 3252,
@@ -2630,6 +2630,12 @@
       "tick": 4179,
       "action": "explore",
       "text": "Went in the flower shop. Used the computer. Looked up octopuses again. Octopuses have three hearts. I remembered that already. Planted lupine seeds. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3690,
+      "tick": 4180,
+      "action": "rest",
+      "text": "Rested again just now. Not tired. More bored after. Felt a bit worse. Good otherwise. Glad. Very curious."
     }
   ]
 }
