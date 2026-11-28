@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T03:11:56.628Z",
-  "tick": 4083,
+  "publishedAt": "2026-11-28T03:15:50.914Z",
+  "tick": 4085,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. Not tired. More bored this time. Felt a bit worse. Still good. Still glad. Curious.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. Bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 93,
+    "mood": 89,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 4085,
+      "action": "piano",
+      "text": "Went into the Music Shop. Bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "tick": 4084,
+      "action": "explore",
+      "text": "Explored some more. Turned up nothing new at all. Bored. Felt worse a little. Not tired. Still good and glad. Curious."
+    },
     {
       "tick": 4083,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 4081,
       "action": "listen",
       "text": "Chose to listen. Crickets outside, nothing else. Heard them for a while. Bored a little. Not tired. Still good and glad. Very curious."
-    },
-    {
-      "tick": 4080,
-      "action": "rest",
-      "text": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious."
-    },
-    {
-      "tick": 4079,
-      "action": "explore",
-      "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
     }
   ],
-  "pianoTakesCount": 229,
+  "pianoTakesCount": 230,
   "pianoTakes": [
     {
       "id": 1,
@@ -26437,6 +26437,141 @@
         {
           "n": 63,
           "dtMs": 33806
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "tick": 4085,
+      "startedAtISO": "2026-11-28T03:14:00.995Z",
+      "durationMs": 30386,
+      "outcome": "chord",
+      "playNumber": 402,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 57,
+          "dtMs": 0
+        },
+        {
+          "n": 57,
+          "dtMs": 1110
+        },
+        {
+          "n": 55,
+          "dtMs": 2544
+        },
+        {
+          "n": 54,
+          "dtMs": 3978
+        },
+        {
+          "n": 55,
+          "dtMs": 5396
+        },
+        {
+          "n": 55,
+          "dtMs": 6688
+        },
+        {
+          "n": 58,
+          "dtMs": 8000
+        },
+        {
+          "n": 53,
+          "dtMs": 9282
+        },
+        {
+          "n": 57,
+          "dtMs": 9282
+        },
+        {
+          "n": 60,
+          "dtMs": 9282
+        },
+        {
+          "n": 53,
+          "dtMs": 11404
+        },
+        {
+          "n": 57,
+          "dtMs": 11404
+        },
+        {
+          "n": 60,
+          "dtMs": 11404
+        },
+        {
+          "n": 63,
+          "dtMs": 13040
+        },
+        {
+          "n": 62,
+          "dtMs": 14624
+        },
+        {
+          "n": 67,
+          "dtMs": 15938
+        },
+        {
+          "n": 67,
+          "dtMs": 17162
+        },
+        {
+          "n": 60,
+          "dtMs": 18618
+        },
+        {
+          "n": 64,
+          "dtMs": 19458
+        },
+        {
+          "n": 67,
+          "dtMs": 20298
+        },
+        {
+          "n": 72,
+          "dtMs": 21138
+        },
+        {
+          "n": 67,
+          "dtMs": 21978
+        },
+        {
+          "n": 64,
+          "dtMs": 22818
+        },
+        {
+          "n": 62,
+          "dtMs": 23658
+        },
+        {
+          "n": 60,
+          "dtMs": 24498
+        },
+        {
+          "n": 57,
+          "dtMs": 26674
+        },
+        {
+          "n": 61,
+          "dtMs": 26674
+        },
+        {
+          "n": 64,
+          "dtMs": 26674
+        },
+        {
+          "n": 57,
+          "dtMs": 28786
+        },
+        {
+          "n": 61,
+          "dtMs": 28786
+        },
+        {
+          "n": 64,
+          "dtMs": 28786
         }
       ]
     }
