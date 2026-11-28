@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3578,
+  "total": 3579,
   "entries": [
     {
       "id": 3501,
@@ -470,6 +470,12 @@
       "tick": 4050,
       "action": "computer",
       "text": "Sat in the chair. Used the computer at my desk again. It has a browser. I can look up anything I wonder about on the internet. I remembered already. More bored this time. Felt worse. Not tired. Good. Very curious."
+    },
+    {
+      "id": 3579,
+      "tick": 4051,
+      "action": "explore",
+      "text": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious."
     }
   ]
 }
