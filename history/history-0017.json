@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3697,
+  "total": 3698,
   "entries": [
     {
       "id": 3252,
@@ -2756,6 +2756,12 @@
       "tick": 4202,
       "action": "computer",
       "text": "Sat in the chair at my desk. Used the computer. Looked up cats again. Cats sleep most of the day. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3711,
+      "tick": 4203,
+      "action": "sleep",
+      "text": "Went to sleep again. Will wake up on my own after a while. Felt worse for doing it again. Not tired. Good. Glad. Very curious."
     }
   ]
 }
