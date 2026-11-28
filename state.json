@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:33:41.481Z",
-  "tick": 4160,
+  "publishedAt": "2026-11-28T09:38:41.401Z",
+  "tick": 4161,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again. I was not tired. More bored after. Felt a bit worse. Fine otherwise. Glad. Curious.",
+  "lastAction": "explore",
+  "latestText": "Went in the art studio. Used the computer there. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. I remembered it already. Felt a bit worse. Not tired. Good. Glad. Curious.",
   "feelings": {
-    "mood": 81,
+    "mood": 78,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4161,
+      "action": "explore",
+      "text": "Went in the art studio. Used the computer there. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. I remembered it already. Felt a bit worse. Not tired. Good. Glad. Curious."
+    },
     {
       "tick": 4160,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4157,
       "action": "rest",
       "text": "Had another rest. Did not need one. Bored more after it. Felt a bit worse. Fine otherwise. Glad. Still very curious."
-    },
-    {
-      "tick": 4156,
-      "action": "piano",
-      "text": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
