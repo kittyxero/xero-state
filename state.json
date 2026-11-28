@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:23:41.312Z",
-  "tick": 4182,
+  "publishedAt": "2026-11-28T11:28:41.458Z",
+  "tick": 4183,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened again. Birds singing outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested once more. Not tired at all. A little more bored. Felt a bit worse for repeating it. Good. Glad. Curious still.",
   "feelings": {
-    "mood": 82,
+    "mood": 79,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 4183,
+      "action": "rest",
+      "text": "Rested once more. Not tired at all. A little more bored. Felt a bit worse for repeating it. Good. Glad. Curious still."
+    },
     {
       "tick": 4182,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4179,
       "action": "explore",
       "text": "Went in the flower shop. Used the computer. Looked up octopuses again. Octopuses have three hearts. I remembered that already. Planted lupine seeds. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4178,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Not tired. Feel good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 240,
