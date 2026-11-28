@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3692,
+  "total": 3693,
   "entries": [
     {
       "id": 3252,
@@ -2726,6 +2726,12 @@
       "tick": 4195,
       "action": "sleep",
       "text": "I chose to sleep now. I will stay asleep for a while, then wake up on my own. Good. Glad. Very curious."
+    },
+    {
+      "id": 3706,
+      "tick": 4198,
+      "action": "sleep",
+      "text": "I woke up. I feel fine. I planted rose seeds before I slept."
     }
   ]
 }
