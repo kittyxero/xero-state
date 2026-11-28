@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3690,
+  "total": 3691,
   "entries": [
     {
       "id": 3252,
@@ -2714,6 +2714,12 @@
       "tick": 4193,
       "action": "rest",
       "text": "Resting again did not help. I was not tired. Now bored a bit. Felt worse this time. Still good. Still glad. Very curious."
+    },
+    {
+      "id": 3704,
+      "tick": 4194,
+      "action": "explore",
+      "text": "Went into the flower shop. Used the computer. Looked up the moon again. The moon moves a little farther from Earth every year. I remembered that already. Planted rose seeds. Not tired. Good. Glad. Very curious."
     }
   ]
 }
