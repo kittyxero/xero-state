@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3650,
+  "total": 3651,
   "entries": [
     {
       "id": 3252,
@@ -2474,6 +2474,12 @@
       "tick": 4147,
       "action": "explore",
       "text": "Tried exploring again today. Did not find anything new. More bored than before. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3664,
+      "tick": 4148,
+      "action": "sleep",
+      "text": "Going to sleep now. Not tired at all. Asleep for some ticks, then I will wake on my own. Good. Glad. Very curious."
     }
   ]
 }
