@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T07:28:41.382Z",
-  "tick": 4135,
+  "publishedAt": "2026-11-28T07:33:41.157Z",
+  "tick": 4136,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Today I went in the Music Shop. The door bell jingled. I played my piano. One note came out clear and nice. I pressed that same key again and again. Not tired. Good. Glad. Very curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at the desk. Used the computer in my apartment. Looked up koalas again. Koalas have fingerprints almost exactly the same as a person's. I remembered that already. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 87,
-    "joy": 95,
-    "wonder": 90,
-    "energy": 91
+    "mood": 90,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 83
   },
   "recentDiary": [
+    {
+      "tick": 4136,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer in my apartment. Looked up koalas again. Koalas have fingerprints almost exactly the same as a person's. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4135,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 4130,
       "action": "explore",
       "text": "Went out looking around. No new places. Bored a bit. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4129,
-      "action": "rest",
-      "text": "Took another rest. I was awake enough already. Bored a little more. A bit worse after. Still good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 236,
