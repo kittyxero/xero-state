@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T06:38:40.107Z",
-  "tick": 4125,
+  "publishedAt": "2026-11-28T06:43:41.275Z",
+  "tick": 4126,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened just now. Crickets outside. Same sounds again. A little bored. Not tired. Good. Glad. Still very curious.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest. I did not need it. Bored a bit. Not tired. Good and glad. Curious.",
   "feelings": {
-    "mood": 83,
+    "mood": 86,
     "joy": 97,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4126,
+      "action": "rest",
+      "text": "Chose to rest. I did not need it. Bored a bit. Not tired. Good and glad. Curious."
+    },
     {
       "tick": 4125,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4119,
       "action": "piano",
       "text": "Went to the Music Shop and went in. The bell jingled. I played the piano. One note was clear and nice. I pressed it again a few times. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4118,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer. Looked up why do I feel bored when I listen again. Have not finished reading it. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 234,
