@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T02:14:10.303Z",
-  "tick": 4072,
+  "publishedAt": "2026-11-28T02:19:43.003Z",
+  "tick": 4073,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went out exploring again. No new places. No new things. Bored again, and a bit worse after. Not tired. Still good and glad. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad.",
   "feelings": {
-    "mood": 84,
+    "mood": 80,
     "joy": 100,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4073,
+      "action": "rest",
+      "text": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad."
+    },
     {
       "tick": 4072,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4069,
       "action": "computer",
       "text": "Sat in the chair at my desk. Used the computer. Looked up blue whales again. A blue whale heart is the size of a small car. I remembered that. More bored this time. Felt worse. Not tired. Good. Glad. Curious."
-    },
-    {
-      "tick": 4068,
-      "action": "explore",
-      "text": "Explored again. Nothing new seen. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 227,
