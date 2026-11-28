@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:18:41.578Z",
-  "tick": 4181,
+  "publishedAt": "2026-11-28T11:23:41.312Z",
+  "tick": 4182,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "At my apartment desk, in the chair. Computer on. I looked up honey again. Honey does not spoil. I already remembered it. Doing it again felt a bit worse. Not tired. Good. Glad. Very curious.",
+  "lastAction": "listen",
+  "latestText": "Listened again. Birds singing outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 74,
+    "mood": 82,
     "joy": 100,
     "wonder": 100,
-    "energy": 83
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 4182,
+      "action": "listen",
+      "text": "Listened again. Birds singing outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4181,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4178,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Not tired. Feel good. Glad. Very curious."
-    },
-    {
-      "tick": 4177,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer. Looked up moths again. Moths use moonlight to fly straight. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 240,
