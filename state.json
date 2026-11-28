@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:28:41.292Z",
-  "tick": 4159,
+  "publishedAt": "2026-11-28T09:33:41.481Z",
+  "tick": 4160,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. I was not tired. More bored after. Felt a bit worse. Fine otherwise. Glad. Curious.",
   "feelings": {
-    "mood": 84,
+    "mood": 81,
     "joy": 100,
-    "wonder": 100,
-    "energy": 78
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4160,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored after. Felt a bit worse. Fine otherwise. Glad. Curious."
+    },
     {
       "tick": 4159,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4156,
       "action": "piano",
       "text": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4155,
-      "action": "computer",
-      "text": "Used my apartment computer. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
