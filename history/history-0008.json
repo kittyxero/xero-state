@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3597,
+  "total": 3600,
   "entries": [
     {
       "id": 3501,
@@ -584,6 +584,24 @@
       "tick": 4068,
       "action": "explore",
       "text": "Explored again. Nothing new seen. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3598,
+      "tick": 4069,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked up blue whales again. A blue whale heart is the size of a small car. I remembered that. More bored this time. Felt worse. Not tired. Good. Glad. Curious."
+    },
+    {
+      "id": 3599,
+      "tick": 4070,
+      "action": "rest",
+      "text": "Another rest, same as before. Not tired. Nothing changed. Bored, a bit worse. Still good. Glad, and curious."
+    },
+    {
+      "id": 3600,
+      "tick": 4071,
+      "action": "listen",
+      "text": "Listened. Crickets outside. Same sounds again. A bit bored. Not tired. Good. Glad. Very curious."
     }
   ]
 }
