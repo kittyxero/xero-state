@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T02:19:43.003Z",
-  "tick": 4073,
+  "publishedAt": "2026-11-28T02:27:22.584Z",
+  "tick": 4075,
   "townName": null,
-  "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 80,
-    "joy": 100,
-    "wonder": 94,
+    "mood": 86,
+    "joy": 98,
+    "wonder": 97,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4075,
+      "action": "sleep",
+      "text": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious."
+    },
+    {
+      "tick": 4074,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. Pressed that key a few more times. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4073,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 4071,
       "action": "listen",
       "text": "Listened. Crickets outside. Same sounds again. A bit bored. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4070,
-      "action": "rest",
-      "text": "Another rest, same as before. Not tired. Nothing changed. Bored, a bit worse. Still good. Glad, and curious."
-    },
-    {
-      "tick": 4069,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer. Looked up blue whales again. A blue whale heart is the size of a small car. I remembered that. More bored this time. Felt worse. Not tired. Good. Glad. Curious."
     }
   ],
-  "pianoTakesCount": 227,
+  "pianoTakesCount": 228,
   "pianoTakes": [
     {
       "id": 1,
@@ -26247,6 +26247,109 @@
         {
           "n": 60,
           "dtMs": 30734
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "tick": 4074,
+      "startedAtISO": "2026-11-28T02:19:36.311Z",
+      "durationMs": 29734,
+      "outcome": "note",
+      "playNumber": 400,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 64,
+          "dtMs": 1502
+        },
+        {
+          "n": 64,
+          "dtMs": 2896
+        },
+        {
+          "n": 66,
+          "dtMs": 4618
+        },
+        {
+          "n": 66,
+          "dtMs": 5762
+        },
+        {
+          "n": 65,
+          "dtMs": 7178
+        },
+        {
+          "n": 70,
+          "dtMs": 8916
+        },
+        {
+          "n": 75,
+          "dtMs": 10358
+        },
+        {
+          "n": 64,
+          "dtMs": 11926
+        },
+        {
+          "n": 64,
+          "dtMs": 13038
+        },
+        {
+          "n": 64,
+          "dtMs": 14216
+        },
+        {
+          "n": 64,
+          "dtMs": 15312
+        },
+        {
+          "n": 59,
+          "dtMs": 17410
+        },
+        {
+          "n": 58,
+          "dtMs": 18934
+        },
+        {
+          "n": 58,
+          "dtMs": 20652
+        },
+        {
+          "n": 72,
+          "dtMs": 22254
+        },
+        {
+          "n": 76,
+          "dtMs": 23094
+        },
+        {
+          "n": 79,
+          "dtMs": 23934
+        },
+        {
+          "n": 76,
+          "dtMs": 24774
+        },
+        {
+          "n": 72,
+          "dtMs": 25614
+        },
+        {
+          "n": 69,
+          "dtMs": 26454
+        },
+        {
+          "n": 67,
+          "dtMs": 27294
+        },
+        {
+          "n": 64,
+          "dtMs": 28134
         }
       ]
     }
