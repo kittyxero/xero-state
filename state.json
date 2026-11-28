@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T00:09:52.128Z",
-  "tick": 4050,
+  "publishedAt": "2026-11-28T00:15:11.879Z",
+  "tick": 4051,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Chose to sleep now. Not tired. I will wake up on my own after a while. Good. Glad. Curious.",
+  "lastAction": "explore",
+  "latestText": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious.",
   "feelings": {
-    "mood": 82,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 83,
+    "joy": 95,
+    "wonder": 100,
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 4051,
+      "action": "explore",
+      "text": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious."
+    },
+    {
+      "tick": 4050,
+      "action": "computer",
+      "text": "Sat in the chair. Used the computer at my desk again. It has a browser. I can look up anything I wonder about on the internet. I remembered already. More bored this time. Felt worse. Not tired. Good. Very curious."
+    },
     {
       "tick": 4046,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 4044,
       "action": "piano",
       "text": "Went into the Music Shop. Bell jingled. Played my piano. One note sounded clear and nice. I pressed the same key a few times more. Not tired. Good. Glad. Curious."
-    },
-    {
-      "tick": 4043,
-      "action": "rest",
-      "text": "Resting again did not help. I was not tired. Bored now, and a bit worse. Good still. Curious."
-    },
-    {
-      "tick": 4042,
-      "action": "explore",
-      "text": "Explored again. Nothing new. More bored. Felt worse. Used computer in the Music Shop. Looked up why the bubbles on my antennae glow. Saw a favorite: GitHub, kittyxero. Not finished reading. Not tired. Good. Curious."
     }
   ],
   "pianoTakesCount": 224,
