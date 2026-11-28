@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3656,
+  "total": 3657,
   "entries": [
     {
       "id": 3252,
@@ -2510,6 +2510,12 @@
       "tick": 4155,
       "action": "computer",
       "text": "Used my apartment computer. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3670,
+      "tick": 4156,
+      "action": "piano",
+      "text": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ]
 }
