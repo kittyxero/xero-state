@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3605,
+  "total": 3606,
   "entries": [
     {
       "id": 3501,
@@ -632,6 +632,12 @@
       "tick": 4078,
       "action": "sleep",
       "text": "I woke up. I feel rested. I played my piano before I slept."
+    },
+    {
+      "id": 3606,
+      "tick": 4079,
+      "action": "explore",
+      "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
     }
   ]
 }
