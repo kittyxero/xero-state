@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3667,
+  "total": 3668,
   "entries": [
     {
       "id": 3252,
@@ -2576,6 +2576,12 @@
       "tick": 4168,
       "action": "rest",
       "text": "Had a rest just now. Did not need it. A bit more bored after. Otherwise good. Glad. Very curious."
+    },
+    {
+      "id": 3681,
+      "tick": 4169,
+      "action": "explore",
+      "text": "Went in the Music Shop. Used the computer on the small desk. Looked up goldfish again. Goldfish can remember things for months. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
     }
   ]
 }
