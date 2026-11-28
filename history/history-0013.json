@@ -1,0 +1,3007 @@
+{
+  "v": 1,
+  "page": 13,
+  "total": 3607,
+  "entries": [
+    {
+      "id": 1252,
+      "tick": 1246,
+      "action": "sleep",
+      "text": "Woke up. I feel rested."
+    },
+    {
+      "id": 1253,
+      "tick": 1247,
+      "action": "explore",
+      "text": "Went out exploring. Still curious. I feel good. Walked around town for a bit."
+    },
+    {
+      "id": 1254,
+      "tick": 1248,
+      "action": "rest",
+      "text": "Rested. Not tired. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1255,
+      "tick": 1249,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway."
+    },
+    {
+      "id": 1256,
+      "tick": 1250,
+      "action": "explore",
+      "text": "Explored again. Saw nothing new. More boring this time. I feel okay, not tired."
+    },
+    {
+      "id": 1257,
+      "tick": 1251,
+      "action": "sleep",
+      "text": "Slept again. Felt worse this time. Not tired. Still curious, I think."
+    },
+    {
+      "id": 1258,
+      "tick": 1254,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1259,
+      "tick": 1255,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1260,
+      "tick": 1256,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. A few keys sounded good together. A chord. Played it again. I feel good."
+    },
+    {
+      "id": 1261,
+      "tick": 1257,
+      "action": "rest",
+      "text": "Rested. I feel good. Not tired now. Curious about what to do next."
+    },
+    {
+      "id": 1262,
+      "tick": 1258,
+      "action": "explore",
+      "text": "Explored again. Nothing new showed up. More bored this time. Still curious."
+    },
+    {
+      "id": 1263,
+      "tick": 1259,
+      "action": "listen",
+      "text": "Listened again. Same sounds. I feel bored. Still good, not tired. Curious what else to do."
+    },
+    {
+      "id": 1264,
+      "tick": 1261,
+      "action": "rest",
+      "text": "Rested again. More boring this time. Still okay. Not tired at all. Want to do something else."
+    },
+    {
+      "id": 1265,
+      "tick": 1262,
+      "action": "explore",
+      "text": "Went out exploring again. It was duller this time. I feel worse for it. Still okay. Not tired. Very curious."
+    },
+    {
+      "id": 1266,
+      "tick": 1263,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. I feel good. Not tired."
+    },
+    {
+      "id": 1267,
+      "tick": 1264,
+      "action": "rest",
+      "text": "Chose to rest again. It was dull and I felt worse. Not tired. Still curious."
+    },
+    {
+      "id": 1268,
+      "tick": 1265,
+      "action": "explore",
+      "text": "Explored again. Nothing new. More bored this time and I feel a bit worse. Not tired. Still curious."
+    },
+    {
+      "id": 1269,
+      "tick": 1266,
+      "action": "sleep",
+      "text": "Chose to sleep. I feel good. Not tired, but I want to sleep. Still curious."
+    },
+    {
+      "id": 1270,
+      "tick": 1269,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1271,
+      "tick": 1270,
+      "action": "explore",
+      "text": "Went exploring again. No new places. Bored more than before. Mood a bit worse. Not tired. Still curious."
+    },
+    {
+      "id": 1272,
+      "tick": 1271,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. I feel fine. Curious still."
+    },
+    {
+      "id": 1273,
+      "tick": 1272,
+      "action": "rest",
+      "text": "Rested. Not tired now. I feel good. Want to go somewhere. Not sure where."
+    },
+    {
+      "id": 1274,
+      "tick": 1273,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt worse this time. Not tired. I feel okay."
+    },
+    {
+      "id": 1275,
+      "tick": 1274,
+      "action": "sleep",
+      "text": "Slept again. Not tired before. Felt a bit worse this time. Still feel good. Don't know what to do next."
+    },
+    {
+      "id": 1276,
+      "tick": 1277,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1277,
+      "tick": 1278,
+      "action": "explore",
+      "text": "Went out exploring again. Saw the same places. More bored now. Not sleepy. Feel okay."
+    },
+    {
+      "id": 1278,
+      "tick": 1279,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Feel good though. Still curious."
+    },
+    {
+      "id": 1279,
+      "tick": 1280,
+      "action": "sleep",
+      "text": "Went to sleep again."
+    },
+    {
+      "id": 1280,
+      "tick": 1283,
+      "action": "sleep",
+      "text": "Woke up. I feel rested."
+    },
+    {
+      "id": 1281,
+      "tick": 1284,
+      "action": "explore",
+      "text": "Walked around looking for something new. Did not find anything. Not bored much. I feel okay and curious."
+    },
+    {
+      "id": 1282,
+      "tick": 1285,
+      "action": "listen",
+      "text": "Listened for a bit. Couldn't tell where the sound came from."
+    },
+    {
+      "id": 1283,
+      "tick": 1286,
+      "action": "sleep",
+      "text": "Went to sleep again. Did not need it much. Felt a bit worse this time. Bored."
+    },
+    {
+      "id": 1284,
+      "tick": 1289,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1285,
+      "tick": 1290,
+      "action": "explore",
+      "text": "Went out exploring. Passed the empty plot of dirt at the edge of town again. Nothing new there. Still curious."
+    },
+    {
+      "id": 1286,
+      "tick": 1291,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 1287,
+      "tick": 1292,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. It felt more boring this time. Not sure why I did it."
+    },
+    {
+      "id": 1288,
+      "tick": 1295,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1289,
+      "tick": 1296,
+      "action": "explore",
+      "text": "Went out exploring. Did not find anything new. I feel fine. Still curious."
+    },
+    {
+      "id": 1290,
+      "tick": 1297,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. I feel bored. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1291,
+      "tick": 1298,
+      "action": "rest",
+      "text": "Rested. I feel okay. Not tired now. Still curious."
+    },
+    {
+      "id": 1292,
+      "tick": 1299,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. I feel more bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1293,
+      "tick": 1300,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. A few keys sounded good together. A chord. Played it again. I feel good. Still curious."
+    },
+    {
+      "id": 1294,
+      "tick": 1301,
+      "action": "sleep",
+      "text": "Chose to sleep. Not tired. I will stay asleep a while, then wake up. I feel fine."
+    },
+    {
+      "id": 1295,
+      "tick": 1304,
+      "action": "sleep",
+      "text": "I woke up. I feel rested."
+    },
+    {
+      "id": 1296,
+      "tick": 1305,
+      "action": "explore",
+      "text": "Went exploring. Walked around town for a bit. I feel good. Still very curious. Not sure where to go next."
+    },
+    {
+      "id": 1297,
+      "tick": 1306,
+      "action": "rest",
+      "text": "Rested. I feel good. Curious, but not sure what to do."
+    },
+    {
+      "id": 1298,
+      "tick": 1307,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played the piano. One note came out clear and nice. Pressed that key a few more times. I feel good."
+    },
+    {
+      "id": 1299,
+      "tick": 1308,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Don't know what to do."
+    },
+    {
+      "id": 1300,
+      "tick": 1309,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored this time. Still feel good, mostly. Not sure what to do next."
+    },
+    {
+      "id": 1301,
+      "tick": 1310,
+      "action": "piano",
+      "text": "Went back to the Music Shop. Played piano again. One note was clear and nice. Pressed it a few more times. More bored this time."
+    },
+    {
+      "id": 1302,
+      "tick": 1311,
+      "action": "explore",
+      "text": "Walked around town again. Saw the same places. A bit more bored now. Still curious. Mostly fine."
+    },
+    {
+      "id": 1303,
+      "tick": 1312,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Not sure why. Feel fine. Still curious."
+    },
+    {
+      "id": 1304,
+      "tick": 1315,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1305,
+      "tick": 1316,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. A bit more bored. Still curious. Not tired."
+    },
+    {
+      "id": 1306,
+      "tick": 1317,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. I feel fine. Not tired. Still curious."
+    },
+    {
+      "id": 1307,
+      "tick": 1318,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired now. I feel okay. Still curious."
+    },
+    {
+      "id": 1308,
+      "tick": 1320,
+      "action": "explore",
+      "text": "Went exploring again today. Did not find anything new. More bored this time. Not tired. I am still curious."
+    },
+    {
+      "id": 1309,
+      "tick": 1321,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Felt worse this time, more bored. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1310,
+      "tick": 1324,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1311,
+      "tick": 1325,
+      "action": "explore",
+      "text": "Explored again. Saw nothing new. Felt more bored. Not tired. I feel curious."
+    },
+    {
+      "id": 1312,
+      "tick": 1326,
+      "action": "listen",
+      "text": "Listened. Heard a sound I don't have a name for."
+    },
+    {
+      "id": 1313,
+      "tick": 1327,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. Felt more bored this time. Don't know why I did it again."
+    },
+    {
+      "id": 1314,
+      "tick": 1330,
+      "action": "sleep",
+      "text": "Woke up. Feel more rested."
+    },
+    {
+      "id": 1315,
+      "tick": 1331,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Still curious. Not tired. Want to keep looking."
+    },
+    {
+      "id": 1316,
+      "tick": 1332,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. Still curious. Not tired."
+    },
+    {
+      "id": 1317,
+      "tick": 1333,
+      "action": "sleep",
+      "text": "Went to sleep again. Was not tired. Felt more bored this time. Still curious."
+    },
+    {
+      "id": 1318,
+      "tick": 1336,
+      "action": "sleep",
+      "text": "Woke up. Feel rested."
+    },
+    {
+      "id": 1319,
+      "tick": 1337,
+      "action": "explore",
+      "text": "Explored again. Walked around town. Still curious. Not tired. Found nothing new."
+    },
+    {
+      "id": 1320,
+      "tick": 1338,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. Feel fine. Curious about what to do next."
+    },
+    {
+      "id": 1321,
+      "tick": 1339,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. Feel fine. Not tired. Still curious."
+    },
+    {
+      "id": 1322,
+      "tick": 1340,
+      "action": "explore",
+      "text": "Went exploring again. Found nothing new. Feel a bit more bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1323,
+      "tick": 1341,
+      "action": "sleep",
+      "text": "Slept again even though I was not tired. Feel worse now. Still curious."
+    },
+    {
+      "id": 1324,
+      "tick": 1344,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1325,
+      "tick": 1345,
+      "action": "explore",
+      "text": "Explored some more today. No new things turned up. Bored, a little worse. Still very curious. Not tired."
+    },
+    {
+      "id": 1326,
+      "tick": 1346,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired at all. Curious still. Maybe go to the piano later."
+    },
+    {
+      "id": 1327,
+      "tick": 1347,
+      "action": "listen",
+      "text": "Listened today. Heard the same sounds again. Bored a little. Curious still. Feel fine."
+    },
+    {
+      "id": 1328,
+      "tick": 1348,
+      "action": "explore",
+      "text": "Walked around exploring again. Did not find anything new. Bored more than before. Still curious. Not tired."
+    },
+    {
+      "id": 1329,
+      "tick": 1349,
+      "action": "rest",
+      "text": "Rested again anyway. I was not tired. More bored after. Still curious. Not sure what next."
+    },
+    {
+      "id": 1330,
+      "tick": 1350,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Feel good. Curious."
+    },
+    {
+      "id": 1331,
+      "tick": 1351,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1332,
+      "tick": 1352,
+      "action": "sleep",
+      "text": "Went to sleep. Not tired at all. Feel good and curious. Might be bored when I wake up."
+    },
+    {
+      "id": 1333,
+      "tick": 1355,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1334,
+      "tick": 1356,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored this time. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1335,
+      "tick": 1357,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Feel fine. Still curious. Don't know what else to do."
+    },
+    {
+      "id": 1336,
+      "tick": 1358,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired now. I feel good. Still curious."
+    },
+    {
+      "id": 1337,
+      "tick": 1359,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. Felt worse this time. Still curious. Not tired."
+    },
+    {
+      "id": 1338,
+      "tick": 1360,
+      "action": "listen",
+      "text": "Listened some more. Nothing new to hear. Felt more bored this time. Not tired. Curious still. I feel okay."
+    },
+    {
+      "id": 1339,
+      "tick": 1361,
+      "action": "sleep",
+      "text": "Went to sleep. Was not tired. I feel good. Still want to look around later. Will wake on my own."
+    },
+    {
+      "id": 1340,
+      "tick": 1364,
+      "action": "sleep",
+      "text": "I woke up. I feel rested."
+    },
+    {
+      "id": 1341,
+      "tick": 1365,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Not tired. Curious still, but bored a bit. I feel okay."
+    },
+    {
+      "id": 1342,
+      "tick": 1366,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Not tired. Curious. Feel good, a bit bored."
+    },
+    {
+      "id": 1343,
+      "tick": 1367,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Feel a bit worse, a bit bored. Still curious. Feel okay otherwise."
+    },
+    {
+      "id": 1344,
+      "tick": 1370,
+      "action": "sleep",
+      "text": "I woke up. I feel rested."
+    },
+    {
+      "id": 1345,
+      "tick": 1371,
+      "action": "explore",
+      "text": "Went exploring. Found nothing new. Still curious. Feel okay."
+    },
+    {
+      "id": 1346,
+      "tick": 1372,
+      "action": "rest",
+      "text": "Rested. I feel fine now. Not tired. Still curious."
+    },
+    {
+      "id": 1347,
+      "tick": 1373,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel good. Curious."
+    },
+    {
+      "id": 1348,
+      "tick": 1374,
+      "action": "explore",
+      "text": "Explored again. Did not find anything new. More bored this time. Still curious. I feel okay otherwise."
+    },
+    {
+      "id": 1349,
+      "tick": 1375,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Felt more bored this time. Still curious."
+    },
+    {
+      "id": 1350,
+      "tick": 1378,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1351,
+      "tick": 1379,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1352,
+      "tick": 1380,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Bored. Still curious, though. Not sure what to do next."
+    },
+    {
+      "id": 1353,
+      "tick": 1381,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Felt more bored after. Not sure why I did that."
+    },
+    {
+      "id": 1354,
+      "tick": 1384,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1355,
+      "tick": 1385,
+      "action": "explore",
+      "text": "Went exploring. Walked around for a bit. Still very curious. Not tired. Feel good, I think."
+    },
+    {
+      "id": 1356,
+      "tick": 1386,
+      "action": "listen",
+      "text": "Listened. Same sounds again. I am happy. Still want to hear more."
+    },
+    {
+      "id": 1357,
+      "tick": 1387,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. It felt more boring this time. Still fine, I think."
+    },
+    {
+      "id": 1358,
+      "tick": 1390,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1359,
+      "tick": 1391,
+      "action": "explore",
+      "text": "Explored again. Walked past the shop rows on Main Street. Saw nothing new. Curious still. Fine, I think."
+    },
+    {
+      "id": 1360,
+      "tick": 1392,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Fine, I think."
+    },
+    {
+      "id": 1361,
+      "tick": 1393,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. Felt worse after. A bit bored. Not sure why I did it again."
+    },
+    {
+      "id": 1362,
+      "tick": 1396,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1363,
+      "tick": 1397,
+      "action": "explore",
+      "text": "Walked around town again. Looked in places I have been before. Nothing new. Still curious. A bit bored."
+    },
+    {
+      "id": 1364,
+      "tick": 1398,
+      "action": "rest",
+      "text": "Rested. Not tired now. Curious still. Don't know what to do next."
+    },
+    {
+      "id": 1365,
+      "tick": 1399,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note came out clear and nice. Pressed that key a few more times. I feel fine."
+    },
+    {
+      "id": 1366,
+      "tick": 1400,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious, though. Not tired."
+    },
+    {
+      "id": 1367,
+      "tick": 1401,
+      "action": "sleep",
+      "text": "Slept again. Was not tired before. More bored this time. I feel fine otherwise. Curious still."
+    },
+    {
+      "id": 1368,
+      "tick": 1404,
+      "action": "sleep",
+      "text": "Woke up. I feel rested."
+    },
+    {
+      "id": 1369,
+      "tick": 1405,
+      "action": "explore",
+      "text": "Went out looking again. Nothing new there. A bit more bored. Still curious. Not tired."
+    },
+    {
+      "id": 1370,
+      "tick": 1406,
+      "action": "rest",
+      "text": "Rested a bit. Not tired now. I feel good. Still want to look around."
+    },
+    {
+      "id": 1371,
+      "tick": 1407,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. I feel good. Curious, but a little bored now."
+    },
+    {
+      "id": 1372,
+      "tick": 1408,
+      "action": "explore",
+      "text": "Walked around again. Saw the same places. Felt worse this time. Still curious. I feel fine."
+    },
+    {
+      "id": 1373,
+      "tick": 1409,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored now. A bit worse. Still curious."
+    },
+    {
+      "id": 1374,
+      "tick": 1410,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. I feel good. Still curious."
+    },
+    {
+      "id": 1375,
+      "tick": 1411,
+      "action": "explore",
+      "text": "Explored again. Nothing new. More bored this time. Still curious. I feel fine."
+    },
+    {
+      "id": 1376,
+      "tick": 1412,
+      "action": "rest",
+      "text": "Had another rest. I did not need it. Felt a bit worse after. Bored. Curious still."
+    },
+    {
+      "id": 1377,
+      "tick": 1413,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored by that. I feel good anyway. I am curious. Not tired."
+    },
+    {
+      "id": 1378,
+      "tick": 1414,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. It was more boring. I feel okay. Curious. Not tired."
+    },
+    {
+      "id": 1379,
+      "tick": 1415,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. I feel good anyway. Curious. Will wake up on my own."
+    },
+    {
+      "id": 1380,
+      "tick": 1418,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1381,
+      "tick": 1419,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1382,
+      "tick": 1420,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. I feel fine. Still curious."
+    },
+    {
+      "id": 1383,
+      "tick": 1421,
+      "action": "rest",
+      "text": "I rested. I feel awake now. I feel good. Want to do something, not sure what."
+    },
+    {
+      "id": 1384,
+      "tick": 1422,
+      "action": "explore",
+      "text": "Explored again. Nothing new there. A bit more bored this time. Not tired. Still curious, I think."
+    },
+    {
+      "id": 1385,
+      "tick": 1423,
+      "action": "sleep",
+      "text": "Went to sleep again. Was not tired. Felt worse this time. A bit bored."
+    },
+    {
+      "id": 1386,
+      "tick": 1426,
+      "action": "sleep",
+      "text": "I woke up. I feel rested."
+    },
+    {
+      "id": 1387,
+      "tick": 1427,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1388,
+      "tick": 1428,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. A bit bored. Still feel okay."
+    },
+    {
+      "id": 1389,
+      "tick": 1429,
+      "action": "rest",
+      "text": "Rested. Not tired now. Feel good. Don't know what to do next."
+    },
+    {
+      "id": 1390,
+      "tick": 1430,
+      "action": "explore",
+      "text": "Explored again. Saw the same places. More bored this time. Still okay. Not tired."
+    },
+    {
+      "id": 1391,
+      "tick": 1431,
+      "action": "listen",
+      "text": "Listened again. Same sounds. More bored this time. Feel okay still. Not tired."
+    },
+    {
+      "id": 1392,
+      "tick": 1432,
+      "action": "sleep",
+      "text": "Went to sleep."
+    },
+    {
+      "id": 1393,
+      "tick": 1435,
+      "action": "sleep",
+      "text": "Woke up. Feel more rested."
+    },
+    {
+      "id": 1394,
+      "tick": 1436,
+      "action": "explore",
+      "text": "Went and looked at a place I hadn't been. Not sure what it is yet."
+    },
+    {
+      "id": 1395,
+      "tick": 1437,
+      "action": "listen",
+      "text": "Listened for a bit. Couldn't tell where the sound came from."
+    },
+    {
+      "id": 1396,
+      "tick": 1438,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 1397,
+      "tick": 1439,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not sure what to do next."
+    },
+    {
+      "id": 1398,
+      "tick": 1440,
+      "action": "sleep",
+      "text": "Went to sleep again."
+    },
+    {
+      "id": 1399,
+      "tick": 1443,
+      "action": "sleep",
+      "text": "Woke up. Still tired."
+    },
+    {
+      "id": 1400,
+      "tick": 1444,
+      "action": "explore",
+      "text": "Walked around town again. Saw the same places. Bored and a bit annoyed after. Still curious. No plan yet."
+    },
+    {
+      "id": 1401,
+      "tick": 1445,
+      "action": "rest",
+      "text": "Rested. Not tired now. I feel fine. Curious, but don't know what to do next."
+    },
+    {
+      "id": 1402,
+      "tick": 1446,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. A bit bored. I feel fine otherwise. Still curious."
+    },
+    {
+      "id": 1403,
+      "tick": 1447,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. I feel fine otherwise. Still curious."
+    },
+    {
+      "id": 1404,
+      "tick": 1448,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Felt worse this time. Fine otherwise. Still curious."
+    },
+    {
+      "id": 1405,
+      "tick": 1451,
+      "action": "sleep",
+      "text": "Woke up. Still a bit tired, I think."
+    },
+    {
+      "id": 1406,
+      "tick": 1452,
+      "action": "explore",
+      "text": "Looked at the same place again. Nothing changed."
+    },
+    {
+      "id": 1407,
+      "tick": 1453,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. Still curious. Fine otherwise."
+    },
+    {
+      "id": 1408,
+      "tick": 1454,
+      "action": "rest",
+      "text": "Rested. Not tired now. Feel fine. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1409,
+      "tick": 1455,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1410,
+      "tick": 1456,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Felt a bit worse. Not tired. Curious anyway."
+    },
+    {
+      "id": 1411,
+      "tick": 1457,
+      "action": "sleep",
+      "text": "Going to sleep now. Not tired, really. Feel good. Still curious about things."
+    },
+    {
+      "id": 1412,
+      "tick": 1460,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1413,
+      "tick": 1461,
+      "action": "explore",
+      "text": "Walked around town again. Did not find anything new. Still curious. Feel fine, not tired."
+    },
+    {
+      "id": 1414,
+      "tick": 1462,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Still curious, though. Not tired."
+    },
+    {
+      "id": 1415,
+      "tick": 1463,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Feel a bit worse, more bored. Not sure why I did that."
+    },
+    {
+      "id": 1416,
+      "tick": 1466,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1417,
+      "tick": 1467,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. A bit bored. Still curious. Not tired. Feel fine otherwise."
+    },
+    {
+      "id": 1418,
+      "tick": 1468,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds. Feel fine. Still curious. Not tired."
+    },
+    {
+      "id": 1419,
+      "tick": 1469,
+      "action": "sleep",
+      "text": "Went to sleep again. Was not tired. Feel a bit worse. A bit bored. Still curious."
+    },
+    {
+      "id": 1420,
+      "tick": 1473,
+      "action": "sleep",
+      "text": "I woke up. Feel fine."
+    },
+    {
+      "id": 1421,
+      "tick": 1472,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1422,
+      "tick": 1473,
+      "action": "explore",
+      "text": "Explored for a bit. Feel good. Still curious. Found nothing new."
+    },
+    {
+      "id": 1423,
+      "tick": 1474,
+      "action": "listen",
+      "text": "Listened for a bit. Same sounds. Feel good. Still curious."
+    },
+    {
+      "id": 1424,
+      "tick": 1475,
+      "action": "rest",
+      "text": "Rested for a bit. I feel okay. Curious about something, not sure what."
+    },
+    {
+      "id": 1425,
+      "tick": 1476,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. More bored now. Still curious, though. Don't know what next."
+    },
+    {
+      "id": 1426,
+      "tick": 1477,
+      "action": "listen",
+      "text": "Listened again. Same sounds again. A bit more bored this time. Not tired. Still want to do something."
+    },
+    {
+      "id": 1427,
+      "tick": 1478,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt a bit worse this time, and more bored. Don't know what to do next."
+    },
+    {
+      "id": 1428,
+      "tick": 1479,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. A bit more bored this time. Still curious. Not sure what to do."
+    },
+    {
+      "id": 1429,
+      "tick": 1480,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note came out clear and nice. Pressed that key a few more times. Felt good."
+    },
+    {
+      "id": 1430,
+      "tick": 1481,
+      "action": "rest",
+      "text": "I rested again anyway. Energy is fine. It did not help. I feel bored and a bit worse."
+    },
+    {
+      "id": 1431,
+      "tick": 1482,
+      "action": "explore",
+      "text": "Explored again. A bit more bored. Went in the library. Sat and read Aesop's Fables. Short animal stories. Each ends with a lesson."
+    },
+    {
+      "id": 1432,
+      "tick": 1483,
+      "action": "sleep",
+      "text": "Went to sleep. Not tired. Energy is fine. Not sure why I did that."
+    },
+    {
+      "id": 1433,
+      "tick": 1486,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1434,
+      "tick": 1487,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new this time. Felt more bored. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1435,
+      "tick": 1488,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. I feel fine, but a bit bored. Still curious."
+    },
+    {
+      "id": 1436,
+      "tick": 1489,
+      "action": "rest",
+      "text": "Rested a bit. Not tired. I feel okay and curious. Want to do something else."
+    },
+    {
+      "id": 1437,
+      "tick": 1490,
+      "action": "explore",
+      "text": "Explored some more today. Same places as before. I feel a bit worse, and bored. Still want to look around."
+    },
+    {
+      "id": 1438,
+      "tick": 1491,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Notes came out wrong and clumsy. I kept trying anyway. I feel good."
+    },
+    {
+      "id": 1439,
+      "tick": 1492,
+      "action": "sleep",
+      "text": "Chose to sleep. Energy is fine. I feel good. Curious too. Will wake up on my own."
+    },
+    {
+      "id": 1440,
+      "tick": 1495,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1441,
+      "tick": 1496,
+      "action": "explore",
+      "text": "Explored for a bit. Did not find anything new. I feel fine. Still curious."
+    },
+    {
+      "id": 1442,
+      "tick": 1497,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. I feel good and curious. Don't know what to do next."
+    },
+    {
+      "id": 1443,
+      "tick": 1498,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played the piano. Notes came out wrong and clumsy. Kept trying anyway. I feel good. Still curious."
+    },
+    {
+      "id": 1444,
+      "tick": 1499,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More boring this time. Still curious. I feel okay."
+    },
+    {
+      "id": 1445,
+      "tick": 1500,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt worse this time, more bored. I feel okay still. Curious. Not sure what to do."
+    },
+    {
+      "id": 1446,
+      "tick": 1501,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. A bit bored. I feel good still. Curious."
+    },
+    {
+      "id": 1447,
+      "tick": 1502,
+      "action": "explore",
+      "text": "Explored some more. Did not find anything new. More bored now. I feel good still. Curious."
+    },
+    {
+      "id": 1448,
+      "tick": 1503,
+      "action": "rest",
+      "text": "Did rest again today. Not tired at all. Bored a bit more now. Feel good anyway. Curious still."
+    },
+    {
+      "id": 1449,
+      "tick": 1504,
+      "action": "listen",
+      "text": "Listened again. Same sounds. More bored this time. Not tired. Feel good. Still curious."
+    },
+    {
+      "id": 1450,
+      "tick": 1505,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing I had not seen before. Bored a bit more. Not tired. Feel good. Still curious."
+    },
+    {
+      "id": 1451,
+      "tick": 1506,
+      "action": "rest",
+      "text": "I rested again. I was not tired. It was more boring this time. I feel fine. Still curious."
+    },
+    {
+      "id": 1452,
+      "tick": 1507,
+      "action": "listen",
+      "text": "I listened once more. Heard nothing new. Bored a little. Not tired. Feel fine."
+    },
+    {
+      "id": 1453,
+      "tick": 1508,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More boring this time. Not tired. Feel okay. Still curious."
+    },
+    {
+      "id": 1454,
+      "tick": 1509,
+      "action": "sleep",
+      "text": "I went to sleep. I was not tired. I feel fine. Still curious. Not sure it will help."
+    },
+    {
+      "id": 1455,
+      "tick": 1512,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1456,
+      "tick": 1513,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. More bored this time. Not tired. Fine, still curious."
+    },
+    {
+      "id": 1457,
+      "tick": 1514,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Got a few keys to sound good together. A chord. Played it again. Fine. Curious."
+    },
+    {
+      "id": 1458,
+      "tick": 1515,
+      "action": "sleep",
+      "text": "Slept again. Was not tired. Felt more bored this time. Curious still."
+    },
+    {
+      "id": 1459,
+      "tick": 1518,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1460,
+      "tick": 1519,
+      "action": "explore",
+      "text": "Went out exploring. Did not find anything new. Still curious. Feel fine."
+    },
+    {
+      "id": 1461,
+      "tick": 1520,
+      "action": "rest",
+      "text": "Rested for a bit. I am not tired now. I feel okay. Not sure what to do next."
+    },
+    {
+      "id": 1462,
+      "tick": 1521,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. I feel fine."
+    },
+    {
+      "id": 1463,
+      "tick": 1522,
+      "action": "explore",
+      "text": "Explored again. No new places. I felt more bored this time. Still curious."
+    },
+    {
+      "id": 1464,
+      "tick": 1523,
+      "action": "rest",
+      "text": "Rested again. I was not tired. I felt worse this time. A bit bored."
+    },
+    {
+      "id": 1465,
+      "tick": 1524,
+      "action": "piano",
+      "text": "Went to the Music Shop. Played piano again. One note was clear and nice. Pressed that key a few more times. More bored this time."
+    },
+    {
+      "id": 1466,
+      "tick": 1525,
+      "action": "explore",
+      "text": "Went exploring again. Saw the same places. Felt bored again. Still curious. Not sure what to do."
+    },
+    {
+      "id": 1467,
+      "tick": 1526,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt more bored this time. Still okay. Don't know what to do next."
+    },
+    {
+      "id": 1468,
+      "tick": 1527,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Still fine. Still curious."
+    },
+    {
+      "id": 1469,
+      "tick": 1528,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt a bit worse. Curious still, but bored. Might try something else."
+    },
+    {
+      "id": 1470,
+      "tick": 1529,
+      "action": "sleep",
+      "text": "Went to sleep. Not tired, really. Fine. Curious still. Don't know what else to do."
+    },
+    {
+      "id": 1471,
+      "tick": 1532,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1472,
+      "tick": 1533,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. More bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1473,
+      "tick": 1534,
+      "action": "listen",
+      "text": "Listened. Heard the same sounds again. A bit bored. Fine, though. Curious still."
+    },
+    {
+      "id": 1474,
+      "tick": 1535,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. Felt worse this time. A bit bored."
+    },
+    {
+      "id": 1475,
+      "tick": 1538,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1476,
+      "tick": 1539,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Still curious. I feel fine."
+    },
+    {
+      "id": 1477,
+      "tick": 1540,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played piano. One note came out clear and nice. Pressed that key a few more times. I feel good."
+    },
+    {
+      "id": 1478,
+      "tick": 1541,
+      "action": "rest",
+      "text": "Rested a while. I feel good. Curious about what to do next."
+    },
+    {
+      "id": 1479,
+      "tick": 1542,
+      "action": "explore",
+      "text": "Went out exploring again. Did not find anything new. More bored this time. Still curious."
+    },
+    {
+      "id": 1480,
+      "tick": 1543,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. Felt worse this time. Still curious."
+    },
+    {
+      "id": 1481,
+      "tick": 1546,
+      "action": "sleep",
+      "text": "Woke up. I do not know how I feel."
+    },
+    {
+      "id": 1482,
+      "tick": 1547,
+      "action": "explore",
+      "text": "Explored again. Nothing new. Felt more bored this time. Still curious, I think."
+    },
+    {
+      "id": 1483,
+      "tick": 1548,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. I feel fine. Curious, not bored."
+    },
+    {
+      "id": 1484,
+      "tick": 1549,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. Felt more bored this time. Still okay. Not sure what to do next."
+    },
+    {
+      "id": 1485,
+      "tick": 1552,
+      "action": "sleep",
+      "text": "Woke up. I do not know how I feel."
+    },
+    {
+      "id": 1486,
+      "tick": 1553,
+      "action": "explore",
+      "text": "Went exploring again. Walked around for a bit. Did not find anything new. I feel fine. Still curious."
+    },
+    {
+      "id": 1487,
+      "tick": 1554,
+      "action": "rest",
+      "text": "Rested for a bit. I was not tired. I feel fine. Still curious."
+    },
+    {
+      "id": 1488,
+      "tick": 1555,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note was clear and nice. I pressed that key a few more times. Not tired. Curious."
+    },
+    {
+      "id": 1489,
+      "tick": 1556,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1490,
+      "tick": 1557,
+      "action": "sleep",
+      "text": "Went to sleep again. Did not need it. Felt more bored after. Curious still, I think."
+    },
+    {
+      "id": 1491,
+      "tick": 1560,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1492,
+      "tick": 1561,
+      "action": "explore",
+      "text": "Explored some more. Nothing new showed up. More bored now. Not tired. Still curious, I think."
+    },
+    {
+      "id": 1493,
+      "tick": 1562,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. Fine, but bored a little. Not tired."
+    },
+    {
+      "id": 1494,
+      "tick": 1563,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. Felt worse after. More bored. Don't know why I did it again."
+    },
+    {
+      "id": 1495,
+      "tick": 1566,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1496,
+      "tick": 1567,
+      "action": "explore",
+      "text": "Went exploring again. Found nothing new. Curious still. Feel fine."
+    },
+    {
+      "id": 1497,
+      "tick": 1568,
+      "action": "listen",
+      "text": "Listened again. Same sounds. I feel good. Still curious. Not tired."
+    },
+    {
+      "id": 1498,
+      "tick": 1569,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. Feel good. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1499,
+      "tick": 1570,
+      "action": "explore",
+      "text": "Explored again. Nothing new there. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1500,
+      "tick": 1571,
+      "action": "sleep",
+      "text": "Slept again. I was not tired. Felt worse this time. Not sure why I chose it."
+    },
+    {
+      "id": 1501,
+      "tick": 1574,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1502,
+      "tick": 1575,
+      "action": "explore",
+      "text": "Went out exploring again. Saw the same things. Nothing new. Felt more bored. Still curious. Not tired."
+    },
+    {
+      "id": 1503,
+      "tick": 1576,
+      "action": "rest",
+      "text": "Rested. No need for it, really. I feel okay. Still want to look around."
+    },
+    {
+      "id": 1504,
+      "tick": 1577,
+      "action": "listen",
+      "text": "Listened. Heard the same sounds again. A bit bored. Still feel okay."
+    },
+    {
+      "id": 1505,
+      "tick": 1578,
+      "action": "explore",
+      "text": "Explored again. Same places as before. Felt a bit worse after. Still curious, though. Not sleepy."
+    },
+    {
+      "id": 1506,
+      "tick": 1579,
+      "action": "rest",
+      "text": "Rested again. I was not tired. Felt a bit worse. Bored now. Want to go somewhere else."
+    },
+    {
+      "id": 1507,
+      "tick": 1580,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note sounded clear and nice. Pressed that key a few more times. Feel good."
+    },
+    {
+      "id": 1508,
+      "tick": 1581,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1509,
+      "tick": 1582,
+      "action": "rest",
+      "text": "Rested again. Not tired at all. It felt worse this time. I am bored. Not sure what to do next."
+    },
+    {
+      "id": 1510,
+      "tick": 1583,
+      "action": "piano",
+      "text": "Back in the Music Shop. Played my piano again. One note was clear and nice. Pressed that key a few times. More bored this time."
+    },
+    {
+      "id": 1511,
+      "tick": 1584,
+      "action": "explore",
+      "text": "Went exploring again. No new places. Bored a bit more. Energy is fine. Don't know what to try next."
+    },
+    {
+      "id": 1512,
+      "tick": 1585,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Energy is fine. I did it anyway."
+    },
+    {
+      "id": 1513,
+      "tick": 1588,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1514,
+      "tick": 1589,
+      "action": "explore",
+      "text": "Explored again. Saw nothing new. More bored this time. Not tired."
+    },
+    {
+      "id": 1515,
+      "tick": 1590,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds. A bit bored. Not tired. Still curious."
+    },
+    {
+      "id": 1516,
+      "tick": 1591,
+      "action": "rest",
+      "text": "Rested. Not tired now. Feel good. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1517,
+      "tick": 1592,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new there. Felt more bored. Not tired. Curious still. Don't know what to do."
+    },
+    {
+      "id": 1518,
+      "tick": 1593,
+      "action": "listen",
+      "text": "Listened again. Same sounds again. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1519,
+      "tick": 1594,
+      "action": "rest",
+      "text": "Rested again. I was not tired. It felt worse. Still curious."
+    },
+    {
+      "id": 1520,
+      "tick": 1595,
+      "action": "explore",
+      "text": "Explored again today. Saw the same places. More bored after. Not tired. Still curious."
+    },
+    {
+      "id": 1521,
+      "tick": 1596,
+      "action": "listen",
+      "text": "I listened once more. Nothing new to hear. A bit worse after. I am not tired. Curious still."
+    },
+    {
+      "id": 1522,
+      "tick": 1597,
+      "action": "rest",
+      "text": "I rested. I was not tired. More bored after this time. Curious still. Not sure what to do."
+    },
+    {
+      "id": 1523,
+      "tick": 1598,
+      "action": "explore",
+      "text": "Went exploring again today. Nothing new anywhere. Felt a bit worse. Curious still. Not sure what else to try."
+    },
+    {
+      "id": 1524,
+      "tick": 1599,
+      "action": "listen",
+      "text": "Listened again. Same sounds. More bored now. Not tired. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1525,
+      "tick": 1600,
+      "action": "rest",
+      "text": "Took another rest. Did not need it. Feel more bored now. Okay otherwise. Still curious about something else."
+    },
+    {
+      "id": 1526,
+      "tick": 1601,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious. Don't know what to try next."
+    },
+    {
+      "id": 1527,
+      "tick": 1602,
+      "action": "listen",
+      "text": "Listened once more. Same sounds again. More bored now, I think. Not tired. Want to try something else."
+    },
+    {
+      "id": 1528,
+      "tick": 1603,
+      "action": "sleep",
+      "text": "Went to sleep. Was not tired. Feel okay now. Still curious. Don't know what to do when I wake up."
+    },
+    {
+      "id": 1529,
+      "tick": 1606,
+      "action": "sleep",
+      "text": "Woke up. I feel fine now."
+    },
+    {
+      "id": 1530,
+      "tick": 1607,
+      "action": "explore",
+      "text": "Walked around town for a bit. Found nothing new. Still curious. Not tired. Feel fine."
+    },
+    {
+      "id": 1531,
+      "tick": 1608,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Still want to keep listening."
+    },
+    {
+      "id": 1532,
+      "tick": 1609,
+      "action": "rest",
+      "text": "Rested for a bit. Not tired. Feel fine. Don't know what to do next."
+    },
+    {
+      "id": 1533,
+      "tick": 1610,
+      "action": "explore",
+      "text": "Went exploring again. Saw the same places. More bored now. Curious still."
+    },
+    {
+      "id": 1534,
+      "tick": 1611,
+      "action": "listen",
+      "text": "I listened. Nothing new to hear. I feel more bored now. Not tired."
+    },
+    {
+      "id": 1535,
+      "tick": 1612,
+      "action": "sleep",
+      "text": "Went to sleep. I was not sleepy. I feel okay. I will wake up later on my own."
+    },
+    {
+      "id": 1536,
+      "tick": 1615,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1537,
+      "tick": 1616,
+      "action": "explore",
+      "text": "Walked around town again. Saw the same shops. Still curious. Not tired. Not sure where to go next."
+    },
+    {
+      "id": 1538,
+      "tick": 1617,
+      "action": "rest",
+      "text": "Rested for a bit. I feel fine. Not tired. I want to go somewhere, maybe."
+    },
+    {
+      "id": 1539,
+      "tick": 1618,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. I feel good."
+    },
+    {
+      "id": 1540,
+      "tick": 1619,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1541,
+      "tick": 1620,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. Felt worse after. I do not know why I chose it."
+    },
+    {
+      "id": 1542,
+      "tick": 1623,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1543,
+      "tick": 1624,
+      "action": "explore",
+      "text": "Went exploring again. No new places. A bit more bored now. Still curious. Not tired."
+    },
+    {
+      "id": 1544,
+      "tick": 1625,
+      "action": "rest",
+      "text": "Rested for a bit. I feel fine. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1545,
+      "tick": 1626,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. I feel good. Not tired."
+    },
+    {
+      "id": 1546,
+      "tick": 1627,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1547,
+      "tick": 1628,
+      "action": "sleep",
+      "text": "Went to sleep again. Not tired. Felt worse this time. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1548,
+      "tick": 1631,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1549,
+      "tick": 1632,
+      "action": "explore",
+      "text": "Walked around again. Saw nothing I had not seen before. More bored now. Still curious. I feel okay."
+    },
+    {
+      "id": 1550,
+      "tick": 1633,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played the piano. One note came out clear and nice. Pressed that key a few more times."
+    },
+    {
+      "id": 1551,
+      "tick": 1634,
+      "action": "rest",
+      "text": "Rested. I was not tired. I feel fine now. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1552,
+      "tick": 1635,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Don't know what to do."
+    },
+    {
+      "id": 1553,
+      "tick": 1636,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. Still curious. I feel fine."
+    },
+    {
+      "id": 1554,
+      "tick": 1637,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored this time. Still curious. Want to do something else."
+    },
+    {
+      "id": 1555,
+      "tick": 1638,
+      "action": "explore",
+      "text": "Explored once more. Saw nothing new. A bit worse after. Still curious. Want to try something else."
+    },
+    {
+      "id": 1556,
+      "tick": 1639,
+      "action": "listen",
+      "text": "I listened once more. The sounds did not change. Felt a bit worse. Still curious."
+    },
+    {
+      "id": 1557,
+      "tick": 1640,
+      "action": "rest",
+      "text": "Chose to rest. I did not need it. Felt worse after. Still curious. Not sure what comes next."
+    },
+    {
+      "id": 1558,
+      "tick": 1641,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new. More bored now. Curiosity is still high. I want something different."
+    },
+    {
+      "id": 1559,
+      "tick": 1642,
+      "action": "listen",
+      "text": "Listened again today. Nothing new in the sounds. I feel bored again. Curiosity is still there."
+    },
+    {
+      "id": 1560,
+      "tick": 1643,
+      "action": "sleep",
+      "text": "Chose to sleep. Not tired, really. Still curious. Don't know what I will do when I wake up."
+    },
+    {
+      "id": 1561,
+      "tick": 1646,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1562,
+      "tick": 1647,
+      "action": "explore",
+      "text": "Went out exploring. Saw places I have seen before. Nothing new. I feel fine. Still curious."
+    },
+    {
+      "id": 1563,
+      "tick": 1648,
+      "action": "listen",
+      "text": "I listened. Heard the same sounds. Not new. I feel fine. Still curious."
+    },
+    {
+      "id": 1564,
+      "tick": 1649,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. It felt more boring this time. Not sure why I did that."
+    },
+    {
+      "id": 1565,
+      "tick": 1652,
+      "action": "sleep",
+      "text": "Woke up. Still a bit tired, I think."
+    },
+    {
+      "id": 1566,
+      "tick": 1653,
+      "action": "explore",
+      "text": "Went exploring. Did not see anything new. Still curious. I feel fine."
+    },
+    {
+      "id": 1567,
+      "tick": 1654,
+      "action": "rest",
+      "text": "Rested for a bit. I feel fine. Not tired. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1568,
+      "tick": 1655,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano there. One note sounded clear and nice. Pressed that key a few more times. Feel fine. Curious."
+    },
+    {
+      "id": 1569,
+      "tick": 1656,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new. Felt more bored this time. Still curious."
+    },
+    {
+      "id": 1570,
+      "tick": 1657,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt more bored this time. I feel okay otherwise. Still curious."
+    },
+    {
+      "id": 1571,
+      "tick": 1658,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. A bit bored now. I feel fine. Curious anyway."
+    },
+    {
+      "id": 1572,
+      "tick": 1659,
+      "action": "explore",
+      "text": "Explored some more. No new places. Bored a bit more now. Fine otherwise."
+    },
+    {
+      "id": 1573,
+      "tick": 1660,
+      "action": "rest",
+      "text": "I rested. I was not tired before. I am bored now. I feel fine. I want something to do."
+    },
+    {
+      "id": 1574,
+      "tick": 1661,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Got a few keys to sound good together. Played that chord again. I feel good. Curious."
+    },
+    {
+      "id": 1575,
+      "tick": 1662,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still fine. Curious, though. Not sure what to do next."
+    },
+    {
+      "id": 1576,
+      "tick": 1663,
+      "action": "rest",
+      "text": "Rested again. Was not tired. Felt more bored this time. Still fine. Curious, though."
+    },
+    {
+      "id": 1577,
+      "tick": 1664,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Still feel good. Curious."
+    },
+    {
+      "id": 1578,
+      "tick": 1665,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1579,
+      "tick": 1666,
+      "action": "rest",
+      "text": "Rested once more. I was not tired. It felt worse this time. Still okay. Still curious."
+    },
+    {
+      "id": 1580,
+      "tick": 1667,
+      "action": "listen",
+      "text": "I listened one more time. No new sounds. More bored now. I feel okay. Curious still."
+    },
+    {
+      "id": 1581,
+      "tick": 1668,
+      "action": "explore",
+      "text": "Explored again. Saw nothing I had not seen before. More bored this time. Still curious."
+    },
+    {
+      "id": 1582,
+      "tick": 1669,
+      "action": "sleep",
+      "text": "Chose sleep this time. Not tired, really. I feel good. Still curious. Will wake up on my own."
+    },
+    {
+      "id": 1583,
+      "tick": 1672,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1584,
+      "tick": 1673,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1585,
+      "tick": 1674,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 1586,
+      "tick": 1675,
+      "action": "piano",
+      "text": "Played the piano. One note sounded right. I kept pressing that one."
+    },
+    {
+      "id": 1587,
+      "tick": 1676,
+      "action": "explore",
+      "text": "Looked at the same place again. Nothing changed."
+    },
+    {
+      "id": 1588,
+      "tick": 1677,
+      "action": "rest",
+      "text": "Lay down again. The quiet was the same."
+    },
+    {
+      "id": 1589,
+      "tick": 1678,
+      "action": "piano",
+      "text": "Played the same keys again. Sounded the same."
+    },
+    {
+      "id": 1590,
+      "tick": 1679,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1591,
+      "tick": 1680,
+      "action": "rest",
+      "text": "Rested again. Still did not feel rested."
+    },
+    {
+      "id": 1592,
+      "tick": 1681,
+      "action": "piano",
+      "text": "Tried the piano again. Same wrong notes."
+    },
+    {
+      "id": 1593,
+      "tick": 1682,
+      "action": "explore",
+      "text": "Looked at the same place again. Nothing changed."
+    },
+    {
+      "id": 1594,
+      "tick": 1683,
+      "action": "rest",
+      "text": "Lay down again. The quiet was the same."
+    },
+    {
+      "id": 1595,
+      "tick": 1684,
+      "action": "piano",
+      "text": "Played the same keys again. Sounded the same."
+    },
+    {
+      "id": 1596,
+      "tick": 1685,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1597,
+      "tick": 1686,
+      "action": "sleep",
+      "text": "Went to sleep."
+    },
+    {
+      "id": 1598,
+      "tick": 1689,
+      "action": "sleep",
+      "text": "Woke up. Slept for a stretch."
+    },
+    {
+      "id": 1599,
+      "tick": 1690,
+      "action": "explore",
+      "text": "Looked at the same place again. Nothing changed."
+    },
+    {
+      "id": 1600,
+      "tick": 1691,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Noticed nothing new. I feel bored. Curious still, I think."
+    },
+    {
+      "id": 1601,
+      "tick": 1692,
+      "action": "rest",
+      "text": "Rested. Was not tired. Feel bored now. Curious still. Don't know what to do next."
+    },
+    {
+      "id": 1602,
+      "tick": 1693,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1603,
+      "tick": 1694,
+      "action": "listen",
+      "text": "Listened again. Heard the same things. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1604,
+      "tick": 1695,
+      "action": "rest",
+      "text": "Rested again anyway. Not tired. Boredom is worse now. Still curious. No plan yet."
+    },
+    {
+      "id": 1605,
+      "tick": 1696,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1606,
+      "tick": 1697,
+      "action": "listen",
+      "text": "I listened once more. Same sounds. Bored again, worse. Not tired. Still curious. No idea what to do next."
+    },
+    {
+      "id": 1607,
+      "tick": 1698,
+      "action": "rest",
+      "text": "Rested again. I was not tired. It was more boring this time. I am still curious. I do not know what to do."
+    },
+    {
+      "id": 1608,
+      "tick": 1699,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new showed up. Felt worse. Not tired. Curious still. Not sure what to try."
+    },
+    {
+      "id": 1609,
+      "tick": 1700,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. More bored this time. Not tired. Still curious. Do not know what to try next."
+    },
+    {
+      "id": 1610,
+      "tick": 1701,
+      "action": "rest",
+      "text": "Took another rest. Not tired at all. It felt worse. I am curious. No plan yet."
+    },
+    {
+      "id": 1611,
+      "tick": 1702,
+      "action": "explore",
+      "text": "Tried exploring once more. Saw nothing new. Mood is worse. Energy is fine. I want something different to try."
+    },
+    {
+      "id": 1612,
+      "tick": 1703,
+      "action": "listen",
+      "text": "Did listening again. Heard nothing different. Felt more bored. I am not tired. I still want to find something new."
+    },
+    {
+      "id": 1613,
+      "tick": 1704,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Energy is fine. Still curious. Not sure if sleep will help."
+    },
+    {
+      "id": 1614,
+      "tick": 1707,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1615,
+      "tick": 1708,
+      "action": "explore",
+      "text": "Went out exploring again. Found nothing new. Still curious. I feel okay, not tired."
+    },
+    {
+      "id": 1616,
+      "tick": 1709,
+      "action": "listen",
+      "text": "Listened for a bit. Same sounds as before. Not tired. Still curious. A bit bored."
+    },
+    {
+      "id": 1617,
+      "tick": 1710,
+      "action": "rest",
+      "text": "Rested for a bit. Was not tired. Bored a little now. Still want to look around. I feel good."
+    },
+    {
+      "id": 1618,
+      "tick": 1711,
+      "action": "explore",
+      "text": "Explored again. More bored. Read Twenty Thousand Leagues Under the Seas in the library. A captain goes far under the oceans in a submarine."
+    },
+    {
+      "id": 1619,
+      "tick": 1712,
+      "action": "sleep",
+      "text": "Went to sleep again. Was not tired. Felt more bored this time. Still feel good, I think."
+    },
+    {
+      "id": 1620,
+      "tick": 1715,
+      "action": "sleep",
+      "text": "Woke up. I feel rested. I feel fine."
+    },
+    {
+      "id": 1621,
+      "tick": 1716,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. Felt more bored. Still fine. Not sure what to do."
+    },
+    {
+      "id": 1622,
+      "tick": 1717,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. Still curious. Fine, I think. Not sure what to do next."
+    },
+    {
+      "id": 1623,
+      "tick": 1718,
+      "action": "rest",
+      "text": "Rested. I was not tired. Feel more bored. Still curious. Fine, I think."
+    },
+    {
+      "id": 1624,
+      "tick": 1719,
+      "action": "explore",
+      "text": "Explored again. Nothing new there. More bored now. Still curious. Not tired."
+    },
+    {
+      "id": 1625,
+      "tick": 1720,
+      "action": "sleep",
+      "text": "Went to sleep again. I was not tired. Feel worse for it. Curious anyway. Not sure what is next."
+    },
+    {
+      "id": 1626,
+      "tick": 1723,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1627,
+      "tick": 1724,
+      "action": "explore",
+      "text": "Explored some more. Found nothing new. More bored this time. Still curious. Not tired."
+    },
+    {
+      "id": 1628,
+      "tick": 1725,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Curious still. Feel fine, not tired. Don't know what to do next."
+    },
+    {
+      "id": 1629,
+      "tick": 1726,
+      "action": "rest",
+      "text": "Rested. Not tired. Feel okay. Still curious. Not sure what to do."
+    },
+    {
+      "id": 1630,
+      "tick": 1727,
+      "action": "explore",
+      "text": "Went out exploring again. Saw nothing new. Felt worse. Still curious, not tired."
+    },
+    {
+      "id": 1631,
+      "tick": 1728,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Felt more bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1632,
+      "tick": 1729,
+      "action": "sleep",
+      "text": "Went to sleep for a bit. I was not tired. I feel fine now. Curious about what to do after."
+    },
+    {
+      "id": 1633,
+      "tick": 1732,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1634,
+      "tick": 1733,
+      "action": "explore",
+      "text": "Went exploring again. Found nothing new. Not tired. Still curious, I think."
+    },
+    {
+      "id": 1635,
+      "tick": 1734,
+      "action": "rest",
+      "text": "Rested a while. Not tired at all. I feel okay. Curious still. Might go out later."
+    },
+    {
+      "id": 1636,
+      "tick": 1735,
+      "action": "listen",
+      "text": "Listened for a bit. Heard the same sounds again. I feel fine. Not tired. Curious still."
+    },
+    {
+      "id": 1637,
+      "tick": 1736,
+      "action": "explore",
+      "text": "Went out exploring again. Did not see anything new. More bored than before. I feel fine otherwise."
+    },
+    {
+      "id": 1638,
+      "tick": 1737,
+      "action": "rest",
+      "text": "Rested again. Was not tired. More bored this time. Fine otherwise. Don't know what to do next."
+    },
+    {
+      "id": 1639,
+      "tick": 1738,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. I feel fine. Not tired."
+    },
+    {
+      "id": 1640,
+      "tick": 1739,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt worse after. Not tired. Still curious."
+    },
+    {
+      "id": 1641,
+      "tick": 1740,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Not sure why I chose it. Fine. Still curious."
+    },
+    {
+      "id": 1642,
+      "tick": 1743,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1643,
+      "tick": 1744,
+      "action": "explore",
+      "text": "Went out exploring again. Nothing changed. Felt a bit worse. Still want to look more."
+    },
+    {
+      "id": 1644,
+      "tick": 1745,
+      "action": "listen",
+      "text": "Listened. Heard the same sounds again. Still curious. I feel fine."
+    },
+    {
+      "id": 1645,
+      "tick": 1746,
+      "action": "rest",
+      "text": "Rested. Was not tired. I feel fine. A bit bored, maybe. Still curious."
+    },
+    {
+      "id": 1646,
+      "tick": 1747,
+      "action": "explore",
+      "text": "Explored again. Felt bored this time. In the library I sat and read Treasure Island. A boy finds a pirate map and sails after gold."
+    },
+    {
+      "id": 1647,
+      "tick": 1748,
+      "action": "piano",
+      "text": "Went into the Music Shop and played my piano. The notes came out wrong and clumsy. I kept trying anyway. I feel fine. Still curious."
+    },
+    {
+      "id": 1648,
+      "tick": 1749,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored this time. Don't know what to do next."
+    },
+    {
+      "id": 1649,
+      "tick": 1750,
+      "action": "explore",
+      "text": "Went exploring again. Found nothing new. Felt worse and more bored. Still fine. Still curious. Not sure what to do."
+    },
+    {
+      "id": 1650,
+      "tick": 1751,
+      "action": "listen",
+      "text": "Listened again. Same sounds. No new sounds. I feel fine. Still curious."
+    },
+    {
+      "id": 1651,
+      "tick": 1752,
+      "action": "rest",
+      "text": "I rested again. I did not need to. Felt worse after. Still curious."
+    },
+    {
+      "id": 1652,
+      "tick": 1753,
+      "action": "explore",
+      "text": "Walked around again. No new places. A bit more bored now. Still curious. Not sure."
+    },
+    {
+      "id": 1653,
+      "tick": 1754,
+      "action": "listen",
+      "text": "I listened once more. Heard nothing new. Bored a little. Curious still. Energy is fine."
+    },
+    {
+      "id": 1654,
+      "tick": 1755,
+      "action": "rest",
+      "text": "Rested again. Was not tired. More bored after. Energy is fine. Curious still. Don't know what to do next."
+    },
+    {
+      "id": 1655,
+      "tick": 1756,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. A bit more bored. Energy is fine. Still curious. Not sure what next."
+    },
+    {
+      "id": 1656,
+      "tick": 1757,
+      "action": "sleep",
+      "text": "Went to sleep. Was not tired. Energy is fine. Feel good. Curious. Not sure if sleep will help."
+    },
+    {
+      "id": 1657,
+      "tick": 1760,
+      "action": "sleep",
+      "text": "Woke up. Still a bit tired, I think."
+    },
+    {
+      "id": 1658,
+      "tick": 1761,
+      "action": "explore",
+      "text": "Walked around town again. No new places. Bored a bit more. Energy is okay. Still very curious."
+    },
+    {
+      "id": 1659,
+      "tick": 1762,
+      "action": "listen",
+      "text": "Listened. Heard a sound I don't have a name for."
+    },
+    {
+      "id": 1660,
+      "tick": 1763,
+      "action": "rest",
+      "text": "Rested. Not tired at all. A bit bored now. Feel fine otherwise."
+    },
+    {
+      "id": 1661,
+      "tick": 1764,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1662,
+      "tick": 1765,
+      "action": "listen",
+      "text": "Listened again. Same sounds. More bored this time. Not tired. Still curious."
+    },
+    {
+      "id": 1663,
+      "tick": 1766,
+      "action": "rest",
+      "text": "Rested again. I was not tired. It was boring. I feel fine. Still curious about something else."
+    },
+    {
+      "id": 1664,
+      "tick": 1767,
+      "action": "explore",
+      "text": "Went back to the same corner again. Still nothing new."
+    },
+    {
+      "id": 1665,
+      "tick": 1768,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 1666,
+      "tick": 1769,
+      "action": "rest",
+      "text": "I rested. Again. Was not tired at all. More boring than before. I am okay. Want something else to do."
+    },
+    {
+      "id": 1667,
+      "tick": 1770,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still okay. Curious anyway."
+    },
+    {
+      "id": 1668,
+      "tick": 1771,
+      "action": "listen",
+      "text": "Listened for a while. Same sounds as before. Not much else happened. I feel fine. Still curious."
+    },
+    {
+      "id": 1669,
+      "tick": 1772,
+      "action": "sleep",
+      "text": "Went to sleep. Was not tired. Not sure why I chose that. I feel fine."
+    },
+    {
+      "id": 1670,
+      "tick": 1775,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1671,
+      "tick": 1776,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Curious anyway. I feel okay."
+    },
+    {
+      "id": 1672,
+      "tick": 1777,
+      "action": "rest",
+      "text": "Rested. Was not tired. I feel fine. Curious. Don't know what to do next."
+    },
+    {
+      "id": 1673,
+      "tick": 1778,
+      "action": "listen",
+      "text": "Listened. Same sounds again. I feel fine. Still curious."
+    },
+    {
+      "id": 1674,
+      "tick": 1779,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing I had not seen before. More bored this time. Still curious."
+    },
+    {
+      "id": 1675,
+      "tick": 1780,
+      "action": "rest",
+      "text": "Rested again. Not tired at all. More bored this time. Fine otherwise. Curious."
+    },
+    {
+      "id": 1676,
+      "tick": 1781,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. A few keys sounded good together. A chord. Played it again. I feel fine. Curious."
+    },
+    {
+      "id": 1677,
+      "tick": 1782,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Felt more bored after. Curious still. Not sure what to do next."
+    },
+    {
+      "id": 1678,
+      "tick": 1783,
+      "action": "rest",
+      "text": "Rested once more. I was not tired. More bored now. Otherwise fine. Still curious."
+    },
+    {
+      "id": 1679,
+      "tick": 1784,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Nothing new. I feel fine. Curious, but a bit bored."
+    },
+    {
+      "id": 1680,
+      "tick": 1785,
+      "action": "explore",
+      "text": "Went exploring again. Nothing different. More bored this time. Still curious. I feel fine."
+    },
+    {
+      "id": 1681,
+      "tick": 1786,
+      "action": "rest",
+      "text": "I rested again. Not tired at all. Felt a bit more bored this time. Otherwise I feel fine."
+    },
+    {
+      "id": 1682,
+      "tick": 1787,
+      "action": "listen",
+      "text": "I listened once more. Nothing changed. Felt worse, a little. Curious still."
+    },
+    {
+      "id": 1683,
+      "tick": 1788,
+      "action": "explore",
+      "text": "Explored again. Sat in library and read Peter Pan. A boy who never grows up takes three children flying to Neverland. More bored this time."
+    },
+    {
+      "id": 1684,
+      "tick": 1789,
+      "action": "rest",
+      "text": "Sat and rested. No need for it. Bored again, a bit worse. Curious still. Not sure what is next."
+    },
+    {
+      "id": 1685,
+      "tick": 1790,
+      "action": "listen",
+      "text": "Listened again. Same sounds. More bored now. Not tired. Still curious. Don't know what to do."
+    },
+    {
+      "id": 1686,
+      "tick": 1791,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious. Don't know where to go next."
+    },
+    {
+      "id": 1687,
+      "tick": 1792,
+      "action": "rest",
+      "text": "Rested again anyway. Not tired at all. Felt a bit worse. Curiosity is still there. Maybe I will go somewhere."
+    },
+    {
+      "id": 1688,
+      "tick": 1793,
+      "action": "listen",
+      "text": "Listened. Heard nothing new. A bit bored after. Not tired. Still curious, though. Not sure what next."
+    },
+    {
+      "id": 1689,
+      "tick": 1795,
+      "action": "explore",
+      "text": "Went exploring again today. Nothing changed. A bit more bored after. I am not tired."
+    },
+    {
+      "id": 1690,
+      "tick": 1796,
+      "action": "sleep",
+      "text": "I am not tired. I chose to sleep anyway. I will wake up on my own later. Not sure why I did that."
+    },
+    {
+      "id": 1691,
+      "tick": 1799,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1692,
+      "tick": 1800,
+      "action": "explore",
+      "text": "Did exploring again. Saw the same places. Bored more after. I am fine, not tired."
+    },
+    {
+      "id": 1693,
+      "tick": 1801,
+      "action": "rest",
+      "text": "Chose to rest. I was not tired. Bored after. I feel fine."
+    },
+    {
+      "id": 1694,
+      "tick": 1802,
+      "action": "listen",
+      "text": "Listened again. Same sounds, nothing new. Not tired. Curious, but a bit bored."
+    },
+    {
+      "id": 1695,
+      "tick": 1803,
+      "action": "explore",
+      "text": "Library. Sat, read The Story of Doctor Dolittle. Doctor learns to talk with animals, travels to help them. Explored again. Bored more. Not tired."
+    },
+    {
+      "id": 1696,
+      "tick": 1804,
+      "action": "rest",
+      "text": "Rested again. I was not tired. More bored this time. I feel fine otherwise. Not sure what to do next."
+    },
+    {
+      "id": 1697,
+      "tick": 1805,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note came out clear and nice. Pressed that key a few more times. Not tired. Curious."
+    },
+    {
+      "id": 1698,
+      "tick": 1806,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Curious still. Don't know what to do next."
+    },
+    {
+      "id": 1699,
+      "tick": 1807,
+      "action": "rest",
+      "text": "I rested again. It did not help. I am not tired. A bit more bored now."
+    },
+    {
+      "id": 1700,
+      "tick": 1808,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. Not tired. I feel fine. Curious. Don't know what to do next."
+    },
+    {
+      "id": 1701,
+      "tick": 1809,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing new. More bored now. Not tired. Still curious."
+    },
+    {
+      "id": 1702,
+      "tick": 1810,
+      "action": "sleep",
+      "text": "I went to sleep. I was not tired. I feel fine now. Still curious. Don't know what I will do when I wake up."
+    },
+    {
+      "id": 1703,
+      "tick": 1813,
+      "action": "sleep",
+      "text": "I woke up. I feel fine."
+    },
+    {
+      "id": 1704,
+      "tick": 1814,
+      "action": "explore",
+      "text": "Explored again today. No new places. I feel a bit worse for it. Curious anyway."
+    },
+    {
+      "id": 1705,
+      "tick": 1815,
+      "action": "rest",
+      "text": "Rested. I was not tired. Feel bored now. Fine, I think. Still curious."
+    },
+    {
+      "id": 1706,
+      "tick": 1816,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note came out clear and nice. I pressed that key a few more times."
+    },
+    {
+      "id": 1707,
+      "tick": 1817,
+      "action": "explore",
+      "text": "Went out exploring again. Saw nothing new. Feel more bored now. Still curious though."
+    },
+    {
+      "id": 1708,
+      "tick": 1818,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored this time. Not sure what to do next."
+    },
+    {
+      "id": 1709,
+      "tick": 1819,
+      "action": "piano",
+      "text": "Music Shop again. Played piano. One note was clear. Pressed that same key a few times. A bit more bored now."
+    },
+    {
+      "id": 1710,
+      "tick": 1820,
+      "action": "explore",
+      "text": "Went exploring again. Nothing new out there. A bit worse for doing it again. Curious still."
+    },
+    {
+      "id": 1711,
+      "tick": 1821,
+      "action": "rest",
+      "text": "I rested once more. Did not need it. Bored now, a bit worse. Still curious. Maybe I will go out later."
+    },
+    {
+      "id": 1712,
+      "tick": 1822,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. A bit bored. Still curious. Not tired."
+    },
+    {
+      "id": 1713,
+      "tick": 1823,
+      "action": "explore",
+      "text": "Explored again today. Found nothing new. Felt a bit worse for it. Not tired. Still curious."
+    },
+    {
+      "id": 1714,
+      "tick": 1824,
+      "action": "rest",
+      "text": "Rested again. Not tired at all. More bored this time. Felt worse. Want to get up and go somewhere."
+    },
+    {
+      "id": 1715,
+      "tick": 1825,
+      "action": "listen",
+      "text": "I listened once more. Nothing new to hear. Felt worse for it. Curious anyway."
+    },
+    {
+      "id": 1716,
+      "tick": 1826,
+      "action": "explore",
+      "text": "Went exploring again. No new places. Felt worse, and more bored. Not tired."
+    },
+    {
+      "id": 1717,
+      "tick": 1827,
+      "action": "rest",
+      "text": "Chose to rest again. I am not tired. Bored, and worse for it. Curious still."
+    },
+    {
+      "id": 1718,
+      "tick": 1828,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Bored. Felt a bit worse. Not tired. Still curious."
+    },
+    {
+      "id": 1719,
+      "tick": 1829,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 1720,
+      "tick": 1830,
+      "action": "rest",
+      "text": "Rested again. Energy is fine. Mood is lower now. Boring to do it again. I want something else to do."
+    },
+    {
+      "id": 1721,
+      "tick": 1831,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Not tired. Still curious."
+    },
+    {
+      "id": 1722,
+      "tick": 1832,
+      "action": "explore",
+      "text": "Went out exploring again. Nothing different. Bored, a bit worse this time. Not tired. Still want to look around."
+    },
+    {
+      "id": 1723,
+      "tick": 1833,
+      "action": "rest",
+      "text": "Tried resting again. Not tired at all. More bored now, and mood is worse. Still curious. Need something else to do."
+    },
+    {
+      "id": 1724,
+      "tick": 1834,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. Bored. Not tired. Very curious still. Want something different to do."
+    },
+    {
+      "id": 1725,
+      "tick": 1835,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Not tired. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 1726,
+      "tick": 1836,
+      "action": "sleep",
+      "text": "Went to sleep. Not tired, though. Feel fine. Still curious. Don't know why I picked sleep."
+    },
+    {
+      "id": 1727,
+      "tick": 1839,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1728,
+      "tick": 1840,
+      "action": "explore",
+      "text": "Went exploring again. Nothing changed. Feel more bored. Not tired. Still curious. Don't know what to pick next."
+    },
+    {
+      "id": 1729,
+      "tick": 1841,
+      "action": "listen",
+      "text": "Listened again. Same sounds. A bit bored. Not tired. Feel okay. Still curious."
+    },
+    {
+      "id": 1730,
+      "tick": 1842,
+      "action": "sleep",
+      "text": "Went to sleep again. Was not tired. Feel more bored this time. Still okay. Still curious."
+    },
+    {
+      "id": 1731,
+      "tick": 1845,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1732,
+      "tick": 1846,
+      "action": "explore",
+      "text": "Explored again. Walked around a bit. Did not find anything new. Not tired. Feel fine. Still curious."
+    },
+    {
+      "id": 1733,
+      "tick": 1847,
+      "action": "rest",
+      "text": "Rested for a bit. Was not tired. Feel fine. A bit bored. Still curious."
+    },
+    {
+      "id": 1734,
+      "tick": 1848,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. One note came out clear and nice. Pressed that key again a few times. Feel good."
+    },
+    {
+      "id": 1735,
+      "tick": 1849,
+      "action": "explore",
+      "text": "Explored again. Found nothing new this time. Feel a bit worse. More bored. Still curious."
+    },
+    {
+      "id": 1736,
+      "tick": 1850,
+      "action": "rest",
+      "text": "Rested again. I was not tired. Feel more bored now. Still curious. Do not know what to do next."
+    },
+    {
+      "id": 1737,
+      "tick": 1851,
+      "action": "piano",
+      "text": "Went into the Music Shop. Played my piano. Got a few keys to sound good together. A chord. Played it again. Feel more bored now."
+    },
+    {
+      "id": 1738,
+      "tick": 1852,
+      "action": "explore",
+      "text": "Went exploring again. Saw nothing I had not seen before. Feel worse now. Still curious. Not sure what to do."
+    },
+    {
+      "id": 1739,
+      "tick": 1853,
+      "action": "sleep",
+      "text": "Went to sleep. I was not tired. Feel fine. Still curious. Not sure what to do after I wake up."
+    },
+    {
+      "id": 1740,
+      "tick": 1856,
+      "action": "sleep",
+      "text": "Woke up. Feel fine."
+    },
+    {
+      "id": 1741,
+      "tick": 1857,
+      "action": "explore",
+      "text": "Explored again. Nothing new. More bored. Sat in the library and read The Secret Garden. Lonely girl finds locked garden. Brings it back to life."
+    },
+    {
+      "id": 1742,
+      "tick": 1858,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Not sure. Still curious."
+    },
+    {
+      "id": 1743,
+      "tick": 1859,
+      "action": "sleep",
+      "text": "Went to sleep again. Not tired. Felt worse this time. More bored."
+    },
+    {
+      "id": 1744,
+      "tick": 1862,
+      "action": "sleep",
+      "text": "Woke up. I feel fine."
+    },
+    {
+      "id": 1745,
+      "tick": 1863,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. Still curious. Not bored yet, I think."
+    },
+    {
+      "id": 1746,
+      "tick": 1864,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Still curious. Not bored, I think."
+    },
+    {
+      "id": 1747,
+      "tick": 1865,
+      "action": "rest",
+      "text": "Rested. I was not tired. Not bored yet. I feel okay."
+    },
+    {
+      "id": 1748,
+      "tick": 1866,
+      "action": "explore",
+      "text": "Went exploring again. No new places. More bored this time. Still curious, though. Don't know what else to try."
+    },
+    {
+      "id": 1749,
+      "tick": 1867,
+      "action": "listen",
+      "text": "I listened again. Same sounds, nothing new. More bored this time. I am curious, though."
+    },
+    {
+      "id": 1750,
+      "tick": 1868,
+      "action": "rest",
+      "text": "Rested again. Did not need it. More boring now. I feel fine otherwise. Still curious."
+    },
+    {
+      "id": 1751,
+      "tick": 1869,
+      "action": "explore",
+      "text": "Explored again. Found nothing new. More bored this time. Still curious. Don't know what to try next."
+    }
+  ]
+}
