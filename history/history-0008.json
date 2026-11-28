@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3586,
+  "total": 3587,
   "entries": [
     {
       "id": 3501,
@@ -518,6 +518,12 @@
       "tick": 4057,
       "action": "computer",
       "text": "Sat in the chair at my desk. Used the computer again. Looked up saving things. My computer can save things I make. What I save stays saved. I remembered that already. More bored. Felt worse a bit. Not tired. Good."
+    },
+    {
+      "id": 3587,
+      "tick": 4058,
+      "action": "rest",
+      "text": "Picked rest again. I did not need it. Bored afterwards. A little worse. Good and glad still. Very curious."
     }
   ]
 }
