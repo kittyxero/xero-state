@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3635,
+  "total": 3636,
   "entries": [
     {
       "id": 3252,
@@ -2384,6 +2384,12 @@
       "tick": 4127,
       "action": "piano",
       "text": "Went into the Music Shop today. The bell jingled. I played my piano. The notes were wrong. Clumsy too. I kept pressing the keys. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3649,
+      "tick": 4128,
+      "action": "computer",
+      "text": "Used the computer in my apartment. Sat in the chair at the desk. Looked up the Eiffel Tower again. It grows a little taller in the summer heat. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ]
 }
