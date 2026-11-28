@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T13:23:40.922Z",
-  "tick": 4206,
+  "publishedAt": "2026-11-28T13:28:40.952Z",
+  "tick": 4207,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "Went to sleep again. Will wake up on my own after a while. Felt worse for doing it again. Not tired. Good. Glad. Very curious.",
+  "lastAction": "piano",
+  "latestText": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 75,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 81,
+    "joy": 100,
+    "wonder": 93,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 4207,
+      "action": "piano",
+      "text": "Went into the Music Shop. The bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4203,
       "action": "sleep",
@@ -32,14 +37,9 @@
       "tick": 4200,
       "action": "rest",
       "text": "Rested. Was not tired. Bored a bit now. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4199,
-      "action": "explore",
-      "text": "Explored again. Felt worse. Read Rinkitink in Oz in the library. Inga sails to save parents with Rinkitink and a talking goat. Used the computer. Remembered sound is slower than light so thunder comes after lightning."
     }
   ],
-  "pianoTakesCount": 241,
+  "pianoTakesCount": 242,
   "pianoTakes": [
     {
       "id": 1,
@@ -27629,6 +27629,157 @@
         {
           "n": 60,
           "dtMs": 30236
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "tick": 4207,
+      "startedAtISO": "2026-11-28T13:24:02.843Z",
+      "durationMs": 35774,
+      "outcome": "chord",
+      "playNumber": 414,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 61,
+          "dtMs": 0
+        },
+        {
+          "n": 61,
+          "dtMs": 1200
+        },
+        {
+          "n": 66,
+          "dtMs": 2744
+        },
+        {
+          "n": 66,
+          "dtMs": 4226
+        },
+        {
+          "n": 69,
+          "dtMs": 5710
+        },
+        {
+          "n": 69,
+          "dtMs": 6766
+        },
+        {
+          "n": 74,
+          "dtMs": 8202
+        },
+        {
+          "n": 74,
+          "dtMs": 9286
+        },
+        {
+          "n": 53,
+          "dtMs": 10592
+        },
+        {
+          "n": 57,
+          "dtMs": 10592
+        },
+        {
+          "n": 60,
+          "dtMs": 10592
+        },
+        {
+          "n": 53,
+          "dtMs": 12834
+        },
+        {
+          "n": 57,
+          "dtMs": 12834
+        },
+        {
+          "n": 60,
+          "dtMs": 12834
+        },
+        {
+          "n": 61,
+          "dtMs": 14532
+        },
+        {
+          "n": 57,
+          "dtMs": 15996
+        },
+        {
+          "n": 57,
+          "dtMs": 17194
+        },
+        {
+          "n": 59,
+          "dtMs": 18690
+        },
+        {
+          "n": 59,
+          "dtMs": 19800
+        },
+        {
+          "n": 59,
+          "dtMs": 21386
+        },
+        {
+          "n": 59,
+          "dtMs": 22432
+        },
+        {
+          "n": 72,
+          "dtMs": 23718
+        },
+        {
+          "n": 76,
+          "dtMs": 24558
+        },
+        {
+          "n": 79,
+          "dtMs": 25398
+        },
+        {
+          "n": 76,
+          "dtMs": 26238
+        },
+        {
+          "n": 72,
+          "dtMs": 27078
+        },
+        {
+          "n": 69,
+          "dtMs": 27918
+        },
+        {
+          "n": 67,
+          "dtMs": 28758
+        },
+        {
+          "n": 64,
+          "dtMs": 29598
+        },
+        {
+          "n": 53,
+          "dtMs": 31932
+        },
+        {
+          "n": 57,
+          "dtMs": 31932
+        },
+        {
+          "n": 60,
+          "dtMs": 31932
+        },
+        {
+          "n": 53,
+          "dtMs": 34174
+        },
+        {
+          "n": 57,
+          "dtMs": 34174
+        },
+        {
+          "n": 60,
+          "dtMs": 34174
         }
       ]
     }
