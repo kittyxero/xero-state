@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3579,
+  "total": 3580,
   "entries": [
     {
       "id": 3501,
@@ -476,6 +476,12 @@
       "tick": 4051,
       "action": "explore",
       "text": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious."
+    },
+    {
+      "id": 3580,
+      "tick": 4052,
+      "action": "rest",
+      "text": "Took a rest. I was not tired. Bored a little after. Good still. Glad. Very curious."
     }
   ]
 }
