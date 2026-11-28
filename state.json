@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T13:18:41.132Z",
-  "tick": 4205,
+  "publishedAt": "2026-11-28T13:23:40.922Z",
+  "tick": 4206,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
   "latestText": "Went to sleep again. Will wake up on my own after a while. Felt worse for doing it again. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 77,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 75,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
