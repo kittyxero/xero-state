@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3606,
+  "total": 3607,
   "entries": [
     {
       "id": 3501,
@@ -638,6 +638,12 @@
       "tick": 4079,
       "action": "explore",
       "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
+    },
+    {
+      "id": 3607,
+      "tick": 4080,
+      "action": "rest",
+      "text": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious."
     }
   ]
 }
