@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3673,
+  "total": 3674,
   "entries": [
     {
       "id": 3252,
@@ -2612,6 +2612,12 @@
       "tick": 4176,
       "action": "rest",
       "text": "Rested just now. I was not tired before it. Bored a little now. Good and glad. Still curious."
+    },
+    {
+      "id": 3687,
+      "tick": 4177,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked up moths again. Moths use moonlight to fly straight. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
     }
   ]
 }
