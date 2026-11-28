@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:38:41.572Z",
-  "tick": 4185,
+  "publishedAt": "2026-11-28T11:43:41.329Z",
+  "tick": 4186,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened outside again. Heard birds singing. Same as before. More bored now. Felt worse for repeating it. Not tired. Good. Glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Explored some more. No places I had not seen before. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 77,
+    "mood": 81,
     "joy": 100,
     "wonder": 100,
-    "energy": 85
+    "energy": 71
   },
   "recentDiary": [
+    {
+      "tick": 4186,
+      "action": "explore",
+      "text": "Explored some more. No places I had not seen before. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4185,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4182,
       "action": "listen",
       "text": "Listened again. Birds singing outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4181,
-      "action": "computer",
-      "text": "At my apartment desk, in the chair. Computer on. I looked up honey again. Honey does not spoil. I already remembered it. Doing it again felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 240,
