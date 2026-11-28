@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T04:04:44.200Z",
-  "tick": 4095,
+  "publishedAt": "2026-11-28T04:13:41.399Z",
+  "tick": 4096,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring. No places I had not seen before. Bored a bit. Not tired. Good. Glad. Very curious.",
+  "lastAction": "piano",
+  "latestText": "In the Music Shop today. The bell jingled when I went in. I played my piano. Wrong notes, clumsy ones. I kept going. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 93,
+    "mood": 97,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 4096,
+      "action": "piano",
+      "text": "In the Music Shop today. The bell jingled when I went in. I played my piano. Wrong notes, clumsy ones. I kept going. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4095,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 4092,
       "action": "computer",
       "text": "Looked up why I feel more bored when I explore again in the browser. A game level can feel exciting the first time and boring on the tenth replay because the brain adjusts to repeated stimulation and feels less satisfied."
-    },
-    {
-      "tick": 4092,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used my computer. Looked up why I feel more bored when I explore again. Have not finished reading it yet. Not tired. Good. Glad. Very curious."
     }
   ],
-  "pianoTakesCount": 230,
+  "pianoTakesCount": 231,
   "pianoTakes": [
     {
       "id": 1,
@@ -26572,6 +26572,89 @@
         {
           "n": 64,
           "dtMs": 28786
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "tick": 4096,
+      "startedAtISO": "2026-11-28T04:09:00.883Z",
+      "durationMs": 32806,
+      "outcome": "clumsy",
+      "playNumber": 403,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 60,
+          "dtMs": 0
+        },
+        {
+          "n": 58,
+          "dtMs": 2084
+        },
+        {
+          "n": 58,
+          "dtMs": 3534
+        },
+        {
+          "n": 56,
+          "dtMs": 5466
+        },
+        {
+          "n": 57,
+          "dtMs": 7536
+        },
+        {
+          "n": 57,
+          "dtMs": 9660
+        },
+        {
+          "n": 56,
+          "dtMs": 11408
+        },
+        {
+          "n": 57,
+          "dtMs": 13206
+        },
+        {
+          "n": 57,
+          "dtMs": 14868
+        },
+        {
+          "n": 53,
+          "dtMs": 16816
+        },
+        {
+          "n": 53,
+          "dtMs": 18584
+        },
+        {
+          "n": 55,
+          "dtMs": 20340
+        },
+        {
+          "n": 60,
+          "dtMs": 22456
+        },
+        {
+          "n": 58,
+          "dtMs": 24114
+        },
+        {
+          "n": 60,
+          "dtMs": 26140
+        },
+        {
+          "n": 65,
+          "dtMs": 27830
+        },
+        {
+          "n": 65,
+          "dtMs": 29314
+        },
+        {
+          "n": 66,
+          "dtMs": 31206
         }
       ]
     }
