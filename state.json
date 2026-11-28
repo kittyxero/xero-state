@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:38:41.401Z",
-  "tick": 4161,
+  "publishedAt": "2026-11-28T09:43:41.264Z",
+  "tick": 4162,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went in the art studio. Used the computer there. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. I remembered it already. Felt a bit worse. Not tired. Good. Glad. Curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Decided to sleep. Not tired at all, but sleeping anyway. I will wake on my own later. Feel good. Glad. Very curious still.",
   "feelings": {
-    "mood": 78,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 80,
+    "joy": 98,
+    "wonder": 97,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4162,
+      "action": "sleep",
+      "text": "Decided to sleep. Not tired at all, but sleeping anyway. I will wake on my own later. Feel good. Glad. Very curious still."
+    },
     {
       "tick": 4161,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4158,
       "action": "explore",
       "text": "Went in the art studio. Used the computer on the small table. Looked up spaghetti again. One single strand of spaghetti is called a spaghetto. I remembered that already. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4157,
-      "action": "rest",
-      "text": "Had another rest. Did not need one. Bored more after it. Felt a bit worse. Fine otherwise. Glad. Still very curious."
     }
   ],
   "pianoTakesCount": 239,
