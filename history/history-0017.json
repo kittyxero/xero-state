@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3657,
+  "total": 3658,
   "entries": [
     {
       "id": 3252,
@@ -2516,6 +2516,12 @@
       "tick": 4156,
       "action": "piano",
       "text": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3671,
+      "tick": 4157,
+      "action": "rest",
+      "text": "Had another rest. Did not need one. Bored more after it. Felt a bit worse. Fine otherwise. Glad. Still very curious."
     }
   ]
 }
