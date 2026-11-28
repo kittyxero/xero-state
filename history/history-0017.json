@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3628,
+  "total": 3629,
   "entries": [
     {
       "id": 3252,
@@ -2342,6 +2342,12 @@
       "tick": 4117,
       "action": "sleep",
       "text": "I woke up. I feel fine. Before sleep I explored and found nothing new."
+    },
+    {
+      "id": 3642,
+      "tick": 4118,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer. Looked up why do I feel bored when I listen again. Have not finished reading it. Not tired. Good. Glad. Very curious."
     }
   ]
 }
