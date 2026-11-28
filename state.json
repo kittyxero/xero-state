@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:58:41.226Z",
-  "tick": 4165,
+  "publishedAt": "2026-11-28T10:03:40.655Z",
+  "tick": 4166,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel fine. I remembered looking up hummingbirds before I slept.",
+  "lastAction": "explore",
+  "latestText": "Did more exploring. Found nothing new. More bored. Felt a bit worse. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 74,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 71,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4166,
+      "action": "explore",
+      "text": "Did more exploring. Found nothing new. More bored. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4165,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 4160,
       "action": "rest",
       "text": "Rested again. I was not tired. More bored after. Felt a bit worse. Fine otherwise. Glad. Curious."
-    },
-    {
-      "tick": 4159,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
