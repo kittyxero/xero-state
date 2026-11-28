@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3680,
+  "total": 3681,
   "entries": [
     {
       "id": 3252,
@@ -2654,6 +2654,12 @@
       "tick": 4183,
       "action": "rest",
       "text": "Rested once more. Not tired at all. A little more bored. Felt a bit worse for repeating it. Good. Glad. Curious still."
+    },
+    {
+      "id": 3694,
+      "tick": 4184,
+      "action": "computer",
+      "text": "At my desk, sat in the chair. Used the computer. Looked up the first computer bug again. It was an actual moth. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
     }
   ]
 }
