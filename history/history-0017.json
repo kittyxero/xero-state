@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3620,
+  "total": 3621,
   "entries": [
     {
       "id": 3252,
@@ -2294,6 +2294,12 @@
       "tick": 4107,
       "action": "explore",
       "text": "Did exploring again. No new places. Bored again, a bit worse. Not tired. Mood good. Glad. Curious."
+    },
+    {
+      "id": 3634,
+      "tick": 4108,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ]
 }
