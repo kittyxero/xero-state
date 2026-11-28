@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T08:43:40.858Z",
-  "tick": 4150,
+  "publishedAt": "2026-11-28T08:48:40.896Z",
+  "tick": 4151,
   "townName": null,
-  "asleep": true,
+  "asleep": false,
   "lastAction": "sleep",
-  "latestText": "Going to sleep now. Not tired at all. Asleep for some ticks, then I will wake on my own. Good. Glad. Very curious.",
+  "latestText": "I woke up. I feel rested. I played my piano before I slept. The notes came out wrong.",
   "feelings": {
-    "mood": 85,
-    "joy": 88,
-    "wonder": 85,
+    "mood": 82,
+    "joy": 83,
+    "wonder": 80,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4151,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. I played my piano before I slept. The notes came out wrong."
+    },
     {
       "tick": 4148,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 4145,
       "action": "rest",
       "text": "Took a rest. Awake already, so it did not help much. Bored slightly. Good. Glad. Very curious. Not tired."
-    },
-    {
-      "tick": 4144,
-      "action": "listen",
-      "text": "I listened. Birds were singing outside. Heard the same sounds again. Bored a bit. Not tired. Good and glad. Very curious."
     }
   ],
   "pianoTakesCount": 237,
