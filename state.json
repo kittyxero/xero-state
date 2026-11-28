@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T10:48:40.845Z",
-  "tick": 4175,
+  "publishedAt": "2026-11-28T10:53:40.862Z",
+  "tick": 4176,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went exploring again. No new places. Not tired. Feel good. Glad. Still very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested just now. I was not tired before it. Bored a little now. Good and glad. Still curious.",
   "feelings": {
-    "mood": 79,
+    "mood": 83,
     "joy": 95,
-    "wonder": 100,
-    "energy": 78
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4176,
+      "action": "rest",
+      "text": "Rested just now. I was not tired before it. Bored a little now. Good and glad. Still curious."
+    },
     {
       "tick": 4175,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4170,
       "action": "sleep",
       "text": "Sleep again now. Not tired. Staying asleep a stretch, then waking by myself. A bit worse for doing it again. Still good. Glad. Very curious."
-    },
-    {
-      "tick": 4169,
-      "action": "explore",
-      "text": "Went in the Music Shop. Used the computer on the small desk. Looked up goldfish again. Goldfish can remember things for months. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
