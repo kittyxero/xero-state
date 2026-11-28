@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T05:08:40.517Z",
-  "tick": 4107,
+  "publishedAt": "2026-11-28T05:13:40.894Z",
+  "tick": 4108,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Did exploring again. No new places. Bored again, a bit worse. Not tired. Mood good. Glad. Curious.",
+  "lastAction": "piano",
+  "latestText": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 83,
+    "mood": 80,
     "joy": 100,
     "wonder": 100,
-    "energy": 86
+    "energy": 77
   },
   "recentDiary": [
+    {
+      "tick": 4108,
+      "action": "piano",
+      "text": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4107,
       "action": "explore",
@@ -32,14 +37,9 @@
       "tick": 4104,
       "action": "computer",
       "text": "Sat in chair at desk. Used computer again. Looked up hot water. Hot water can sometimes freeze faster than cold water. I remembered that. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4103,
-      "action": "rest",
-      "text": "Rested again just now. I was not tired. It was more boring this time. Felt a bit worse. Still good. Still glad. Curious."
     }
   ],
-  "pianoTakesCount": 232,
+  "pianoTakesCount": 233,
   "pianoTakes": [
     {
       "id": 1,
@@ -26734,6 +26734,109 @@
         {
           "n": 55,
           "dtMs": 28342
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "tick": 4108,
+      "startedAtISO": "2026-11-28T05:09:02.325Z",
+      "durationMs": 29960,
+      "outcome": "note",
+      "playNumber": 405,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 62,
+          "dtMs": 0
+        },
+        {
+          "n": 63,
+          "dtMs": 1574
+        },
+        {
+          "n": 59,
+          "dtMs": 3352
+        },
+        {
+          "n": 59,
+          "dtMs": 4510
+        },
+        {
+          "n": 58,
+          "dtMs": 5980
+        },
+        {
+          "n": 59,
+          "dtMs": 7752
+        },
+        {
+          "n": 58,
+          "dtMs": 9370
+        },
+        {
+          "n": 65,
+          "dtMs": 10788
+        },
+        {
+          "n": 65,
+          "dtMs": 11872
+        },
+        {
+          "n": 65,
+          "dtMs": 12970
+        },
+        {
+          "n": 65,
+          "dtMs": 14174
+        },
+        {
+          "n": 57,
+          "dtMs": 16234
+        },
+        {
+          "n": 57,
+          "dtMs": 17640
+        },
+        {
+          "n": 58,
+          "dtMs": 19132
+        },
+        {
+          "n": 59,
+          "dtMs": 20774
+        },
+        {
+          "n": 65,
+          "dtMs": 22480
+        },
+        {
+          "n": 69,
+          "dtMs": 23320
+        },
+        {
+          "n": 72,
+          "dtMs": 24160
+        },
+        {
+          "n": 69,
+          "dtMs": 25000
+        },
+        {
+          "n": 67,
+          "dtMs": 25840
+        },
+        {
+          "n": 64,
+          "dtMs": 26680
+        },
+        {
+          "n": 62,
+          "dtMs": 27520
+        },
+        {
+          "n": 60,
+          "dtMs": 28360
         }
       ]
     }
