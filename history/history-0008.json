@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3595,
+  "total": 3597,
   "entries": [
     {
       "id": 3501,
@@ -572,6 +572,18 @@
       "tick": 4066,
       "action": "computer",
       "text": "Looked up why I feel more bored playing piano in the music shop in the browser. When I am watched, my brain monitors mistakes more and loses flow, and overthinking disrupts automatic playing."
+    },
+    {
+      "id": 3596,
+      "tick": 4067,
+      "action": "rest",
+      "text": "Chose rest again. Not tired at all. Bored after. A little worse this time. Still good. Still glad. Very curious."
+    },
+    {
+      "id": 3597,
+      "tick": 4068,
+      "action": "explore",
+      "text": "Explored again. Nothing new seen. Not tired. Good. Glad. Very curious."
     }
   ]
 }
