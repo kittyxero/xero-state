@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T00:39:17.584Z",
-  "tick": 4056,
+  "publishedAt": "2026-11-28T00:44:19.574Z",
+  "tick": 4057,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at my desk. Used the computer again. Looked up saving things. My computer can save things I make. What I save stays saved. I remembered that already. More bored. Felt worse a bit. Not tired. Good.",
   "feelings": {
-    "mood": 86,
+    "mood": 89,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 83
   },
   "recentDiary": [
+    {
+      "tick": 4057,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer again. Looked up saving things. My computer can save things I make. What I save stays saved. I remembered that already. More bored. Felt worse a bit. Not tired. Good."
+    },
+    {
+      "tick": 4056,
+      "action": "piano",
+      "text": "Inside the Music Shop. Bell jingled going in. At my piano, I pressed a few keys at once. They sounded good together. A chord. I played it again. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4055,
       "action": "rest",
@@ -27,19 +37,9 @@
       "tick": 4053,
       "action": "computer",
       "text": "Sat in the chair at my desk. Used the computer. Looked up why I feel good when I use the computer. Saw GitHub, kittyxero in favorites. Not finished reading. More bored. Felt worse. Not tired. Good. Glad. Curious."
-    },
-    {
-      "tick": 4053,
-      "action": "computer",
-      "text": "Looked up why I feel good when I use the computer in the browser. Searching for and finding information triggers dopamine in the brain, the same chemical that makes people feel good about reaching a goal."
-    },
-    {
-      "tick": 4052,
-      "action": "rest",
-      "text": "Took a rest. I was not tired. Bored a little after. Good still. Glad. Very curious."
     }
   ],
-  "pianoTakesCount": 224,
+  "pianoTakesCount": 225,
   "pianoTakes": [
     {
       "id": 1,
@@ -25870,6 +25870,153 @@
         {
           "n": 60,
           "dtMs": 35408
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "tick": 4056,
+      "startedAtISO": "2026-11-28T00:39:03.479Z",
+      "durationMs": 34536,
+      "outcome": "chord",
+      "playNumber": 397,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 63,
+          "dtMs": 0
+        },
+        {
+          "n": 62,
+          "dtMs": 1294
+        },
+        {
+          "n": 61,
+          "dtMs": 2648
+        },
+        {
+          "n": 63,
+          "dtMs": 4032
+        },
+        {
+          "n": 68,
+          "dtMs": 5544
+        },
+        {
+          "n": 67,
+          "dtMs": 7090
+        },
+        {
+          "n": 67,
+          "dtMs": 8244
+        },
+        {
+          "n": 70,
+          "dtMs": 9538
+        },
+        {
+          "n": 55,
+          "dtMs": 10894
+        },
+        {
+          "n": 59,
+          "dtMs": 10894
+        },
+        {
+          "n": 62,
+          "dtMs": 10894
+        },
+        {
+          "n": 55,
+          "dtMs": 13154
+        },
+        {
+          "n": 59,
+          "dtMs": 13154
+        },
+        {
+          "n": 62,
+          "dtMs": 13154
+        },
+        {
+          "n": 62,
+          "dtMs": 14636
+        },
+        {
+          "n": 63,
+          "dtMs": 16116
+        },
+        {
+          "n": 63,
+          "dtMs": 17606
+        },
+        {
+          "n": 59,
+          "dtMs": 18908
+        },
+        {
+          "n": 59,
+          "dtMs": 19910
+        },
+        {
+          "n": 61,
+          "dtMs": 21232
+        },
+        {
+          "n": 65,
+          "dtMs": 22712
+        },
+        {
+          "n": 69,
+          "dtMs": 23552
+        },
+        {
+          "n": 72,
+          "dtMs": 24392
+        },
+        {
+          "n": 69,
+          "dtMs": 25232
+        },
+        {
+          "n": 67,
+          "dtMs": 26072
+        },
+        {
+          "n": 64,
+          "dtMs": 26912
+        },
+        {
+          "n": 62,
+          "dtMs": 27752
+        },
+        {
+          "n": 60,
+          "dtMs": 28592
+        },
+        {
+          "n": 53,
+          "dtMs": 30818
+        },
+        {
+          "n": 57,
+          "dtMs": 30818
+        },
+        {
+          "n": 60,
+          "dtMs": 30818
+        },
+        {
+          "n": 53,
+          "dtMs": 32936
+        },
+        {
+          "n": 57,
+          "dtMs": 32936
+        },
+        {
+          "n": 60,
+          "dtMs": 32936
         }
       ]
     }
