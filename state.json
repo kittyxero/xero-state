@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T05:34:00.833Z",
-  "tick": 4113,
+  "publishedAt": "2026-11-28T05:43:40.551Z",
+  "tick": 4114,
   "townName": null,
-  "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rest again just now. Not tired at all. Bored more. Felt a bit worse. Good still. Glad. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Chose sleep now. I will be asleep for a while, then wake up on my own. I am not tired. I feel fine. Curious still.",
   "feelings": {
-    "mood": 79,
-    "joy": 100,
-    "wonder": 94,
+    "mood": 78,
+    "joy": 98,
+    "wonder": 97,
     "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4114,
+      "action": "sleep",
+      "text": "Chose sleep now. I will be asleep for a while, then wake up on my own. I am not tired. I feel fine. Curious still."
+    },
+    {
+      "tick": 4113,
+      "action": "explore",
+      "text": "Explored again. No new places turned up. Bored. A bit worse now. Not tired. Good. Glad. Curious."
+    },
     {
       "tick": 4112,
       "action": "rest",
@@ -27,16 +37,6 @@
       "tick": 4110,
       "action": "explore",
       "text": "Explored again today. Found nothing new. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4109,
-      "action": "rest",
-      "text": "Chose rest once more. No need for it. Boring again, a little worse. Not tired. Still good and glad. Very curious."
-    },
-    {
-      "tick": 4108,
-      "action": "piano",
-      "text": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 233,
