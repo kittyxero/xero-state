@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T10:43:40.922Z",
-  "tick": 4174,
+  "publishedAt": "2026-11-28T10:48:40.845Z",
+  "tick": 4175,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "At my desk in the chair. Computer on. Looked up piano keys again. A piano has 88 keys. I remembered that already. Not tired. Feel good. Glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went exploring again. No new places. Not tired. Feel good. Glad. Still very curious.",
   "feelings": {
-    "mood": 74,
-    "joy": 89,
-    "wonder": 93,
-    "energy": 92
+    "mood": 79,
+    "joy": 95,
+    "wonder": 100,
+    "energy": 78
   },
   "recentDiary": [
+    {
+      "tick": 4175,
+      "action": "explore",
+      "text": "Went exploring again. No new places. Not tired. Feel good. Glad. Still very curious."
+    },
     {
       "tick": 4174,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4169,
       "action": "explore",
       "text": "Went in the Music Shop. Used the computer on the small desk. Looked up goldfish again. Goldfish can remember things for months. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4168,
-      "action": "rest",
-      "text": "Had a rest just now. Did not need it. A bit more bored after. Otherwise good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
