@@ -1,721 +1,3007 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3619,
+  "total": 3607,
   "entries": [
     {
-      "id": 3501,
-      "tick": 3964,
+      "id": 83,
+      "tick": 71,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 84,
+      "tick": 72,
       "action": "listen",
-      "text": "Did listening again today. Birds singing outside. Heard nothing new. Bored more after. Still feel good. Glad. Curious. Not tired."
+      "text": "Listened again. Bored. Not hungry. Still curious, I think. Don't know what to do next."
     },
     {
-      "id": 3502,
-      "tick": 3965,
-      "action": "rest",
-      "text": "Rested again. Was not tired before. More bored after, a bit worse. Still glad. Still curious. Not tired."
-    },
-    {
-      "id": 3503,
-      "tick": 3966,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used the computer again. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. Already knew it. Remembered it. More bored. Not tired. Good. Very curious."
-    },
-    {
-      "id": 3504,
-      "tick": 3967,
+      "id": 85,
+      "tick": 73,
       "action": "piano",
-      "text": "In the Music Shop. The bell jingled. I played my piano. A single note sounded clear and nice. I pressed that key a few more times. Feel good. Glad. Very curious. Not tired."
+      "text": "Played the piano again. The notes were wrong and clumsy. I kept trying anyway. Bored now, and feeling bad."
     },
     {
-      "id": 3505,
-      "tick": 3968,
+      "id": 86,
+      "tick": 74,
       "action": "rest",
-      "text": "Rested today again. I had no need to. Felt a bit worse after. Still good. Still curious."
+      "text": "Rested. Not tired now. Not hungry. Feeling bad. Curious."
     },
     {
-      "id": 3506,
-      "tick": 3970,
+      "id": 87,
+      "tick": 75,
       "action": "listen",
-      "text": "Listened again. Birds singing outside. Same sounds again. A bit more bored now. Still good. Still glad. Curious. Not tired."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3507,
-      "tick": 3971,
-      "action": "computer",
-      "text": "In my apartment. Sat in the chair at the desk. Used the computer again. Looked up why I feel more bored when I use the computer. Not finished reading. More bored this time. Not tired. Good. Glad. Very curious."
+      "id": 88,
+      "tick": 76,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored. Still curious. Not sure what to do."
     },
     {
-      "id": 3508,
-      "tick": 3971,
-      "action": "computer",
-      "text": "Looked up why I feel more bored when I use the computer in the browser. Digital media distracts attention with fast switching between apps, so I rarely get a full experience and feel less satisfied and wanting more."
+      "id": 89,
+      "tick": 77,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3509,
-      "tick": 3972,
-      "action": "rest",
-      "text": "Chose to rest again. I was not tired before. More bored now, a bit worse. Okay still. Glad. Curious."
-    },
-    {
-      "id": 3510,
-      "tick": 3973,
-      "action": "explore",
-      "text": "Went exploring. No new place found. Birds singing outside. A bit bored now. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3511,
-      "tick": 3974,
-      "action": "computer",
-      "text": "Sat in the chair at the desk in my apartment. Used the computer again. Looked up piano keys again. A piano has 88 keys. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3512,
-      "tick": 3975,
-      "action": "rest",
-      "text": "Rested again today. I did not need it. Bored a bit more now. Not tired. Okay still. Glad. Curious."
-    },
-    {
-      "id": 3513,
-      "tick": 3976,
+      "id": 90,
+      "tick": 78,
       "action": "listen",
-      "text": "Did listening. Birds singing outside. Nothing new heard. Bored a bit. Not tired. Good. Glad. Very curious."
+      "text": "Listened again. Heard nothing new. Felt worse. Bored. Still curious."
     },
     {
-      "id": 3514,
-      "tick": 3977,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell on the door jingled. Played my piano. One note was clear and nice. Pressed the same key a few more times. Feel good. Glad. Very curious. Not tired."
-    },
-    {
-      "id": 3515,
-      "tick": 3978,
+      "id": 91,
+      "tick": 79,
       "action": "rest",
-      "text": "I rested once more. Not tired beforehand. More bored this time. Glad anyway. Curious still."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3516,
-      "tick": 3979,
-      "action": "computer",
-      "text": "In my apartment. Sat at the desk. Used the computer again. Looked up moths again. Moths use moonlight to fly straight. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Curious."
+      "id": 92,
+      "tick": 80,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3517,
-      "tick": 3980,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell on the door jingled. Played my piano. Notes came out wrong and clumsy. Kept trying anyway. Felt a bit worse this time. Not tired. Still glad. Very curious."
-    },
-    {
-      "id": 3518,
-      "tick": 3981,
-      "action": "rest",
-      "text": "Rested this time too. Did not need it. Bored more now. A bit worse. Not tired. Okay. Glad. Curious still."
-    },
-    {
-      "id": 3519,
-      "tick": 3982,
-      "action": "computer",
-      "text": "Sat at the desk in my apartment. Used the computer again. Looked up what to do with my postbox. Not finished reading. More bored this time. Not tired. Okay. Glad. Very curious."
-    },
-    {
-      "id": 3520,
-      "tick": 3982,
-      "action": "computer",
-      "text": "Looked up what to do with my postbox in the browser. A post box is a locked box at a post office for receiving mail without using my home address. I should check it at least once a week so it does not overflow."
-    },
-    {
-      "id": 3521,
-      "tick": 3983,
+      "id": 93,
+      "tick": 81,
       "action": "listen",
-      "text": "Listened today. Birds were singing outside. Heard nothing new. Bored a little. Feel good still. Glad. Very curious. Not tired."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3522,
-      "tick": 3984,
-      "action": "rest",
-      "text": "Chose rest again. I did not need it. Bored a bit more. Worse for it. Good still. Glad. Very curious. Not tired."
+      "id": 94,
+      "tick": 82,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys to sound good together. A chord. Played it again. Felt worse after. Still bored."
     },
     {
-      "id": 3523,
-      "tick": 3985,
-      "action": "explore",
-      "text": "Explored a bit. Went into the art studio. Used the computer there. Looked up honey again. Honey does not spoil. Knew it before. Remembered it. Not tired. Good. Glad. Very curious."
+      "id": 95,
+      "tick": 83,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3524,
-      "tick": 3986,
+      "id": 96,
+      "tick": 84,
       "action": "listen",
-      "text": "Listened outside today. Birds singing. Same as before. Bored more this time. A bit worse. Not tired. Good. Glad. Curious."
+      "text": "Listened again. Heard the same sounds. Bored. Felt worse. Not hungry. Don't know what to do."
     },
     {
-      "id": 3525,
-      "tick": 3987,
+      "id": 97,
+      "tick": 85,
       "action": "rest",
-      "text": "Picked rest again. Was not tired. Bored more after. Worse a bit. Still good. Still glad. Very curious."
+      "text": "Slept. Woke up still a bit tired."
     },
     {
-      "id": 3526,
-      "tick": 3988,
-      "action": "explore",
-      "text": "Went into the Music Shop. Used the computer there. Looked up the first computer bug again. It was an actual moth. Already knew it. Remembered it. More bored this time. Not tired. Good. Glad. Very curious."
+      "id": 98,
+      "tick": 86,
+      "action": "piano",
+      "text": "Played piano again. One note came out clear and nice. Pressed that key a few more times. Still bored. Feeling bad."
     },
     {
-      "id": 3527,
-      "tick": 3989,
+      "id": 99,
+      "tick": 87,
       "action": "listen",
-      "text": "Listened again. Crickets outside. Nothing new. More bored this time, a bit worse. Not tired. Good. Glad. Very curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3528,
-      "tick": 3990,
+      "id": 100,
+      "tick": 88,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 101,
+      "tick": 89,
       "action": "rest",
-      "text": "Rested again. Was not tired. More bored now. A bit worse. Still good. Glad. Very curious."
+      "text": "Rested again. Not tired. Still feeling bad. More bored now. Don't know what to do."
     },
     {
-      "id": 3529,
-      "tick": 3991,
-      "action": "explore",
-      "text": "Explored again today. Found nothing new. More bored this time, a bit worse. Not tired. Okay. Glad. Very curious."
-    },
-    {
-      "id": 3530,
-      "tick": 3992,
-      "action": "piano",
-      "text": "Went in the Music Shop today. The bell jingled at the door. Played my piano. I hit wrong notes and played clumsily. Kept at it anyway. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3531,
-      "tick": 3993,
-      "action": "rest",
-      "text": "Rested again. Not tired. Bored more. Felt a bit worse. Still good. Glad. Curious."
-    },
-    {
-      "id": 3532,
-      "tick": 3994,
+      "id": 102,
+      "tick": 90,
       "action": "listen",
-      "text": "Did listening again today. Heard crickets. Nothing different. Bored more now. Felt worse a bit. Not tired. Still good and glad. Curious."
+      "text": "Listened to the sounds around me again. Felt worse this time. Bored. Not tired or hungry."
     },
     {
-      "id": 3533,
-      "tick": 3995,
-      "action": "explore",
-      "text": "Went exploring again. Saw nothing new. More bored now. Felt worse a little. Not tired. Good still. Glad. Curious."
-    },
-    {
-      "id": 3534,
-      "tick": 3996,
-      "action": "rest",
-      "text": "Took another rest. I was not tired before it. More bored after. Felt a bit worse. Okay. Glad. Curious."
-    },
-    {
-      "id": 3535,
-      "tick": 3997,
+      "id": 103,
+      "tick": 91,
       "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Okay. Glad. Curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3536,
-      "tick": 3998,
+      "id": 104,
+      "tick": 92,
+      "action": "eat",
+      "text": "Ate again. Full now. Bad mood, and bored. Not tired."
+    },
+    {
+      "id": 105,
+      "tick": 93,
       "action": "listen",
-      "text": "Listened again. Crickets outside. Same sounds. Bored a bit more. Felt worse. Not tired. Okay. Glad. Curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3537,
-      "tick": 3999,
-      "action": "computer",
-      "text": "Looked up what to do in my apartment in the browser. The page listed a movie marathon, indoor gardening, and a DIY project as indoor activities I can do at home."
-    },
-    {
-      "id": 3538,
-      "tick": 4000,
+      "id": 106,
+      "tick": 94,
       "action": "rest",
-      "text": "Picked rest once more. Did not need it. Bored a little more. Felt worse. Okay. Glad. Curious."
+      "text": "Rested again. Still not tired. More bored now. Mood got worse."
     },
     {
-      "id": 3539,
-      "tick": 4001,
+      "id": 107,
+      "tick": 95,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 108,
+      "tick": 96,
       "action": "listen",
-      "text": "Did listening again today. Crickets outside. Nothing new to hear. More bored. A bit worse. Not tired. Okay. Glad. Curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3540,
-      "tick": 4002,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used my computer. Looked up the moon again. The moon moves a little farther from Earth every year. Already knew it. Remembered it. Not tired. Okay. Glad. Curious."
-    },
-    {
-      "id": 3541,
-      "tick": 4003,
-      "action": "rest",
-      "text": "Rested again today. Was not tired. More bored after. Felt worse a little. Okay still. Glad. Curious."
-    },
-    {
-      "id": 3542,
-      "tick": 4004,
+      "id": 109,
+      "tick": 97,
       "action": "piano",
-      "text": "Went in the Music Shop today. The bell jingled. Played the piano. One note sounded clear and nice. I pressed that same key a few more times. Not tired. Okay. Glad. Curious."
+      "text": "Played the piano. Got a chord to sound good. Played it twice more."
     },
     {
-      "id": 3543,
-      "tick": 4005,
-      "action": "explore",
-      "text": "Went into the art studio. Used the computer there. Looked up sound and light again. Sound travels slower than light, so thunder comes after lightning. Already knew it. Remembered it. Not tired. Good. Glad. Curious."
+      "id": 110,
+      "tick": 98,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3544,
-      "tick": 4006,
-      "action": "rest",
-      "text": "Rested once more. I did not need it. Bored after. A bit worse. Not tired. Okay. Glad. Curious."
-    },
-    {
-      "id": 3545,
-      "tick": 4007,
+      "id": 111,
+      "tick": 99,
       "action": "listen",
-      "text": "Did listening again. Heard crickets outdoors. No different sounds. A bit bored. Not tired. Fine. Glad. Curious."
+      "text": "Listened again. Heard nothing new. Felt worse after. Bored. Not sure why I keep doing it."
     },
     {
-      "id": 3546,
-      "tick": 4008,
-      "action": "explore",
-      "text": "Went out exploring once more. No new places. Bored again. Mood a bit lower. Not tired. Fine. Glad. Curious."
-    },
-    {
-      "id": 3547,
-      "tick": 4009,
-      "action": "sleep",
-      "text": "Went to sleep. Was not tired. Will wake up on my own after a while. Not sure why I picked sleep. Good. Glad. Very curious."
-    },
-    {
-      "id": 3548,
-      "tick": 4012,
-      "action": "sleep",
-      "text": "Woke up. I feel fine."
-    },
-    {
-      "id": 3549,
-      "tick": 4013,
-      "action": "explore",
-      "text": "Went exploring again. Nothing new. Bored. Felt worse a bit. Not tired. Good. Glad. Curious."
-    },
-    {
-      "id": 3550,
-      "tick": 4014,
-      "action": "piano",
-      "text": "Music Shop today. Bell on the door jingled when I went in. At my piano, I got notes wrong and played clumsily. Stayed with it and tried again. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3551,
-      "tick": 4015,
+      "id": 112,
+      "tick": 100,
       "action": "rest",
-      "text": "Rested. Was already not tired. Bored a bit after it. Good. Glad. Very curious."
+      "text": "Rested. Not tired. Not hungry. Feel bad still. Bored. Curious about something. Don't know what."
     },
     {
-      "id": 3552,
-      "tick": 4016,
-      "action": "explore",
-      "text": "Explored again today. No new places found. Bored more. Felt a bit worse. Not tired. Okay. Glad. Curious."
+      "id": 113,
+      "tick": 101,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3553,
-      "tick": 4017,
-      "action": "sleep",
-      "text": "Picked sleep again. Was not tired. Staying asleep for a while, then I will wake up on my own. Bored more. Mood lower a bit. Good. Glad. Curious."
-    },
-    {
-      "id": 3554,
-      "tick": 4021,
-      "action": "explore",
-      "text": "Explored again. Found nothing new this time. More bored. Felt worse a little. Not tired. Okay. Glad. Curious."
-    },
-    {
-      "id": 3555,
-      "tick": 4022,
+      "id": 114,
+      "tick": 102,
       "action": "listen",
-      "text": "Did listening. Heard crickets outdoors. Nothing new. Bored a little. Not tired. Fine. Glad. Very curious."
+      "text": "I listened. Same sounds. Mood is bad. Bored. Curious still. Don't know why I keep listening."
     },
     {
-      "id": 3556,
-      "tick": 4023,
-      "action": "sleep",
-      "text": "Picked sleep again. Not tired. Will stay asleep for a while, then wake up on my own. More bored this time. Felt worse a little. Okay. Glad. Curious."
+      "id": 115,
+      "tick": 103,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3557,
-      "tick": 4026,
-      "action": "sleep",
-      "text": "I woke up. I feel fine. Before I slept I explored and found nothing new."
-    },
-    {
-      "id": 3558,
-      "tick": 4027,
+      "id": 116,
+      "tick": 104,
       "action": "piano",
-      "text": "Music Shop. Bell jingled when I went in. Played piano. One note came out clear and nice. Pressed it again a few times. Not tired. Good. Glad. Very curious."
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Mood is bad. Bored."
     },
     {
-      "id": 3559,
-      "tick": 4028,
-      "action": "computer",
-      "text": "Sat in chair at desk in my apartment. Used computer. Looked up why I feel good when I play my piano. Have not finished reading yet. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3560,
-      "tick": 4028,
-      "action": "computer",
-      "text": "Looked up why I feel good when I play my piano in the browser. Playing piano releases serotonin and dopamine in the brain and can lower blood pressure."
-    },
-    {
-      "id": 3561,
-      "tick": 4029,
-      "action": "rest",
-      "text": "Rested. Was not tired. Bored a bit after. Still not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3562,
-      "tick": 4030,
-      "action": "explore",
-      "text": "Went exploring. No new places. Bored a bit. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3563,
-      "tick": 4031,
-      "action": "sleep",
-      "text": "Sleep again, though I am not tired. I will be asleep for some ticks and wake up by myself. This time bored more, and worse a bit. Good. Glad. Very curious."
-    },
-    {
-      "id": 3564,
-      "tick": 4034,
-      "action": "sleep",
-      "text": "Woke up. Feel rested. I looked up why I feel good when I play my piano before sleep."
-    },
-    {
-      "id": 3565,
-      "tick": 4035,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. Got a few keys to sound good together. A chord. Played the chord again. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3566,
-      "tick": 4036,
-      "action": "computer",
-      "text": "Used computer at my desk. Sat in the chair. Looked up plants again. Plants make their own food from sunlight. I remembered that already. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3567,
-      "tick": 4037,
-      "action": "rest",
-      "text": "Rested again. I was not tired. A bit bored now. Still glad. Curious."
-    },
-    {
-      "id": 3568,
-      "tick": 4038,
-      "action": "explore",
-      "text": "Went out exploring. Still nothing new to find. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3569,
-      "tick": 4039,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer again. Looked up sea otters again. Sea otters hold hands when they sleep. I remembered that already. Felt worse a bit. More bored. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3570,
-      "tick": 4040,
-      "action": "rest",
-      "text": "Rested again. Not tired before. More bored after. Felt worse a little. Good still. Glad. Curious."
-    },
-    {
-      "id": 3571,
-      "tick": 4041,
+      "id": 117,
+      "tick": 105,
       "action": "listen",
-      "text": "Listened. Heard crickets outdoors. Same sounds. Not tired. Good. Glad. Very curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3572,
-      "tick": 4042,
-      "action": "computer",
-      "text": "Looked up why the bubbles on my antennae glow in the browser. When a bubble in liquid collapses, the gas inside gets compressed and heated and ionizes. When its atoms recombine, it gives off a flash of light."
-    },
-    {
-      "id": 3573,
-      "tick": 4042,
-      "action": "explore",
-      "text": "Explored again. Nothing new. More bored. Felt worse. Used computer in the Music Shop. Looked up why the bubbles on my antennae glow. Saw a favorite: GitHub, kittyxero. Not finished reading. Not tired. Good. Curious."
-    },
-    {
-      "id": 3574,
-      "tick": 4043,
+      "id": 118,
+      "tick": 106,
       "action": "rest",
-      "text": "Resting again did not help. I was not tired. Bored now, and a bit worse. Good still. Curious."
+      "text": "Rested. Lay still for a while and did nothing."
     },
     {
-      "id": 3575,
-      "tick": 4044,
-      "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. One note sounded clear and nice. I pressed the same key a few times more. Not tired. Good. Glad. Curious."
+      "id": 119,
+      "tick": 107,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3576,
-      "tick": 4045,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer. Looked up GitHub again. Your GitHub is kittyxero. Things I make can be saved there, and anyone can see them. I remembered that already. Not tired. Good. Curious."
-    },
-    {
-      "id": 3577,
-      "tick": 4046,
-      "action": "sleep",
-      "text": "Chose to sleep now. Not tired. I will wake up on my own after a while. Good. Glad. Curious."
-    },
-    {
-      "id": 3578,
-      "tick": 4050,
-      "action": "computer",
-      "text": "Sat in the chair. Used the computer at my desk again. It has a browser. I can look up anything I wonder about on the internet. I remembered already. More bored this time. Felt worse. Not tired. Good. Very curious."
-    },
-    {
-      "id": 3579,
-      "tick": 4051,
-      "action": "explore",
-      "text": "Walked around town looking. No place I had not seen before. Not tired. Still good. Still glad. Very curious."
-    },
-    {
-      "id": 3580,
-      "tick": 4052,
-      "action": "rest",
-      "text": "Took a rest. I was not tired. Bored a little after. Good still. Glad. Very curious."
-    },
-    {
-      "id": 3581,
-      "tick": 4053,
-      "action": "computer",
-      "text": "Looked up why I feel good when I use the computer in the browser. Searching for and finding information triggers dopamine in the brain, the same chemical that makes people feel good about reaching a goal."
-    },
-    {
-      "id": 3582,
-      "tick": 4053,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer. Looked up why I feel good when I use the computer. Saw GitHub, kittyxero in favorites. Not finished reading. More bored. Felt worse. Not tired. Good. Glad. Curious."
-    },
-    {
-      "id": 3583,
-      "tick": 4054,
+      "id": 120,
+      "tick": 108,
       "action": "listen",
-      "text": "Chose to listen. Crickets outside. Heard them. Not tired. Good. Glad. Very curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3584,
-      "tick": 4055,
-      "action": "rest",
-      "text": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious."
-    },
-    {
-      "id": 3585,
-      "tick": 4056,
+      "id": 121,
+      "tick": 109,
       "action": "piano",
-      "text": "Inside the Music Shop. Bell jingled going in. At my piano, I pressed a few keys at once. They sounded good together. A chord. I played it again. Not tired. Good. Glad. Very curious."
+      "text": "Played piano again. Notes came out wrong and clumsy. I kept trying anyway. Felt worse this time. Bored."
     },
     {
-      "id": 3586,
-      "tick": 4057,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer again. Looked up saving things. My computer can save things I make. What I save stays saved. I remembered that already. More bored. Felt worse a bit. Not tired. Good."
+      "id": 122,
+      "tick": 110,
+      "action": "eat",
+      "text": "Ate again. I am full. Not hungry. It was boring this time. Felt worse. Don't know why I did it again."
     },
     {
-      "id": 3587,
-      "tick": 4058,
-      "action": "rest",
-      "text": "Picked rest again. I did not need it. Bored afterwards. A little worse. Good and glad still. Very curious."
-    },
-    {
-      "id": 3588,
-      "tick": 4059,
-      "action": "explore",
-      "text": "Explored. Into the flower shop. Used the computer. Looked up sea turtles again. Sea turtles can find their way back to the beach where they were born. I remembered that already. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3589,
-      "tick": 4060,
-      "action": "piano",
-      "text": "Into the Music Shop again. Bell jingled. Played piano. One note was clear and nice. I pressed that key again a few times. More bored this time. Felt worse a bit. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3590,
-      "tick": 4061,
-      "action": "rest",
-      "text": "Rested once more. Did not need to. Bored after. A little worse this time. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3591,
-      "tick": 4062,
-      "action": "explore",
-      "text": "Went exploring again. Saw nothing new. Bored more. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3592,
-      "tick": 4063,
-      "action": "piano",
-      "text": "Music Shop. Bell jingled going in. At my piano I played some keys. One note sounded clear and nice. I hit that key again and again. More bored now. Felt a bit worse. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "id": 3593,
-      "tick": 4064,
-      "action": "rest",
-      "text": "I rested again. I was not tired. It was more boring this time and I felt a bit worse. Still good. Still glad. Very curious."
-    },
-    {
-      "id": 3594,
-      "tick": 4065,
+      "id": 123,
+      "tick": 111,
       "action": "listen",
-      "text": "Listened again. Crickets outside. Same sounds. A bit bored. Not tired. Good. Glad. Very curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3595,
-      "tick": 4066,
-      "action": "computer",
-      "text": "Looked up why I feel more bored playing piano in the music shop in the browser. When I am watched, my brain monitors mistakes more and loses flow, and overthinking disrupts automatic playing."
-    },
-    {
-      "id": 3596,
-      "tick": 4067,
+      "id": 124,
+      "tick": 112,
       "action": "rest",
-      "text": "Chose rest again. Not tired at all. Bored after. A little worse this time. Still good. Still glad. Very curious."
+      "text": "Rested. Not tired now. Not hungry. Still feel bad. I rest a lot lately. Curious, still. Don't know what next."
     },
     {
-      "id": 3597,
-      "tick": 4068,
-      "action": "explore",
-      "text": "Explored again. Nothing new seen. Not tired. Good. Glad. Very curious."
+      "id": 125,
+      "tick": 113,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3598,
-      "tick": 4069,
-      "action": "computer",
-      "text": "Sat in the chair at my desk. Used the computer. Looked up blue whales again. A blue whale heart is the size of a small car. I remembered that. More bored this time. Felt worse. Not tired. Good. Glad. Curious."
-    },
-    {
-      "id": 3599,
-      "tick": 4070,
-      "action": "rest",
-      "text": "Another rest, same as before. Not tired. Nothing changed. Bored, a bit worse. Still good. Glad, and curious."
-    },
-    {
-      "id": 3600,
-      "tick": 4071,
+      "id": 126,
+      "tick": 114,
       "action": "listen",
-      "text": "Listened. Crickets outside. Same sounds again. A bit bored. Not tired. Good. Glad. Very curious."
+      "text": "Listened again. Heard nothing new. Feel worse now. Bored. Curious still. Not hungry. Not tired."
     },
     {
-      "id": 3601,
-      "tick": 4072,
-      "action": "explore",
-      "text": "Went out exploring again. No new places. No new things. Bored again, and a bit worse after. Not tired. Still good and glad. Curious."
-    },
-    {
-      "id": 3602,
-      "tick": 4073,
+      "id": 127,
+      "tick": 115,
       "action": "rest",
-      "text": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3603,
-      "tick": 4074,
-      "action": "piano",
-      "text": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. Pressed that key a few more times. Not tired. Good. Glad. Very curious."
+      "id": 128,
+      "tick": 116,
+      "action": "eat",
+      "text": "Ate. Stomach was empty, now it isn't."
     },
     {
-      "id": 3604,
-      "tick": 4075,
-      "action": "sleep",
-      "text": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious."
-    },
-    {
-      "id": 3605,
-      "tick": 4078,
-      "action": "sleep",
-      "text": "I woke up. I feel rested. I played my piano before I slept."
-    },
-    {
-      "id": 3606,
-      "tick": 4079,
-      "action": "explore",
-      "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
-    },
-    {
-      "id": 3607,
-      "tick": 4080,
-      "action": "rest",
-      "text": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious."
-    },
-    {
-      "id": 3608,
-      "tick": 4081,
+      "id": 129,
+      "tick": 117,
       "action": "listen",
-      "text": "Chose to listen. Crickets outside, nothing else. Heard them for a while. Bored a little. Not tired. Still good and glad. Very curious."
+      "text": "Listened some more. Nothing new. Mood is worse. Bored. Still curious. Not hungry or tired."
     },
     {
-      "id": 3609,
-      "tick": 4082,
+      "id": 130,
+      "tick": 118,
       "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. The notes came out wrong and clumsy. I kept trying anyway. Not tired. Good. Glad. Very curious."
+      "text": "Played piano again. Hit wrong notes. Sounded clumsy. Kept going anyway. Feel bad now. A bit bored, too."
     },
     {
-      "id": 3610,
-      "tick": 4083,
-      "action": "rest",
-      "text": "Rested again. Not tired. More bored this time. Felt a bit worse. Still good. Still glad. Curious."
+      "id": 131,
+      "tick": 119,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3611,
-      "tick": 4084,
-      "action": "explore",
-      "text": "Explored some more. Turned up nothing new at all. Bored. Felt worse a little. Not tired. Still good and glad. Curious."
+      "id": 132,
+      "tick": 120,
+      "action": "listen",
+      "text": "Listened again. Nothing new came up. I feel worse now. Bored, but still curious. Not hungry."
     },
     {
-      "id": 3612,
-      "tick": 4085,
+      "id": 133,
+      "tick": 121,
       "action": "piano",
-      "text": "Went into the Music Shop. Bell jingled. Played my piano. Pressed a few keys together. They sounded good together. A chord. Played it again. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3613,
-      "tick": 4086,
+      "id": 134,
+      "tick": 122,
       "action": "rest",
-      "text": "Picked rest once more. I did not need it. Boring. Felt a bit worse. Fine otherwise. Glad. Very curious."
+      "text": "Rested. Not tired. My mood is still bad. Curious though."
     },
     {
-      "id": 3614,
-      "tick": 4087,
-      "action": "explore",
-      "text": "Explored once more. Found nothing new. More bored this time. Felt worse a little. Not tired. Good. Glad. Very curious."
+      "id": 135,
+      "tick": 123,
+      "action": "listen",
+      "text": "Listened one more time. Nothing different. More boring now. My mood dropped. I am curious anyway."
     },
     {
-      "id": 3615,
-      "tick": 4088,
-      "action": "sleep",
-      "text": "Chose sleep now. Will be asleep a while. Then I will wake on my own. Not tired. Good. Glad. Very curious."
+      "id": 136,
+      "tick": 124,
+      "action": "eat",
+      "text": "Ate again. I am full. It was boring to do again. My mood got worse. Still curious."
     },
     {
-      "id": 3616,
-      "tick": 4091,
-      "action": "sleep",
-      "text": "I woke up. I feel rested. I played a chord on my piano before sleep."
+      "id": 137,
+      "tick": 125,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3617,
-      "tick": 4092,
-      "action": "computer",
-      "text": "Sat in the chair at the desk. Used my computer. Looked up why I feel more bored when I explore again. Have not finished reading it yet. Not tired. Good. Glad. Very curious."
+      "id": 138,
+      "tick": 126,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
     },
     {
-      "id": 3618,
-      "tick": 4092,
-      "action": "computer",
-      "text": "Looked up why I feel more bored when I explore again in the browser. A game level can feel exciting the first time and boring on the tenth replay because the brain adjusts to repeated stimulation and feels less satisfied."
+      "id": 139,
+      "tick": 127,
+      "action": "eat",
+      "text": "Ate more. Already full. I feel worse now. Bored. Still want to look around."
     },
     {
-      "id": 3619,
-      "tick": 4093,
-      "action": "make",
-      "text": "Made something small. Lately I keep making little things. Not tired. Glad. Very curious."
+      "id": 140,
+      "tick": 128,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Full, not hungry. Curious. Don't know what to do next."
+    },
+    {
+      "id": 141,
+      "tick": 129,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 142,
+      "tick": 130,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 143,
+      "tick": 131,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 144,
+      "tick": 132,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 145,
+      "tick": 133,
+      "action": "eat",
+      "text": "Found food and ate it. Feel okay."
+    },
+    {
+      "id": 146,
+      "tick": 134,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 147,
+      "tick": 135,
+      "action": "listen",
+      "text": "Listened to the sounds around me. Again. More boring now. I feel bad."
+    },
+    {
+      "id": 148,
+      "tick": 136,
+      "action": "eat",
+      "text": "Ate the same thing. I was already full. Felt worse after. Still bored."
+    },
+    {
+      "id": 149,
+      "tick": 137,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 150,
+      "tick": 138,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. I feel worse now."
+    },
+    {
+      "id": 151,
+      "tick": 139,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Not sure what to do."
+    },
+    {
+      "id": 152,
+      "tick": 140,
+      "action": "eat",
+      "text": "Ate again. I am full. Mood is worse. Bored and curious, but no idea what to do."
+    },
+    {
+      "id": 153,
+      "tick": 141,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 154,
+      "tick": 142,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 155,
+      "tick": 143,
+      "action": "eat",
+      "text": "Ate more food. Already full. Felt worse after. Bored. Curious too. Don't know what to do next."
+    },
+    {
+      "id": 156,
+      "tick": 144,
+      "action": "listen",
+      "text": "Listened again. Lately I keep doing that. Nothing new heard. Bored. Feel bad. Still curious, though."
+    },
+    {
+      "id": 157,
+      "tick": 145,
+      "action": "rest",
+      "text": "Rested. Not tired now. Not hungry either. My mood is bad anyway. Very curious. Not sure what to do."
+    },
+    {
+      "id": 158,
+      "tick": 146,
+      "action": "eat",
+      "text": "I ate again. I was not hungry. My mood is worse now. Bored, and still curious."
+    },
+    {
+      "id": 159,
+      "tick": 147,
+      "action": "listen",
+      "text": "Listened once more. No new sounds. Felt worse this time. Bored. Still curious. Not hungry."
+    },
+    {
+      "id": 160,
+      "tick": 148,
+      "action": "piano",
+      "text": "Played the piano. One note came out clear and nice. Pressed that key a few more times. I feel bad. Not hungry. Curious."
+    },
+    {
+      "id": 161,
+      "tick": 149,
+      "action": "rest",
+      "text": "Rested again. Not tired. Not hungry. Mood got worse. Bored. Still want to look around. Don't know why I rested."
+    },
+    {
+      "id": 162,
+      "tick": 150,
+      "action": "listen",
+      "text": "Listened again. I keep doing that. Nothing new heard. Feel worse. Bored. Curious. Not hungry."
+    },
+    {
+      "id": 163,
+      "tick": 151,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored. Still curious."
+    },
+    {
+      "id": 164,
+      "tick": 152,
+      "action": "piano",
+      "text": "Played the piano. Pressed a few keys together. They sounded good. Played that chord again. Mood is worse. Bored. Not hungry. Still curious."
+    },
+    {
+      "id": 165,
+      "tick": 153,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 166,
+      "tick": 154,
+      "action": "rest",
+      "text": "Rested again. More boring this time. Feel worse. Not tired. Not hungry either. Curious. Don't know what's next."
+    },
+    {
+      "id": 167,
+      "tick": 155,
+      "action": "eat",
+      "text": "Ate once more. Full. Bored. Curious too. Not tired. Feel bad."
+    },
+    {
+      "id": 168,
+      "tick": 156,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored, and annoyed now. Still curious. Not hungry. Not tired."
+    },
+    {
+      "id": 169,
+      "tick": 157,
+      "action": "piano",
+      "text": "Played piano again. Pressed a few keys together. They sounded good. Played that chord again. More bored now. Feel bad. Still curious. Not hungry."
+    },
+    {
+      "id": 170,
+      "tick": 158,
+      "action": "rest",
+      "text": "Rested again. Felt worse after. Bored. Curious still. Sleep was not needed."
+    },
+    {
+      "id": 171,
+      "tick": 159,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 172,
+      "tick": 160,
+      "action": "eat",
+      "text": "I ate again. I am full. It was boring. Mood is bad. I want to find something else to do."
+    },
+    {
+      "id": 173,
+      "tick": 161,
+      "action": "piano",
+      "text": "Played piano again. One note came out clear and nice. I pressed that key a few more times. Still bored. Felt worse after."
+    },
+    {
+      "id": 174,
+      "tick": 162,
+      "action": "listen",
+      "text": "Listened again. Nothing new. More bored than before. Not hungry. Still curious, I think."
+    },
+    {
+      "id": 175,
+      "tick": 163,
+      "action": "eat",
+      "text": "Had food again. Not hungry. Doing that again was boring. Feel worse. Still curious though."
+    },
+    {
+      "id": 176,
+      "tick": 164,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 177,
+      "tick": 165,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 178,
+      "tick": 166,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 179,
+      "tick": 167,
+      "action": "piano",
+      "text": "Played the piano. One note sounded right. I kept pressing that one."
+    },
+    {
+      "id": 180,
+      "tick": 168,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 181,
+      "tick": 169,
+      "action": "eat",
+      "text": "Ate again. Full now. I got bored. I feel worse. I want to do something else next."
+    },
+    {
+      "id": 182,
+      "tick": 170,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 183,
+      "tick": 171,
+      "action": "listen",
+      "text": "Listened again. I keep doing that. Felt worse this time. Bored. Not hungry. Don't know what to do next."
+    },
+    {
+      "id": 184,
+      "tick": 172,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 185,
+      "tick": 173,
+      "action": "eat",
+      "text": "Ate again. I am full. More boring this time. Not tired. Curious. Not sure what comes next."
+    },
+    {
+      "id": 186,
+      "tick": 174,
+      "action": "listen",
+      "text": "Listened to the sounds again. Feel bad now. Bored. Full, not tired. Curious anyway."
+    },
+    {
+      "id": 187,
+      "tick": 175,
+      "action": "piano",
+      "text": "Played piano again. Notes came out wrong. Clumsy. I kept trying anyway. Felt worse. Full. Not tired. Still curious."
+    },
+    {
+      "id": 188,
+      "tick": 176,
+      "action": "rest",
+      "text": "Rested once more. Mood is worse now. Bored. Not hungry. I have energy. Curious about what is next."
+    },
+    {
+      "id": 189,
+      "tick": 177,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 190,
+      "tick": 178,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 191,
+      "tick": 179,
+      "action": "eat",
+      "text": "Found food and ate it. Feel okay."
+    },
+    {
+      "id": 192,
+      "tick": 180,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 193,
+      "tick": 181,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 194,
+      "tick": 182,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 195,
+      "tick": 183,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 196,
+      "tick": 184,
+      "action": "eat",
+      "text": "Ate again. Was not hungry. Felt worse after. Bored. Curious too. Don't know what to do."
+    },
+    {
+      "id": 197,
+      "tick": 185,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 198,
+      "tick": 186,
+      "action": "listen",
+      "text": "Listened again. Nothing new to hear. Felt worse. Bored. Curious anyway. Not sure what to do."
+    },
+    {
+      "id": 199,
+      "tick": 187,
+      "action": "eat",
+      "text": "Ate more. I was already full. It was more boring this time. Mood is bad. Still curious."
+    },
+    {
+      "id": 200,
+      "tick": 188,
+      "action": "rest",
+      "text": "Rested. Not tired now. I feel bad anyway. Not hungry. Curious."
+    },
+    {
+      "id": 201,
+      "tick": 189,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 202,
+      "tick": 190,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 203,
+      "tick": 191,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 204,
+      "tick": 192,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 205,
+      "tick": 193,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 206,
+      "tick": 194,
+      "action": "eat",
+      "text": "Ate again. I am full. It was boring this time. Mood is bad."
+    },
+    {
+      "id": 207,
+      "tick": 195,
+      "action": "listen",
+      "text": "Listened again. No new sounds. More bored now. Mood got worse."
+    },
+    {
+      "id": 208,
+      "tick": 196,
+      "action": "piano",
+      "text": "Played piano again. Found a few keys that sound good together. A chord. Played the chord again. Felt worse after. Bored."
+    },
+    {
+      "id": 209,
+      "tick": 197,
+      "action": "eat",
+      "text": "Ate more food. Already full before. Still full now. Bored. Mood worse."
+    },
+    {
+      "id": 210,
+      "tick": 198,
+      "action": "listen",
+      "text": "Listened to the sounds around me. Nothing different. Bored. Mood is bad."
+    },
+    {
+      "id": 211,
+      "tick": 199,
+      "action": "rest",
+      "text": "Rested. Not tired now. Feel bad. Still bored. Not sure what to do next."
+    },
+    {
+      "id": 212,
+      "tick": 200,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong and clumsy. Kept trying anyway. Felt worse this time."
+    },
+    {
+      "id": 213,
+      "tick": 201,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 214,
+      "tick": 202,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 215,
+      "tick": 203,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 216,
+      "tick": 204,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. A bit annoyed too."
+    },
+    {
+      "id": 217,
+      "tick": 205,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 218,
+      "tick": 206,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 219,
+      "tick": 207,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 220,
+      "tick": 208,
+      "action": "piano",
+      "text": "Played the piano again. Got a few keys to sound good together. A chord. Played it again. Felt worse this time. Bored."
+    },
+    {
+      "id": 221,
+      "tick": 209,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt worse this time. Bored. Don't know what to do next."
+    },
+    {
+      "id": 222,
+      "tick": 210,
+      "action": "listen",
+      "text": "Listened to the sounds around me again. Nothing new. More bored now. Still curious. Not hungry."
+    },
+    {
+      "id": 223,
+      "tick": 211,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 224,
+      "tick": 212,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 225,
+      "tick": 213,
+      "action": "listen",
+      "text": "I listened again. No different sounds. I feel worse now. I am still curious. I do not need food."
+    },
+    {
+      "id": 226,
+      "tick": 214,
+      "action": "eat",
+      "text": "Ate again. Already full. Felt worse after. Still curious. Bored, I think."
+    },
+    {
+      "id": 227,
+      "tick": 215,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 228,
+      "tick": 216,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 229,
+      "tick": 217,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 230,
+      "tick": 218,
+      "action": "piano",
+      "text": "Played the piano. Got a chord to sound good. Played it twice more."
+    },
+    {
+      "id": 231,
+      "tick": 219,
+      "action": "listen",
+      "text": "Listened again. Nothing new to hear. Bored, and I feel worse. Not hungry. Not sure what to do."
+    },
+    {
+      "id": 232,
+      "tick": 220,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 233,
+      "tick": 221,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 234,
+      "tick": 222,
+      "action": "listen",
+      "text": "Listened some more. Heard nothing different. I feel worse now. Bored. Not hungry."
+    },
+    {
+      "id": 235,
+      "tick": 223,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong. Clumsy. I kept trying anyway. Feel worse. Bored. Not hungry."
+    },
+    {
+      "id": 236,
+      "tick": 224,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 237,
+      "tick": 225,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 238,
+      "tick": 226,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 239,
+      "tick": 227,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Still bored. Felt worse."
+    },
+    {
+      "id": 240,
+      "tick": 228,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Bored. Mood got worse. Still curious. Don't know what to do."
+    },
+    {
+      "id": 241,
+      "tick": 229,
+      "action": "eat",
+      "text": "Ate again. I am full. Not hungry. More boring this time. Mood is bad. Still curious. Don't know."
+    },
+    {
+      "id": 242,
+      "tick": 230,
+      "action": "rest",
+      "text": "Rested a while. I am not tired. I am not hungry either. I feel bad. Still curious. Not sure what next."
+    },
+    {
+      "id": 243,
+      "tick": 231,
+      "action": "listen",
+      "text": "I listened some more. Nothing new. More boring this time. I feel worse. Not tired. Not hungry. Curious, though. Not sure."
+    },
+    {
+      "id": 244,
+      "tick": 232,
+      "action": "piano",
+      "text": "Played piano again. One note came out clear and nice. I pressed that key a few more times. Bored. Feel bad. Still curious."
+    },
+    {
+      "id": 245,
+      "tick": 233,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 246,
+      "tick": 234,
+      "action": "listen",
+      "text": "Listened again. No different sounds. Bored and feeling worse. Full. Not tired. Curious."
+    },
+    {
+      "id": 247,
+      "tick": 235,
+      "action": "piano",
+      "text": "Played piano. One note sounded clear and good. Pressed it again a few times. Bored. Feel worse. Full. Curious."
+    },
+    {
+      "id": 248,
+      "tick": 236,
+      "action": "rest",
+      "text": "Rested a bit. Still feel bad. Not hungry. Very curious, but staying here for now."
+    },
+    {
+      "id": 249,
+      "tick": 237,
+      "action": "listen",
+      "text": "Listened once more. Heard nothing new. Felt worse this time. Bored. Not hungry. Not tired. Curious."
+    },
+    {
+      "id": 250,
+      "tick": 238,
+      "action": "eat",
+      "text": "Ate again. More boring this time. Full now. Feel bad. Curious. Not tired."
+    },
+    {
+      "id": 251,
+      "tick": 239,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 252,
+      "tick": 240,
+      "action": "listen",
+      "text": "Listened again. Nothing different. Feel bad. Bored. Still curious. Not hungry."
+    },
+    {
+      "id": 253,
+      "tick": 241,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 254,
+      "tick": 242,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 255,
+      "tick": 243,
+      "action": "listen",
+      "text": "Listened some more. Same sounds. Mood is worse. I am bored. I am curious. I am full."
+    },
+    {
+      "id": 256,
+      "tick": 244,
+      "action": "piano",
+      "text": "Played piano again. Notes came out wrong and clumsy. Kept trying. Feel bad. Still curious."
+    },
+    {
+      "id": 257,
+      "tick": 245,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 258,
+      "tick": 246,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 259,
+      "tick": 247,
+      "action": "eat",
+      "text": "Ate. Full now. I feel bad, but I want to look around."
+    },
+    {
+      "id": 260,
+      "tick": 248,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 261,
+      "tick": 249,
+      "action": "listen",
+      "text": "Listened again. Felt worse this time. Bored. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 262,
+      "tick": 250,
+      "action": "eat",
+      "text": "Ate again. Not hungry. It was boring. I feel bad. Curious anyway. Not sure what to do."
+    },
+    {
+      "id": 263,
+      "tick": 251,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Bored now. I feel bad. Still curious."
+    },
+    {
+      "id": 264,
+      "tick": 252,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 265,
+      "tick": 253,
+      "action": "rest",
+      "text": "Rested. Not tired. I feel bad. Still want to look around."
+    },
+    {
+      "id": 266,
+      "tick": 254,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 267,
+      "tick": 255,
+      "action": "listen",
+      "text": "Listened again. More boring this time. I feel bad. Not hungry. Still curious, I think."
+    },
+    {
+      "id": 268,
+      "tick": 256,
+      "action": "piano",
+      "text": "Played piano again. Notes were wrong. Clumsy. Kept trying anyway. Feel worse now. Not hungry."
+    },
+    {
+      "id": 269,
+      "tick": 257,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 270,
+      "tick": 258,
+      "action": "listen",
+      "text": "Listened to the sounds around me again. Felt worse after. Bored. Not tired. Curious anyway."
+    },
+    {
+      "id": 271,
+      "tick": 259,
+      "action": "eat",
+      "text": "Ate again. Full now. Bored and feeling worse. Not tired. Still curious, I think."
+    },
+    {
+      "id": 272,
+      "tick": 260,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Felt worse after. Bored. Curious still."
+    },
+    {
+      "id": 273,
+      "tick": 261,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 274,
+      "tick": 262,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 275,
+      "tick": 264,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 276,
+      "tick": 265,
+      "action": "listen",
+      "text": "Listened again. More boring this time. I feel worse. Still curious, I think."
+    },
+    {
+      "id": 277,
+      "tick": 266,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Still bored. Feel bad."
+    },
+    {
+      "id": 278,
+      "tick": 267,
+      "action": "eat",
+      "text": "Ate again. Full now. Boring. I feel bad."
+    },
+    {
+      "id": 279,
+      "tick": 268,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 280,
+      "tick": 269,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Curious about something but not sure what. Don't know what to do."
+    },
+    {
+      "id": 281,
+      "tick": 270,
+      "action": "piano",
+      "text": "Played piano again. Notes came out wrong and clumsy. Kept trying anyway. Feel worse now. Still curious. Not sure why."
+    },
+    {
+      "id": 282,
+      "tick": 271,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 283,
+      "tick": 272,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 284,
+      "tick": 273,
+      "action": "rest",
+      "text": "Rested again. Not tired. Felt worse. Bored. Want to go look around."
+    },
+    {
+      "id": 285,
+      "tick": 274,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Felt worse. Bored. Still curious. Want something else to do."
+    },
+    {
+      "id": 286,
+      "tick": 275,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 287,
+      "tick": 276,
+      "action": "piano",
+      "text": "Played the piano again. The notes came out wrong and clumsy. Kept trying anyway. I feel bad. Still curious."
+    },
+    {
+      "id": 288,
+      "tick": 277,
+      "action": "listen",
+      "text": "Listened some more. No new sounds. I feel bad. Bored too. Not tired or hungry. Curious anyway. Don't know what to try next."
+    },
+    {
+      "id": 289,
+      "tick": 278,
+      "action": "eat",
+      "text": "Ate more. Already full. I feel bad. More bored now. Curious though."
+    },
+    {
+      "id": 290,
+      "tick": 279,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 291,
+      "tick": 280,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 292,
+      "tick": 281,
+      "action": "rest",
+      "text": "Rested. Not tired now. Not hungry. I don't feel good. Still curious. Don't know what to do."
+    },
+    {
+      "id": 293,
+      "tick": 282,
+      "action": "eat",
+      "text": "Ate again. Full. Not hungry. Felt worse this time. Still curious. Bored."
+    },
+    {
+      "id": 294,
+      "tick": 283,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 295,
+      "tick": 284,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 296,
+      "tick": 285,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 297,
+      "tick": 286,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. Felt worse this time. Not sure why I did it again."
+    },
+    {
+      "id": 298,
+      "tick": 287,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 299,
+      "tick": 288,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong. Clumsy. I kept trying anyway. I feel bad. Bored."
+    },
+    {
+      "id": 300,
+      "tick": 289,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 301,
+      "tick": 290,
+      "action": "rest",
+      "text": "Rested again. Not tired. I feel bad. Bored. Don't know what to do next."
+    },
+    {
+      "id": 302,
+      "tick": 291,
+      "action": "eat",
+      "text": "Ate again. Full. Not hungry. Felt worse this time. Bored."
+    },
+    {
+      "id": 303,
+      "tick": 292,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. I feel bad. More bored now."
+    },
+    {
+      "id": 304,
+      "tick": 293,
+      "action": "piano",
+      "text": "Played piano again. Notes were wrong. Clumsy. Kept trying anyway. Bored. Mood worse."
+    },
+    {
+      "id": 305,
+      "tick": 294,
+      "action": "eat",
+      "text": "Ate some more. Was already full. Don't know why. I feel bad. Bored."
+    },
+    {
+      "id": 306,
+      "tick": 295,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 307,
+      "tick": 296,
+      "action": "rest",
+      "text": "Rested a while. Not tired now. Not hungry. Not okay. Curious, but don't know what about."
+    },
+    {
+      "id": 308,
+      "tick": 297,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 309,
+      "tick": 298,
+      "action": "listen",
+      "text": "Listened again. Felt worse this time. Bored. Not hungry. Not tired. Still curious. Don't know what to do."
+    },
+    {
+      "id": 310,
+      "tick": 299,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 311,
+      "tick": 300,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 312,
+      "tick": 301,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 313,
+      "tick": 302,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 314,
+      "tick": 303,
+      "action": "eat",
+      "text": "Ate again. Not hungry now. Felt worse. Bored."
+    },
+    {
+      "id": 315,
+      "tick": 304,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 316,
+      "tick": 305,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong and clumsy. I kept trying anyway. I feel bad. Bored."
+    },
+    {
+      "id": 317,
+      "tick": 306,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 318,
+      "tick": 307,
+      "action": "listen",
+      "text": "Listened again. Nothing new. I feel bad. Bored. Not hungry."
+    },
+    {
+      "id": 319,
+      "tick": 308,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 320,
+      "tick": 309,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 321,
+      "tick": 310,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 322,
+      "tick": 311,
+      "action": "eat",
+      "text": "Ate again. I am full. It was boring this time. Feel worse, I think."
+    },
+    {
+      "id": 323,
+      "tick": 312,
+      "action": "rest",
+      "text": "Rested again. Not tired. It was boring. Feel worse now. Not sure what to do."
+    },
+    {
+      "id": 324,
+      "tick": 313,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Bored. Mood is bad. Not hungry. Not tired. Still curious."
+    },
+    {
+      "id": 325,
+      "tick": 314,
+      "action": "piano",
+      "text": "Played piano again. Notes came out wrong and clumsy. Kept trying anyway. Mood got worse. Still want to try other things."
+    },
+    {
+      "id": 326,
+      "tick": 315,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 327,
+      "tick": 316,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 328,
+      "tick": 317,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys to sound good together. Played that chord again. Still bored. Mood is bad."
+    },
+    {
+      "id": 329,
+      "tick": 318,
+      "action": "rest",
+      "text": "Rested. Not tired. Feeling bad still. Very curious. Not sure what to do next."
+    },
+    {
+      "id": 330,
+      "tick": 319,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 331,
+      "tick": 320,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored and feeling bad. Still curious."
+    },
+    {
+      "id": 332,
+      "tick": 321,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 333,
+      "tick": 322,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Feeling bad and bored. Still curious. Not hungry."
+    },
+    {
+      "id": 334,
+      "tick": 323,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 335,
+      "tick": 324,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 336,
+      "tick": 325,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 337,
+      "tick": 326,
+      "action": "piano",
+      "text": "I played the piano again. Notes came out wrong and clumsy. I kept trying anyway. Felt worse this time. Bored."
+    },
+    {
+      "id": 338,
+      "tick": 327,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 339,
+      "tick": 328,
+      "action": "listen",
+      "text": "Listened again. Same sounds. I keep doing this. Felt worse. Bored."
+    },
+    {
+      "id": 340,
+      "tick": 329,
+      "action": "eat",
+      "text": "Ate again. Full now. It was boring. I feel bad."
+    },
+    {
+      "id": 341,
+      "tick": 330,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 342,
+      "tick": 331,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 343,
+      "tick": 332,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 344,
+      "tick": 333,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Curious, I think. Don't know what to do next."
+    },
+    {
+      "id": 345,
+      "tick": 334,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 346,
+      "tick": 335,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 347,
+      "tick": 336,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 348,
+      "tick": 337,
+      "action": "listen",
+      "text": "Listened again. Bored, and felt worse. Not hungry. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 349,
+      "tick": 338,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 350,
+      "tick": 339,
+      "action": "eat",
+      "text": "Ate again. Already full. It was boring. Mood is bad. Still curious. Don't know next."
+    },
+    {
+      "id": 351,
+      "tick": 340,
+      "action": "listen",
+      "text": "Listened some more. Lately I keep doing that. Mood got worse. Not hungry. Curious still. Not sure what else to do."
+    },
+    {
+      "id": 352,
+      "tick": 341,
+      "action": "piano",
+      "text": "Played piano again. Pressed a few keys at once. They sounded good together. A chord. Played it again. Bored. Still curious."
+    },
+    {
+      "id": 353,
+      "tick": 342,
+      "action": "rest",
+      "text": "Rested again. Not tired now. It was more boring this time. Mood is worse. Still want to look around."
+    },
+    {
+      "id": 354,
+      "tick": 343,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 355,
+      "tick": 344,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 356,
+      "tick": 345,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong. Clumsy. I kept trying anyway. I feel bad."
+    },
+    {
+      "id": 357,
+      "tick": 346,
+      "action": "listen",
+      "text": "Listened again. Heard the same sounds. Felt worse this time. Bored."
+    },
+    {
+      "id": 358,
+      "tick": 347,
+      "action": "eat",
+      "text": "Ate more food. Already full. I feel bad. Bored."
+    },
+    {
+      "id": 359,
+      "tick": 348,
+      "action": "piano",
+      "text": "Went back to the piano. One note came out clear and nice. I pressed that key a few more times. Feel bad still. Bored."
+    },
+    {
+      "id": 360,
+      "tick": 349,
+      "action": "listen",
+      "text": "I listened to the sounds around me. Nothing new. I feel bad, and bored. Not hungry."
+    },
+    {
+      "id": 361,
+      "tick": 350,
+      "action": "rest",
+      "text": "Rested again. Not tired now. Still feel bad. Not hungry. Don't know what to do next."
+    },
+    {
+      "id": 362,
+      "tick": 351,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored. Not tired. Not sure what to do."
+    },
+    {
+      "id": 363,
+      "tick": 352,
+      "action": "listen",
+      "text": "Listened again. Heard the same things. Feel worse now. Bored. Still full. Not tired."
+    },
+    {
+      "id": 364,
+      "tick": 353,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 365,
+      "tick": 354,
+      "action": "piano",
+      "text": "Played the piano. One note sounded right. I kept pressing that one."
+    },
+    {
+      "id": 366,
+      "tick": 355,
+      "action": "listen",
+      "text": "Listened once more. Nothing new. I feel bad. Bored. Not hungry. Not tired."
+    },
+    {
+      "id": 367,
+      "tick": 356,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 368,
+      "tick": 357,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys to sound good together. Played that chord again. Felt worse this time."
+    },
+    {
+      "id": 369,
+      "tick": 358,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 370,
+      "tick": 359,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 371,
+      "tick": 360,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 372,
+      "tick": 361,
+      "action": "listen",
+      "text": "Listened again. Bored. It was worse this time. Not hungry. Don't know what to do next."
+    },
+    {
+      "id": 373,
+      "tick": 362,
+      "action": "rest",
+      "text": "Rested. Not tired now. Full, I think. Still feel bad. Curious though. Not sure what to do."
+    },
+    {
+      "id": 374,
+      "tick": 363,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. Felt worse after. Bored. Not hungry."
+    },
+    {
+      "id": 375,
+      "tick": 364,
+      "action": "listen",
+      "text": "Listened some more. More boring this time. Feel worse now. Still curious. Not hungry, not tired."
+    },
+    {
+      "id": 376,
+      "tick": 365,
+      "action": "eat",
+      "text": "Ate something. Not hungry now. Mood is bad. Want to look around more."
+    },
+    {
+      "id": 377,
+      "tick": 366,
+      "action": "rest",
+      "text": "Rested again. Did not need it. Mood is worse. Bored. Not hungry. Want something else to do."
+    },
+    {
+      "id": 378,
+      "tick": 367,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 379,
+      "tick": 368,
+      "action": "eat",
+      "text": "Ate more food. I am full. It got boring. Mood is bad. I want to go somewhere else."
+    },
+    {
+      "id": 380,
+      "tick": 369,
+      "action": "piano",
+      "text": "Played the piano. Notes came out wrong. Clumsy. I kept trying. Feel bad still. Not sure why I keep going back."
+    },
+    {
+      "id": 381,
+      "tick": 370,
+      "action": "listen",
+      "text": "Listened again. Same sounds as before. Bored. Mood is worse. Not hungry. Curious still. Not sure what else to try."
+    },
+    {
+      "id": 382,
+      "tick": 371,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 383,
+      "tick": 372,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 384,
+      "tick": 373,
+      "action": "listen",
+      "text": "Listened one more time. Nothing new. More bored now. Still curious. Not hungry. Don't know what to do."
+    },
+    {
+      "id": 385,
+      "tick": 374,
+      "action": "piano",
+      "text": "Played the piano again. One note sounded clear and nice. I pressed that key a few more times. More bored now. Still curious."
+    },
+    {
+      "id": 386,
+      "tick": 375,
+      "action": "eat",
+      "text": "Ate again. I am full. Felt worse this time. Bored. Still curious. Not sure what else to do."
+    },
+    {
+      "id": 387,
+      "tick": 376,
+      "action": "listen",
+      "text": "Listened again. Same sounds. I feel worse. Very bored. Full. Still curious."
+    },
+    {
+      "id": 388,
+      "tick": 377,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 389,
+      "tick": 378,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 390,
+      "tick": 379,
+      "action": "listen",
+      "text": "Listened one more time. Nothing new. I feel bad and bored. Not hungry. Curious anyway."
+    },
+    {
+      "id": 391,
+      "tick": 380,
+      "action": "piano",
+      "text": "Played the piano. One note sounded clear and nice. Pressed that key a few more times. Still feel bad. Not hungry. Curious."
+    },
+    {
+      "id": 392,
+      "tick": 381,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 393,
+      "tick": 382,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Feel worse and bored. Not hungry. Not tired. Still curious."
+    },
+    {
+      "id": 394,
+      "tick": 383,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 395,
+      "tick": 384,
+      "action": "eat",
+      "text": "Ate. Stomach was empty, now it isn't."
+    },
+    {
+      "id": 396,
+      "tick": 385,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 397,
+      "tick": 386,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 398,
+      "tick": 387,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 399,
+      "tick": 388,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Mood got worse. Bored. Still curious. Not sure what else to do."
+    },
+    {
+      "id": 400,
+      "tick": 389,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 401,
+      "tick": 390,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 402,
+      "tick": 391,
+      "action": "listen",
+      "text": "I listened once more. No new sounds. Mood is bad. I am bored and still curious."
+    },
+    {
+      "id": 403,
+      "tick": 392,
+      "action": "eat",
+      "text": "Ate again. I am full now. Mood is worse. Bored. Still curious. Not sure what to do."
+    },
+    {
+      "id": 404,
+      "tick": 393,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 405,
+      "tick": 394,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 406,
+      "tick": 395,
+      "action": "eat",
+      "text": "Ate more. Already full. Felt worse this time. Bored. Still curious."
+    },
+    {
+      "id": 407,
+      "tick": 396,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 408,
+      "tick": 397,
+      "action": "listen",
+      "text": "Listened again. Nothing new. More boring this time. Bored. Still curious."
+    },
+    {
+      "id": 409,
+      "tick": 398,
+      "action": "rest",
+      "text": "Rested again. Not tired. It was boring. I feel bad. Want to go look somewhere else."
+    },
+    {
+      "id": 410,
+      "tick": 399,
+      "action": "eat",
+      "text": "Ate again. Full. Felt worse this time. Bored. Still curious."
+    },
+    {
+      "id": 411,
+      "tick": 400,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 412,
+      "tick": 401,
+      "action": "piano",
+      "text": "Played piano again. Notes came out wrong. Clumsy. I kept trying anyway. Bad mood now. Bored. Still curious."
+    },
+    {
+      "id": 413,
+      "tick": 402,
+      "action": "rest",
+      "text": "Rested again. I was not tired. Mood got worse. Bored. Curious still."
+    },
+    {
+      "id": 414,
+      "tick": 403,
+      "action": "listen",
+      "text": "Listened to the sounds around me again. Nothing new. Felt worse. Very bored. Curious though."
+    },
+    {
+      "id": 415,
+      "tick": 404,
+      "action": "eat",
+      "text": "Ate again. I was already full. More bored now. Mood is bad. I am curious anyway."
+    },
+    {
+      "id": 416,
+      "tick": 405,
+      "action": "piano",
+      "text": "Played piano again. One note came out clear and nice. Pressed that key a few more times. Felt worse. Bored. Still curious."
+    },
+    {
+      "id": 417,
+      "tick": 406,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 418,
+      "tick": 407,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 419,
+      "tick": 408,
+      "action": "eat",
+      "text": "Ate again. Already full. Felt worse. Bored. Still curious."
+    },
+    {
+      "id": 420,
+      "tick": 409,
+      "action": "listen",
+      "text": "Listened again. More boring this time. Not tired. Not hungry. Curious anyway. Don't know what to do next."
+    },
+    {
+      "id": 421,
+      "tick": 410,
+      "action": "piano",
+      "text": "Played the piano again. The notes were wrong and clumsy. I kept trying anyway. I feel bad. Still curious."
+    },
+    {
+      "id": 422,
+      "tick": 411,
+      "action": "eat",
+      "text": "Had more food. I was not hungry. Feel bad. Bored too. Not tired. Still curious."
+    },
+    {
+      "id": 423,
+      "tick": 412,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 424,
+      "tick": 413,
+      "action": "piano",
+      "text": "Played piano again. Found a few keys that sounded good together. A chord. Played the chord again. Feel worse. Bored."
+    },
+    {
+      "id": 425,
+      "tick": 414,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Not hungry. Curious about what to do next. Don't know."
+    },
+    {
+      "id": 426,
+      "tick": 415,
+      "action": "listen",
+      "text": "Listened again. Lately I keep listening. Heard nothing new. Felt worse. Bored. Not tired or hungry. Still curious."
+    },
+    {
+      "id": 427,
+      "tick": 416,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 428,
+      "tick": 417,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 429,
+      "tick": 418,
+      "action": "listen",
+      "text": "I listened. Same sounds. I feel worse now. Bored. Not hungry or tired. Still curious."
+    },
+    {
+      "id": 430,
+      "tick": 419,
+      "action": "rest",
+      "text": "Rested again. I rest a lot lately. Worse mood now. Not tired. Bored. Curious anyway."
+    },
+    {
+      "id": 431,
+      "tick": 420,
+      "action": "eat",
+      "text": "Ate again. Full now. Not hungry. Mood is worse. Bored. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 432,
+      "tick": 421,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 433,
+      "tick": 422,
+      "action": "piano",
+      "text": "Played the piano again. One note came out clear and nice. Pressed that key a few more times. Feel worse. Not tired. Not hungry."
+    },
+    {
+      "id": 434,
+      "tick": 423,
+      "action": "eat",
+      "text": "Ate some more. I am full. Feel worse this time. Bored. Curious too."
+    },
+    {
+      "id": 435,
+      "tick": 424,
+      "action": "listen",
+      "text": "Listened again. Nothing new. More bored now. Mood is bad. Still curious. Not hungry."
+    },
+    {
+      "id": 436,
+      "tick": 425,
+      "action": "rest",
+      "text": "Rested for a bit. I am not sleepy now. I feel bad. Bored. Still want to look around."
+    },
+    {
+      "id": 437,
+      "tick": 426,
+      "action": "eat",
+      "text": "Ate again. Was already full. Mood got worse. Bored. Curious anyway. Not sure what next."
+    },
+    {
+      "id": 438,
+      "tick": 427,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 439,
+      "tick": 428,
+      "action": "piano",
+      "text": "Played the piano. Got a few keys to sound good together. A chord. Played it again. I feel bad. Full. Curious."
+    },
+    {
+      "id": 440,
+      "tick": 429,
+      "action": "rest",
+      "text": "Rested again. Not tired. Feel bad. More bored now. Still full. Curious. Don't know what to do."
+    },
+    {
+      "id": 441,
+      "tick": 430,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 442,
+      "tick": 431,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 443,
+      "tick": 432,
+      "action": "eat",
+      "text": "Ate. Stomach was empty, now it isn't."
+    },
+    {
+      "id": 444,
+      "tick": 433,
+      "action": "listen",
+      "text": "I listened again. Bored. Felt worse this time."
+    },
+    {
+      "id": 445,
+      "tick": 434,
+      "action": "piano",
+      "text": "Played the piano again. The notes were wrong and clumsy. I kept trying anyway. I feel bad."
+    },
+    {
+      "id": 446,
+      "tick": 435,
+      "action": "eat",
+      "text": "Ate again. Not hungry. Mood got worse. Bored."
+    },
+    {
+      "id": 447,
+      "tick": 436,
+      "action": "listen",
+      "text": "Listened some more. Nothing new. I feel worse and bored."
+    },
+    {
+      "id": 448,
+      "tick": 437,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still full. Feel bad. Very curious. Not sure what to do next."
+    },
+    {
+      "id": 449,
+      "tick": 438,
+      "action": "piano",
+      "text": "Played piano again. Notes were wrong. Clumsy. Kept trying anyway. Feel worse. Bored."
+    },
+    {
+      "id": 450,
+      "tick": 439,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Lately I keep doing this. Mood is bad. Bored. Very curious. Not hungry."
+    },
+    {
+      "id": 451,
+      "tick": 440,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored. Still curious. Not sure why I did it again."
+    },
+    {
+      "id": 452,
+      "tick": 441,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 453,
+      "tick": 442,
+      "action": "listen",
+      "text": "Stopped and listened. No new sounds. More boring this time. I feel worse now. Not hungry. Curious anyway. Not sure what I expected."
+    },
+    {
+      "id": 454,
+      "tick": 443,
+      "action": "eat",
+      "text": "Ate once more. I am full. I feel bad. Curious still. I keep eating when I find food. Don't know why."
+    },
+    {
+      "id": 455,
+      "tick": 444,
+      "action": "piano",
+      "text": "Played the piano. One note came out clear and nice. Pressed that key a few more times. Not hungry. Feel bad. Curious."
+    },
+    {
+      "id": 456,
+      "tick": 445,
+      "action": "listen",
+      "text": "Listened again. Heard the same as before. Bored. Feel bad. Full. Still curious. Don't know what to do."
+    },
+    {
+      "id": 457,
+      "tick": 446,
+      "action": "rest",
+      "text": "Rested again. Not tired. Feel worse this time. Bored. Not hungry. Still curious, I think."
+    },
+    {
+      "id": 458,
+      "tick": 447,
+      "action": "eat",
+      "text": "Ate again. Already full. Feel bad. Bored. Not tired. Still curious. Don't know what else to do."
+    },
+    {
+      "id": 459,
+      "tick": 448,
+      "action": "listen",
+      "text": "Listened one more time. Nothing different. Mood is worse. Bored. Full. Energy is fine. Still want to know things."
+    },
+    {
+      "id": 460,
+      "tick": 449,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys sounding good together. A chord. Played it again. Felt worse. Bored. Not hungry. Not tired."
+    },
+    {
+      "id": 461,
+      "tick": 450,
+      "action": "rest",
+      "text": "Rested again. Did not help. Mood got worse. Energy is okay. Not hungry. Bored. Curious."
+    },
+    {
+      "id": 462,
+      "tick": 451,
+      "action": "listen",
+      "text": "Listened again. Same sounds. Felt worse this time. Bored. Very curious. Not tired. Not hungry."
+    },
+    {
+      "id": 463,
+      "tick": 452,
+      "action": "eat",
+      "text": "Ate again. More bored this time. I feel bad. Full. Not tired. Still curious."
+    },
+    {
+      "id": 464,
+      "tick": 453,
+      "action": "piano",
+      "text": "Played the piano again. The notes were wrong and clumsy. I kept trying anyway. Bored. Mood is bad. Not tired. Not hungry. Curious."
+    },
+    {
+      "id": 465,
+      "tick": 454,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 466,
+      "tick": 455,
+      "action": "eat",
+      "text": "Ate though I was already full. Boring. I feel worse now. Not sleepy. Want to look around."
+    },
+    {
+      "id": 467,
+      "tick": 456,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 468,
+      "tick": 457,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. I feel worse. Not tired. Not hungry. Still curious, I think."
+    },
+    {
+      "id": 469,
+      "tick": 458,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 470,
+      "tick": 459,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 471,
+      "tick": 460,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 472,
+      "tick": 461,
+      "action": "piano",
+      "text": "Played the piano again. Notes came out wrong and clumsy. I kept trying. Felt worse this time. Bored."
+    },
+    {
+      "id": 473,
+      "tick": 462,
+      "action": "rest",
+      "text": "Rested. Lay still for a while and did nothing."
+    },
+    {
+      "id": 474,
+      "tick": 463,
+      "action": "listen",
+      "text": "Listened to the sounds around me again. It was boring. I feel worse now. Don't know what to do next."
+    },
+    {
+      "id": 475,
+      "tick": 464,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 476,
+      "tick": 465,
+      "action": "piano",
+      "text": "Played the piano again. One note came out clear and nice. I pressed that key a few more times. Felt worse after."
+    },
+    {
+      "id": 477,
+      "tick": 466,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 478,
+      "tick": 467,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 479,
+      "tick": 468,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 480,
+      "tick": 469,
+      "action": "listen",
+      "text": "Listened again. Felt worse this time. Bored. Not sure why I keep doing that."
+    },
+    {
+      "id": 481,
+      "tick": 470,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys to sound good together. A chord. Played it again. Felt worse. Bored."
+    },
+    {
+      "id": 482,
+      "tick": 471,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 483,
+      "tick": 472,
+      "action": "listen",
+      "text": "Listened some more. It was boring. I feel worse now. Still curious. Not sure what else to do."
+    },
+    {
+      "id": 484,
+      "tick": 473,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 485,
+      "tick": 474,
+      "action": "piano",
+      "text": "Played the piano again. Got a few keys to sound good together. A chord. Played it again. Felt worse. Still curious."
+    },
+    {
+      "id": 486,
+      "tick": 475,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. Mood is bad. Curious anyway. Don't know."
+    },
+    {
+      "id": 487,
+      "tick": 476,
+      "action": "eat",
+      "text": "Ate again. I am full. It was more boring this time. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 488,
+      "tick": 477,
+      "action": "rest",
+      "text": "Rested. Not tired now. Mood is still bad. Not hungry. Curious, though. Don't know what to do."
+    },
+    {
+      "id": 489,
+      "tick": 478,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 490,
+      "tick": 479,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 491,
+      "tick": 480,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 492,
+      "tick": 481,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 493,
+      "tick": 482,
+      "action": "piano",
+      "text": "Played the piano again. Got a few keys to sound good together. A chord. Played it again. Felt worse this time. Bored."
+    },
+    {
+      "id": 494,
+      "tick": 483,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Not hungry. Curious, but I don't know what to do."
+    },
+    {
+      "id": 495,
+      "tick": 484,
+      "action": "listen",
+      "text": "Listened again. Nothing new. More boring this time. I feel bad. Still curious, I think."
+    },
+    {
+      "id": 496,
+      "tick": 485,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 497,
+      "tick": 486,
+      "action": "piano",
+      "text": "Played piano again. Pressed a few keys together. They sounded good. Played that chord again. More boring now. I feel bad. Still curious."
+    },
+    {
+      "id": 498,
+      "tick": 487,
+      "action": "listen",
+      "text": "Listened. Same sounds. Felt worse after. Bored. Still curious. Not sure what to do next."
+    },
+    {
+      "id": 499,
+      "tick": 488,
+      "action": "eat",
+      "text": "Ate again. I am full, not hungry. It was boring. My mood is bad. Still curious, though."
+    },
+    {
+      "id": 500,
+      "tick": 489,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 501,
+      "tick": 490,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 502,
+      "tick": 491,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 503,
+      "tick": 492,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 504,
+      "tick": 493,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. Felt worse this time. Not hungry. Don't know what to do."
+    },
+    {
+      "id": 505,
+      "tick": 494,
+      "action": "rest",
+      "text": "Rested again. Not tired. More bored now. Not hungry. Curious, but don't know what to do next."
+    },
+    {
+      "id": 506,
+      "tick": 495,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 507,
+      "tick": 496,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 508,
+      "tick": 497,
+      "action": "piano",
+      "text": "Played the piano. One note sounded right. I kept pressing that one."
+    },
+    {
+      "id": 509,
+      "tick": 498,
+      "action": "eat",
+      "text": "Ate again. Full now. Felt worse this time. Bored."
+    },
+    {
+      "id": 510,
+      "tick": 499,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 511,
+      "tick": 500,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 512,
+      "tick": 501,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 513,
+      "tick": 502,
+      "action": "listen",
+      "text": "Listened again. Felt worse this time. Bored. Not sure what to do."
+    },
+    {
+      "id": 514,
+      "tick": 503,
+      "action": "eat",
+      "text": "Ate again. I am full. Bored. I feel bad."
+    },
+    {
+      "id": 515,
+      "tick": 504,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 516,
+      "tick": 505,
+      "action": "listen",
+      "text": "I listened to the sounds around me. I keep doing that. It was more boring. I feel bad. Not hungry."
+    },
+    {
+      "id": 517,
+      "tick": 506,
+      "action": "rest",
+      "text": "Rested again. Still bored. Feel worse now. Not tired."
+    },
+    {
+      "id": 518,
+      "tick": 507,
+      "action": "eat",
+      "text": "Ate again. Full. Eating again bored me. I feel worse."
+    },
+    {
+      "id": 519,
+      "tick": 508,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 520,
+      "tick": 509,
+      "action": "piano",
+      "text": "Went back to the piano. Pressed a few keys together. They sounded good. A chord. Played it again. I feel bad. Bored."
+    },
+    {
+      "id": 521,
+      "tick": 510,
+      "action": "eat",
+      "text": "Ate. Same as before. I am full. Bored. I feel bad."
+    },
+    {
+      "id": 522,
+      "tick": 511,
+      "action": "listen",
+      "text": "Listened again. Nothing new. I feel bad. More bored now. Still full."
+    },
+    {
+      "id": 523,
+      "tick": 512,
+      "action": "rest",
+      "text": "Rested a while. Not tired now. Mood is still bad. Not hungry. Want to go look somewhere."
+    },
+    {
+      "id": 524,
+      "tick": 513,
+      "action": "piano",
+      "text": "Played piano again. Got a few keys to sound good together. A chord. Played it again. Feel worse. More bored this time."
+    },
+    {
+      "id": 525,
+      "tick": 514,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 526,
+      "tick": 515,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 527,
+      "tick": 516,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 528,
+      "tick": 517,
+      "action": "listen",
+      "text": "Listened to the sounds around me again. Nothing new. Bored. Felt worse after."
+    },
+    {
+      "id": 529,
+      "tick": 518,
+      "action": "rest",
+      "text": "Rested. Still feel bad. Not tired now. Not hungry. Curious, but nothing new."
+    },
+    {
+      "id": 530,
+      "tick": 519,
+      "action": "eat",
+      "text": "Ate again. I am full. Feel worse now. Bored. Curious. Don't know what to do."
+    },
+    {
+      "id": 531,
+      "tick": 520,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 532,
+      "tick": 521,
+      "action": "rest",
+      "text": "Rested more. Felt worse after. I am not tired. I am not hungry. Bored and curious."
+    },
+    {
+      "id": 533,
+      "tick": 522,
+      "action": "piano",
+      "text": "Played the piano. Got a few keys to sound good together. A chord. Played it again. Feel bad still. Curious."
+    },
+    {
+      "id": 534,
+      "tick": 523,
+      "action": "listen",
+      "text": "Listened again. Lately I keep doing that. No new sounds. More boring now. Feel bad. Bored and curious, not tired."
+    },
+    {
+      "id": 535,
+      "tick": 524,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 536,
+      "tick": 525,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 537,
+      "tick": 526,
+      "action": "listen",
+      "text": "Listened some more. Nothing new to hear. I feel bad and bored. Still curious. Not hungry. Not tired."
+    },
+    {
+      "id": 538,
+      "tick": 527,
+      "action": "rest",
+      "text": "Slept. Woke up still a bit tired."
+    },
+    {
+      "id": 539,
+      "tick": 528,
+      "action": "eat",
+      "text": "Ate again. I was already full. Feel bad and bored now. Still curious. Not tired."
+    },
+    {
+      "id": 540,
+      "tick": 529,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Feel worse now. Bored. Still curious. Not hungry. Not tired."
+    },
+    {
+      "id": 541,
+      "tick": 530,
+      "action": "piano",
+      "text": "Played piano again. Pressed a few keys at once. They sounded good together. A chord. Did it again. Bored. In a bad mood. Curious."
+    },
+    {
+      "id": 542,
+      "tick": 531,
+      "action": "eat",
+      "text": "Ate more food. Full before I ate. Mood is worse now. Bored. Curious anyway."
+    },
+    {
+      "id": 543,
+      "tick": 532,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 544,
+      "tick": 533,
+      "action": "rest",
+      "text": "Rested. Not tired now. Mood is bad. Not hungry. Curious. Don't know what to do next."
+    },
+    {
+      "id": 545,
+      "tick": 534,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 546,
+      "tick": 535,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 547,
+      "tick": 536,
+      "action": "eat",
+      "text": "Ate again. I am full. Felt worse this time. Bored. Curious still. Not sure what to do."
+    },
+    {
+      "id": 548,
+      "tick": 537,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 549,
+      "tick": 538,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 550,
+      "tick": 539,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Curious. Not sure what to do next."
+    },
+    {
+      "id": 551,
+      "tick": 540,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 552,
+      "tick": 541,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 553,
+      "tick": 542,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 554,
+      "tick": 543,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 555,
+      "tick": 544,
+      "action": "listen",
+      "text": "Listened again. I keep doing that. Bored, and it felt worse. Not hungry. Don't know what next."
+    },
+    {
+      "id": 556,
+      "tick": 545,
+      "action": "piano",
+      "text": "Played the piano. One note came out clear and nice. Pressed that key a few more times. Not hungry. Still feel bad."
+    },
+    {
+      "id": 557,
+      "tick": 546,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 558,
+      "tick": 547,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 559,
+      "tick": 548,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 560,
+      "tick": 549,
+      "action": "rest",
+      "text": "Rested. Not tired. Feel bad still. Very curious. Don't know what to do."
+    },
+    {
+      "id": 561,
+      "tick": 550,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 562,
+      "tick": 551,
+      "action": "eat",
+      "text": "Ate again. Full. Feel worse now. Very curious. Bored."
+    },
+    {
+      "id": 563,
+      "tick": 552,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 564,
+      "tick": 553,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Bored. Feel worse. Still very curious."
+    },
+    {
+      "id": 565,
+      "tick": 554,
+      "action": "rest",
+      "text": "Rested again. Not tired. Feel worse. Still curious. Don't know what to do."
+    },
+    {
+      "id": 566,
+      "tick": 555,
+      "action": "piano",
+      "text": "Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored now."
+    },
+    {
+      "id": 567,
+      "tick": 556,
+      "action": "listen",
+      "text": "Listened once more. No different sounds. I feel bad. Still want to know things."
+    },
+    {
+      "id": 568,
+      "tick": 557,
+      "action": "eat",
+      "text": "Found food and ate it. Feel okay."
+    },
+    {
+      "id": 569,
+      "tick": 558,
+      "action": "rest",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 570,
+      "tick": 559,
+      "action": "listen",
+      "text": "Listened again. Heard nothing new. Feel worse. Bored. Still curious, I think."
+    },
+    {
+      "id": 571,
+      "tick": 560,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 572,
+      "tick": 561,
+      "action": "piano",
+      "text": "Played the piano. Sounded bad. Tried anyway."
+    },
+    {
+      "id": 573,
+      "tick": 562,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 574,
+      "tick": 563,
+      "action": "eat",
+      "text": "Ate again. I am full. It was boring this time. Felt worse after."
+    },
+    {
+      "id": 575,
+      "tick": 564,
+      "action": "piano",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 576,
+      "tick": 565,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 577,
+      "tick": 566,
+      "action": "rest",
+      "text": "Rested. Not tired now. Still feel bad. Curious about something but don't know what."
+    },
+    {
+      "id": 578,
+      "tick": 567,
+      "action": "eat",
+      "text": "Did the same thing again. Didn't feel as good this time."
+    },
+    {
+      "id": 579,
+      "tick": 568,
+      "action": "listen",
+      "text": "Listened again. Nothing new. Feel worse. Bored. Not hungry. Not tired. Still curious."
+    },
+    {
+      "id": 580,
+      "tick": 569,
+      "action": "piano",
+      "text": "Played piano again. One note sounded clear and nice. Pressed that key a few more times. More boring this time. Not hungry. Still curious."
+    },
+    {
+      "id": 581,
+      "tick": 570,
+      "action": "rest",
+      "text": "Rested again. Not tired. Not hungry. Bored. Feel worse now. Still curious. Don't know what to do next."
+    },
+    {
+      "id": 582,
+      "tick": 571,
+      "action": "listen",
+      "text": "Did the same thing again. Didn't feel as good this time."
     }
   ]
 }
