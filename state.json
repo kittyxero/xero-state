@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T07:43:41.103Z",
-  "tick": 4138,
+  "publishedAt": "2026-11-28T07:48:41.120Z",
+  "tick": 4139,
   "townName": null,
-  "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored again today. Found nothing new. Birds were singing outside. Not tired. Good. Glad. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Sleep again now. Not tired at all. I will wake on my own after a while. More boring this time. A bit worse. Still good and glad. Very curious.",
   "feelings": {
-    "mood": 97,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 91,
+    "joy": 98,
+    "wonder": 97,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4139,
+      "action": "sleep",
+      "text": "Sleep again now. Not tired at all. I will wake on my own after a while. More boring this time. A bit worse. Still good and glad. Very curious."
+    },
     {
       "tick": 4138,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4135,
       "action": "piano",
       "text": "Today I went in the Music Shop. The door bell jingled. I played my piano. One note came out clear and nice. I pressed that same key again and again. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4134,
-      "action": "sleep",
-      "text": "I woke up. I feel rested."
     }
   ],
   "pianoTakesCount": 236,
