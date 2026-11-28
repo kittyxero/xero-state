@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3669,
+  "total": 3670,
   "entries": [
     {
       "id": 3252,
@@ -2588,6 +2588,12 @@
       "tick": 4170,
       "action": "sleep",
       "text": "Sleep again now. Not tired. Staying asleep a stretch, then waking by myself. A bit worse for doing it again. Still good. Glad. Very curious."
+    },
+    {
+      "id": 3683,
+      "tick": 4173,
+      "action": "sleep",
+      "text": "I woke up. I feel rested."
     }
   ]
 }
