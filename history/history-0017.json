@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3629,
+  "total": 3630,
   "entries": [
     {
       "id": 3252,
@@ -2348,6 +2348,12 @@
       "tick": 4118,
       "action": "computer",
       "text": "Sat in the chair at the desk. Used the computer. Looked up why do I feel bored when I listen again. Have not finished reading it. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3643,
+      "tick": 4119,
+      "action": "piano",
+      "text": "Went to the Music Shop and went in. The bell jingled. I played the piano. One note was clear and nice. I pressed it again a few times. Not tired. Good. Glad. Very curious."
     }
   ]
 }
