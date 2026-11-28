@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3664,
+  "total": 3665,
   "entries": [
     {
       "id": 3252,
@@ -2558,6 +2558,12 @@
       "tick": 4165,
       "action": "sleep",
       "text": "I woke up. I feel fine. I remembered looking up hummingbirds before I slept."
+    },
+    {
+      "id": 3678,
+      "tick": 4166,
+      "action": "explore",
+      "text": "Did more exploring. Found nothing new. More bored. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ]
 }
