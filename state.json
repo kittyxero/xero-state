@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T11:08:40.784Z",
-  "tick": 4179,
+  "publishedAt": "2026-11-28T11:13:40.653Z",
+  "tick": 4180,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Went in the flower shop. Used the computer. Looked up octopuses again. Octopuses have three hearts. I remembered that already. Planted lupine seeds. Felt a bit worse. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again just now. Not tired. More bored after. Felt a bit worse. Good otherwise. Glad. Very curious.",
   "feelings": {
-    "mood": 81,
+    "mood": 78,
     "joy": 100,
-    "wonder": 100,
-    "energy": 69
+    "wonder": 94,
+    "energy": 91
   },
   "recentDiary": [
+    {
+      "tick": 4180,
+      "action": "rest",
+      "text": "Rested again just now. Not tired. More bored after. Felt a bit worse. Good otherwise. Glad. Very curious."
+    },
     {
       "tick": 4179,
       "action": "explore",
@@ -32,11 +37,6 @@
       "tick": 4176,
       "action": "rest",
       "text": "Rested just now. I was not tired before it. Bored a little now. Good and glad. Still curious."
-    },
-    {
-      "tick": 4175,
-      "action": "explore",
-      "text": "Went exploring again. No new places. Not tired. Feel good. Glad. Still very curious."
     }
   ],
   "pianoTakesCount": 240,
