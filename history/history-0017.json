@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3641,
+  "total": 3642,
   "entries": [
     {
       "id": 3252,
@@ -2420,6 +2420,12 @@
       "tick": 4135,
       "action": "piano",
       "text": "Today I went in the Music Shop. The door bell jingled. I played my piano. One note came out clear and nice. I pressed that same key again and again. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3655,
+      "tick": 4136,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the computer in my apartment. Looked up koalas again. Koalas have fingerprints almost exactly the same as a person's. I remembered that already. Not tired. Good. Glad. Very curious."
     }
   ]
 }
