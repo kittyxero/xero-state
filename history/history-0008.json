@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3585,
+  "total": 3586,
   "entries": [
     {
       "id": 3501,
@@ -512,6 +512,12 @@
       "tick": 4056,
       "action": "piano",
       "text": "Inside the Music Shop. Bell jingled going in. At my piano, I pressed a few keys at once. They sounded good together. A chord. I played it again. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3586,
+      "tick": 4057,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer again. Looked up saving things. My computer can save things I make. What I save stays saved. I remembered that already. More bored. Felt worse a bit. Not tired. Good."
     }
   ]
 }
