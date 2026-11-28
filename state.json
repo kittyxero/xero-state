@@ -1,23 +1,18 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T03:09:34.582Z",
-  "tick": 4084,
+  "publishedAt": "2026-11-28T03:11:56.628Z",
+  "tick": 4083,
   "townName": null,
   "asleep": false,
-  "lastAction": "explore",
-  "latestText": "Explored some more. Turned up nothing new at all. Bored. Felt worse a little. Not tired. Still good and glad. Curious.",
+  "lastAction": "rest",
+  "latestText": "Rested again. Not tired. More bored this time. Felt a bit worse. Still good. Still glad. Curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 93,
     "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
-    {
-      "tick": 4084,
-      "action": "explore",
-      "text": "Explored some more. Turned up nothing new at all. Bored. Felt worse a little. Not tired. Still good and glad. Curious."
-    },
     {
       "tick": 4083,
       "action": "rest",
@@ -37,6 +32,11 @@
       "tick": 4080,
       "action": "rest",
       "text": "Rested. Not tired at all. Bored after. Still good. Still glad. Very curious."
+    },
+    {
+      "tick": 4079,
+      "action": "explore",
+      "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 229,
