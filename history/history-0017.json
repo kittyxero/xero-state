@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3686,
+  "total": 3687,
   "entries": [
     {
       "id": 3252,
@@ -2690,6 +2690,12 @@
       "tick": 4189,
       "action": "listen",
       "text": "Listened again. Heard birds outside. Same singing. Bored more now, felt worse for it. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3700,
+      "tick": 4190,
+      "action": "rest",
+      "text": "Had another rest. Not tired before. Bored a bit after. Felt worse this time. Good. Glad. Still very curious."
     }
   ]
 }
