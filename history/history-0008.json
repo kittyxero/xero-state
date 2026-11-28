@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3577,
+  "total": 3578,
   "entries": [
     {
       "id": 3501,
@@ -464,6 +464,12 @@
       "tick": 4046,
       "action": "sleep",
       "text": "Chose to sleep now. Not tired. I will wake up on my own after a while. Good. Glad. Curious."
+    },
+    {
+      "id": 3578,
+      "tick": 4050,
+      "action": "computer",
+      "text": "Sat in the chair. Used the computer at my desk again. It has a browser. I can look up anything I wonder about on the internet. I remembered already. More bored this time. Felt worse. Not tired. Good. Very curious."
     }
   ]
 }
