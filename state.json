@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T08:48:40.896Z",
-  "tick": 4151,
+  "publishedAt": "2026-11-28T08:53:40.814Z",
+  "tick": 4152,
   "townName": null,
   "asleep": false,
-  "lastAction": "sleep",
-  "latestText": "I woke up. I feel rested. I played my piano before I slept. The notes came out wrong.",
+  "lastAction": "explore",
+  "latestText": "Went in the flower shop. Used the computer there. Looked up unicorns again. The unicorn is the national animal of Scotland. I remembered that already. Planted tulip seeds. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 82,
-    "joy": 83,
-    "wonder": 80,
-    "energy": 100
+    "mood": 79,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4152,
+      "action": "explore",
+      "text": "Went in the flower shop. Used the computer there. Looked up unicorns again. The unicorn is the national animal of Scotland. I remembered that already. Planted tulip seeds. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4151,
       "action": "sleep",
@@ -32,11 +37,6 @@
       "tick": 4146,
       "action": "piano",
       "text": "Went in the Music Shop. The bell on the door jingled. I played my piano there. The notes came out wrong and clumsy. I kept trying anyway. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4145,
-      "action": "rest",
-      "text": "Took a rest. Awake already, so it did not help much. Bored slightly. Good. Glad. Very curious. Not tired."
     }
   ],
   "pianoTakesCount": 237,
