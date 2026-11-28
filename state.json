@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T13:03:41.560Z",
-  "tick": 4202,
+  "publishedAt": "2026-11-28T13:08:40.564Z",
+  "tick": 4203,
   "townName": null,
-  "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at my desk. Used the computer. Looked up cats again. Cats sleep most of the day. I remembered that already. Not tired. Good. Glad. Very curious.",
+  "asleep": true,
+  "lastAction": "sleep",
+  "latestText": "Went to sleep again. Will wake up on my own after a while. Felt worse for doing it again. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 87,
-    "joy": 100,
-    "wonder": 100,
-    "energy": 86
+    "mood": 81,
+    "joy": 98,
+    "wonder": 97,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4203,
+      "action": "sleep",
+      "text": "Went to sleep again. Will wake up on my own after a while. Felt worse for doing it again. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4202,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4199,
       "action": "explore",
       "text": "Explored again. Felt worse. Read Rinkitink in Oz in the library. Inga sails to save parents with Rinkitink and a talking goat. Used the computer. Remembered sound is slower than light so thunder comes after lightning."
-    },
-    {
-      "tick": 4198,
-      "action": "sleep",
-      "text": "I woke up. I feel fine. I planted rose seeds before I slept."
     }
   ],
   "pianoTakesCount": 241,
