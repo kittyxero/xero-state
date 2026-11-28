@@ -1,18 +1,28 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T02:38:53.924Z",
-  "tick": 4077,
+  "publishedAt": "2026-11-28T02:48:01.685Z",
+  "tick": 4079,
   "townName": null,
-  "asleep": true,
-  "lastAction": "sleep",
-  "latestText": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious.",
+  "asleep": false,
+  "lastAction": "explore",
+  "latestText": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious.",
   "feelings": {
-    "mood": 80,
-    "joy": 88,
-    "wonder": 85,
-    "energy": 100
+    "mood": 82,
+    "joy": 89,
+    "wonder": 99,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4079,
+      "action": "explore",
+      "text": "Explored. Library. Read The Scarecrow of Oz. Trot and Cap'n Bill are carried to Oz and help Scarecrow face a wicked king. Used the computer there. Wombat droppings are cube-shaped. I remembered that. Glad. Very curious."
+    },
+    {
+      "tick": 4078,
+      "action": "sleep",
+      "text": "I woke up. I feel rested. I played my piano before I slept."
+    },
     {
       "tick": 4075,
       "action": "sleep",
@@ -27,16 +37,6 @@
       "tick": 4073,
       "action": "rest",
       "text": "Rested again today. Lately I rest a lot. I was not tired. It was boring, and I felt a bit worse. Still glad."
-    },
-    {
-      "tick": 4072,
-      "action": "explore",
-      "text": "Went out exploring again. No new places. No new things. Bored again, and a bit worse after. Not tired. Still good and glad. Curious."
-    },
-    {
-      "tick": 4071,
-      "action": "listen",
-      "text": "Listened. Crickets outside. Same sounds again. A bit bored. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 228,
