@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T13:58:41.128Z",
-  "tick": 4213,
+  "publishedAt": "2026-11-28T14:03:40.973Z",
+  "tick": 4214,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "At my desk in the chair. Used the computer again. Looked up sea otters. Sea otters hold hands when they sleep. I remembered that already. Felt a bit worse. Not tired. Good. Glad. Very curious.",
+  "lastAction": "listen",
+  "latestText": "Chose to listen. Birds outside, singing. Same as before. A bit bored. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 82,
+    "mood": 90,
     "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 85
   },
   "recentDiary": [
+    {
+      "tick": 4214,
+      "action": "listen",
+      "text": "Chose to listen. Birds outside, singing. Same as before. A bit bored. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4213,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4210,
       "action": "explore",
       "text": "Went exploring. Found nothing new this time. Not tired. Feel good. Glad. Very curious."
-    },
-    {
-      "tick": 4209,
-      "action": "rest",
-      "text": "Took a rest. Not tired at all. A bit bored after. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 243,
