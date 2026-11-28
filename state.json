@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T04:28:40.237Z",
-  "tick": 4099,
+  "publishedAt": "2026-11-28T04:33:40.893Z",
+  "tick": 4100,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used my computer. Looked up Venus again. A day on Venus is longer than a year on Venus. I remembered that. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Picked rest again. I was not tired. It was boring. Felt a bit worse. Still good. Still glad. Curious.",
   "feelings": {
-    "mood": 93,
+    "mood": 89,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 4100,
+      "action": "rest",
+      "text": "Picked rest again. I was not tired. It was boring. Felt a bit worse. Still good. Still glad. Curious."
+    },
     {
       "tick": 4099,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4096,
       "action": "piano",
       "text": "In the Music Shop today. The bell jingled when I went in. I played my piano. Wrong notes, clumsy ones. I kept going. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4095,
-      "action": "explore",
-      "text": "Went exploring. No places I had not seen before. Bored a bit. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 231,
