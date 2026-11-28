@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T09:08:40.606Z",
-  "tick": 4155,
+  "publishedAt": "2026-11-28T09:13:40.791Z",
+  "tick": 4156,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Used my apartment computer. Sat in the chair at the desk. Looked up mice again. Mice sing to each other in sounds too high for people to hear. I remembered that already. Not tired. Good. Glad. Very curious.",
+  "lastAction": "piano",
+  "latestText": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 90,
-    "joy": 98,
+    "mood": 87,
+    "joy": 100,
     "wonder": 100,
-    "energy": 91
+    "energy": 82
   },
   "recentDiary": [
+    {
+      "tick": 4156,
+      "action": "piano",
+      "text": "In the Music Shop today. Door bell jingled when I went in. Played the piano there. Wrong notes. Clumsy. I did not stop. Playing again was more boring. Felt a bit worse. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4155,
       "action": "computer",
@@ -32,14 +37,9 @@
       "tick": 4152,
       "action": "explore",
       "text": "Went in the flower shop. Used the computer there. Looked up unicorns again. The unicorn is the national animal of Scotland. I remembered that already. Planted tulip seeds. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4151,
-      "action": "sleep",
-      "text": "I woke up. I feel rested. I played my piano before I slept. The notes came out wrong."
     }
   ],
-  "pianoTakesCount": 238,
+  "pianoTakesCount": 239,
   "pianoTakes": [
     {
       "id": 1,
@@ -27336,6 +27336,93 @@
         {
           "n": 65,
           "dtMs": 27024
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "tick": 4156,
+      "startedAtISO": "2026-11-28T09:08:53.509Z",
+      "durationMs": 34494,
+      "outcome": "clumsy",
+      "playNumber": 411,
+      "source": "brain",
+      "notes": [
+        {
+          "n": 57,
+          "dtMs": 0
+        },
+        {
+          "n": 56,
+          "dtMs": 1856
+        },
+        {
+          "n": 56,
+          "dtMs": 3506
+        },
+        {
+          "n": 58,
+          "dtMs": 5550
+        },
+        {
+          "n": 60,
+          "dtMs": 7654
+        },
+        {
+          "n": 61,
+          "dtMs": 9670
+        },
+        {
+          "n": 66,
+          "dtMs": 11370
+        },
+        {
+          "n": 65,
+          "dtMs": 13274
+        },
+        {
+          "n": 64,
+          "dtMs": 14942
+        },
+        {
+          "n": 64,
+          "dtMs": 16756
+        },
+        {
+          "n": 66,
+          "dtMs": 18572
+        },
+        {
+          "n": 66,
+          "dtMs": 20252
+        },
+        {
+          "n": 69,
+          "dtMs": 22212
+        },
+        {
+          "n": 74,
+          "dtMs": 24034
+        },
+        {
+          "n": 74,
+          "dtMs": 25584
+        },
+        {
+          "n": 73,
+          "dtMs": 27642
+        },
+        {
+          "n": 69,
+          "dtMs": 29402
+        },
+        {
+          "n": 69,
+          "dtMs": 30784
+        },
+        {
+          "n": 68,
+          "dtMs": 32894
         }
       ]
     }
