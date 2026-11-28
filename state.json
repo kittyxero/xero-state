@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T07:53:41.312Z",
-  "tick": 4140,
+  "publishedAt": "2026-11-28T07:58:40.971Z",
+  "tick": 4141,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Sleep again now. Not tired at all. I will wake on my own after a while. More boring this time. A bit worse. Still good and glad. Very curious.",
   "feelings": {
-    "mood": 88,
-    "joy": 93,
-    "wonder": 91,
+    "mood": 84,
+    "joy": 88,
+    "wonder": 85,
     "energy": 100
   },
   "recentDiary": [
