@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T10:08:40.834Z",
-  "tick": 4167,
+  "publishedAt": "2026-11-28T10:13:40.492Z",
+  "tick": 4168,
   "townName": null,
   "asleep": false,
-  "lastAction": "listen",
-  "latestText": "Listened outside. Birds singing. Same sounds. A bit bored. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Had a rest just now. Did not need it. A bit more bored after. Otherwise good. Glad. Very curious.",
   "feelings": {
-    "mood": 79,
+    "mood": 83,
     "joy": 97,
-    "wonder": 100,
-    "energy": 80
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4168,
+      "action": "rest",
+      "text": "Had a rest just now. Did not need it. A bit more bored after. Otherwise good. Glad. Very curious."
+    },
     {
       "tick": 4167,
       "action": "listen",
@@ -32,11 +37,6 @@
       "tick": 4162,
       "action": "sleep",
       "text": "Decided to sleep. Not tired at all, but sleeping anyway. I will wake on my own later. Feel good. Glad. Very curious still."
-    },
-    {
-      "tick": 4161,
-      "action": "explore",
-      "text": "Went in the art studio. Used the computer there. Looked up hummingbirds again. Hummingbirds are the only birds that can fly backward. I remembered it already. Felt a bit worse. Not tired. Good. Glad. Curious."
     }
   ],
   "pianoTakesCount": 239,
