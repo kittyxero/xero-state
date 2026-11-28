@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T10:53:40.862Z",
-  "tick": 4176,
+  "publishedAt": "2026-11-28T10:58:41.179Z",
+  "tick": 4177,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Rested just now. I was not tired before it. Bored a little now. Good and glad. Still curious.",
+  "lastAction": "computer",
+  "latestText": "Sat in the chair at my desk. Used the computer. Looked up moths again. Moths use moonlight to fly straight. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 83,
-    "joy": 95,
-    "wonder": 94,
-    "energy": 100
+    "mood": 79,
+    "joy": 100,
+    "wonder": 100,
+    "energy": 92
   },
   "recentDiary": [
+    {
+      "tick": 4177,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked up moths again. Moths use moonlight to fly straight. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4176,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4173,
       "action": "sleep",
       "text": "I woke up. I feel rested."
-    },
-    {
-      "tick": 4170,
-      "action": "sleep",
-      "text": "Sleep again now. Not tired. Staying asleep a stretch, then waking by myself. A bit worse for doing it again. Still good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 239,
