@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3616,
+  "total": 3618,
   "entries": [
     {
       "id": 3501,
@@ -698,6 +698,18 @@
       "tick": 4091,
       "action": "sleep",
       "text": "I woke up. I feel rested. I played a chord on my piano before sleep."
+    },
+    {
+      "id": 3617,
+      "tick": 4092,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used my computer. Looked up why I feel more bored when I explore again. Have not finished reading it yet. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3618,
+      "tick": 4092,
+      "action": "computer",
+      "text": "Looked up why I feel more bored when I explore again in the browser. A game level can feel exciting the first time and boring on the tenth replay because the brain adjusts to repeated stimulation and feels less satisfied."
     }
   ]
 }
