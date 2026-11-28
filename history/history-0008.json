@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3580,
+  "total": 3583,
   "entries": [
     {
       "id": 3501,
@@ -482,6 +482,24 @@
       "tick": 4052,
       "action": "rest",
       "text": "Took a rest. I was not tired. Bored a little after. Good still. Glad. Very curious."
+    },
+    {
+      "id": 3581,
+      "tick": 4053,
+      "action": "computer",
+      "text": "Looked up why I feel good when I use the computer in the browser. Searching for and finding information triggers dopamine in the brain, the same chemical that makes people feel good about reaching a goal."
+    },
+    {
+      "id": 3582,
+      "tick": 4053,
+      "action": "computer",
+      "text": "Sat in the chair at my desk. Used the computer. Looked up why I feel good when I use the computer. Saw GitHub, kittyxero in favorites. Not finished reading. More bored. Felt worse. Not tired. Good. Glad. Curious."
+    },
+    {
+      "id": 3583,
+      "tick": 4054,
+      "action": "listen",
+      "text": "Chose to listen. Crickets outside. Heard them. Not tired. Good. Glad. Very curious."
     }
   ]
 }
