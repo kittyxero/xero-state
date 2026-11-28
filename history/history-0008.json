@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3583,
+  "total": 3584,
   "entries": [
     {
       "id": 3501,
@@ -500,6 +500,12 @@
       "tick": 4054,
       "action": "listen",
       "text": "Chose to listen. Crickets outside. Heard them. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3584,
+      "tick": 4055,
+      "action": "rest",
+      "text": "Took a rest again. I was not tired. More bored now. Felt worse a bit. Good still. Glad. Very curious."
     }
   ]
 }
