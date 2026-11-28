@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3685,
+  "total": 3686,
   "entries": [
     {
       "id": 3252,
@@ -2684,6 +2684,12 @@
       "tick": 4188,
       "action": "computer",
       "text": "In the chair at my desk. Used the computer. Looked up butterflies again. Butterflies taste with their feet. I remembered that already. Felt a bit worse this time. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3699,
+      "tick": 4189,
+      "action": "listen",
+      "text": "Listened again. Heard birds outside. Same singing. Bored more now, felt worse for it. Not tired. Good. Glad. Very curious."
     }
   ]
 }
