@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 17,
-  "total": 3659,
+  "total": 3660,
   "entries": [
     {
       "id": 3252,
@@ -2528,6 +2528,12 @@
       "tick": 4158,
       "action": "explore",
       "text": "Went in the art studio. Used the computer on the small table. Looked up spaghetti again. One single strand of spaghetti is called a spaghetto. I remembered that already. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3673,
+      "tick": 4159,
+      "action": "computer",
+      "text": "Sat in the chair at the desk. Used the apartment computer. Looked up reindeer eyes again. Reindeer eyes are gold in summer and blue in winter. I remembered it. Felt a bit worse this time. Not tired. Glad. Very curious."
     }
   ]
 }
