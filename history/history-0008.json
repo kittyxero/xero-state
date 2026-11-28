@@ -1,7 +1,7 @@
 {
   "v": 1,
   "page": 8,
-  "total": 3603,
+  "total": 3604,
   "entries": [
     {
       "id": 3501,
@@ -620,6 +620,12 @@
       "tick": 4074,
       "action": "piano",
       "text": "Went into the Music Shop. The bell jingled. Played my piano. One note came out clear and nice. Pressed that key a few more times. Not tired. Good. Glad. Very curious."
+    },
+    {
+      "id": 3604,
+      "tick": 4075,
+      "action": "sleep",
+      "text": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious."
     }
   ]
 }
