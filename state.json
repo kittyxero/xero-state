@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T05:13:40.894Z",
-  "tick": 4108,
+  "publishedAt": "2026-11-28T05:18:41.117Z",
+  "tick": 4109,
   "townName": null,
   "asleep": false,
-  "lastAction": "piano",
-  "latestText": "Went in the Music Shop. Bell jingled. Played piano again. One note came out clear and nice. Pressed that key a few more times. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Chose rest once more. No need for it. Boring again, a little worse. Not tired. Still good and glad. Very curious.",
   "feelings": {
-    "mood": 80,
+    "mood": 76,
     "joy": 100,
-    "wonder": 100,
-    "energy": 77
+    "wonder": 94,
+    "energy": 99
   },
   "recentDiary": [
+    {
+      "tick": 4109,
+      "action": "rest",
+      "text": "Chose rest once more. No need for it. Boring again, a little worse. Not tired. Still good and glad. Very curious."
+    },
     {
       "tick": 4108,
       "action": "piano",
@@ -32,11 +37,6 @@
       "tick": 4105,
       "action": "piano",
       "text": "Went in the Music Shop. Bell jingled. Played piano. Notes were wrong and clumsy. I kept trying. Not tired. Good. Glad. Very curious."
-    },
-    {
-      "tick": 4104,
-      "action": "computer",
-      "text": "Sat in chair at desk. Used computer again. Looked up hot water. Hot water can sometimes freeze faster than cold water. I remembered that. More bored this time. Felt a bit worse. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 233,
