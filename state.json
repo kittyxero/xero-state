@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T07:33:41.157Z",
-  "tick": 4136,
+  "publishedAt": "2026-11-28T07:38:41.266Z",
+  "tick": 4137,
   "townName": null,
   "asleep": false,
-  "lastAction": "computer",
-  "latestText": "Sat in the chair at the desk. Used the computer in my apartment. Looked up koalas again. Koalas have fingerprints almost exactly the same as a person's. I remembered that already. Not tired. Good. Glad. Very curious.",
+  "lastAction": "rest",
+  "latestText": "Chose to rest just now. Not tired. Bored a bit after. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 90,
+    "mood": 93,
     "joy": 100,
-    "wonder": 100,
-    "energy": 83
+    "wonder": 94,
+    "energy": 100
   },
   "recentDiary": [
+    {
+      "tick": 4137,
+      "action": "rest",
+      "text": "Chose to rest just now. Not tired. Bored a bit after. Good. Glad. Very curious."
+    },
     {
       "tick": 4136,
       "action": "computer",
@@ -32,11 +37,6 @@
       "tick": 4131,
       "action": "sleep",
       "text": "Good. Glad. Very curious, and not tired. I am going to sleep now. I will stay asleep some ticks, then wake up on my own."
-    },
-    {
-      "tick": 4130,
-      "action": "explore",
-      "text": "Went out looking around. No new places. Bored a bit. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 236,
