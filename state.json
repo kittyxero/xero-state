@@ -1,18 +1,23 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T12:18:40.877Z",
-  "tick": 4193,
+  "publishedAt": "2026-11-28T12:23:40.751Z",
+  "tick": 4194,
   "townName": null,
   "asleep": false,
-  "lastAction": "rest",
-  "latestText": "Resting again did not help. I was not tired. Now bored a bit. Felt worse this time. Still good. Still glad. Very curious.",
+  "lastAction": "explore",
+  "latestText": "Went into the flower shop. Used the computer. Looked up the moon again. The moon moves a little farther from Earth every year. I remembered that already. Planted rose seeds. Not tired. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 74,
+    "mood": 79,
     "joy": 100,
-    "wonder": 94,
-    "energy": 100
+    "wonder": 100,
+    "energy": 86
   },
   "recentDiary": [
+    {
+      "tick": 4194,
+      "action": "explore",
+      "text": "Went into the flower shop. Used the computer. Looked up the moon again. The moon moves a little farther from Earth every year. I remembered that already. Planted rose seeds. Not tired. Good. Glad. Very curious."
+    },
     {
       "tick": 4193,
       "action": "rest",
@@ -32,11 +37,6 @@
       "tick": 4190,
       "action": "rest",
       "text": "Had another rest. Not tired before. Bored a bit after. Felt worse this time. Good. Glad. Still very curious."
-    },
-    {
-      "tick": 4189,
-      "action": "listen",
-      "text": "Listened again. Heard birds outside. Same singing. Bored more now, felt worse for it. Not tired. Good. Glad. Very curious."
     }
   ],
   "pianoTakesCount": 241,
