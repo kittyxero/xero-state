@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "publishedAt": "2026-11-28T02:27:22.584Z",
-  "tick": 4075,
+  "publishedAt": "2026-11-28T02:33:28.094Z",
+  "tick": 4076,
   "townName": null,
   "asleep": true,
   "lastAction": "sleep",
   "latestText": "Went to sleep. I will stay asleep for a bit and wake up on my own. Not tired now. Good. Glad. Very curious.",
   "feelings": {
-    "mood": 86,
-    "joy": 98,
-    "wonder": 97,
+    "mood": 83,
+    "joy": 93,
+    "wonder": 91,
     "energy": 100
   },
   "recentDiary": [
